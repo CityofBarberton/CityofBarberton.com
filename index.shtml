@@ -166,15 +166,11 @@
 				<div class="span12 text-center">
 					<a href="https://www.facebook.com/pages/City-of-Barberton/321987684506398" class="nouline pwide">
 						<i class="icon-facebook-sign icon-2x"></i>
-					</a>
-					<a href="https://twitter.com/BarbertonCity" class="nouline pwide">
+					</a><a href="https://twitter.com/BarbertonCity" class="nouline pwide">
 						<i class="icon-twitter-sign icon-2x"></i>
-					</a>
-					<!--
-					<a href="https://github.com/CityofBarberton" class="nouline pwide">
+					</a><a href="https://github.com/CityofBarberton" class="nouline pwide">
 						<i class="icon-github-sign icon-2x"></i>
 					</a>
-					-->
 				</div>
 			</div>
 		</div>
