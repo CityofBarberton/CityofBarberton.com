@@ -1,0 +1,32 @@
+<!--#include virtual="/oc/lib/includes/head.html" -->
+	<div class="container contain-main">
+		<div class="row-fluid">
+			<div class="span9">
+				<div class="page-header"><h3>Barberton Utilities Online Bill Pay</h3></div>
+				<p>
+					There is a $2.00 online processing fee for all credit card payments. We accept Visa, MasterCard, and Discover. Please be careful entering payment information and amounts. Once a payment is made online, the payment is final.
+				</p><p>
+					IMPORTANT NOTICE:  Any payments received after 4:00 PM will not be posted to your account until 4:00 PM the following business day.
+				</p><p>
+					If you are the owner of a rental property and wish to sign up for Online Bill Access for your rental property/properties, please call or email to sign up. Contact Online Customer Service at 330-861-7143 or email at <a href="customercare@cityofbarberton.com">customercare@cityofbarberton.com</a> and they will assist you with the registration.
+				</p><p>
+					Questions about Online Bill Access or to report technical problems contact Online Customer Service at 330-861-7143 or at <a href="customercare@cityofbarberton.com">customercare@cityofbarberton.com</a>.
+				</p>
+				<div class="text-center">
+					<br>
+					<a class="btn btn-success" href="https://secure.go-concepts.com/egov2web/net/login.aspx?citykey=barberton"><i class="icon-credit-card"></i> Continue to Online Bill Pay</a>
+					<br>
+				</div>
+			</div>
+
+			<div class="span3">
+				<div class="thumbnail">
+					<div class="caption">
+						<a class="btn" href="https://docs.google.com/file/d/0B8DEfGLr7vyWOENyOEVkVjFXdXc/edit?usp=sharing"><i class="icon-envelope"></i> Online Bill Pay Tutorial</a>
+					</div>
+				</div>
+			</div>
+			
+		</div>
+	</div>
+<!--#include virtual="/oc/lib/includes/foot.html" -->

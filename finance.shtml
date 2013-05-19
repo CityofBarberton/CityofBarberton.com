@@ -1,0 +1,43 @@
+<!--#include virtual="/oc/lib/includes/head.html" -->
+	<div class="container contain-main">
+		<div class="row-fluid">
+			<div class="span9">
+				<div class="page-header"><h3>Barberton Finance Department</h3></div>
+				<p>
+					Management of the Finance Department is the responsibility of the Finance Director. In the City of Barberton, the Finance Director is an elected position, serving a term of four years. The Finance Department is responsible for keeping the financial records of the City, maintaining an accurate listing of all properties owned by the City, investing and disbursing all monies of the City, issuing debt and assisting the Mayor and Council in the preparation of estimates, budgets and other financial matters. In addition, the Finance Department is also responsible for various general accounting procedures including financial reporting, budgetary reporting, payroll, accounts payable and accounts receivable.
+				</p><p>
+					<a class="btn" href="https://drive.google.com/folderview?id=0B8DEfGLr7vyWQlVuUHVwLXFtc00&usp=sharing"><i class="icon-folder-open-alt"></i> Budgets</a>
+				</p>
+			</div>
+			<div class="span3">
+				<div class="thumbnail">
+					<div class="caption">
+						<h4>Raymond E. Flickinger, Jr <br><small>Director</small></h4>
+						<address>
+							104 3rd Street NW<br>
+							Barberton, OH 44203<br>
+							(330) 848-6775<br>
+							Fax: (330) 848-6725
+						</address><p>
+							Accounts Payable<br>
+							(330) 861-7146
+						</p><p>
+							Business Hours:<br>
+							8 am - 4:30 pm
+						</p>
+						<a class="btn" href="mailto:finance@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
+					</div>
+				</div>
+				<br>
+				<div class="thumbnail">
+					<div class="caption">
+							<strong>Income Tax Division</strong><br>
+							(800) 223-6317
+						</p>
+						<a class="btn" href="income_tax.shtml">Income Tax Page</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+<!--#include virtual="/oc/lib/includes/foot.html" -->

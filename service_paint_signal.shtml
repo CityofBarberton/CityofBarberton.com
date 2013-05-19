@@ -1,0 +1,31 @@
+<!--#include virtual="/oc/lib/includes/head.html" -->
+	<div class="container contain-main">
+		<div class="row-fluid">
+			<div class="span9">
+				<div class="page-header"><h3>Barberton Paint &amp; Signal Office</h3></div>
+				<p>
+					The Paint/Signal Office consists of three full-time employees who are responsible for painting all roads, traffic signs and other signs that are posted on or near roads around the city. In addition, the Paint/Signal Office is also responsible for implementing and maintaining city owned traffic signals, city owned outdoor lighting around the city. The Paint/Signal Office reports to the Director of Public Service.
+				</p>
+				
+				<br>
+				<h4>Phone Numbers</h4>
+				<!--#include virtual="/oc/lib/includes/contact_service_signal.html" -->
+			</div>
+			<div class="span3">
+				<div class="thumbnail">
+					<div class="caption">
+						<h4>Tom Jackson <br><small>Superintendant</small></h4>
+						<address>
+							677 Brady Ave<br>
+							Barberton, OH 44203<br>
+							Signal: (330) 848-6742<br>
+							Paint: (330) 848-6743<br>
+							Fax: (330) 848-6663
+						</address>
+						<a class="btn" href="mailto:service@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+<!--#include virtual="/oc/lib/includes/foot.html" -->

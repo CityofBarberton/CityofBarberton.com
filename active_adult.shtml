@@ -1,0 +1,65 @@
+<!--#include virtual="/oc/lib/includes/head.html" -->
+	<div class="container contain-main">
+		<div class="row-fluid">
+			<div class="span9">
+				<div class="page-header"><h3>Active Adult Center</h3></div>
+				<p>
+					Active Adult Center Programs provide recreational and educational opportunities and services to meet the needs and improve the quality of life for all older adults. The City of Barberton operates an Active Adult Center in an effort to provide senior adults with various recreational opportunities. The staffing for the Active Adult Center consists of one full-time employee and several part-time employees. The costs of operations are paid from the proceeds of a trust and are accounted for as an agency fund. Active Adult Center employees report to the Director of Parks &amp; Recreation.
+				</p><p>
+					Membership is only $20 per year for Barberton residents and $25 per year for non-residents.
+				</p>
+				<div id="myCarousel" class="carousel slide">
+					<ol class="carousel-indicators">
+						<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+						<li data-target="#myCarousel" data-slide-to="1"></li>
+						<li data-target="#myCarousel" data-slide-to="2"></li>
+						<li data-target="#myCarousel" data-slide-to="3"></li>
+						<li data-target="#myCarousel" data-slide-to="4"></li>
+						<li data-target="#myCarousel" data-slide-to="5"></li>
+					</ol>
+					<!-- Carousel items -->
+					<div class="carousel-inner">
+						<div class="active item">
+							<img src="img/aac/1400x800_a.jpg">
+						</div>
+						<div class="item">
+							<img src="img/aac/1400x800_b.jpg">
+						</div>
+						<div class="item">
+							<img src="img/aac/1400x800_c.jpg">
+						</div>
+						<div class="item">
+							<img src="img/aac/1400x800_d.jpg">
+						</div>
+						<div class="item">
+							<img src="img/aac/1400x800_e.jpg">
+						</div>
+						<div class="item">
+							<img src="img/aac/1400x800_f.jpg">
+						</div>
+					</div>
+					<!-- Carousel nav -->
+					<a class="carousel-control left" href="#myCarousel" data-slide="prev">&lsaquo;</a>
+					<a class="carousel-control right" href="#myCarousel" data-slide="next">&rsaquo;</a>
+				</div>
+			</div>
+			<div class="span3">
+				<div class="thumbnail">
+					<div class="caption">
+						<h4>Shane McAvinew <br><small>Director</small></h4>
+						<address>
+							500 W Hopocan Ave<br>
+							Barberton, OH 44203<br>
+							(330) 848-6739<br>
+							Fax: (330) 745-3841
+						</address><p>
+							Business Hours<br>
+							8:30 a.m. - 4:30 p.m.
+						</p>
+						<a class="btn" href="mailto:parks@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+<!--#include virtual="/oc/lib/includes/foot.html" -->

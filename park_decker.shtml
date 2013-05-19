@@ -1,0 +1,16 @@
+<!--#include virtual="/oc/lib/includes/head.html" -->
+	<div class="container contain-main">
+		<div class="row-fluid">
+			<div class="span6">
+				<div class="page-header"><h3>Decker Park</h3></div>
+				<p>
+					Decker Park is a large park on the west side of Barberton with just over 6 acres of greenspace.  The park includes a large pavilion with picnic tables and electric accessibility.  The park also has bathrooms, basketball court, baseball field, playground equipment and a spray feature that runs in the summers.  There is a parking lot near the pavilion with 15 parking spots and a smaller lot near the basketball court with 5 spaces.
+				</p>
+			</div>
+			
+			<div class="span6">
+				<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Decker+Park,+Barberton,+OH&amp;aq=0&amp;oq=Decker+Park,+Barberton,+OH&amp;sll=41.023152,-81.611831&amp;sspn=0.008208,0.016394&amp;ie=UTF8&amp;hq=Decker+Park,+Barberton,+OH&amp;t=m&amp;ll=41.023147,-81.611836&amp;spn=0.006295,0.006295&amp;output=embed"></iframe><br /><small><a href="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Decker+Park,+Barberton,+OH&amp;aq=0&amp;oq=Decker+Park,+Barberton,+OH&amp;sll=41.023152,-81.611831&amp;sspn=0.008208,0.016394&amp;ie=UTF8&amp;hq=Decker+Park,+Barberton,+OH&amp;t=m&amp;ll=41.023147,-81.611836&amp;spn=0.006295,0.006295" style="color:#0000FF;text-align:left">View Larger Map</a></small>
+			</div>
+		</div>
+	</div>
+<!--#include virtual="/oc/lib/includes/foot.html" -->

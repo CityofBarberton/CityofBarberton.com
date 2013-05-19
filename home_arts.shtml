@@ -1,0 +1,27 @@
+<!--#include virtual="/oc/lib/includes/head.html" -->
+	<div class="container contain-main">
+		<div class="row-fluid">
+			<div class="span12">
+				<div class="page-header"><h3>Entertainment, arts, and more</h3></div>
+				<p>
+					Barberton boasts numerous amenities that enhance the quality of life for all of our residents. These amenities include:
+				</p><ul>
+					<li><a href="parks_parks.shtml">16 neighborhood parks</a>, four of which are supervised in the summer.</li>
+					<li>4 all-weather tennis courts</li>
+					<li>summer and winter <a href="parks_programs.shtml">adult and youth recreation programs</a>, adult softball leagues, and youth sports assocaitions</li>
+					<li>the <a href="http://www.magicaltheatre.org/">Magical Theatre Company</a>, one of only six resident children’s theatres in the country</li>
+					<li>the <a href="parks_events.shtml">Lake Anna Gazebo summer concert series</a></li>
+					<li>unique downtown shopping</li>
+					<li>the annual <a href="beautification_mum.shtml">Mum festival</a>, <a href="http://www.barbertoncherryblossom.com/">Cherry Blossom Festival</a> and other special events.</li>
+					<li>Barberton residents also have easy access to other nearby sports and cultural attractions.</li>
+				</ul><p>
+					The University of Akron’s <a href="http://www.ejthomashall.com/">E.J. Thomas Center for the Performing Arts</a> is home to the <a href="http://www.akronsymphony.org/">Akron Symphony Orchestra</a>. <a href="http://en.wikipedia.org/wiki/Blossom_Music_Center">Blossom Music Center</a>, located in Cuyahoga Falls, is the summer home of the <a href="http://www.clevelandorchestra.com/">Cleveland Orchestra</a> and offers a variety of summer entertainment concerts and programs. And the newly remodeled <a href="http://akronartmuseum.org/">Akron Art Museum</a> is known throughout the country for its collection of 19th and 20th century American art and photography.
+				</p><p>
+					Fans of professional sports are within an hour’s drive of seeing the Cleveland Indians, Cavaliers and Browns; Akron is also home to the <a href="en.wikipedia.org/wiki/Akron_Aeros">Akron Aeros</a> minor league baseball team.
+				</p><p>
+					Nature lovers can enjoy hikes throughout the <a href="http://www.nps.gov/cuva/index.htm">Cuyahoga Valley National Park</a> or any one of the numerous regional <a href="http://www.summitmetroparks.org/">Metro Parks</a>, including the <a href="http://www.summitmetroparks.org/parksandtrails/TowpathTrail.aspx">Towpath trail</a>.
+				</p>
+			</div>
+		</div>
+	</div>
+<!--#include virtual="/oc/lib/includes/foot.html" -->

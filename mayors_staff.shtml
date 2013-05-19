@@ -1,0 +1,304 @@
+<!--#include virtual="/oc/lib/includes/head.html" -->
+	<div class="container contain-main">
+		<div class="row-fluid">
+			<div class="span12">
+				<div class="page-header"><h3>The Mayor's Staff</h3></div>
+										
+					<div class="row-fluid">
+						<div class="span3">
+							<img class="img-rounded" src="img/staff/palmer.jpg">
+						</div>
+						<div class="span9">
+							<h4>Elwood Palmer <small>Director of Public Service since 1999</small></h4>
+							<div class="tabbable tabs-left">
+							  <ul id="servTabs" class="nav nav-tabs">
+							  	<li class="active">
+							  	  <a href="#servA" data-toggle="tab">Experience</a>
+							  	</li><li>
+							  	  <a href="#servB" data-toggle="tab">Education</a>
+							  	</li><li>
+							  	  <a href="#servC" data-toggle="tab">Community</a>
+							  	</li><li>
+							  	  <a href="#servD" data-toggle="tab">Personal</a>
+							  	</li>
+							  </ul>
+							  <div class="tab-content">
+							    <div class="tab-pane active" id="servA">
+										<ul class="unstyled">
+											<li>Distribution Manager - F.W. Albrecht Grocery Company - Akron, OH</li>
+											<li>Manufacturing Training Manager - Coca Cola Bottling Company - Charlotte, NC</li>
+											<li>Barberton Ward 3 Councilman</li>
+										</ul>
+							    </div>
+									<div class="tab-pane" id="servB">
+							    	<ul class="unstyled">
+											<li>Attended Michigan State University</li>
+											<li>Graduate of Ohio Technical College</li>
+											<li>Attended University of Akron - Mechanical Technology</li>
+											<li>Graduate of Barberton High School</li>
+										</ul>
+									</div>
+									<div class="tab-pane" id="servC">
+							    	<ul class="unstyled">
+											<li>Kiwanis Club of Barberton (Past President)</li>
+										</ul>
+									</div>
+									<div class="tab-pane" id="servD">
+							    	<ul class="unstyled">
+											<li>Married to Teresa for 39 years.</li>
+											<li>Five Children and Eight Grandchildren.</li>
+										</ul>
+									</div>
+							  </div>	
+							</div>
+						</div>
+					</div>
+					<!--
+					<hr>
+
+					<div class="row-fluid">
+						<div class="span3">
+							<img class="img-rounded" src="img/staff/council/blank.jpg">
+						</div>
+						<div class="span9">
+							<h4>TBD <small>Director of Public Safety</small></h4>
+							<div class="tabbable tabs-left">
+							  <ul id="servTabs" class="nav nav-tabs">
+							  	<li class="active">
+							  	  <a href="#safeA" data-toggle="tab">Experience</a>
+							  	</li><li>
+							  	  <a href="#safeB" data-toggle="tab">Education</a>
+							  	</li><li>
+							  	  <a href="#safeC" data-toggle="tab">Community</a>
+							  	</li><li>
+							  	  <a href="#safeD" data-toggle="tab">Personal</a>
+							  	</li>
+							  </ul>
+							  <div class="tab-content">
+							    <div class="tab-pane active" id="safeA">
+										<ul class="unstyled">
+											<li></li>
+										</ul>
+							    </div>
+									<div class="tab-pane" id="safeB">
+							    	<ul class="unstyled">
+											<li></li>
+										</ul>
+									</div>
+									<div class="tab-pane" id="safeC">
+							    	<ul class="unstyled">
+											<li></li>
+										</ul>
+									</div>
+									<div class="tab-pane" id="safeD">
+							    	<ul class="unstyled">
+											<li></li>
+										</ul>
+									</div>
+							  </div>	
+							</div>
+						</div>
+					</div>
+					-->
+					<hr>
+
+					<div class="row-fluid">
+						<div class="span3">
+							<img class="img-rounded" src="img/staff/bauschlinger.jpg">
+						</div>
+						<div class="span9">
+							<h4>Jim Bauschlinger <small>Building Commissioner since 1999</small></h4>
+							<div class="tabbable tabs-left">
+							  <ul id="servTabs" class="nav nav-tabs">
+							  	<li class="active">
+							  	  <a href="#bildA" data-toggle="tab">Experience</a>
+							  	</li><li>
+							  	  <a href="#bildB" data-toggle="tab">Education</a>
+							  	</li><li>
+							  	  <a href="#bildC" data-toggle="tab">Community</a>
+							  	</li><li>
+							  	  <a href="#bildD" data-toggle="tab">Personal</a>
+							  	</li>
+							  </ul>
+							  <div class="tab-content">
+							    <div class="tab-pane active" id="bildA">
+										<ul class="unstyled">
+											<li>21½ years working for the City</li>
+										</ul>
+							    </div>
+									<div class="tab-pane" id="bildB">
+							    	<ul class="unstyled">
+											<li>Graduate of University of Akron</li>
+											<li>Graduate of Barberton High School</li>
+										</ul>
+									</div>
+									<div class="tab-pane" id="bildC">
+							    	<ul class="unstyled">
+											<li>30 year involvement with Youth Sports in Barberton (Soccer, Football, Basketball & Baseball)</li>
+										</ul>
+									</div>
+									<div class="tab-pane" id="bildD">
+							    	<ul class="unstyled">
+											<li>Married to Becky for 30+ years.</li>
+											<li>Two Children.</li>
+										</ul>
+									</div>
+							  </div>	
+							</div>
+						</div>
+					</div>
+					
+					<hr>
+
+					<div class="row-fluid">
+						<div class="span3">
+							<img class="img-rounded" src="img/staff/stender.jpg">
+						</div>
+						<div class="span9">
+							<h4>Jim Stender <small>Director of Utilities since 2008</small></h4>
+							<div class="tabbable tabs-left">
+							  <ul id="servTabs" class="nav nav-tabs">
+							  	<li class="active">
+							  	  <a href="#utilA" data-toggle="tab">Experience</a>
+							  	</li><li>
+							  	  <a href="#utilB" data-toggle="tab">Education</a>
+							  	</li><li>
+							  	  <a href="#utilC" data-toggle="tab">Community</a>
+							  	</li><li>
+							  	  <a href="#utilD" data-toggle="tab">Personal</a>
+							  	</li>
+							  </ul>
+							  <div class="tab-content">
+							    <div class="tab-pane active" id="utilA">
+										<ul class="unstyled">
+											<li>Project Director - Westinghouse - Pittsburgh, PA</li>
+											<li>Consulting/Engineering for Major Corporations</li>
+										</ul>
+							    </div>
+									<div class="tab-pane" id="utilB">
+							    	<ul class="unstyled">
+											<li>Case Western Reserve University - MBA Finance</li>
+											<li>Baldwin-Wallace College - Certificate in Project Management</li>
+											<li>University of Akron - BS in Chemical Engineering</li>
+											<li>Graduate of Barberton High School</li>
+										</ul>
+									</div>
+									<div class="tab-pane" id="utilC">
+							    	<ul class="unstyled">
+											<li>Board Member, Barberton Community Development Corporation</li>
+											<li>Member and Past Chair of the American Institute of Chemical Engineers</li>
+										</ul>
+									</div>
+									<div class="tab-pane" id="utilD">
+							    	<ul class="unstyled">
+											<li>Married to Sharman.</li>
+											<li>Two Children.</li>
+										</ul>
+									</div>
+							  </div>	
+							</div>
+						</div>
+					</div>
+					
+					<hr>
+
+					<div class="row-fluid">
+						<div class="span3">
+							<img class="img-rounded" src="img/staff/mcfadden.jpg">
+						</div>
+						<div class="span9">
+							<h4>Melissa McFadden <small>Administrative Coordinator to the Mayor since 2012</small></h4>
+							<div class="tabbable tabs-left">
+							  <ul id="servTabs" class="nav nav-tabs">
+							  	<li class="active">
+							  	  <a href="#admnA" data-toggle="tab">Experience</a>
+							  	</li><li>
+							  	  <a href="#admnB" data-toggle="tab">Education</a>
+							  	</li><li>
+							  	  <a href="#admnC" data-toggle="tab">Community</a>
+							  	</li><li>
+							  	  <a href="#admnD" data-toggle="tab">Personal</a>
+							  	</li>
+							  </ul>
+							  <div class="tab-content">
+							    <div class="tab-pane active" id="admnA">
+										<ul class="unstyled">
+											<li>Executive Assistant - Formworks Systems - Akron, OH</li>
+											<li>Inside Sales - Waco Scaffolding & Equipment - Cleveland, OH</li>
+											<li>Office Manager - Safway Formworks - Stow, OH</li>
+										</ul>
+							    </div>
+									<div class="tab-pane" id="admnB">
+							    	<ul class="unstyled">
+											<li>Stark State College - currently attending</li>
+											<li>Wooster Business College</li>
+										</ul>
+									</div>
+									<div class="tab-pane" id="admnC">
+							    	<ul class="unstyled">
+											<li>Member Phi theta Kappa</li>
+										</ul>
+									</div>
+									<div class="tab-pane" id="admnD">
+							    	<ul class="unstyled">
+											<li>Daughter - Krystle</li>
+											<li>Dog- Mya</li>
+										</ul>
+									</div>
+							  </div>	
+							</div>
+						</div>
+					</div>
+					<!--
+					<hr>
+
+					<div class="row-fluid">
+						<div class="span3">
+							<img class="img-rounded" src="img/staff/fox.jpg">
+						</div>
+						<div class="span9">
+							<h4>Renee Fox <small>Personnel Coordinator since 2008, Civil Service Secretary since 2006</small></h4>
+							<div class="tabbable tabs-left">
+							  <ul id="servTabs" class="nav nav-tabs">
+							  	<li>
+							  	  <a href="#civsA" data-toggle="tab">Experience</a>
+							  	</li><li>
+							  	  <a href="#civsB" data-toggle="tab">Education</a>
+							  	</li><li class="active">
+							  	  <a href="#civsC" data-toggle="tab">Community</a>
+							  	</li><li>
+							  	  <a href="#civsD" data-toggle="tab">Personal</a>
+							  	</li>
+							  </ul>
+							  <div class="tab-content">
+							    <div class="tab-pane" id="civsA">
+										<ul class="unstyled">
+											<li></li>
+										</ul>
+							    </div>
+									<div class="tab-pane" id="civsB">
+							    	<ul class="unstyled">
+											<li>Graduate of Barberton High School</li>
+										</ul>
+									</div>
+									<div class="tab-pane active" id="civsC">
+							    	<ul class="unstyled">
+											<li>Member, Magic City Kiwanis</li>
+											<li>Officer, Barberton PTA</li>
+										</ul>
+									</div>
+									<div class="tab-pane" id="civsD">
+							    	<ul class="unstyled">
+											<li>Married to Brad for 20+ years.</li>
+											<li>Three Children.</li>
+										</ul>
+									</div>
+							  </div>	
+							</div>
+						</div>
+					</div>
+					-->
+			</div>
+		</div>
+	</div>
+<!--#include virtual="/oc/lib/includes/foot.html" -->

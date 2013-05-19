@@ -1,0 +1,30 @@
+<!--#include virtual="/oc/lib/includes/head.html" -->
+	<div class="container contain-main">
+		<div class="row-fluid">
+			<div class="span12">
+				<div class="page-header"><h3>David E. Fish <small>Judge of the Barberton Municipal Court District</small></h3></div>
+			</div>
+		</div>	
+		<div class="row-fluid">			
+			<div class="row-fluid">
+				<div class="span3">
+					<img class="img-rounded" src="img/staff/fish.jpg">
+				</div>
+				<div class="span9">
+					<p>
+						Judge David Fish was elected Judge of the Barberton Municipal Court in November 2007.
+						He previously served 16 years as Criminal Prosecutor for Green, Copley, Barberton, Norton, Coventry, New Franklin and Clinton in the Barberton Municipal Court.
+						Judge Fish also served 15 years as Criminal Prosecutor for Norton in Norton Mayor’s Court.
+						Judge Fish also taught as an Adjunct Professor for the University of Akron, teaching “Criminal Evidence and Legal Process” from 2001-2007.
+					</p><p>
+						Judge Fish was a founding member of The Summit County Domestic Violence Coalition, serving as its president from 2005-2008.
+						He is a member and Foundation Fellow of the Akron Bar Association.
+						Judge Fish received his Bachelor of Arts degree from Tulane University, New Orleans, Louisiana, double majoring in Political Science and Public Policy.
+						He received his Juris Doctorate in 1984 from the University of Akron School of Law.
+						He was admitted to the practice of law in the State of Ohio in 1984
+					</p>
+				</div>
+			</div>
+		</div>
+	</div>
+<!--#include virtual="/oc/lib/includes/foot.html" -->

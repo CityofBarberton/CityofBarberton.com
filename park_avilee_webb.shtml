@@ -1,0 +1,16 @@
+<!--#include virtual="/oc/lib/includes/head.html" -->
+	<div class="container contain-main">
+		<div class="row-fluid">
+			<div class="span6">
+				<div class="page-header"><h3>Avilee Webb Park</h3></div>
+				<p>
+					Avilee Webb is a beautiful park located on Elson Ave. on the east side of Barberton.  The park boasts 5.3 acres of land including a newer pavilion with a men’s and women’s bathroom.  This park offers the residents three basketball courts, a baseball field, swing sets and a small playground.  The pavilion is heavily used throughout the summer month by both residents and park staff for the park play program. In the middle of the summer, the park play program averages over 30 children a day.
+				</p>
+			</div>
+			
+			<div class="span6">
+				<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Avilee+Webb+Park,+Barberton,+OH&amp;aq=0&amp;oq=Avilee+Webb+Park+barberton&amp;sll=40.996181,-81.599884&amp;sspn=0.008211,0.016394&amp;ie=UTF8&amp;hq=Avilee+Webb+Park,+Barberton,+OH&amp;t=m&amp;ll=40.996181,-81.599884&amp;spn=0.006295,0.006295&amp;output=embed"></iframe><br /><small><a href="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Avilee+Webb+Park,+Barberton,+OH&amp;aq=0&amp;oq=Avilee+Webb+Park+barberton&amp;sll=40.996181,-81.599884&amp;sspn=0.008211,0.016394&amp;ie=UTF8&amp;hq=Avilee+Webb+Park,+Barberton,+OH&amp;t=m&amp;ll=40.996181,-81.599884&amp;spn=0.006295,0.006295" style="color:#0000FF;text-align:left">View Larger Map</a></small>
+			</div>
+		</div>
+	</div>
+<!--#include virtual="/oc/lib/includes/foot.html" -->

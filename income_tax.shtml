@@ -1,0 +1,55 @@
+<!--#include virtual="/oc/lib/includes/head.html" -->
+	<div class="container contain-main">
+		<div class="row-fluid">
+			<div class="span9">
+				<div class="page-header"><h3>Barberton Income Tax</h3></div>
+				<p>
+					The City of Barberton income tax rate is currently 2%.
+				</p><p>
+					Income taxes for the City of Barberton are processed by CCA (Central Collection Agency) of Cleveland, Ohio. For all tax returns and registration forms, please go to <a href="www.ccatax.ci.cleveland.oh.us">www.ccatax.ci.cleveland.oh.us</a>.
+				</p><p>
+					Due to a change in state law, city income tax returns must now be filed by April 15th.
+				</p>
+				<h5>CCA Tax Payer Assistance Schedule</h5>
+				<ul>
+					<li>Thursday Jan 31, 2013 1:00p – 7:00p</li>
+					<li>Wednesday Feb 27, 2013 1:00p – 7:00p</li>
+					<li>Wednesday March 6, 2013 1:00p – 7:00p</li>
+					<li>Wednesday March 27, 2013 1:00p – 7:00p</li>
+					<li>Saturday April 6, 2013 9:00a – 1:00p</li>
+					<li>Monday April 15, 2013 1:00p – 7:00p</li>
+				</ul>
+				<p>Tax payer assistance is available at:</p>
+				<address>
+					Finance Department<br>
+					104 3rd St NW (basement)<br>
+					Barberton, OH 44203
+				</address>
+			</div>
+			<div class="span3">
+				<div class="thumbnail">
+					<div class="caption">
+						<h4>Central Collection Agency - Municipal Income Tax</h4>
+						<address>
+							205 W St Clair Ave<br>
+							Cleveland, OH 44113-1503<br>
+							(800) 223-6317<br>
+							(216) 664-2070<br>
+							Fax: (216) 420-8299
+						</address><p>
+							Office Hours:<br>
+							Mon-Fri 7:30 am - 4:30 pm
+						</p>
+						<a class="btn" href="http://www.ccatax.ci.cleveland.oh.us/?p=contact"><i class="icon-external-link"></i> CCA Website</a>
+					</div>
+				</div>
+				<br>
+				<div class="thumbnail">
+					<div class="caption">
+						<a class="btn" href="http://www.tax.ohio.gov/"><i class="icon-external-link"></i> Ohio Department of Taxation</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+<!--#include virtual="/oc/lib/includes/foot.html" -->

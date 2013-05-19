@@ -1,0 +1,192 @@
+<!--#include virtual="/oc/lib/includes/head.html" -->
+	<div class="container contain-main">
+		<div class="row-fluid">
+			<div class="span12">
+				<div class="page-header"><h3>Barberton Parks</h3></div>
+				<table class="table table-striped table-bordered table-parks">
+					<thead>
+						<tr>
+							<th></th>
+							<th>Play grounds</th>
+							<th>Spray grounds</th>
+							<th>Baseball fields</th>
+							<th>Soccer fields</th>
+							<th>Basketball courts</th>
+							<th>Tennis courts</th>
+							<th>Trails</th>
+							<th>Pavilion</th>
+							<th>Restrooms</th><!-- &times; -->
+						</tr>
+					</thead><tbody>
+						<tr>
+							<td class="nowrap"><a class="btn" href="park_anna_dean.shtml">Anna Dean</a></td>
+							<td></td><!-- play -->
+							<td></td><!-- spray -->
+							<td></td><!-- baseball -->
+							<td></td><!-- soccer -->
+							<td></td><!-- basketball -->
+							<td></td><!-- tennis -->
+							<td>&times;</td><!-- trails -->
+							<td></td><!-- pavilion -->
+							<td></td><!-- restroom -->
+						</tr><tr>
+							<td class="nowrap"><a class="btn" href="park_avilee_webb.shtml">Avilee Webb</a></td>
+							<td>&times;</td><!-- play -->
+							<td></td><!-- spray -->
+							<td>&times;</td><!-- baseball -->
+							<td></td><!-- soccer -->
+							<td>2 lighted</td><!-- basketball -->
+							<td></td><!-- tennis -->
+							<td></td><!-- trails -->
+							<td>&times;</td><!-- pavilion -->
+							<td>&times;</td><!-- restroom -->
+						</tr><tr>
+							<td class="nowrap"><a class="btn" href="park_breitenstine.shtml">Breitenstine</a></td>
+							<td>&times;</td><!-- play -->
+							<td></td><!-- spray -->
+							<td>&times;</td><!-- baseball -->
+							<td></td><!-- soccer -->
+							<td>&times;</td><!-- basketball -->
+							<td>&times;</td><!-- tennis -->
+							<td></td><!-- trails -->
+							<td></td><!-- pavilion -->
+							<td>&times;</td><!-- restroom -->
+						</tr><tr>
+							<td class="nowrap"><a class="btn" href="park_carl_harter.shtml">Carl J. Harter</a></td>
+							<td>&times;</td><!-- play -->
+							<td></td><!-- spray -->
+							<td></td><!-- baseball -->
+							<td></td><!-- soccer -->
+							<td>&times;</td><!-- basketball -->
+							<td></td><!-- tennis -->
+							<td></td><!-- trails -->
+							<td></td><!-- pavilion -->
+							<td></td><!-- restroom -->
+						</tr><tr>
+							<td class="nowrap"><a class="btn" href="park_college.shtml">College</a></td>
+							<td>&times;</td><!-- play -->
+							<td></td><!-- spray -->
+							<td></td><!-- baseball -->
+							<td></td><!-- soccer -->
+							<td></td><!-- basketball -->
+							<td></td><!-- tennis -->
+							<td></td><!-- trails -->
+							<td></td><!-- pavilion -->
+							<td>&times;</td><!-- restroom -->
+						</tr><tr>
+							<td class="nowrap"><a class="btn" href="park_conrad.shtml">Conrad</a></td>
+							<td>&times;</td><!-- play -->
+							<td></td><!-- spray -->
+							<td></td><!-- baseball -->
+							<td></td><!-- soccer -->
+							<td></td><!-- basketball -->
+							<td></td><!-- tennis -->
+							<td></td><!-- trails -->
+							<td></td><!-- pavilion -->
+							<td></td><!-- restroom -->
+						</tr><tr>
+							<td class="nowrap"><a class="btn" href="park_crisman.shtml">Crisman</a></td>
+							<td></td><!-- play -->
+							<td></td><!-- spray -->
+							<td>&times;</td><!-- baseball -->
+							<td></td><!-- soccer -->
+							<td>&times;</td><!-- basketball -->
+							<td>&times;</td><!-- tennis -->
+							<td></td><!-- trails -->
+							<td>&times;</td><!-- pavilion -->
+							<td>&times;</td><!-- restroom -->
+						</tr><tr>
+							<td class="nowrap"><a class="btn" href="park_decker.shtml">Decker</a></td>
+							<td>&times;</td><!-- play -->
+							<td>&times;</td><!-- spray -->
+							<td>2</td><!-- baseball -->
+							<td></td><!-- soccer -->
+							<td>&times;</td><!-- basketball -->
+							<td></td><!-- tennis -->
+							<td></td><!-- trails -->
+							<td>&times;</td><!-- pavilion -->
+							<td>&times;</td><!-- restroom -->
+						</tr><tr>
+							<td class="nowrap"><a class="btn" href="park_edgewood.shtml">Edgewood</a></td>
+							<td>&times;</td><!-- play -->
+							<td>&times;</td><!-- spray -->
+							<td>&times;</td><!-- baseball -->
+							<td></td><!-- soccer -->
+							<td>&times;</td><!-- basketball -->
+							<td>lighted</td><!-- tennis -->
+							<td>&times;</td><!-- trails -->
+							<td>&times;</td><!-- pavilion -->
+							<td>&times;</td><!-- restroom -->
+						</tr><tr>
+							<td class="nowrap"><a class="btn" href="park_lake_anna.shtml">Lake Anna</a></td>
+							<td></td><!-- play -->
+							<td></td><!-- spray -->
+							<td></td><!-- baseball -->
+							<td></td><!-- soccer -->
+							<td></td><!-- basketball -->
+							<td></td><!-- tennis -->
+							<td></td><!-- trails -->
+							<td>&times;</td><!-- pavilion -->
+							<td>&times;</td><!-- restroom -->
+						</tr><tr>
+							<td class="nowrap"><a class="btn" href="park_mccafferty.shtml">McCafferty</a></td>
+							<td>&times;</td><!-- play -->
+							<td></td><!-- spray -->
+							<td>&times;</td><!-- baseball -->
+							<td></td><!-- soccer -->
+							<td>&times;</td><!-- basketball -->
+							<td></td><!-- tennis -->
+							<td></td><!-- trails -->
+							<td>&times;</td><!-- pavilion -->
+							<td>&times;</td><!-- restroom -->
+						</tr><tr>
+							<td class="nowrap"><a class="btn" href="park_newton.shtml">Newton</a></td>
+							<td>&times;</td><!-- play -->
+							<td></td><!-- spray -->
+							<td></td><!-- baseball -->
+							<td>&times;</td><!-- soccer -->
+							<td>&times;</td><!-- basketball -->
+							<td></td><!-- tennis -->
+							<td></td><!-- trails -->
+							<td>&times;</td><!-- pavilion -->
+							<td>&times;</td><!-- restroom -->
+						</tr><tr>
+							<td class="nowrap"><a class="btn" href="park_portage.shtml">Portage</a></td>
+							<td></td><!-- play -->
+							<td></td><!-- spray -->
+							<td></td><!-- baseball -->
+							<td></td><!-- soccer -->
+							<td></td><!-- basketball -->
+							<td></td><!-- tennis -->
+							<td></td><!-- trails -->
+							<td></td><!-- pavilion -->
+							<td></td><!-- restroom -->
+						</tr><tr>
+							<td class="nowrap"><a class="btn" href="park_tuscora.shtml">Tuscora</a></td>
+							<td>&times;</td><!-- play -->
+							<td></td><!-- spray -->
+							<td>2</td><!-- baseball -->
+							<td></td><!-- soccer -->
+							<td>&times;</td><!-- basketball -->
+							<td>&times;</td><!-- tennis -->
+							<td></td><!-- trails -->
+							<td>&times;</td><!-- pavilion -->
+							<td>&times;</td><!-- restroom -->
+						</tr><tr>
+							<td class="nowrap"><a class="btn" href="park_waltz.shtml">Waltz</a></td>
+							<td>&times;</td><!-- play -->
+							<td></td><!-- spray -->
+							<td></td><!-- baseball -->
+							<td></td><!-- soccer -->
+							<td>&times;</td><!-- basketball -->
+							<td></td><!-- tennis -->
+							<td></td><!-- trails -->
+							<td></td><!-- pavilion -->
+							<td></td><!-- restroom -->
+						</tr>
+					</tbody>
+				</table>
+			</div>
+		</div>
+	</div>
+<!--#include virtual="/oc/lib/includes/foot.html" -->

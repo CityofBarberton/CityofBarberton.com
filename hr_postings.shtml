@@ -1,0 +1,18 @@
+<!--#include virtual="/oc/lib/includes/head.html" -->
+	<div class="container contain-main">
+		<div class="row-fluid">
+			<div class="span12">
+				<h4>Current Exam Notices/Job Openings</h4>
+				<ul>
+					<li>none</li>
+				</ul>
+				
+				<h4>Current Job Openings</h4>
+				<ul>
+					<li>none</li>
+				</ul>
+				
+			</div>
+		</div>
+	</div>
+<!--#include virtual="/oc/lib/includes/foot.html" -->

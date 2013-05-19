@@ -1,0 +1,52 @@
+<!--#include virtual="/oc/lib/includes/head.html" -->
+	<div class="container contain-main">
+		<div class="row-fluid">
+			<div class="span9">
+				<div class="page-header"><h3>Barberton Fire Department</h3></div>
+				<img src="img/depts/BFD_Emblem.jpg" style="width:160px" class="img-rounded pull-right">
+				<p>
+					According to the City Charter, the Fire Department administratively falls within the Department of Public Safety. The Fire Chief is the head of the Fire Department and is appointed by and reports to the Director of Public Safety.  With approximately 46 full-time employees and an operating budget of approximately $4.8 million, the Fire Department is the second largest department within the City. The Fire Department’s primary responsibilities include fire suppression, prevention, investigation, education, code enforcement, rescue, hazardous materials mitigation and emergency medical services for the citizens and visitors of the City of Barberton.
+				</p>
+				
+				<h4>Mission Statement</h4>
+				<p>
+					Our mission is to be responsive to the needs of our customers by providing prompt, professional services essential to the health, safety and well being of the community.
+				</p>
+				
+				<h4>Vision Statement</h4>
+				<p>
+					We will strive to become a fire service leader in the delivery of the highest level of care to the people we serve by utilizing a team of highly trained, dedicated professionals and state of the art resources.
+				</p>
+				
+				<div class="alert alert-block alert-error">
+					<h4>Open Burning</h4>
+					Open burning is restricted by the Ohio Revised Code (<a href="http://codes.ohio.gov/orc/1503.18">1503.18 Regarding Kindled Fires</a>) and local city <a href="https://docs.google.com/file/d/0B8DEfGLr7vyWZm42bXJ0TkQxS2s/edit?usp=sharing">ordinance</a>.
+				</div>
+				
+				<h4>Phone Numbers</h4>
+				<!--#include virtual="/oc/lib/includes/contact_fire.html" -->
+			</div>
+			<div class="span3">
+				<div class="thumbnail">
+					<div class="caption">
+						<h4>Kim Baldwin <br><small>Chief</small></h4>
+						<strong>Station #1:</strong>
+						<address>
+							580 Wooster Rd. West<br>
+							Barberton, OH 44203<br>
+							(330) 848-6732<br>
+							Fax: (330) 745-3369
+						</address>
+						<strong>Station #1:</strong>
+						<address>
+							93 East State Street<br>
+							Barberton, OH 44203<br>
+							(330) 861-5223
+						</address>
+						<a class="btn" href="mailto:fire@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+<!--#include virtual="/oc/lib/includes/foot.html" -->

@@ -1,0 +1,36 @@
+<!--#include virtual="/oc/lib/includes/head.html" -->
+	<div class="container contain-main">
+		<div class="row-fluid">
+			<div class="span9">
+				<div class="page-header"><h3>Barberton Beautification Department</h3></div>
+				<p>
+					The Beautification Fund accounts for revenues received from Federal and State grants, grants from the Barberton Community Foundation, and donations. These monies are then required to be used for various beautification projects throughout the city. Examples of typical beautification projects include the annual Mum-Fest and the Christmas lighting display at Lake Anna. The Program Managers are the head of the Beautification Division and are appointed by the Director of Public Service. Within the City of Barberton, the Program Manager positions are part-time positions.
+				</p>
+				
+				<br>
+				<h4>Phone Numbers</h4>
+				<!--#include virtual="/oc/lib/includes/contact_service_beauty.html" -->
+			</div>
+			<div class="span3">
+				<div class="thumbnail">
+					<div class="caption">
+						<h4>Lisa McLean <br><small>Coordinator</small></h4>
+						<address>
+							500 W Hopocan Ave<br>
+							Barberton, OH 44203<br>
+							(330) 848-6653<br>
+							Fax: (330) 745-3841
+						</address>
+						<a class="btn" href="mailto:beautification@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
+					</div>
+				</div>
+				<br>
+				<div class="thumbnail">
+					<div class="caption">
+						<a class="btn" href="beautification_mum.shtml">Mum Festival</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+<!--#include virtual="/oc/lib/includes/foot.html" -->

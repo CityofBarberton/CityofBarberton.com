@@ -1,0 +1,66 @@
+<!--#include virtual="/oc/lib/includes/head.html" -->
+	<div class="container contain-main">
+		<div class="row-fluid">
+			<div class="span9">
+				
+				<div id="myCarousel" class="carousel slide">
+					<ol class="carousel-indicators">
+						<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+						<li data-target="#myCarousel" data-slide-to="1"></li>
+						<li data-target="#myCarousel" data-slide-to="2"></li>
+						<li data-target="#myCarousel" data-slide-to="3"></li>
+						<li data-target="#myCarousel" data-slide-to="4"></li>
+						<li data-target="#myCarousel" data-slide-to="5"></li>
+						<li data-target="#myCarousel" data-slide-to="6"></li>
+						<li data-target="#myCarousel" data-slide-to="7"></li>
+					</ol>
+					<!-- Carousel items -->
+					<div class="carousel-inner">
+						<div class="active item">
+							<img src="img/parks/1400x800_programs_a.jpg">
+						</div>
+						<div class="item">
+							<img src="img/parks/1400x800_programs_b.jpg">
+						</div>
+						<div class="item">
+							<img src="img/parks/1400x800_programs_c.jpg">
+						</div>
+						<div class="item">
+							<img src="img/parks/1400x800_programs_d.jpg">
+						</div>
+						<div class="item">
+							<img src="img/parks/1400x800_programs_e.jpg">
+						</div>
+						<div class="item">
+							<img src="img/parks/1400x800_programs_f.jpg">
+						</div>
+						<div class="item">
+							<img src="img/parks/1400x800_programs_g.jpg">
+						</div>
+						<div class="item">
+							<img src="img/parks/1400x800_programs_h.jpg">
+						</div>
+					</div>
+					<!-- Carousel nav -->
+					<a class="carousel-control left" href="#myCarousel" data-slide="prev">&lsaquo;</a>
+					<a class="carousel-control right" href="#myCarousel" data-slide="next">&rsaquo;</a>
+				</div>
+			</div>
+							
+			<div class="span3">
+				<div class="thumbnail">
+					<div class="caption">
+						<h4>Barberton Parks Programs</h4>
+						<address>
+							500 W Hopocan Ave<br>
+							Barberton, OH 44203<br>
+							(330) 848-6739<br>
+							Fax: (330) 745-3841
+						</address>
+						<a class="btn" href="mailto:parks@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+<!--#include virtual="/oc/lib/includes/foot.html" -->

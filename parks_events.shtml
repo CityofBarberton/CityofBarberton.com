@@ -1,0 +1,77 @@
+<!--#include virtual="/oc/lib/includes/head.html" -->
+	<div class="container contain-main">
+		<div class="row-fluid">
+			<div class="span9">
+				
+				<div id="myCarousel" class="carousel slide">
+					<ol class="carousel-indicators">
+						<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+						<li data-target="#myCarousel" data-slide-to="1"></li>
+						<li data-target="#myCarousel" data-slide-to="2"></li>
+						<li data-target="#myCarousel" data-slide-to="3"></li>
+						<li data-target="#myCarousel" data-slide-to="4"></li>
+						<li data-target="#myCarousel" data-slide-to="5"></li>
+						<li data-target="#myCarousel" data-slide-to="6"></li>
+						<li data-target="#myCarousel" data-slide-to="7"></li>
+					</ol>
+					<!-- Carousel items -->
+					<div class="carousel-inner">
+						<div class="active item">
+							<img src="img/parks/1400x800_events_a.jpg">
+						</div>
+						<div class="item">
+							<img src="img/parks/1400x800_events_b.jpg">
+						</div>
+						<div class="item">
+							<img src="img/parks/1400x800_events_c.jpg">
+						</div>
+						<div class="item">
+							<img src="img/parks/1400x800_events_d.jpg">
+						</div>
+						<div class="item">
+							<img src="img/parks/1400x800_events_e.jpg">
+						</div>
+						<div class="item">
+							<img src="img/parks/1400x800_events_f.jpg">
+						</div>
+						<div class="item">
+							<img src="img/parks/1400x800_events_g.jpg">
+						</div>
+						<div class="item">
+							<img src="img/parks/1400x800_events_h.jpg">
+						</div>
+					</div>
+					<!-- Carousel nav -->
+					<a class="carousel-control left" href="#myCarousel" data-slide="prev">&lsaquo;</a>
+					<a class="carousel-control right" href="#myCarousel" data-slide="next">&rsaquo;</a>
+				</div>
+				
+				<h4>Upcoming Events</h4>
+				<div class="gcal-agenda">
+					<iframe src="https://www.google.com/calendar/embed?showTitle=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=400&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=o7t942qbqsfvv6o56qtgrdbekk%40group.calendar.google.com&amp;color=%235229A3&amp;src=gaguk9r89act7mfjdkri8c1rco%40group.calendar.google.com&amp;color=%23125A12&amp;ctz=America%2FNew_York" style=" border-width:0 " width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+				</div>
+			</div>
+			
+			<div class="span3">
+				<div class="thumbnail">
+					<div class="caption">
+						<h4>Barberton Parks Events</h4>
+						<address>
+							500 W Hopocan Ave<br>
+							Barberton, OH 44203<br>
+							(330) 848-6739<br>
+							Fax: (330) 745-3841
+						</address>
+						<a class="btn" href="mailto:parks@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
+					</div>
+				</div>
+				<br>
+				<div class="thumbnail">
+					<div class="caption">
+						<a class="btn" href="https://docs.google.com/file/d/0B8DEfGLr7vyWdVNRbElRaVlxa2M/edit?usp=sharing"><i class="icon-folder-open-alt"></i> Forms and Documents</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+<!--#include virtual="/oc/lib/includes/foot.html" -->

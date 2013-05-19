@@ -1,0 +1,107 @@
+<!--#include virtual="/oc/lib/includes/head.html" -->
+	<div class="container contain-main">
+		<div class="row-fluid">
+			<div class="span9">
+				<!--
+				<div class="page-header"><h3>Barberton Mum Festival</h3></div>
+				<p>
+					<img src="img/mums/arial-01.jpg" class="img-rounded">
+				</p>
+				-->
+					
+				<div id="myCarousel" class="carousel slide">
+					<ol class="carousel-indicators">
+						<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+						<li data-target="#myCarousel" data-slide-to="1"></li>
+						<li data-target="#myCarousel" data-slide-to="2"></li>
+						<li data-target="#myCarousel" data-slide-to="3"></li>
+					</ol>
+					<!-- Carousel items -->
+					<div class="carousel-inner">
+						<div class="active item">
+							<img src="img/mums/1400x800_a.jpg">
+							<div class="carousel-caption">
+								<h4>23rd Annual Barberton Mum Fest</h4>
+								<p>Located at Barberton's beautiful Lake Anna Park there will be more than 20,000 mums in full bloom - over one million blooms - and <strong>ADMISSION IS FREE</strong></p>
+							</div>
+						</div>
+						<div class="item">
+							<img src="img/mums/1400x800_b.jpg">
+							<div class="carousel-caption">
+								<h4>Featuring Mums, Music and More</h4>
+								<p>Fabulous Food, FREE Musical Entertainment, Historical displays, Kid's Place, Water Ski Shows, Canoe Races, Arts and Crafts, and Sand Sculpting.</p>
+							</div>
+						</div>
+						<div class="item">
+							<img src="img/mums/1400x800_c.jpg">
+							<div class="carousel-caption">
+								<h4>Admission is Free</h4>
+								<p>Sponsored by City of Barberton Beautification Program. Mums donated by Aris Horticulture Services.</p>
+							</div>
+						</div>
+						<div class="item">
+							<img src="img/mums/1400x800_d.jpg">
+							<div class="carousel-caption">
+								<h4>The Mum Festival</h4>
+								<p>To celebrate the beauty of mums, showcase the City of Barberton, and provide fun for the whole family. 21 varieties of mums will be on display. Potted mums will be offered for sale..</p>
+							</div>
+						</div>
+					</div>
+					<!-- Carousel nav -->
+					<a class="carousel-control left" href="#myCarousel" data-slide="prev">&lsaquo;</a>
+					<a class="carousel-control right" href="#myCarousel" data-slide="next">&rsaquo;</a>
+				</div>
+				
+				<p>
+					<strong>BARBERTON MUM FEST</strong> to feature Mums, Music and More; Annual festival to be held September 28th and 29th in Barberton, Ohio.
+				</p><p>
+					Lake Anna Park will explode with color as 20,000 chrysanthemums create over a million mum blooms in a rainbow of color at the twenty-second annual MUM FEST 2013 on Saturday and Sunday, September 28th and 29th.
+				</p><p>
+					The dazzling floral display will provide a brilliant backdrop for a weekend filled with FREE family entertainment, historic views of Barberton, arts and crafts, gardening tips, and fabulous food.
+				</p><p>
+					MUM FEST 2013 will include water ski shows, canoe races on Lake Anna, musical entertainment, historical displays, unique food vendors, sand sculpting and children's activities.
+				</p><p>
+					Admission to the Mum Fest is FREE. The chrysanthemums, some twenty-one (21) varieties in all, are donated by Aris Horticulture Services, located in Barberton, Ohio. Aris Horticulture Services, formerly known as Yoder Brothers, is a leading grower of high quality ornamental plant products. The mums are featured in colorful collage displays. In addition to the mum gardens, are garden mum hanging baskets and a floral arch of garden mums.
+				</p><p>
+					MUM FEST 2013 is a cooperative effort involving the City of Barberton Beautification Program and Aris Horticulture Services.
+				</p>
+			</div>
+			<div class="span3">
+				<div class="thumbnail">
+					<div class="caption">
+						<h4>Barberton Mum Fest <small>Lisa McLean, Chairperson</small></h4>
+						<address>
+							500 W Hopocan Ave<br>
+							Barberton, OH 44203<br>
+							(330) 848-6653<br>
+							Fax: (330) 745-3841
+						</address>
+						<a class="btn" href="mailto:lmclean@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
+					</div>
+				</div>
+				<br>
+				<div class="thumbnail">
+					<div class="caption">
+						<p>
+							<strong>When:</strong><br>
+							September 28 &amp; 29<br>
+							10:00 am - 6:00 pm<br>
+							<br>
+							<strong>Where:</strong><br>
+						</p>
+						<a href="park_lake_anna.shtml">Laka Anna Park</a>
+					</div>
+				</div>
+				<br>
+				<div class="thumbnail">
+					<div class="caption">
+						<p>
+							<a class="btn" href="beautification_mum_craftv.shtml">Craft Vendors</a>
+						</p>
+						<a class="btn" href="beautification_mum_comv.shtml">Commercial Vendors</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+<!--#include virtual="/oc/lib/includes/foot.html" -->

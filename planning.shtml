@@ -1,0 +1,60 @@
+<!--#include virtual="/oc/lib/includes/head.html" -->
+	<div class="container contain-main">
+		<div class="row-fluid">
+			<div class="span9">
+				<div class="page-header"><h3>Barberton Planning Department</h3></div>
+				<p>
+					To implement the City's Comprehensive Plan, promote positive community and economic development within the City of Barberton and provide excellent customer service.
+				</p><p>
+					City Charter establishes a five member Planning Commission. All of the members of the Planning Commission are appointed by the Mayor with confirmation from city Council. The City Charter also calls for the Planning Commission to appoint a Director of City Planning. The Planning Division is responsible for planning and providing regulations relating to the platting of all lands within the city, making regulations as to the manner in which streets and other public ways shall be graded and improved as well as regulating the manner and extent to which water, sewer, and other utility mains, piping or other facilities shall be installed. Additionally, the Planning Division also engages in and maintains the strategic and capital plans for the city.
+				</p><p>
+					<a class="btn" href="https://docs.google.com/file/d/0B8DEfGLr7vyWM1l3d0pWRGpmOFU/edit?usp=sharing"><i class="icon-file-alt"></i> Barberton Development Code</a>
+				</p>
+				
+				<br>
+				<h4>External Links</h4>
+				<ul>
+					<li><a href="http://www.bcdc.org/">Barberton Community Development Corporation <i class="icon-external-link"></i></a></li>
+					<li><a href="http://www.occd.org/">Ohio Conference of Community Development <i class="icon-external-link"></i></a></li>
+					<li><a href="http://www.odod.state.oh.us/cdd/ohcp/default.htm">Ohio Department of Development, Office of Housing and Community Partnerships <i class="icon-external-link"></i></a></li>
+					<li><a href="http://www.ndsohio.org/">Neighborhood Development Services <i class="icon-external-link"></i></a></li>
+					<li><a href="http://portal.hud.gov/portal/page/portal/HUD">Department of Housing and Urban Development <i class="icon-external-link"></i></a></li>
+					<li><a href="http://www.fairhousingadvocates.com/">Fair Housing Advocates Association <i class="icon-external-link"></i></a></li>
+					<li><a href="http://www.access.gpo.gov/davisbacon/">Davis-Bacon, Prevailing Wage Determinations <i class="icon-external-link"></i></a></li>
+					<li><a href="http://www.odod.state.oh.us/dmba/">Division of Minority Affairs <i class="icon-external-link"></i></a></li>
+					<li><a href="http://www.census.gov/">US Census Bureau <i class="icon-external-link"></i></a></li>
+					<li><a href="http://www.canalwayohio.com/maps/barberton/commercialdistrict.htm">Ohio & Erie Canal National Heritage Corridor  <i class="icon-external-link"></i></a></li>
+					<li><a href="http://www.epa.gov/lead/pubs/renovaterightbrochure.pdf">Protect Your Family from Lead - Renovate Right <i class="icon-external-link"></i></a></li>
+				</ul>
+			</div>
+			<div class="span3">
+				<div class="thumbnail">
+					<div class="caption">
+						<h4>Diane Sheridan <br><small>Director</small></h4>
+						<address>
+							576 W Park Ave<br>
+							Room 300 <br>
+							Barberton, OH 44203<br>
+							(330) 848-6729<br>
+							Fax: (330) 848-6649
+						</address><p>
+							Business Hours:<br> 
+							8 am - 4:30 pm<br>
+							Monday-Friday
+						</p>
+						<a class="btn" href="mailto:planning@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
+					</div>
+				</div>
+				<br>
+				<div class="thumbnail">
+					<div class="caption">
+						<p>
+							<a class="btn" href="https://drive.google.com/folderview?id=0B8DEfGLr7vyWeUFJSkkxWWY3VEk&usp=sharing"><i class="icon-folder-open-alt"></i> Forms &amp; Documents</a>
+						</p>
+						<a class="btn" href="https://drive.google.com/folderview?id=0B8DEfGLr7vyWTzROV25PVHRadDg&usp=sharing"><i class="icon-folder-open-alt"></i> Maps</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+<!--#include virtual="/oc/lib/includes/foot.html" -->

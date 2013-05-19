@@ -1,0 +1,16 @@
+<!--#include virtual="/oc/lib/includes/head.html" -->
+	<div class="container contain-main">
+		<div class="row-fluid">
+			<div class="span6">
+				<div class="page-header"><h3>College Park</h3></div>
+				<p>
+					College Park is a small park located on the east side of Barberton with just under an acre of park land. The Park resides at 270 Snyder Avenue. The park is used by children in the surrounding area throughout the year. The park was a previously a home of one of the city's wading pools but was removed in the winter of 2011. The park is in a residential area and offers a small play ground and is completely fenced.  Over the years, many of the residents have utilized Avilee Web Park over this location.
+				</p>
+			</div>
+			
+			<div class="span6">
+				<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=College+Park,+Barberton,+OH&amp;aq=0&amp;oq=Col+Park,+Barberton,+OH&amp;sll=41.037708,-81.578518&amp;sspn=0.008206,0.016394&amp;ie=UTF8&amp;hq=College+Park,+Barberton,+OH&amp;t=m&amp;ll=41.002438,-81.598863&amp;spn=0.006295,0.006295&amp;output=embed"></iframe><br /><small><a href="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=College+Park,+Barberton,+OH&amp;aq=0&amp;oq=Col+Park,+Barberton,+OH&amp;sll=41.037708,-81.578518&amp;sspn=0.008206,0.016394&amp;ie=UTF8&amp;hq=College+Park,+Barberton,+OH&amp;t=m&amp;ll=41.002438,-81.598863&amp;spn=0.006295,0.006295" style="color:#0000FF;text-align:left">View Larger Map</a></small>
+			</div>
+		</div>
+	</div>
+<!--#include virtual="/oc/lib/includes/foot.html" -->

@@ -1,0 +1,34 @@
+<!--#include virtual="/oc/lib/includes/head.html" -->
+	<div class="container contain-main">
+		<div class="row-fluid">
+			<div class="span9">
+				<div class="page-header"><h3>Barberton City Services</h3></div>
+				<p>
+					The Service Director is the head of the Department of Public Service and is appointed by the Mayor. According to the City Charter, the Service Director is the supervising authority responsible for the Building Inspection Division, the Engineering Division, the Streets Division and the Utility Division. Within these divisions, the Service Director is charged with the construction, improvement, repair and maintenance of streets, sidewalks, alleys, lanes, bridges; of water mains, pumps, systems, pipes, purification and filtration plants, as well as, the water distribution system; of sewers, sewage systems, drains, ditches, culverts, streams, watercourses; and of all public buildings and other public places belonging to the city or dedicated to public use.
+				</p>
+				
+				<br>
+				<h4>Phone Numbers</h4>
+				<!--#include virtual="/oc/lib/includes/contact_service.html" -->
+			</div>
+			<div class="span3">
+				<div class="thumbnail">
+					<div class="caption">
+						<h4>Elwood Palmer <br><small>Service Director</small></h4>
+						<address>
+							576 W Park Ave<br>
+							Room 100<br>
+							Barberton, OH 44203<br>
+							(330) 848-6717<br>
+							Fax: (330) 848-6663
+						</address><p>
+							Business Hours<br>
+							8 a.m. - 4:30 p.m.
+						</p>
+						<a class="btn" href="mailto:service@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+<!--#include virtual="/oc/lib/includes/foot.html" -->

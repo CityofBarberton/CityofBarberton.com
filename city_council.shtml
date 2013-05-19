@@ -1,0 +1,117 @@
+<!--#include virtual="/oc/lib/includes/head.html" -->
+	<div class="container contain-main">
+		<div class="row-fluid">
+			<div class="span9">
+				<div class="page-header"><h3>Barberton City Council</h3></div>
+				<p>
+					City Council consists of nine part-time members, six of whom are elected on a ward basis, two are elected at-large and one is elected as Council President. City Council persons are elected to four-year terms and are responsible for carrying out the legislative function of government. The Clerk of Council is a full-time position and is responsible for carrying out the administrative functions of City Council. These administrative functions include keeping and maintaining an accurate record of the proceedings of Council and of its committees, retaining and preserving all laws and ordinances of the City, as well as, other duties that Council may require.
+				</p>
+										
+				<div class="media thumbnail">
+					<img class="media-object img-rounded pull-left img-thumb" src="img/staff/council/blank.jpg">
+					<div class="caption">
+						<h5>Fred Maurer, President</h5>
+						<a class="btn" href="mailto:fmaurer@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
+					</div>
+				</div>
+			
+				<div class="media thumbnail">
+					<img class="media-object img-rounded pull-left img-thumb" src="img/staff/council/blank.jpg">
+					<div class="caption">
+						<h5>Renee Fox, Council Clerk</h5>
+						<a class="btn" href="mailto:smatuch@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
+					</div>
+				</div>
+			
+				<div class="media thumbnail">
+					<img class="media-object img-rounded pull-left img-thumb" src="img/staff/council/blank.jpg">
+					<div class="caption">
+						<h5>Michael Soyars, At-Large <small>Public Welfare &amp; Safety Committee Chair</small></h5>
+						<a class="btn" href="mailto:msoyars@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
+					</div>
+				</div>
+			
+				<div class="media thumbnail">
+					<img class="media-object img-rounded pull-left img-thumb" src="img/staff/council/blank.jpg">
+					<div class="caption">
+						<h5>Carla Debevec, At-Large <small>Rules, Marketing &amp; Development Committee Chair</small></h5>
+						<a class="btn" href="mailto:cdebevec@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
+					</div>
+				</div>
+			
+				<div class="media thumbnail">
+					<img class="media-object img-rounded pull-left img-thumb" src="img/staff/council/blank.jpg">
+					<div class="caption">
+						<h5>Gary Endres, Ward 1 <small>Planning, Annexation &amp; Codes Committee Chair</small></h5>
+						<a class="btn" href="mailto:gendres@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
+					</div>
+				</div>
+			
+				<div class="media thumbnail">
+					<img class="media-object img-rounded pull-left img-thumb" src="img/staff/council/blank.jpg">
+					<div class="caption">
+						<h5>John Lysenko, Ward 2 <small>Streets, Sidewalks &amp; Lighting Committee Chair</small></h5>
+						<a class="btn" href="mailto:jlysenko@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
+					</div>
+				</div>
+			
+				<div class="media thumbnail">
+					<img class="media-object img-rounded pull-left img-thumb" src="img/staff/council/blank.jpg">
+					<div class="caption">
+						<h5>John Wagner, Ward 3 <small>City Utilities Committee Chair</small></h5>
+						<a class="btn" href="mailto:jwagner@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
+					</div>
+				</div>
+			
+				<div class="media thumbnail">
+					<img class="media-object img-rounded pull-left img-thumb" src="img/staff/council/blank.jpg">
+					<div class="caption">
+						<h5>Craig Megyes, Ward 4 <small>City Properties, Parks &amp; Recreation Committee Chair</small></h5>
+						<a class="btn" href="mailto:cmegyes@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
+					</div>
+				</div>
+			
+				<div class="media thumbnail">
+					<img class="media-object img-rounded pull-left img-thumb" src="img/staff/council/blank.jpg">
+					<div class="caption">
+						<h5>Terry Avant, Ward 5 <small>Finance &amp; Personnel Committee Chair</small></h5>
+						<a class="btn" href="mailto:tavant@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
+					</div>
+				</div>
+			
+				<div class="media thumbnail">
+					<img class="media-object img-rounded pull-left img-thumb" src="img/staff/council/blank.jpg">
+					<div class="caption">
+						<h5>Carol Frey, Ward 6 <small>Environmental Health &amp; Social Services Committee Chair</small></h5>
+						<a class="btn" href="mailto:cfrey@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
+					</div>
+				</div>
+			</div>
+			
+			<div class="span3">
+				<div class="media thumbnail">
+					<div class="caption">
+						<h4>Renee Fox <br><small>Council Clerk</small></h4>
+						<address>
+							576 W Park Avenue<br>
+							Room 106<br>
+							Barberton, OH 44203<br>
+							(330) 848-6662<br>
+							Fax: (330) 861-7119
+						</address><p>
+							Business Hours:<br>
+							9 am – 5 pm Mon-Fri
+						</p>
+						<a class="btn" href="mailto:councilclerk@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
+					</div>
+				</div>
+				<br>
+				<div class="thumbnail">
+					<div class="caption">
+						<a class="btn" href="https://drive.google.com/folderview?id=0B8DEfGLr7vyWWlQ3bmtxZlZjSlk&usp=sharing"><i class="icon-folder-open-alt"></i> Council Documents</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+<!--#include virtual="/oc/lib/includes/foot.html" -->

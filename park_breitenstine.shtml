@@ -1,0 +1,16 @@
+<!--#include virtual="/oc/lib/includes/head.html" -->
+	<div class="container contain-main">
+		<div class="row-fluid">
+			<div class="span6">
+				<div class="page-header"><h3>Breitenstine Park</h3></div>
+				<p>
+					Breitenstine Park is one of Barberton's larger parks. The park is located on the southwest side of Barberton boasting 10 acres of land.  This park serves a primarily residential neighborhood with a scenic lake and a walking path, tennis courts, basketball courts, baseball field, restrooms and play features.  There is one parking lot with twenty spaces.
+				</p>
+			</div>
+			
+			<div class="span6">
+				<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Breitenstine+Park,+Barberton,+OH&amp;aq=0&amp;oq=Breitenstine+Park,+Barberton,+OH&amp;sll=41.003318,-81.578372&amp;sspn=0.00821,0.016394&amp;ie=UTF8&amp;hq=Breitenstine+Park,+Barberton,+OH&amp;t=m&amp;ll=40.990415,-81.645231&amp;spn=0.006295,0.006295&amp;output=embed"></iframe><br /><small><a href="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Breitenstine+Park,+Barberton,+OH&amp;aq=0&amp;oq=Breitenstine+Park,+Barberton,+OH&amp;sll=41.003318,-81.578372&amp;sspn=0.00821,0.016394&amp;ie=UTF8&amp;hq=Breitenstine+Park,+Barberton,+OH&amp;t=m&amp;ll=40.990415,-81.645231&amp;spn=0.006295,0.006295" style="color:#0000FF;text-align:left">View Larger Map</a></small>
+			</div>
+		</div>
+	</div>
+<!--#include virtual="/oc/lib/includes/foot.html" -->

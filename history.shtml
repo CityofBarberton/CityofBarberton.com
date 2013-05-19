@@ -1,0 +1,378 @@
+<!--#include virtual="/oc/lib/includes/head.html" -->
+	<div class="container contain-main">
+		<div class="row-fluid">
+			<div class="span12">
+				<div class="page-header"><h3>Barberton History</h3></div>
+				<p>
+					The city of Barberton has a history that is unique among Ohio cities. It was established in 1891, at the height of the state's industrial development, as a planned industrial community. Situated within easy reach of canal, river and railroad, the new town was located just seven miles southwest of Akron. Utilizing a natural glacial lake as its focal point, Barberton's founders laid out streets and lots for an attractive community of homes, churches, schools, and commercial buildings, and established many of the industries required to sustain it. A downtown developed, homes were constructed for businessmen and factory workers, churches and schools were built, and the city grew into an important industrial center of northeastern Ohio.
+				</p><p>
+					<a class="btn pull-right" href="history_tour.shtml">Take the self-guided walking tour »</a>
+				</p>
+			</div>
+		</div>
+		
+		<div class="row-fluid spacer">
+			<div class="span12">
+				<div class="tabbable tabs-left">
+				  <ul id="histTabs" class="nav nav-pills">
+				  	<li class="active">
+				  	  <a href="#histA" data-toggle="tab">1810-1890</a>
+				  	</li><li>
+				  	  <a href="#histB" data-toggle="tab">1891-1911</a>
+				  	</li><li>
+				  	  <a href="#histC" data-toggle="tab">1912-1929</a>
+				  	</li><li>
+				  	  <a href="#histD" data-toggle="tab">1930-1960</a>
+				  	</li><li>
+				  	  <a href="#histE" data-toggle="tab">1960-today</a>
+				  	</li>
+				  </ul>
+				  <div class="tab-content">
+				    <div class="tab-pane active" id="histA">
+				    	<h4>Part I: Before Barberton</h4>
+				    	<div class="span6" style="float:right;">
+					    	<div class="thumbnail">
+					    		<img src="img/history/00_c-b_farmhouse.jpg">
+					    		<div class="caption-small">
+					    			The land on which Barberton sits today was undeveloped farmland in 1890.  This view shows Lake Anna in the background and the Cahow-Brotsman Farmhouse, still standing today on Wooster road North, in the foreground
+					    		</div>
+					    	</div>
+				    	</div>
+							<p>
+							Before Barberton was founded in 1891, the land on which the town was built was rural farmland in Norton and Coventry Townships. These two townships comprised the southern boundary line of the Connecticut Western Reserve, an area known for its fertile soil and unique topographical features, which was settled following the Treaty of Greenville in 1795. The land which was to become Barberton was watered by the Tuscarawas River, which followed a westerly course through Coventry Township before turning south to form the border between Coventry and Norton. Wolf Creek and Hudson Run were other important Norton Township tributaries which drained into the Tuscarawas river. Significant to the future development of the land was a spring-fed, 18-acre lake which was located in the southeastern part of Norton Township. This lake was often used for swimming in the years prior to Barberton's founding.
+							</p><p>
+							Attracted by the topography and soil, early settlers from New England and New York State bought large tracts of land to farm. The first permanent settlers in Coventry Township arrived about 1805, and the first arrivals in Norton Township were a few years later, in 1810. It was not until after the War of 1812, however, that the numbers of settlers to this area began to increase. One of these was Ezra Way, who came from Connecticut in 1817 and settled on 280 acres in the vicinity of Barberton today. For many years, the sparkling lake was known as Way's Lake.
+							</p><p>
+							A rich agricultural district occupied both sides of the Tuscarawas River. As in other rural townships, early settlements began to spring up at crossroads and on waterways. These were influenced both by a community need for churches and schools and by an economic need to process raw materials or ship agricultural products to available markets. Two such settlements were established in Norton and Coventry Townships from an early day. Both New Portage and Johnson's Corners are today a part of the city of Barberton.
+							</p>
+							
+							<h5>New Portage</h5>
+							<p>
+							An early Portage Path, one of three great portages in Ohio between Lake Erie and the Ohio River, was used by Indians and traders as a "carrying place" between the Cuyahoga and Tuscarawas Rivers. The eight-mile trail met the Tuscarawas to the west of Barberton in Coventry Township. At some point, likely after permanent white settlement of the area began, it became more practical from a commercial standpoint to divert from the original path to reach the place where the Tuscarawas River bends to head south. This "new portage" (located in the vicinity of Wooster Road North and State Street today) became the site of a village in 1817-18. The settlement of this site was largely influenced by William Laird when he established a primitive shipyard on the banks of the Tuscarawas in 1819. Laird had identified a need to ship surplus items, such as pork, salt, flour and whiskey, to outside market. His yard built flatboats on which products could be floated down the Tuscarawas, Muskingum, Ohio and Mississippi Rivers to New Orleans. In the days prior to the canal, this was a significant step in the development of the commerce of the area. For a short time, New Portage seemed destined to become an important town because of its great vocational advantages. A glass factory was established here in 1821, employing as many as eight, and the settlement also had a tavern, post office and general store.
+							</p><p>
+							After a few years, however, the glass factory failed and the opening of the Ohio &amp; Erie Canal in 1827 marked the end of commercial portaging. The fate of the settlement was very nearly sealed when an epidemic swept New Portage during construction of the canal in 1826-1827. It was not until years later that a second New Portage was established a little further downriver.
+							</p>
+							
+							<h5>Johnson's Corners</h5>
+							<p>
+							Two early routes through Norton Township formed the crossroads which created Johnson's Corners. The Cleveland-Massillon Road bisected the township from north to south, while the Wooster Road was an early stage coach route which connected Warren and Wooster. This early road does not precisely follow the route of Wooster Road in Barberton today, extending to the north rather than to the south of Lake Anna.
+							</p><p>
+							While New Portage developed as a result of its shipping advantages, Johnson's Corners was more typically a farming crossroads settlement. Originally settled in 1814, it was the location of the first school in Norton Township in 1818-19. The village was named for Thomas Johnson, who arrived here in 1822 and began building up the place. Using water power provided by Hudson Run, Johnson built a sawmill in 1823 and a gristmill in 1830, both first for the township. He also built a tavern and hotel on the northeast corner of the square in 1826-27. This was replaced by J.T. Price with a new hotel building in about 1890. This building, later owned by the Nash family for many years, still stands today on the site of the original 1827 tavern.
+							</p><p>
+							By 1874, when an atlas of Summit County was published, Johnson's Corners contained about 36 lots and extended both north and south on the Cleveland-Massillon Road (31st Street) and east and west on Wooster Road. Included in the village were the hotel, a blacksmith shop, two wagon shops, three general stores, a shoe store, a post office, printing office, two churches and a school. A steam saw mill was added in 1867 and the original grist mill continued to run.
+							</p>
+							
+							<h5>Ohio &amp; Erie Canal</h5>
+							<p>
+							An important event in the history of Summit County was the opening of the Ohio &amp; Erie Canal in 1827. Providing a direct shipping route to Lake Erie and the Ohio River, the canal had a major effect on the state's economy, taking it from near bankruptcy in 1820 to the third most economically prosperous state in the Union by 1840. In Summit County, the opening of the canal "caused quite a revolution in the business of the place," according to historian Perrin, writing in 1881. For example, Akron's emergence as a major grain milling center was considered a direct result of the canal.
+							</p><p>
+							In Coventry and Norton Townships, the canal followed the banks of the Tuscarawas River, a reliable source of water for the channel. A system of locks along the length of the canal, which was completed to the Ohio river in 1832, controlled the water levels through changes in topography. One of these locks was constructed at the mouth of Wolf Creek prior to 1827, with the waters of the creek used to feed the canal below the lock. It probably was not long before enterprising merchants located stores carrying groceries and boatman's supplies adjacent to the lock. Johnson's Corners likely benefited from the canal, as products form the village could be hauled to Wolf Creek Lock along Hudson Run Road.
+							</p>
+							
+							<h5>Railroads</h5>
+							<p>
+							Just as the canal had followed the Tuscarawas River through this area when it was built in 1826-27, the first railroad line to enter Norton Township in 1852 followed the route of the canal. With the advent of year-round rail transportation, the canal's importance as a transportation route began to decline. Nevertheless, it remained watered and was still used for shipping purposes until about 1913.
+							</p><p>
+							The first line to be completed through the area was the Cleveland, Mt. Vernon and Columbus Railroad, built in 1852. Later known as the Cleveland, Akron and Columbus Railway, this line eventually became part of the Pennsylvania Railroad. The second line was the Atlantic &amp; Great Western Railway, which was complete 12 years later in 1864. Known for many years as the New York, Pennsylvania &amp; Ohio, this line became part of the Erie Railroad. Both railroads followed the same route from Akron to New Portage, where they diverged to the west (Atlantic &amp; Great Western) and to the south along the canal (Cleveland, Mt. Vernon &amp; Columbus).
+							</p><p>
+							Probably knowing of the projected railroad line through this site, Jacob Welsh built a pottery at New Portage in 1850. Welsh used the Ohio &amp; Erie Canal to ship his ware until the railroad was completed. His investment was shortly followed by a tavern, stores, a school and churches. Both railroad lines constructed stations at this second New Portage to accommodate passengers and freight. A center of local activity was the Edwards Hotel, built at New Portage between 1850 and 1870 to cater to the railroad traffic. This hotel, which still stands, is said to be the site of meetings held by O.C. Barber and his associates regarding plans for the new town of Barberton. Even with this activity, however, New Portage remained a small village for many years, surrounded by farms.
+							</p>
+							<div class="span6" style="float:right;">
+					    	<div class="thumbnail">
+					    		<img src="img/history/01_merwin_shaw_farm.jpg">
+					    		<div class="caption-small">
+					    			The Merwin Shaw Farm, today located on 31st Street N.W. in Barberton, as it appeared in the 1874 Atlas of Summit County
+					    		</div>
+					    	</div>
+				    	</div>
+							<p>
+							Without a doubt, the railroad effected a greater change upon Norton and Coventry Townships than did the quieter canal with its towpaths and packet boats. While they may not have appreciated the noise and smoke, however, local farmers were likely pleased with the improved access to markets for their farm produce, which included wheat, oats, corn and livestock. In 1881, just ten years before Barberton was founded, the average farm in Norton Township was 72 acres. The 1874 Atlas shows several large farms, including a 125-acre cattle farm of Alvin D. Betz to the west of Wolf Creek and the 108-acre farm of Merwin Shaw on the Cleveland-Massillon Road. The Shaw Home, located on 31st Street, is an important survivor of the area's mid-19th century agricultural prosperity. A fine example of Western Reserve Creek Revival architecture, the house still retains many of its rural associations. Several other frame farmhouses from this period, typically with Italianate details, remain in the Johnson's Corners and New Portage areas. Originally occupying many acres, these homes are now part of later residential developments.
+							</p><p>
+							During the early 1880s, the area that would soon be transformed into a new town was still predominantly rural, with large tracts of farmland, a pleasant spring-fed lake at its center, grist and saw mills operating at Johnson's Corners, and good access to canal and railroad transportation at New Portage. And it was only a short distance from Akron, which had grown to become an important Ohio city.
+							</p>
+							
+							<h5>O.C. Barber</h5>
+							<p>
+							It was in this climate that Ohio Columbus Barber decided to locate a major new industry at New Portage in 1882. A well-known Akron industrialist, O.C. Barber had built his father's match company during the 1860s and 1870s into one of the largest match manufacturers in the United States. In 1881, his consolidation of a number of similar factories in the country under the Diamond Match Company name made him widely known as America's Match King. Interested in producing the boxes for his match business, Barber formed the Portage Strawboard Company, an enterprise which would have the Diamond Match Company as its major customer. From his vantage point, Barber could see the strategic advantages of locating his first factory five miles from Akron in the village of New Portage, with its location on the Ohio Canal and connection with the lines of the C, A &amp; C and NY, P &amp; O Railroads.
+							</p><p>
+							By 1882 Barber had purchased a portion of the former Van Hyning farm for construction of the New Portage Strawboard Company. The factory occupied 40 acres of land between the tow railroad lines in the vicinity of Wooster Road. By 1891, when the factory employed about 130, land to the south of Wooster Road was subdivided into 54 lots, most of which were owned by the Strawboard. The the north of Wooster Road, the 1891 Atlas shows that a neighborhood of more than 100 lots had been platted. (This residential area retains the name of Van Hyning today.) New Portage had been extended by 1891 to include the Strawboard factory and the residential plats associated with it.
+							</p><p>
+							Having become familiar with this area, Barber secured options on land further to the west of New Portage in 1888. His initial motive was a hope of finding natural gas that would make his strawboard factory more competitive. Finding not gas but extensive veins of salt beneath this land, he explored the possibility of a soda ash factory to be built on the site. But he was shortly forced to abandon this idea as his proposed methods for obtaining the salt had become outdated. This left Barber with approximately 550 acres of undeveloped farmland in Norton Township.
+							</p><p>
+							O.C. Barber was one of America's first industrialists in a modern sense. He realized early the value of mass production, mechanization, innovation, and long-term planning. By 1890, Barber was president of the Diamond Match Company and the American Strawboard Company, two manufacturing concerns of national significance. A wealthy man, he also was director or president of a number of lesser concerns which contributed to his industrial success. He had established a successful strawboard factory at New Portage, a little-known settlement outside of Akron. He was aware of the attractive transportation advantages of the place. And, he already had options on a substantial amount of land. Thus, the stage was set for the founding of Barberton in 1891.
+							</p>
+							
+							<ul class="pager">
+								<li class="next">
+									<a href="#histB" class="btn btn-link" onclick="$('#histTabs a[href=\'#histB\']').tab('show');">
+										Part II: Town Founding and Early Growth &rarr;
+									</a>
+								</li>
+							</ul>
+						</div>
+				    <div class="tab-pane" id="histB">
+				    	<h4>Part II: Town Founding and Early Growth</h4>
+							<p>
+							In January of 1890, O.C. Barber and three Akron associates purchased the 550 acres of farmland to the west of the Tuscarawas River with the intention of establishing a new manufacturing city. The three associates were attorney Charles Baird, Akron hardware merchant Albert T. Paige, and Diamond Match associate John K. Robinson. Barber had become familiar with the work of M.J. Alexander, a Pennsylvania man who had developed what was called a "magic formula" for turning farm land into thriving industrial communities. Alexander had successfully "boomed" the Pennsylvania towns of Jeannette and Charleroi in the 1880s by establishing industries on the land first, thereby creating a demand for housing and services. Purchasers of land in these new towns saw their property values greatly appreciate as the community developed and new industries came to town.
+							</p>
+							<div class="span6" style="float:right;">
+					    	<div class="thumbnail">
+					    		<img src="img/history/plan.jpg">
+					    		<div class="caption-small">
+					    			William A. Johnston's original layout for the town of Barberton (1891 Atlas of Summit County)
+					    		</div>
+					    	</div>
+				    	</div>
+							<p>
+							The Barberton Land and Improvement Company was organized in the Fall of 1890 with O.C. Barber at its head. Very shortly, Barber and Alexander brought another Pennsylvanian, William A. Johnston, to Norton Township to survey and lay out the new town. Johnston was the architect of Barberton's original plan, designing the layout of the community from the ground up. Fortunately for Johnston, the land held many attractions, not the least of which was the spring-fed lake located in the center of the tract.
+							</p><p>
+							The 550 acres were laid out as the new town of Barberton during the Fall and Winter of 1890 and 1891. Johnston reserved Lake Anna, which was named for Barber's daughter, as a 20-acre park in the center of the town. The surrounding 203 acres were subdivided into building lots, spreading back evenly from the lake on all sides, with a small extension to the north to connect the town with the State Road (Norton Avenue). The town's residential and business districts were to be located here, within the pleasant environment created by the lake. The streets fronting the lake were residential, while the second tier of streets (Tuscarawas Avenue, Second Street, Hopocan Avenue, and Seventh Street) had smaller lots designed for a more commercial orientation.
+							</p><p>
+							Encircling this land was the Barberton Belt Line, a rail line designed to provide access to the railroads and canal which bordered Barberton on the north and east. Beyond the Belt Line were 327 acres reserved for manufacturing sites, located at the city's outskirts but connected to all points via the railroad and canal. Ample land was set aside for industrial purposes, an indication of Barber's intention to make the community a manufacturing center of some note. As summit County historian Samuel Lane remarked in 1892, "With the Ohio Canal, the C A &amp; C, and the B &amp; O Railways on the east; and the NY, Penna &amp; Ohio Railway on the west and the fully equipped Belt Line traversing its entire circumference, the transportation facilities for the new city are simply perfect."
+							</p><p>
+							Central to the plan for Barberton was the balance that was desired between thriving industry, healthy commerce and quiet residential districts. Obviously, Barber and his associates were driven by a need to make the community profitable, by providing abundant land and transportation advantages for industry. Yet, they also were seeking to improve the quality of life found in manufacturing centers of the day. By the late 19th century, many industrial cities had frown in a disorganized fashion, with industry crowding out former residential or commercial neighborhoods. Industries in the new town of Barberton would have room to expand at the outskirts without encroaching upon the central part of the city, which would become the location of a pleasant residential and commercial district. It was not long, however, before the residential areas of Barberton needed room to grow and that space had to be found beyond the industrial circle.
+							</p><p>
+							Even as Johnston was laying out the town, O.C. Barber was beginning to build the industries which would place the community on a solid economic footing. The first to break ground in the new town was Barber's National Sewer Pipe Company, located where Magic city Shopping Center is today. Thought to be the largest manufacturer of its kind, the company was producing 200 tons of sewer pipe and employing 150 people by the end of 1891. Barber organized several other industries in the Fall of 1890 as well, serving as president of each. These included the Creedmore Cartridge Co., a manufacturer of ammunition and metallic cartridges; Barberton Whiteware Co., makers of granite whiteware; American Alumina Co., a producer of sulphate of alumina and aluminous cake; and the Stirling Boiler Co., a company which was relocated here from New Castle, Pennsylvania.
+							</p><p>
+							As these industries were building, the initial sale of lots in the new town of Barberton was being planned for May, 1891. Before a single lot was sold, evidence already pointed to the success of the new town. By April, 1891, two important industries were already in production (National Sewer Pipe and Stirling Boiler), the Belt Line Railroad was under construction, and Barber had organized the town's first bank, the Barberton Savings Bank Company. Already, the success of the plants was creating a demand for local accommodations. National Sewer Pipe constructed 30 small cottages to house some of its workers to the north of its plant, and the Stirling Boiler Co. built 10 houses off Stirling Avenue. (Neither group of worker houses has survived.) Hotel accommodations at New Portage proved insufficient to meet local demand, with the result that the National Hotel was built by the Sewer Pipe company in April, and the Cahow farmhouse, located across the street on today's Wooster Road, N., was converted to a boarding house.
+							</p><p>
+							Alexander and Johnston considered the five-day land sale a success, with nearly half of the 1,100 available building lots sold, totaling $165,000 worth of real estate. Among the buyers was attorney Edward A. Huene, who opted to take a change on the new town, as yet unformed. Huene later described what he saw upon arriving a Barberton for the sale of lots on May 6, 1891: "...a beautiful, level tract of lately farm land nestling in a plateau between low hills, with a small, crystal clear lake of symmetrical form in its center. The smell of last year's crops was hardly out of the air; the wheat stubble covering the blocks of lots on every hand had not yet lost its green and gold..."
+							</p>
+							<div class="span6" style="float:right;">
+					    	<div class="thumbnail">
+					    		<img src="img/history/02_ccc_building.jpg">
+					    	</div>
+				    	</div>
+							<p>
+							Just six months after the land sale, in November of 1891, the town of Barberton was beginning to take shape. Industries were operating, streets were being graded, and homes and businesses were being built. Added to the industries already in production or under construction were two new concerns, bringing the total to eight. Early industrial buildings in Barberton were typically two stories in height, constructed of brick, with gabled slate roofs and numerous tall windows. Architectural ornamentation was simple, but usually included corbelled brick at the roofline and raised piers. Probably the earliest remaining of the town's first industrial buildings is the former Creedmore Cartridge factory building, a nice example of this treatment.
+							</p><p>
+							As expected, the functioning industries brought residents to live in both New Portage and Barberton. By November, 1891, as many as 300 new homes had already been built, with a price ranging from $700 to $4,000. Many of these were built on speculation, with the intent of selling or renting the home to a factory worker and his family. These homes were typically built with balloon frame construction, allowing them to be put up fairly quickly. Many were 2 1/2 stories, with gable roofs, and vernacular Italianate features. More substantial homes were built for the emerging population of business men, managers and merchants who set up business in the town. These residences were located on the streets immediately fronting Lake Anna, seen as the most desirable residential location in the new community. Built of balloon frame or brick construction, these homes display elements of the Queen Anne and Colonial Revival styles popular during the 1890s and early 1900s.
+							</p><p>
+							The industries and emerging population in Barberton created a demand for businesses to locate in the new community. While the industries and homes were being built and occupied, Tuscarawas Avenue and Second Street began to develop as an L-shaped commercial district to the south and east of the lake.
+							</p><p>
+							Barberton's early downtown businesses were somewhat scattered, favoring corner locations in the nine-block-long district. Among the first to build was Benjamin F. Tracy, a straw buyer for the Strawboard factory, who constructed the three-story Tracy Block on Tuscarawas Avenue in 1891. Also built by November of that year was the three-story Moor &amp; St. John Block (demolished), and six two-story brick commercial buildings. These first business blocks were substantial; constructed of brick and two or three stories in height, they provide an illustration of their builder's confidence in the future of the the new town (as opposed to traditional "boom town" buildings which were constructed quickly to capture fleeting business). Designed in a similar vein to the industrial buildings of the period, these business blocks typically featured simple facades with decorative corbelled brickwork at the roofline. Two notable examples in addition to the Tracy Block are the buildings on the north corners of Second street and Lake Avenue, built in 1891 to house a tailor (219 Second Street, NW) and druggist (220 Second Street, NW).
+							</p>
+							
+							<h5>Early Growth</h5>
+							<p>
+							For a year following the initial sale of lots, the Barberton Land and Improvement Company continued to make improvements to ensure the success of the town. The land company graded and paved streets, established a Barberton Post Office, and built a local depot for the CA &amp; C Railroad. With a population that had increased to 1,800 (including approximately 500 residents of New Portage) by 1892, however, the land company could no longer provide for the needs of the citizenry. As a result, Barberton was incorporated as a village in the fall of 1892, allowing the community to set up a system of schools and municipal services. Barberton's first Central High School was built in 1893. In addition to the original town plat laid out by Johnston, the incorporated area included the village of New Portage as far as State Street and a small plat to the north and south of Wooster Road West as far as 23rd Street. This latter plat represented the beginnings of West Barberton.
+							</p><p>
+							Within only two years of its founding, Barberton faced a challenge when the Panic of 1893 caused a dramatic slow down in the economy. Some of the original plants in Barberton were casualties of the panic, including the Kirkham Art Time Company, American Alumina Co. and Creedmore Cartridge Co. Other industries survived the crisis, but with greatly reduced production. Real estate values in Barberton were flattened, and many investors became leery of the town's future. Aware that the economic foundations of his new town were badly shaken by the panic, Barber was unwilling to let the community wither and die. He made a crucial decision to move his Diamond Match Works from Akron to Barberton, ensuring the economic future of the community.
+							</p><p>
+							As president of the Diamond Match conglomerate, Barber had begun a program of modernization which included new plants in strategic locations. Important to his plan was the availability of water transportation for shipment of lumber. A new plant was built at Oswego, New York, followed by the new match works at Barberton in 1894. (Sources indicate that these two plants were similar in design.) Lumber was shipped from Michigan by lake to Cleveland, and then by canal to Barberton. The new factory was located on approximately 20 acres on the beltline and the canal, giving it excellent transportation advantages. Construction was completed in 1894 and the match works began operations 1895. This plant produced both matches and the machinery for making matches. By February of 1895, 2090 men and women were employed at Diamond Match in Barberton. While many of the buildings were destroyed, an outstanding grouping of Diamond Match buildings remains standing on South Fourth Street. Housing the company's Engineering Department, these buildings were used to design and produce the match machinery used by the company.
+							</p><p>
+							Barber was able to stimulate the town's economy by moving his match operations here in 1894. Barberton entered a boom period of development, growing so rapidly that it earned the nickname "the magic city." By 1900, Barberton's population had increased dramatically to 4,354. Workers coming to the still-new town had the option of renting or buying homes built by the Land Company and other investors, or buying a lot and building their own homes. New buildings and businesses continued to be added to the commercial district on Second Street and Tuscarawas Avenue. And, churches and schools were constructed to meet the religious and educational needs of the population. The town's first newspaper, the Barberton Leader, was established in 1894. The Barber Public Library was organized in the Whigham &amp; Schubert Block in downtown Barberton in 1898.
+							</p>
+							<div class="span6" style="float:right;">
+					    	<div class="thumbnail">
+					    		<img src="img/history/03_richberger.jpg">
+					    		<div class="caption-small">
+					    			The Queen Anne style is well-represented by this home at 221 Third Street in the Lake Anna neighborhood.  It was built in 1897 for Morris Richberger, a downtown clothing merchant
+					    		</div>
+					    	</div>
+				    	</div>
+							<p>
+							The neighborhood of choice in Barberton during the 1890s and early 1900s was the area surrounding Lake Anna. The beautiful lake and surrounding park provided an ideal location for attractive turn-of-the-century homes and churches. Barber and his associates had reserved the south side of the lake as the location for the Barberton Inn, planned from the beginning to be one of the finest hotels in the midwest. The Queen Anne-style inn opened with the great acclaim in 1895. Reaching great popularity during the 1890s, the fanciful Queen Anne was also the style of choice for many of the early homes which were built around the lake.
+							</p><p>
+							Examples of the Queen Anne style of residential architecture which remain today include the homes at 123 and 221 Third Street and 571 Lake Avenue. Typical features of the style include a varied roofline, turrets or bay windows, and use of decorative patterns in gables and wall surfaces. During the early 1900s, residential styles became more restrained, returning to a more balanced design that often had Colonial Revival features. The majority of the homes in this neighborhood were built before 1910, and many have elements of the Colonial Revival style. Notable examples in the Lake Anna area are 308 and 416 Sixth Street and 191 Third Street. Features shared by these buildings are porches with classical columns and front gables with brackets or modillions.
+							</p><p>
+							The streets fronting on Lake Anna, in particular, were built up by many of Barberton's notable business and professional men and their families during this early period. Included were attorneys, bankers, prominent merchants, and real estate developers. Not surprisingly, Barberton surveyor William Johnston built his Queen Anne house on the south side of Lake Anna (now the site of the Great Northern Savings Bank). Others significant in Barberton's early history included homes built for the town's first mayor, first postmaster, and first superintendent of schools. A small number of these homes were occupied by factory managers or superintendents, with the primary industry leaders most often living in neighboring Akron. Corner lots on Lake Anna were purchased by religious congregations during the land company sale in 1891 and church buildings were constructed shortly thereafter. Included were two early churches which remain in their original buildings today: the First United Brethren Church (Moore Memorial Church), dedicated in 1892; and First Methodist Episcopal Church (Lakeview United Methodist), dedicated in 1893. During the 1920s and 30s, two additional congregations built significant churches on Lake Anna.
+							</p><p>
+							Barberton was considered a large enough town in 1894 to be competitively sought as the location of a streetcar route from Akron to Wadsworth. The streetcar line built in that year followed Wooster Road northeast and southwest, but came directly through the downtown area on Second Street and Tuscarawas Avenue. In the days before the automobile, the streetcar enabled residents of New Portage and Johnson's Corners to easily visit downtown businesses. It also provided more options for housing, allowing workers to live even further from their factory jobs.
+							</p><p>
+							Experiencing the most rapid growth during the 1890s and early 1900s was the community's stock of working class housing. Barberton's factories were employing hundreds of men and women, who needed affordable homes within an easy walking distance or streetcar ride to work. Streets in Barberton's original plat and areas such as the Van Hyning neighborhood in New Portage were filled in with modest frame houses, often with gabled slate roofs, clapboard siding, and simple front porches. Sometimes, the house would have decorative features such as a carved wood brackets or raised hoodmolds over windows. These houses were generally located close together on small lots.
+							</p><p>
+							Up until the late 1890s, Barberton's residential development had generally been focused within the beltline railroad and in the area of New Portage. After about 1900, the community began to expand to the west of Wolf Creek, to the east of the Tuscarawas River, and to the north of the Erie Railroad as new plats were opened up for development.
+							</p><p>
+							West Barberton was the first to develop, influenced in a major way by the construction of the Columbia Chemical Company in this area in 1899. In 1898, efforts began to locate the new soda ash factory proposed by the Pittsburgh Plate Glass (PPG) Company in Barberton. Instrumental in attracting PPG to Barberton was William Johnston, the town planner who had maintained an active interest in the success of the community. The Baughman farm, located west of Wolf Creek and south of Wooster Road, was optioned as a location for the soda ash plant, which became the largest soda ash and caustic soda plant in the country after its opening in 1900.
+							</p><p>
+							The presence Columbia Chemical on the west side had an impact on the development of this neighborhood, as many of the plant workers resided here. In addition to homes, the West Barberton neighborhood developed small commercial nodes housing groceries and saloons which catered to the residents. Small groupings of commercial buildings remain in the vicinity of 14th, 15th and 16th streets. Directly opposite the plant on Wooster Road, a commercial strip of one- and two-story brick buildings were built to serve the west side neighborhood. As a result of its platting and early development, the portion of West Barberton to the north of Tuscarawas Avenue was the first area to be annexed to the incorporated village of Barberton in 1905.
+							</p><p>
+							At the same time that West Barberton was beginning to develop as a working class neighborhood with homes and businesses, real estate entrepreneurs were looking at the possibilities for development that lay to the east of the Tuscarawas River. Large tracts of farmland on the east side of the river were owned by Huston and Samuel Kepler, early farmers of this section who had not been willing to sell to Barber and his associates. The contrast between the growing village of Barberton on the west side of the river and the farmland to the east was apparently quite striking, as it was described in 1903: "Because Huston and Samuel Kepler held on to their farms as they did, the Town of Barberton was built up all along them, and their land continued to know the plow and the reaper, while stone's throw away were paved streets, business blocks, factories, street cars, schools, churches, banks and all of the activities of a city. The result is that north, south and west of the business section of Barberton there is street after street lines with homes and business places, while to the east there lie the broad sloping acres as much in the country now, apparently, as all the land the Magic city occupies was, a dozen years ago... The land rises gently in pretty, natural plateaus, from any one of which a magnificent view is obtained... One wonders that the land has not been built upon long ago. It is plainly among the most desirable in Barberton..."
+							</p><p>
+							In 1903, Barber and Johnston were finally successful in purchasing the Kepler farms and the East Barberton Land Company was formed. Johnston laid out East Barberton in a regular grid on the Samuel Kepler farm, bounded by Robinson Avenue on the south, Van Buren Avenue on the west, Huston Street on the north, and 5th Street on the east. In a 1906 brochure promoting sale of the nearly 900 building lots, Johnston noted that "its lots are wider than others by 5 to 10 feet, the location is ideal, shade trees are already growing, natural gas will be piped through every street, and nice homes already there will draw more." Important to the proposed development of East Barberton were plans to construct a viaduct on Tuscarawas Avenue over the railroad, canal and river.
+							</p>
+							<div class="span6" style="float:right;">
+					    	<div class="thumbnail">
+					    		<img src="img/history/04_barn_no1.jpg">
+					    		<div class="caption-small">
+					    			Barn No.1, built in 1909, is an outstanding example of the unique architectural character of O.C. Barber's Anna Dean Farm
+					    		</div>
+					    	</div>
+				    	</div>
+							<p>
+							To the south of the East Barberton allotment, O.C. Barber purchased a portion of the Huston Kepler farm. The 200-acre tract was the beginning of his famed Anna Dean Farm, an enterprise which would eventually encompass some 3,500 acres to the southeast of Barberton. About 1905, Barber retired from active participation in the Diamond Match Company and spent his retirement years in Barberton developing his experimental farm. His intent was to show that large-scale farming could be successfully conducted in much the same manner as a manufacturing concern. The magnificent Anna Dean farm buildings included a total of 23 brick buildings with red tile roofs and concrete trim. Of these only a few remain today: Barn No. 1, the Piggery, the Colt Barn, Brooder Barn, Poultry Office, and Heating Plant. His greenhouses, not gone, covered 12 acres. In 1911, just as the town he founded became a city, Barber was completing his palatial mansion on his property, where he would live the remainder of his life.
+							</p><p>
+							Barberton's industrial success was continuing during the early years of the 20th century as new factories were attracted to the growing community. A few years after Columbia Chemical was established, another of the town's planners, M.J. Alexander, was instrumental in organizing the Pittsburgh Valve and Fittings Company in Barberton. This plant was constructed in 1902 on 70 acres of former farmland to the north of the Erie Railroad.
+							</p><p>
+							By 1906, just 15 years after its founding, Barberton had grown into an important industrial center of northeastern Ohio. One of its founding industries, the Stirling Boiler Company, had just been purchased by the Babcock & Wilcox Company, which employed 1,500 in 1906. Other important industries in Barberton in that year included the Diamond Match Company (1,100 employees), Pittsburgh Valve & Fittings Co. (850 employees), Columbia Chemical Co. (450), and the American Sewer Pipe Co. (325). Barberton was touted as having the largest soda ash factory, largest sewer pipe factory, largest boiler factory, largest match factory, and largest valve factory in the United States in 1906. In addition to these mainstays, Barberton gained some rubber industries during this period which reflected its location near Akron. These included the Rubber Products Company, which occupied the old Creedmore Cartridge factory in 1906; the Portage Rubber Company, established in 1910; and the Electric Rubber Reclaiming Co., which occupied the old American Alumina plant in 1911. A significant industry added to Barberton in 1910 was the Ohio Insulator Company, located in the former Barberton Pottery plant.
+							</p><p>
+							Barberton offered the advantages of an established and thriving community. These included a school system with nine buildings, 12 churches of varying denominations, an opera house, street railways, three newspapers, free delivery system, three express companies, five building and loan agencies, two telephone companies, a free library, a fire station, and a variety of clubs and lodges. The community had access to four trunk line railroads (Baltimore &amp; Ohio, Erie, Pennsylvania, and New York Central), along with the Belt Line Railroad.
+							</p><p>
+							The 1910 census recorded Barberton's population as 9,410 and in January of 1911, Barberton became a city by proclamation. The town's corporate boundaries had been enlarged only slightly since 1892, and two new annexations were made in 1911: a strip of land containing 24th and 25th Streets in West Barberton and land to the north and east of State Street in North Barberton. Although beginning to develop, all of East Barberton still remained outside the city boundaries.
+							</p><p>
+							Twenty years after its founding, Barberton was robust industrial community which had grown rapidly, much like its founders and planners had hoped. The transportation and locational advantages of the town had attracted a variety of thriving industries which, in turn, brought a steady working population; businesses were locating in the downtown commercial district, accessible by street car and adjacent to residential areas; Lake Anna provided attractive parkland in the heart of the community; and attractive residential areas were being developed in many directions.
+							</p>
+							
+							<ul class="pager">
+								<li class="previous">
+									<a href="#histA" class="btn btn-link" onclick="$('#histTabs a[href=\'#histA\']').tab('show');">
+										&larr; Part I
+									</a>
+								</li>
+								<li class="next">
+									<a href="#histC" class="btn btn-link" onclick="$('#histTabs a[href=\'#histC\']').tab('show');">
+										Part III: Expansion and Growth to the Great Depression &rarr;
+									</a>
+								</li>
+							</ul>
+				    </div>
+				    <div class="tab-pane" id="histC">
+				    	<h4>Part III: Expansion and Growth to the Great Depression</h4>
+							<p>
+							During the 1910s and 1920s, Barberton experienced a period of substantial growth and physical expansion. Its development was enhanced by the continued success of its many diversified industries and by the introduction of some important new industrial concerns into the community. During the ten-year period from 1910 to 1920, Barberton's population increased 100 percent, reaching a total of 18.811 people by 1920. In 1930, the city's population numbered 23,934. Many of these new residents arrived from Eastern Europe, part of the vast wave of immigration to the U.S. that occurred during the early 20th century to parts of Ohio. Others came from other parts of the state or country seeking the opportunities for employment offered in Barberton.
+							</p><p>
+							As would be the case for years to come, Babcock &amp; Wilcox (B &amp; W) and the Diamond Match Company continued to be the leading employers in the community. The five brick buildings located at the B &amp; W plant in 1910 were increased to 13 buildings by 1915. Diamond Match had a large complex of factory buildings located on S. Fourth Street and S. Second Street in 1916. Also remaining strong were the two Pittsburgh-backed industries which had located in Barberton at the turn of the century. Columbia Chemical Company, located in a large complex to the south of Wooste rRoad West, added a pair of cooperage shops fronting on Wooster Road and began to develop its office complex on Columbia Court by 1916. The Pittsburgh Valve &amp; Fittings Company also remained a significant industry on the Erie Railroad on the city's north side.
+							</p><p>
+							Barberton attracted new industries during the period as well. O.C. Barber, interested in the uses of concrete products, built the O.C. Barber Concrete Company on Norton Avenue in 1914. This concrete block manufacturing facility still stands, with later additions. Barberton's rubber industry grew stronger with the introduction of the Seiberling Rubber company and Sun Rubber Company during the early 1920s. Seiberling Rubber was started in 1921 by the founders of Goodyear Tier &amp; Rubber, Frank and Charles Seiberling. It was located in the former Portage Rubber Company buildings on the north side of the Erie Railroad tracks. Sun Rubber was located on Fairview Avenue; its Art Deco style building from the late 1920s or 1930s remains today. Each of these factories had access via the Belt Line Railroad to the four trunk line railroads that served Barberton. Although the Ohio Canal ceased being used for transportation in about 1913, it remained important as a water source for several of Barberton's industries.
+							</p><p>
+							With active industries located along rail lines and water sources in a "belt" around the central part of the city and the population increasing rapidly, Barberton had nowhere to grow but in the areas lying outside this belt. Already, West Barberton was developing as a working class neighborhood with Columbia Chemical as the major employer of its residents. Working class housing was also being built in North and South Barberton, as streets continued to be platted in these areas. East Barberton, overlooking the river valley to the west, attracted about 50 residences to its hillside location by 1915. This number did not greatly increase until after the completion of the first Tuscarawas Avenue viaduct over the river, canal and railroad lines in 1919.
+							</p><p>
+							Not unexpectedly, development of these areas resulted in their annexation to the city of BArberton. Annexed areas during a major expansion of 1917 and 1918 included East Barberton, South Barberton, and a portion of North Barberton. Still outside of the city limits was the Anna Dean Farm to the south of Robinson Avenue. Hoping to attract buyers and residents, areas of South Barberton were labeled "Barberview" and "Barberside," while the section of East Barberton north of Huston Street was called "Grandview Heights." The remainder of West Barberton and the Johnson's Corners area were annexed to the city in 1929.
+							</p>
+							<div class="span6" style="float:right;">
+					    	<div class="thumbnail">
+					    		<img src="img/history/05_north_ave.jpg">
+					    		<div class="caption-small">
+					    			Norton Avenue in North Barberton provides a streetscape of Craftsman Bungalow and American Four Square houses built in the teens and twenties
+					    		</div>
+					    	</div>
+				    	</div>
+							<p>
+							Barberton's existing and new neighborhoods developed during the teens and twenties with vernacular housing stock that reflected the working class nature of the city's population. Quite commonly built were two-story frame dwellings with gable roofs and simple detailing, known as vernacular dwellings. These were literally built by the hundreds in each part of the city to accommodate the working class families which Barberton attracted. Also built in great numbers were the somewhat larger American Four Square houses of frame construction with hipped roofs. The Craftsman bungalow was also popular during the 1920s; usually built of frame, it features a broad front porch and second floor with dormer. Each of these house types was easily adapted to Barberton's small lots as well as to construction in wood, making it cheaper to build. On occasion, a brick or concrete block residence would make an appearance in Barberton's working class neighborhoods.
+							</p><p>
+							Because of Barberton's rapid growth during the early 20th century, this period of the city's history is well represented today not only by the residential districts that developed, but also by the many schools, churches, public parks, and neighborhood commercial centers that were built. Coinciding with the annexations of 1917 and 1918 was a building campaign which resulted in new school buildings to serve each part of the city. These included Central High School (1917) and four elementary schools in each quadrant of the city: Highland School, 1918 (west); Hazelwood School, 1919 (north); and Washington School, 1919 (south). The three neighborhood schools were all of a similar design and plan. A school for the east side neighborhood, Oakdale School, was built in 1927.
+							</p><p>
+							Aside from play areas provided by neighborhood schools, Lake Anna provided the only open space of any consequence in Barberton for many years. It's function as a focal point and public gathering place in the community was guaranteed in 1915 when the city finally was able to purchase the lake from M.J. Alexander. Also in that year, the city began a program of establishing and maintaingin public parks which continues to this day. Four important parks were created in the city's developing neighborhoods between 1915 and 1923. These included Crisman Park (north) in 1915, Edgewood Park (west) in 1915, Decker Park (north central) in 1920, and Tuscora Park (east) in 1922-23. Tuscora Park was deeded to the city by the east Barberton Land Company in 1922 and 23. This 27.3-acre park, the largest in Barberton, is situated in the midst of a residential district, has many stands of mature trees, and is traversed by a winding section of Tuscarawas Avenue.
+							</p><p>
+							The growth of the city also spurred the construction of a number of new churches in various locations to serve the population. Some of Barberton's earliest congregations built new church buildings during this period, replacing earlier frame buildings with substantial brick edifices that reflected their important role in the community. New churches constructed in the central part of the city were the First Lutheran Church, built on Second Street, NW in 1912; St. Andrews Episcopal Church, built with Barber concrete blocks on Hopocan Avenue in 1914; and St. Augustine's Catholic Church, built overlooking Lake Anna in 1925. In the New Portage area, the original High Street Methodist Church was replaced with the existing brick church building (now St. Paul's) on Wooster Road North in 1922.
+							</p><p>
+							As noted earlier, a large percentage of the workers arriving in Barberton to take up residence during this period were from Eastern Europe. Members of the Hungarian, Polish, Slovenian, Slovakian, and Ruthenian ethnic groups tended to establish churches, businesses and social organizations which enabled them to perpetuate their language and traditions in this new city and country. The ethnic parishes and congregations that were formed in Barberton before 1920 help to illustrate the influence of immigrant populations upon the city's development: Hungarian families formed Holy Trinity parish in 1911, Polish immigrants established St. Mary's parish in 1912, Jewish residents organized the town's first synagogue in 1915, Ruthenian immigrants formed St. Nicholas Byzantine Church in 1916, and Slovenian families organized Sacred Heart Parish in 1917. Organized later was the Slovakian parish of Sts. Cyril and Methodius.
+							</p><p>
+							Several of these ethnic groups are still represented in Barberton's population today. Also remaining are many of the buildings which were constructed to maintain a connection with their homeland, including churches, meeting houses, and commercial buildings. Many of the Slovenian immigrants, for example, lived in West Barberton where today are still found the original Sacred Heart Church (1922) and its successor building (1940) at 15th and Hopocan Avenue; a Slovene Laundry in a small commercial grouping at 15th and West Tuscarawas Avenue, and a Slovene Center on 14th Street. Some 200 Slovenian families lived in Barberton in 1912.
+							</p><p>
+							In the days before the supermarket, the neighborhood grocery store was common in Barberton. Also popular, especially in locations near factories, were taverns and saloons. Many of these buildings were clustered in small commercial nodes, with two or three structures usually occupying corner locations. One example is located at the corner of Shannon Avenue and 16th Street, where on frame and two brick commercial structures still exist. Other commercial groupings developed near the railroad, perhaps at the location of a small, independent business such as a livery or a brewery. A good example is the cluster of buildings at Newell Avenue and the Erie Railroad where a brewery was located.
+							</p><p>
+							Barberton's streetcar route also provided an ideal place to locate a business during the early 20th century. One and two-story commercial buildings were built in various locations all slong Wooster road, with concentrations in West Barberton, at Hopocan Avenue, and in the vicinity of New Portage. The Wooster Road West commercial are, which developed as the largest commercial district outside of the downtown, was also a result of two other factors: 1) barriers created by distance and railroad crossings which made it difficult to travel downtown, and 2) the location of Columbia Chemical in this area in 1899, creating a huge market for local businesses. By 1916, the north side of Wooster Road West between 14th and 17th Streets contained about 25 frame and brick buildings housing saloons, restaurants, groceries, barber and tailor shops, a drug store, a dry goods store, and a post office and voting booth. Several newer buildings were added during the late 1910s and 1920s. Eventually, the West End Theater was also built here to provide an alternative to the downtown theaters.
+							</p><p>
+							Of course, downtown Barberton remained the primary commercial district in the city. By 1920, the downtown district consisted of one-, two- and three-story commercial buildings of both masonry and frame construction. Tuscarawas Avenue had emerged as the primary business street, with many substantial brick buildings, while Second Street generally housed smaller concerns and contained a variety of brick, frame and concrete block buildings. These buildings employed traditional commercial forms, combining lower story storefronts with upper floors, but remained very restrained in ornamentation. Cornice and parapet treatments usually consist of decorative brick set in panels or corbels. An exception in style and materials was the Central Savings and Trust Company building, built in 1918 in a monumental Neo-Classical Revival style designed by the noted Cleveland architectural firm of Walker and Weeks. The stone facade and columns express the important character of this banking institution.
+							</p>
+							<div class="span6" style="float:right;">
+					    	<div class="thumbnail">
+					    		<img src="img/history/06_tuscarawas_ave.jpg">
+					    		<div class="caption-small">
+					    			The north side of Tuscarawas Avenue between 4th and 5th Streets contains an impressive array of early 20th century commercial buildings
+					    		</div>
+					    	</div>
+				    	</div>
+							<p>
+							Although it had been quite popular during the 1890s and early 1900s, the Barberton Inn began to experience financial difficulties and was eventually torn down in 1915. With demolition of the inn, this central block of downtown real estate became available for development. Subdivided as the Alexander Square allotment, this land presented attractive opportunities for commercial development in Barberton in 1915. The north side of Tuscarawas Avenue was built up between 1917 and 1929. Included were tow important new theaters, the Park Theater in 1919 and the Pastime Theater in 1922. Both buildings made extensive use of glazed terra cotta in their Classical Revival facade.
+							</p><p>
+							In addition, some of Barberton's pioneer businesses were able to expand into modern facilities in this block during the 1920s. The Weisberger Company, begun in 1900 as dry goods store, built Barberton's first department store in 1928 at the corner of Tuscarawas and Fourth Street, N.W. Also expanding into this block was the Weigand Furniture Company, which built its three-story building (now the Senior Center) in 1929. While continuing the traditional building composition of storefront/upper floors/cornice, these buildings have large amounts of window area, as compared to wall surface, in their upper floor facades. The parapet rooflines continue to be simply detailed.
+							</p><p>
+							Significantly, commercial buildings were constructed facing Tuscarawas Avenue, but not facing Lake Anna. Fronting the lake, new buildings form the mid-1920s provide an important transition from the commercial downtown to the residential and institutional setting of the lake. The Masonic Temple, completed in 1925, exhibits a Second Renaissance Revival style and Campfield-Hickman Company, also built in 1925, is an excellent example of the Neo-Classical Revival style.
+							</p><p>
+							Also during the late 1920s, the automobile was making its impact felt upon the community's development. Buildings housing auto-related businesses were located on the fringes of downtown, including the building housing the Crown Auro Livery, built in 1925 near the Tuscarawas Avenue viaduct, and the pair of Starinki Motor Sales buildings, built in 1928-29 on West Tuscarawas Avenue.
+							</p><p>
+							Automobile ownership in Barberton may not have been as common as other cities, considering the proximity of the town's industries to residential areas in all directions. In addition, the streetcar remained in use as late as 1946. Nevertheless, the automobile was becoming more affordable after 1920, as production increased and prices dropped to the point that working-class families could afford to have a car. As neighborhoods outside the beltline contained to develop during this period, streets were often more widely spaced and lots were dimensioned to allow room for driveways. Examples of neighborhoods ro the 1920s include portions of North, East and West Barberton. East Barberton, in particular, depended to a large extent on the automobile for its development. Access to the rest of the city was hindered by river, canal, and railroad until construction fot the first Tuscarawaw Avenue viaduct in 1919. Once the viaduct was built, the neighborhood began to develop in a more rapid manner.
+							</p><p>
+							O.C. Barber died in 1920, having witnessed tremendous growth and prosperity in his namesake town. Barberton contained some of the largest manufacturing plants in the world at the time, including the Diamond Match Company, Babcock &amp; Wilcox, PPG, Pittsburgh Valve Company, and the Ohio Insulator Company. The vast Barber farm was sold off in 1926, with A.O. Austin taking possession of the mansion and Yodre Brothers purchasing the greenhouses. The estate still remained outside of the BArberton city limits at the time.
+							</p>
+							
+							<ul class="pager">
+								<li class="previous">
+									<a href="#histB" class="btn btn-link" onclick="$('#histTabs a[href=\'#histB\']').tab('show');">
+										&larr; Part II
+									</a>
+								</li>
+								<li class="next">
+									<a href="#histD" class="btn btn-link" onclick="$('#histTabs a[href=\'#histD\']').tab('show');">
+										Part IV: Depression Period through the 1950s &rarr;
+									</a>
+								</li>
+							</ul>
+				    </div>
+				    <div class="tab-pane" id="histD">
+				    	<h4>Part IV: Depression Period through the 1950s</h4>
+							<p>
+							The Great Depression brought factory layoffs and economic failures to Barberton, where half of the city's sage earners were out of work. The city's industrial base was strong enough, however, to emerge from the Depression with its most important industries intact. An important event in 1932 was Babcock &amp; Wilcox's decision to make its Barberton Works the company's chief fabricating plant, producing both marine and stationary boilers. In 1938, Barberton's major industries remained very stable, including the Diamond Match Co., Columbia Chemical (PPG), Babcock &amp; Wilcox, Seiberling Rubber Co., Sun Rubber Co., Ohio Brass, Pittsburgh Valve and Fittings Co., and Yoder Bros. The city employed some 10,000 workers in that year.
+							</p><p>
+							Working conditions and wages were very poor, however, and Barberton workers responded by organizing walkouts and strikes with a solidarity that came to characterize the city's labor force. A Diamond Match strike of March, 1933, was the first walkout of any importance in the Akron area since the Industrial Workers of the World called out the rubber workers in 1913. The Barberton Council of Labor was formed in 1933 as an umbrella organization for the city's unions. A PPG strike in 1936 marked the beginning of a long history of labor disputes in Barberton. In 1951, Barberton ranked seventh in Ohio in work stoppages.
+							</p><p>
+							Barberton's population increased by less than 100 people during the decade of the 1930s, an indication of how the Depression had slowed its growth. As a result, little new housing stock was apparently built. Nevertheless, the community continued to see some important new construction during this period.
+							</p>
+							<div class="span6" style="float:right;">
+					    	<div class="thumbnail">
+					    		<img src="img/history/07_barberton_post_office.jpg">
+					    		<div class="caption-small">
+					    			The Barberton Post Office is representative of the early 1930s, with its Neo-classical style seen in round-arched openings and decorative roofline
+					    		</div>
+					    	</div>
+				    	</div>
+							<p>
+							The Barberton community took advantage of some of the federal relief programs which were instituted during the Depression era. Projects sponsored by the Federal Emergency Relief Administration and the WPA included improvements to Lake Anna, Crisman, Edgewood and Tuscora Parks in 1934-36. The Federal government built a new downtown Post Office in 1932, a brick-faced landmark building which was embellished in a Neo-Classical Revival style. Other buildings of the 1930s reflected a trend toward simplified designs that evolved from the Art Deco and Art Moderne architectural movements of the period. Included are the 1931 Eagles Hall, 1934 Elks Lodge, and the 1934 downtown commercial buildings which housed the People's Drug Store and Woolworth's. In these buildings, form and ornamentation are "streamlined" and terra cotta is often used as a wall surface, sometimes in geometric or stylized designs. The Elks Lodge provides a particularly good example of an Art Deco influence executed in terra cotta. A significant entertainment facility built in downtown Barberton in the late 1930s was the Lake Theater and Recreation building, completed in 1938. Housing a movie theater, bowling alley, billiards room, restaurant and other retail space, this facility also reflected a modernistic, streamlined character.
+							</p><p>
+							Barberton's development was dramatically influenced by World War II. Production requirements during the war years stimulated several of Barberton's industries. Defense contract work brought an increase in production and employment for Babcock &amp; Wilcox, which produced the majority of all boilers used in the navy and Merchant Marine during the war. Seiberling Rubber's wartime employment peaked at 2,600 in 1946. PPG's Columbia Chemical remained a very strong Barberton industry, with employment numbering approximately 2,000 in 1952. The post-war period also saw the beginnings of the B &amp; C Machine Company, an industry which has grown to become a major Barberton employer today. In addition, Rockwell International opened a plant in Barberton in 1951. Babcock &amp; Wilcox built a new multi-million dollar office building on Van Buren Avenue in 1955. The Diamond Match Company reached a record peak of $133 million in sales in 1956.
+							</p><p>
+							Following WWII, residential development in Barberton picked up, undoubtedly spurred by the community's post-war economic prosperity. Barberton's population again began to increase, from 24,028 in 1940 to 27,820 in 1950. Ten years later, in 1960, Barberton had a population of 33,805. Annexations of developing land began anew during this period, as a result. In 1943, 224 acres of the former Anna Dean Form were added to the city; in 1956 another 375 acres of the A.O. Austin estate, including the Barber Mansion, were annexed. Also during the 1950s, Norton Township land to the south of Johnson's Corners was annexed to Barberton in several sections. Homes that were constructed during the postwar period reflect a trend toward mass production in housing, with an emphasis on small scale and efficient construction. More working people than ever before were beginning to buy or build their own homes. Large numbers of simple frame or brick-faced one- and two-story homes are located in some of the later residential areas of Barberton. East Barberton, slow to develop during the teens and twenties, was built up rather quickly with these types of homes during the 1940s and 50s.
+							</p><p>
+							The prosperous decade of the 1950s resulted in several new community facilities in Barberton. Lake Anna was the location for a new Barberton Municipal Building, completed in 1954, and new Barberton Public Library, dedicated in 1957. Also in 1957, a new Barberton Citizens Hospital was opened in its current location adjacent to Tuscora Park. The new schools of U.L Light and Decker were opened in 1953 and 1956.
+							</p>
+							
+							<ul class="pager">
+								<li class="previous">
+									<a href="#histC" class="btn btn-link" onclick="$('#histTabs a[href=\'#histC\']').tab('show');">
+										&larr; Part III
+									</a>
+								</li>
+								<li class="next">
+									<a href="#histE" class="btn btn-link" onclick="$('#histTabs a[href=\'#histE\']').tab('show');">
+										Part V: Recent History &rarr;
+									</a>
+								</li>
+							</ul>
+				    </div>
+				    <div class="tab-pane" id="histE">
+				    	<h4>Part V: Recent History</h4>
+							<p>
+							Several important trends have had a major impact on Barberton during the past 30 or so years. The period of the 1960s and 1970s was marked by a number of government programs designed to encourage new housing developments, to build and extend highways, and to "renew" urban areas through clearance and reconstruction. None of these forces worked in isolation; they influenced and were influenced by each other. Government programs encouraged suburbanization, but highway improvements also helped make suburbanization possible. Urban renewal efforts intended to make the downtown more attractive for redevelopment were often frustrated by highway improvements that made it easy to develop competing fringe area shopping centers and places of employment.
+							</p><p>
+							In the private sector, industries and businesses had to adjust to changes in the U.S. and world economy, with the result that some of the early Barberton firms were closed. These include Diamond Match (1960), Sun Rubber (1974), Seiberling Rubber (1980), Ohio Brass (1985), and Rockwell International (1986). PPG downsized substantially during the 1970s and 1980s, and today employs only about 140. On the positive side, many of these abandoned industrial buildings have been taken over by B &amp; C Machine, the city's third largest employer. Babcock &amp; Wilcox remains the second largest industry in Summit county, employing approximately 1300 in its Barberton facilities.
+							</p><p>
+							Many who work in Barberton today do not live in the community, and many who live in the city go to work elsewhere. The ability to commute to places of work, shopping and entertainment has been enhanced over the past 30 years by highway improvements that include Interstate 76 to the north of Barberton and Route 21 to its west. Other improvements came in the form of new viaducts at Tuscarawas Avenue in 1961 and State Street in 1980.
+							</p><p>
+							Barberton's downtown commercial district has struggled with both urban renewal and periods of disinvestment. The closing of Marshall's Department Store provides an example of the changing nature of retailing in older downtown areas. Urban renewal resulted in demolition of three blocks of older commercial buildings, two of which have been built upon with new buildings. The city's housing stock has experienced varying levels of disinvestment, sometimes through subdivision into multi-family units. Other areas of the city have lost significant buildings because a use could not be found, most notably the O.C. Barber Mansion which was demolished in 1964, and related Anna Dean Farm buildings.
+							</p><p>
+							Recently, programs have been instituted to try to recapture some of the lost economic trade in the downtown area. Buildings in the Alexander Square area have been listed on the National Register of Historic Places, making tax incentives available for rehabilitation. The city of Barberton has received approval for a federal loan guarantee which is also targeted at the reuse of these important downtown buildings. There have also been private renovation efforts which have resulted in an enhanced appearance and business outlook for the downtown.
+							</p><p>
+							Neighborhoods in Barberton have benefited from the city's Neighborhood Conservation Services program, begun in 1979. Awareness of the significance of older neighborhoods such as the Lake Anna area needs to be increased, although there are recent examples of rehabilitation.
+							</p><p>
+							Two of the city's most important assets, the Ohio &amp; Erie Canal and the Anna Dean Farm buildings, are the focus of renewed discussions about their preservation, enhancement, and use. A study of a possible Canal Heritage Corridor is underway by the National Park Service and the Barber Barns are currently being studied for preservation and reuse.
+							</p><p>
+							The city of Barberton celebrated its Centennial in 1991, a milestone marked by a number of community activities. The past 30 years have been a period of great change, but much remains from the city's remarkable history. The Centennial celebration seems to have focused attention of the city's historic resources and their value to the Barberton community today.
+							</p>
+							
+							<ul class="pager">
+								<li class="previous">
+									<a href="#histD" class="btn btn-link" onclick="$('#histTabs a[href=\'#histD\']').tab('show');">
+										&larr; Part IV
+									</a>
+								</li>
+							</ul>
+				    </div>
+				  </div>
+				</div>
+			</div>
+		</div>
+	</div>
+<!--#include virtual="/oc/lib/includes/foot.html" -->

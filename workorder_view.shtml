@@ -1,0 +1,20 @@
+<!--#include virtual="/oc/lib/includes/head.html" -->
+	<div class="container contain-main">
+		<div class="row-fluid">
+			<div class="span12">
+				<!--
+				<script type="text/javascript">
+					// http://stackoverflow.com/questions/153152/resizing-an-iframe-based-on-content
+					// Resize iframe to full height
+					function resizeIframe(height){
+						// "+60" is a general rule of thumb to allow for differences in
+						// IE & and FF height reporting, can be adjusted as required..
+						document.getElementById('woiframe').height = parseInt(height)+60;
+					}
+				</script>
+				-->
+				<iframe id="woiframe" style="height:1600px;" src="http://webapps.cityofbarberton.com/osTicket/view.php" frameborder="0"></iframe>
+			</div>
+		</div>
+	</div>
+<!--#include virtual="/oc/lib/includes/foot.html" -->

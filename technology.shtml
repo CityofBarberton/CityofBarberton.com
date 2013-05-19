@@ -1,0 +1,26 @@
+<!--#include virtual="/oc/lib/includes/head.html" -->
+	<div class="container contain-main">
+		<div class="row-fluid">
+			<div class="span9">
+				<div class="page-header"><h3>Barberton Information Technology Department</h3></div>
+				<p>
+					The primary purpose of the City of Barberton's Information Technology department is to provide the City's departments with cohesive and cost effective technologies which will help them increase their operational efficiency.
+					The IT department accomplishes this by blending IT service management best practices, such as those outlined in the Information Technology Infrastructure Library (ITIL), with agile Software Engineering techniques.
+					This blend of methodolgies is designed to yield a flexible yet reliable and secure infrastructure which can be maintained with minimal cost.
+				</p>
+			</div>
+			<div class="span3">
+				<div class="thumbnail">
+					<div class="caption">
+						<h4>Christopher Stoll <br><small></small></h4>
+						<address>
+							576 W Park Ave<br>
+							Barberton, OH 44203<br>
+							(330) 861-7285<br>
+						</address>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+<!--#include virtual="/oc/lib/includes/foot.html" -->

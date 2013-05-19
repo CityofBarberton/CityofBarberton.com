@@ -1,0 +1,16 @@
+<!--#include virtual="/oc/lib/includes/head.html" -->
+	<div class="container contain-main">
+		<div class="row-fluid">
+			<div class="span6">
+				<div class="page-header"><h3>Tuscora Park</h3></div>
+				<p>
+					Tuscora Park is one of the City of Barberton’s largest parks with approximately 19 acres of green space.  The park is situated on the East side of the city in a mostly residential area and also located next to SUMMA Barberton Hospital and Cancer Center.  This beautiful park boasts a pavilion with picnic tables, restrooms and electric, basketball courts, tennis courts, a playground, two ball field and walking trails.  The park has two entrances by vehicle and is easily accessible by foot to area residents.  There is one larger parking lot with approximately 40 parking spots, and another smaller lot with 10 parking spots.
+				</p>
+			</div>
+			
+			<div class="span6">
+				<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Tuscora+Park,+Barberton,+OH&amp;aq=0&amp;oq=tuscora+Park,+Barberton,+OH&amp;sll=41.023779,-81.595985&amp;sspn=0.008208,0.016394&amp;ie=UTF8&amp;hq=Tuscora+Park,+Barberton,+OH&amp;t=m&amp;ll=41.013778,-81.587288&amp;spn=0.006295,0.006295&amp;output=embed"></iframe><br /><small><a href="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Tuscora+Park,+Barberton,+OH&amp;aq=0&amp;oq=tuscora+Park,+Barberton,+OH&amp;sll=41.023779,-81.595985&amp;sspn=0.008208,0.016394&amp;ie=UTF8&amp;hq=Tuscora+Park,+Barberton,+OH&amp;t=m&amp;ll=41.013778,-81.587288&amp;spn=0.006295,0.006295" style="color:#0000FF;text-align:left">View Larger Map</a></small>
+			</div>
+		</div>
+	</div>
+<!--#include virtual="/oc/lib/includes/foot.html" -->

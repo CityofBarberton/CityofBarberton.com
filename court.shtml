@@ -1,0 +1,61 @@
+<!--#include virtual="/oc/lib/includes/head.html" -->
+	<div class="container contain-main">
+		<div class="row-fluid">
+			<div class="span9">
+				<div class="page-header"><h3>Barberton Municipal Court</h3></div>
+				<p>
+					Welcome to the Barberton Municipal Court web site. 
+				</p><p>
+					The court serves the communities of Barberton, Green, New Franklin, Norton, Copley, Coventry and Clinton. Barberton Municipal Court is an integral part of the state court system in Ohio. The court conducts preliminary hearings in felony cases, handles traffic and criminal misdemeanors, and civil cases where the money in dispute does not exceed $15,000.
+				</p><p>
+					The Barberton Municipal Court website is designed to help you find information you may need about the operation and services of this court. Our goal is to support the citizens of our jurisdiction and beyond by providing efficient and effective services in a courteous and timely manner. For more information about our court, please visit <a href="http://www.cityofbarberton.com/clerkofcourts/">www.cityofbarberton.com/clerkofcourts</a>.  Other services and information can be found in the menu bar at the top of this page.
+				</p><p>
+					We hope you find this site to be convenient and useful. We welcome the opportunity to make the Court more accessible to you.
+				</p>
+				
+				<br>
+				<h4>Phone Numbers</h4>
+				<!--#include virtual="/oc/lib/includes/contact_court.html" -->
+			</div>
+			<div class="span3">
+				<div class="thumbnail">
+					<div class="caption">
+						<h4><a href="court_croce.shtml">Judge Christine Croce</a> <br><small>Presiding Judge</small></h4>
+						<h4><a href="court_fish.shtml">Judge David E. Fish</a> <br><small>Judge</small></h4>
+						<address>
+							576 W Park Avenue<br>
+							Room 202<br>
+							Barberton, OH 44203<br>
+							(330) 753-2261<br>
+							Fax: (330) 848-6779
+						</address><p>
+						<h4>Susan Sweeney <br><small>Court Administrator</small></h4>
+						<p>
+							Room 209<br>
+							(330) 861-7011
+						</p><br><p>
+							Probation:<br>
+							Room 204
+						</p><p>
+							Jury Room:<br>
+							Room 208
+						</p><p>
+							Small Courtroom:<br>
+							Room 201
+						</p><p>
+							Large Courtroom:<br>
+							Room 207
+						</p><p>
+							Business Hours:<br>
+							Monday-Friday<br>
+							8:00 a.m. – 4:30 p.m.
+						</p><p>
+							<a class="btn" href="mailto:courts@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
+						</p>
+						<a class="btn" href="http://www.cityofbarberton.com/clerkofcourts">Website</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+<!--#include virtual="/oc/lib/includes/foot.html" -->

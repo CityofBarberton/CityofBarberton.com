@@ -1,0 +1,41 @@
+<!--#include virtual="/oc/lib/includes/head.html" -->
+	<div class="container contain-main">
+		<div class="row-fluid">
+			<div class="span12">
+				<div id="newsbody">
+					<p>Loading &ldquo;<span id="newsload"></span>&rdquo;</p>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<script src="lib/pagedown/Markdown.min.js"></script>
+	<script type="text/javascript">
+		// page specific script
+		pageScript = function(){
+			// get url variables
+			var urlvars = [], hash;
+			var hashes = window.location.href.slice(window.location.href.indexOf('?') + 1).split('&');
+			for(var i = 0; i < hashes.length; i++){
+				hash = hashes[i].split('=');
+				urlvars.push(hash[0]);
+				urlvars[hash[0]] = hash[1];
+			}
+			
+			// read markdown file, parse, display the html
+			if(urlvars['d'] && urlvars['y'] && urlvars['q']){
+				var schq = decodeURIComponent(urlvars['q']).replace(/[+]/g," ");				
+				$('#newsload').html(schq);
+				
+				$.ajax({
+					url: 'news/'+urlvars['d']+'/'+urlvars['y']+'/'+urlvars['q']+'.md'
+				}).done(function(newsBody){
+					//var converter = new Showdown.converter();
+					var converter = new Markdown.Converter();
+					Markdown.Extra.init(converter, {extensions: "def_list"});
+					$('#newsbody').html(converter.makeHtml(newsBody));
+				});
+			}
+		};
+	</script>
+<!--#include virtual="/oc/lib/includes/foot.html" -->

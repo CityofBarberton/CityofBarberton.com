@@ -1,0 +1,57 @@
+<!--#include virtual="/oc/lib/includes/head.html" -->
+	<div class="container contain-main">
+		<div class="row-fluid">
+			<div class="span9">
+				<div class="page-header"><h3>Barberton Probation Department</h3></div>
+				<p>
+					The Barberton Probation Department is part of the Barberton Municipal Court.  The Department works under the direction of the Judges. The Probation Department is charged with providing supervision of offenders in the community, alternative sentencing in lieu of jail, as well as producing various investigative reports for the Court. 
+				</p>
+				
+				<h4>General Supervision</h4>
+				<p>
+					The Probation Department monitors a wide variety of offenders that require varying degrees of supervision. 
+				</p>
+
+				<h4>Investigations</h4>
+				<p>
+					The Probation Department is also responsible for providing the court with a wide array of investigative reports. These investigations generally fall into one of the following areas:
+				</p>
+				<ul>
+					<li>Mental Health Court Evaluations</li>
+					<li>Diversion Assessments</li>
+					<li>Restitution Investigations</li>
+					<li>Presentence Investigation Reports</li>
+					<li>Sealing Investigations</li>
+				</ul>
+
+				<h4>Community Service</h4>
+				<p>
+					The Community Service Program is a cost effective and efficient sentencing alternative that responds to the needs of the Court and of the community. In appropriate cases, defendants are sentenced to perform hours of service as ordered by the court, as an alternative to jail. Defendants have been ordered to work at numerous nonprofit and governmental agencies in the Barberton Municipal Court District as part of community service.
+				</p>
+			</div>
+			<div class="span3">
+				<div class="thumbnail">
+					<div class="caption">
+						<h4>Rebecca Dilbeck <br><small>Chief Probation Officer</small></h4>
+						<h4>Ronya Habash <br><small>Probation Officer</small></h4>
+						<h4>Seth Watson <br><small>Probation Officer Assistant</small></h4>
+						<h4>Suzy Schaffer <br><small>Community Service Director</small></h4>
+						<address>
+							576 W Park Avenue<br>
+							Barberton, OH 44203<br>
+							(330) 848-6727<br>
+							Fax: (330) 861-7105
+						</address><p>
+							Business Hours:<br>
+							Monday-Friday<br>
+							8:00 a.m. – 4:30 p.m.
+						</p><p>
+							<a class="btn" href="mailto:clerks@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
+						</p>
+						<a class="btn" href="http://www.cityofbarberton.com/clerkofcourts">Website</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+<!--#include virtual="/oc/lib/includes/foot.html" -->

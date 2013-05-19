@@ -1,0 +1,24 @@
+<!--#include virtual="/oc/lib/includes/head.html" -->
+	<div class="container contain-main">
+		<div class="row-fluid">
+			<div class="span9">
+				<div class="page-header"><h3>Barberton Floodplain Administration</h3></div>
+
+			</div>
+			
+			<div class="span3">
+				<div class="thumbnail">
+					<div class="caption">
+						<h4>Alan Keltyka <br><small>Floodplain Administrator</small></h4>
+						<address>
+							576 W Park Ave<br>
+							Barberton, OH 44203<br>
+							(330) 861-7299
+						</address>
+						<a class="btn" href="mailto:akeltyka@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+<!--#include virtual="/oc/lib/includes/foot.html" -->

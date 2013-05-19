@@ -1,0 +1,34 @@
+<!--#include virtual="/oc/lib/includes/head.html" -->
+	<div class="container contain-main">
+		<div class="row-fluid">
+			<div class="span9">
+				<div class="page-header"><h3>Street Maintenance &amp; Repair</h3></div>
+				<p>
+					The Street Maintenance and Repair Fund accounts for a portion of the revenues received from the State through the gasoline tax (tax is $.22 for every gallon of gas used) and the undivided auto tax (tax on vehicle registration) programs. These revenues are required by the State to be used in maintaining the streets within the city. Accordingly, all expenditures within this fund are related to street maintenance and repair. The Street Division is primarily responsible for all road maintenance which includes, but is not limited to, sealing, crack sealing, resurfacing and snow and ice control. The Street Superintendent is the head of the Street Division and is appointed by the Director of Public Service.
+				</p>
+				
+				<br>
+				<h4>Phone Numbers</h4>
+				<!--#include virtual="/oc/lib/includes/contact_service_streets.html" -->
+			</div>
+			<div class="span3">
+				<div class="thumbnail">
+					<div class="caption">
+						<h4>Tom Jackson <br><small>Superintendant</small></h4>
+						<address>
+							677 Brady Ave<br>
+							Barberton, OH 44203<br>
+							Signal: (330) 848-6742<br>
+							(330) 861-6741<br>
+							Fax: (330) 848-4272
+						</address><p>
+							Business Hours:<br>
+							8 am - 4:30 pm
+						</p>
+						<a class="btn" href="mailto:streetmaintenance@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+<!--#include virtual="/oc/lib/includes/foot.html" -->

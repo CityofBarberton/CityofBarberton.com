@@ -1,0 +1,33 @@
+<!--#include virtual="/oc/lib/includes/head.html" -->
+	<div class="container contain-main">
+		<div class="row-fluid">
+			<div class="span9">
+				<div class="page-header"><h3>How to determine if you have a water leak</h3></div>
+				<p>
+					The best method for determining whether or not a leak exists is to take actual water meter readings. This method checks the entire internal plumbing system for water leaks. Take a water meter reading just before going to bed, or when no one will use any water for several hours. Take another meter reading in the morning before any water is used, or after a few hours of non-usage. In theory, the two readings should be the same. If they are not, and you cannot account for use by a humidifier, ice cube maker, toilet flush, or water softener, you have a leak and further investigation is recommended. 
+				</p><p>
+					From our experience, 90% of the leaks in residential plumbing systems are found at the toilet tank. Malfunctioning water softeners and humidifiers run a distant second and third. We encourage you to check for a leak. Toilets leak at the bottom of the tank around the flapper plug or at the top of the tank at the overflow tube. To test the flapper plug, carefully remove the lid from the toilet tank and mark the water level in each toilet tank with a pencil. Shut off the water supply to the toilet. If the water level remains on the mark you made for 10 minutes, the flapper plug isn’t leaking. If the water level drops below the mark you made, the flapper plug is leaking and should be repaired or replaced. The water level in the toilet tank should be at least 1” below the top of the overflow tube. If the water level in the toilet tank is at the top of the overflow tube, that is where a leak may be occurring, and the float which controls the water level in the tank should be adjusted so that the water level in the tank is at least 1” below the top of the tube. Toilet tank leaks typically result from worn parts or from misalignment of some part of the flushing mechanism. Most repairs can be done by an experienced “do it yourselfer”. If you are not sure you can handle the job, call a plumber. It’s important to stop the leak.
+				</p><p>
+					Water leaks are costly. A “typical” toilet leak at today’s rates can add $500 to a single water bill. Our information is provided as a courtesy with hopes of action on your part, which may minimize an unnecessary waste of water and expense to you.
+				</p>
+			</div>
+			
+			<div class="span3">
+				<div class="thumbnail">
+					<div class="caption">
+						<h4>Emergency Contacts</h4>
+							<p>
+							Monday-Friday<br>
+							7:30 am - 4:00 pm<br>
+							(330) 848-6747<br>
+							<br>
+							All other times:<br>
+							(330) 848-6744
+						</p>
+					</div>
+				</div>
+			</div>
+			
+		</div>
+	</div>
+<!--#include virtual="/oc/lib/includes/foot.html" -->

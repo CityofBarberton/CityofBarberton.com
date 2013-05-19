@@ -1,0 +1,32 @@
+{
+	"Cherry Blossom Festival": {
+		"desc": "Enjoy the parade, rides, food, games, exhibits and more! The festival is May 17-19, the parade is May 18 at 10AM. <br> <a href='http://www.BarbertonCherryBlossom.com/'>BarbertonCherryBlossom.com</a>",
+		"clss": "btn btn-pride",
+		"beg": "2013-05-15",
+		"end": "2013-05-19"
+	},
+	"Change for Change": {
+		"desc": "This month's <a href='news.shtml?d=main&amp;y=2013&amp;q=change_for_change'>Change for Change</a> funds will be donated to: Barberton Community Free Clinic <br> May 24, 4:30-7:00 at Casa del Ranchero",
+		"clss": "btn btn-pride",
+		"beg": "2013-05-24",
+		"end": "2013-05-24"
+	},
+	"City Offices Closed": {
+		"desc": "Barberton City Offices will be closed May 27 in observance of Memorial Day.",
+		"clss": "btn btn-primary",
+		"beg": "2013-05-26",
+		"end": "2013-05-27"
+	},
+	"Cruisin' Into Downtown": {
+		"desc": "Classic vehicle display, music, great food, shopping, contests, and loads of fun! Sponsored by NDS. <br> When: June 6 5-8pm <br> Where: 2nd St NW",
+		"clss": "btn btn-pride",
+		"beg": "2013-06-06",
+		"end": "2013-06-06"
+	},
+	"<i class='icon-leaf'></i> Farmers Market": {
+		"desc": "There will be a farmers market in downtown on Wednesday from 2 to 6. Fresh produce from local vendors, baked goods, jams, jellies, honey, syrup, flowers, health information & screening, cooking & vegetable carving demonstrations, gardening tips, kid's day, free market bag & shopper incentives. Fun for the whole family!",
+		"clss": "btn btn-success",
+		"beg": "2013-06-26",
+		"end": "2013-06-26"
+	}
+}

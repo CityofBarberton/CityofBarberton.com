@@ -1,0 +1,55 @@
+<!--#include virtual="/oc/lib/includes/head.html" -->
+	<div class="container contain-main">
+		<div class="row-fluid">
+			<div class="span9">
+				<div class="page-header"><h3>Barberton Parks Department</h3></div>
+				
+				<div class="marketing">
+					<div class="row-fluid">
+						<div class="span4">
+							<img src="img/parks/440x440_parks_a.jpg" class="img-rounded">
+							<h4></h4>
+							<p>
+								<a class="btn btn-pride" href="parks_parks.shtml">Parks »</a>
+							</p>
+						</div>
+						
+						<div class="span4">
+							<img src="img/parks/440x440_events_a.jpg" class="img-rounded">
+							<h4></h4>
+							<p>
+								<a class="btn btn-pride" href="parks_events.shtml">Events »</a>
+							</p>
+						</div>
+						
+						<div class="span4">
+							<img src="img/parks/440x440_programs_a.jpg" class="img-rounded">
+							<h4></h4>
+							<p>
+								<a class="btn btn-pride" href="parks_programs.shtml">Programs »</a>
+							</p>
+						</div>
+					</div>
+				</div>
+			</div>
+				
+			<div class="span3">
+				<div class="thumbnail">
+					<div class="caption">
+						<h4>Shane McAvinew <br><small>Director</small></h4>
+						<address>
+							500 W Hopocan Ave<br>
+							Barberton, OH 44203<br>
+							(330) 848-6739<br>
+							Fax: (330) 745-3841
+						</address><p>
+							Business Hours<br>
+							8:30 a.m. - 4:30 p.m.
+						</p>
+						<a class="btn" href="mailto:parks@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+<!--#include virtual="/oc/lib/includes/foot.html" -->

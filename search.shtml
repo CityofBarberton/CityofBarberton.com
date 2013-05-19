@@ -1,0 +1,98 @@
+<!--#include virtual="/oc/lib/includes/head.html" -->
+	<div class="container contain-main">
+		<div class="row-fluid">
+			<div class="span12">
+				<div class="page-header"><h3>Pages containing &ldquo;<span id="search-term"></span>&rdquo;</h3></div>
+				<div id="search-results" style="padding-left:16px;"></div>
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript">
+		// page specific script
+		pageScript = function(){
+			// get url variables
+			var urlvars = [], hash;
+			var hashes = window.location.href.slice(window.location.href.indexOf('?') + 1).split('&');
+			for(var i = 0; i < hashes.length; i++){
+				hash = hashes[i].split('=');
+				urlvars.push(hash[0]);
+				urlvars[hash[0]] = hash[1];
+			}
+			
+			// poor man's search results
+			if(urlvars['q']){
+				var schq = decodeURIComponent(urlvars['q']).replace(/[+]/g," ");
+				
+				// update the "search for" message
+				$('#search-term').html(schq);
+				
+				// format the search term
+				schq = schq.toLowerCase();
+				schq = schq.replace(/(^who )|(^what )|(^where )|(^when )|(^why )|(^how )/g," ");
+				schq = schq.replace(/( and )|( are )|( do )|( for )|( i )|( is )|( me )|( the )/g," ");
+				schq = schq.replace(/( and )|( are )|( do )|( for )|( i )|( is )|( me )|( the )/g," ");
+				schq = schq.replace(/[^\w\s]/g," ");
+				schq = schq.replace(/\s+/g," ");
+				schq = schq.replace(/ /g,".*");
+				
+				// get keyword data
+				$.getJSON('data/search-keywords.json', function(dataKeys){
+					var hits = [], hitsDesc = [], items = [];
+					
+					// loop over keyword data
+					$.each(dataKeys, function(keyKey, keyVal){
+						if(keyKey.search(new RegExp(schq, 'i')) != -1){
+							// get individual keyword matches
+							$.each(keyVal, function(hitKey, hitVal){
+								//if($.inArray(hitVal, hits) === -1){
+									hits.push(hitVal);
+									hitsDesc.push(keyKey)
+								//}
+							})
+						}
+					});
+					
+					if(hits.length > 0){
+						// get pages data
+						$.getJSON('data/search-pages.json', function(dataPages){
+							var linkext = '';
+							
+							// loop over keyword hits
+							for(var i=0; i<hits.length; i++){
+								match = dataPages[hits[i]];
+								linkext = '';
+								if(match.path){
+									if(match.path.substring(0, 7) == "http://"){
+										linkext = ' <i class="icon-external-link"></i>';
+									}
+									if(match.path == 'PHONENUMBER'){
+										items.push('<li style="font-size:larger;">' + hitsDesc[i] + '</li>');
+									}else{
+										items.push('<li style="font-size:larger;"><a href="' + match.path + '">' + match.name + linkext + '</a></li>');
+									}
+								}
+							}
+						
+							// no results were found
+							if(items.length <= 0){
+								items.push('<li>No results found.</li>');
+							}
+							
+							// post the results
+							$('<ul/>', {
+								'class': 'unstyled',
+								html: items.join('')
+							}).appendTo('#search-results');
+						});
+					}else{
+						items.push('<li>No results found.</li>');
+						$('<ul/>', {
+							'class': 'unstyled',
+							html: items.join('')
+						}).appendTo('#search-results');
+					}
+				});
+			}
+		};
+	</script>
+<!--#include virtual="/oc/lib/includes/foot.html" -->

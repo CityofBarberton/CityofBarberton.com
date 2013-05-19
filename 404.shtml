@@ -1,0 +1,8 @@
+<!--#include virtual="/oc/lib/includes/head.html" -->
+	<div style="text-align:center;">
+		<h3>404</h3>
+		<img src="img/OCBarber.png">
+		<h4>You interrupted my reading for this, son?</h4>
+		<p>The information you seek, like the bottom to Lake Anna, is nonexistent.</p>
+	</div>
+<!--#include virtual="/oc/lib/includes/foot.html" -->

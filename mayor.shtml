@@ -1,0 +1,28 @@
+<!--#include virtual="/oc/lib/includes/head.html" -->
+	<div class="container contain-main">
+		<div class="row-fluid">
+			<div class="span9">
+				<div class="page-header"><h3>Mayor Judge's Office</h3></div>
+				<p>
+					When you visit Barberton, you will find many exciting and interesting opportunities.  During the summer, music fills the evening air at the Gazebo at Lake Anna with free concerts.  We have some of the best festivals in Summit County; the Cherry Blossom Festival is in early May, followed by the Arts and Crafts Festival in July, the Labor Day Festival, as well as the Mum Festival, in September.  In addition, the City of Barberton offers many exciting recreational programs throughout the year to provide the community with enjoyable, healthy, enriching, physical activities.  From summer camps for youth to bingo for senior citizens, the Parks and Recreation Commission’s desire is to provide opportunities for all age groups to grow socially, physically and emotionally.  For our senior adults, the Active Adult Center is located in the Lake Anna YMCA.  In addition to bingo, senior citizens can come to enjoy billiards, arts &amp; crafts and many more exciting activities.  Speaking of the YMCA, it is a new, state-of-the-art $9.6 million facility which opened in December 2007.  It is located northeast of Lake Anna.
+				</p><p>
+					<a class="btn btn-pride" href="mayors_staff.shtml">The Mayor's Staff</a>
+				</p>
+			</div>
+			<div class="span3">
+				<div class="thumbnail">
+					<img src="img/staff/judge.jpg" class="img-rounded">
+					<div class="caption">
+						<h4>William B. Judge <br><small>Mayor</small></h4>
+						<address>
+							576 W Park Ave<br>
+							Barberton, OH 44203<br>
+							(330) 848-6719
+						</address>
+						<a class="btn" href="mailto:mayor@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+<!--#include virtual="/oc/lib/includes/foot.html" -->

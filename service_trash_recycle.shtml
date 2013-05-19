@@ -1,0 +1,152 @@
+<!--#include virtual="/oc/lib/includes/head.html" -->
+	<div class="container contain-main">
+		<div class="row-fluid">
+			<div class="span9">
+				<div class="page-header"><h3>Barberton Trash and Recylcing</h3></div>
+				<h4>What you can Recycle</h4>
+				<ul>
+					<li>Plastic bottles</li>
+					<li>Metal cans</li>
+					<li>Glass bottles</li>
+					<li>Newspapers, magazines, junk mail, and cardboard</li>
+				</ul>
+				
+				<h4>Bulk Collection "Tag" Fees</h4>
+				<p>
+					These charges are only for additional items that are <strong>not</strong> placed inside the trash cart. Residents that have items that will not fit in the cart should purchase stickers at the various local vendors in Barberton at least 24 hours before their collection day. Stickers should be placed, in a conspicuous place, on the item to be collected. Items placed at curb without stickers will not be collected with regular collection and may be assessed an additional charge if a return trip is required.
+				</p>
+				<table class="table table-striped table-bordered">
+					<thead>
+						<tr>
+							<th>Item(s)</th>
+							<th>Charge</th>
+						</tr>
+					</thead><tbody>
+						<tr>
+							<td>Garbage cans (not to exceed 60lbs.)</td>
+							<td>$5</td>
+						</tr><tr>
+							<td>Cardboard boxes (each 2' x 2' x 2' box, not to exceed 60lbs. and dry)</td>
+							<td>$5</td>
+						</tr><tr>
+							<td>Bushel basket (not to exceed 60lbs.)</td>
+							<td>$5</td>
+						</tr><tr>
+							<td>Auto tire</td>
+							<td>$30</td>
+						</tr><tr>
+							<td>Truck tire</td>
+							<td>$70</td>
+						</tr><tr>
+							<td>Small furniture (kitchen chairs, end tables)</td>
+							<td>$5</td>
+						</tr><tr>
+							<td>Large furniture (sofa, recliner, table)</td>
+							<td>$20</td>
+						</tr><tr>
+							<td>Lawn mower (gasoline and oil removed)</td>
+							<td>$10</td>
+						</tr><tr>
+							<td>Bed springs</td>
+							<td>$15</td>
+						</tr><tr>
+							<td>Mattress</td>
+							<td>$15</td>
+						</tr><tr>
+							<td>White goods (washer, dryer, etc.)</td>
+							<td>$20</td>
+						</tr><tr>
+							<td>Refrigerator, Freezer, Air Conditioner (with freon)</td>
+							<td>$80</td>
+						</tr><tr>
+							<td>Refrigerator, Freezer, Air Conditioner (without freon)</td>
+							<td>$30</td>
+						</tr><tr>
+							<td>Batteries from cars and trucks and equipment</td>
+							<td>$40</td>
+						</tr><tr>
+							<td>Return trip for collection</td>
+							<td>$25</td>
+						</tr><tr>
+							<td>Carpet (each piece must be cut to 4' length and tied in a manner that 1 man can handle the roll. Place 1 sticker on each roll)</td>
+							<td>$5</td>
+						</tr>
+					</tbody>
+				</table>
+				
+				<!--
+				<h4>Rules and Regulations for Curbside Pickup</h4>
+				<ol>
+					<li>All refuse and recycle material must be placed at curbside for Monday pickup no later than 7:00 a.m. on the day of pickup or no earlier than one hour before sunset Sunday.</li>
+					<li>Refuse must be drained of all water and other fluids prior to being placed at curb for Monday pickup in either 20-gallon or 30-gallon garbage cans with handles or plastic bags.</li>
+					<li>All large items must be placed at curbside for Monday pickup.</li>
+					<li>Grass clippings, twigs and sticks, will be picked up when placed in bags or containers. Weight limit not to exceed 50 pounds.</li>
+					<li>Hedge and tree trimmings are to be securely tied in bundles not to exceed 2 feet in diameter and 4 feet in length and placed at curbside.</li>
+					<li>All recyclable items must be put in the proper recycle container and placed at curbside along with your regular refuse for Monday pickup. Limit (1) one container per household.</li>
+					<li>Residents of the City of Barberton shall be charged $17.04 per household for curbside trash & recycling.</li>
+					<li>Those who qualify for the Residential Services Relief Program shall be charged $13.84, for curbside trash & recycling.</li>
+					<li>“Residential unit” means the grouping together under a common roof of one to four residential units.</li>
+					<li>No residential unit may hire a private hauler.</li>
+					<li>Medical pickups are available for the physically disabled.</li>
+					<li>No construction material, no evictions or whole house clean-outs and no dirt, soil or feces. No tires, no explosives and no hazardous materials.</li>
+					<li>Board of Sanitary Collection Appeals will handle hardship cases.</li>
+					<li>Cancellation of this program requires a thirty (30) day written notice, may be only in increments of thirty (30) days, water must be turned off and not more than twice a year.</li>
+				</ol>
+				
+				<h4>Large items that will be picked up in addition to residential refuse</h4>
+				<ul>
+					<li>Picnic tables – dismantled / no pieces larger than 4’ x 4’ x 4’</li>
+					<li>Dog house – dismantled / no pieces larger than 4’ x 4’ x 4”</li>
+					<li>Window boxes or planters – not over 4’ in length</li>
+					<li>Firewood storage boxes – not over 4’ length, dismantled</li>
+					<li>Bookcases</li>
+					<li>Furniture</li>
+					<li>Household appliances: washers, dryers, stoves, etc. (NO items with Freon / refrigeration compressors, such as refrigerators, freezers, dehumidifiers or air conditioners)</li>
+					<li>House doors</li>
+					<li>Storm windows</li>
+					<li>Storm doors</li>
+					<li>Spouting</li>
+					<li>Tree trimmings, brush or hedge trimmings &ndash; if tied in bundles 4’ long or less (maximum number of bundled branches will be 4-5 at a time)</li>
+					<li>Grass (if bagged)</li>
+					<li>Swing sets – dismantled</li>
+					<li>Carpeting – 4’ long rolls or less and securely tied</li>
+					<li>Furnaces (not complete furnaces/ no more than 60 lbs.)</li>
+					<li>Water heaters</li>
+					<li>Bathroom fixtures</li>
+					<li>Pallets – no longer than 4’, dismantled and securely tied in bundles</li>
+					<li>TV antenna – dismantled</li>
+					<li>Wood –no longer than 4’ x 4’ x 4” with no exposed nails, securely tied in bundles</li>
+					<li>Car seats</li>
+					<li>Mufflers</li>
+					<li>Tail pipes</li>
+					<li>Fencing – rolled and tied not over 4’ in length</li>
+				</ul>
+				-->
+			</div>
+			<div class="span3">
+				<div class="thumbnail">
+					<div class="caption">
+						<h4>Recycling Drop-off Center</h4>
+						<address>
+							Barberton Street Department<br>
+							677 Brady Ave<br>
+							Barberton, OH 44203
+						</address>
+						
+						<h4>Republic Customer Service</h4>
+						<address>
+							1 (800) 247-3644
+						</address>
+						
+						<h4>Barberton Service Office</h4>
+						<address>
+							(330) 848-6719
+						</address>
+						
+						<a class="btn" href="service_leaves.shtml">Leaf Pickup</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+<!--#include virtual="/oc/lib/includes/foot.html" -->

@@ -1,0 +1,75 @@
+<!--#include virtual="/oc/lib/includes/head.html" -->
+	<div class="container contain-main">
+		
+		<div class="media">
+			<a class="pull-left" href="https://docs.google.com/file/d/0B8DEfGLr7vyWdG5QRXdKakUtRnc/edit?usp=sharing">
+				<img class="media-object" src="img/media/Barberton_crest_color_thumb.jpg">
+			</a>
+			<div class="media-body">
+				<h4 class="media-heading">Barberton Crest, color</h4>
+				This image contains the color version of the City of Barberton's crest. (via Google Drive)
+			</div>
+		</div>
+		
+		<div class="media">
+			<a class="pull-left" href="https://docs.google.com/file/d/0B8DEfGLr7vyWNW5KR05UVHcxMkE/edit?usp=sharing">
+				<img class="media-object" src="img/media/Barberton_crest_bw_thumb.jpg">
+			</a>
+			<div class="media-body">
+				<h4 class="media-heading">Barberton Crest, Black and White</h4>
+				This image contains the black and white version of the City of Barberton's crest. (via Google Drive)
+			</div>
+		</div>
+		
+		<div class="media">
+			<a class="pull-left" href="https://docs.google.com/file/d/0B8DEfGLr7vyWX25FTWVJVmFFb2c/edit?usp=sharing">
+				<img class="media-object" src="img/media/MagicMan_thumb.png">
+			</a>
+			<div class="media-body">
+				<h4 class="media-heading">Magic Man</h4>
+				A cleaned up copy of the Magic Man who is occasionally seen in Barberton. (via Google Drive)
+			</div>
+		</div>
+		
+		<div class="media">
+			<a class="pull-left" href="https://docs.google.com/file/d/0B8DEfGLr7vyWWHVLWjdsY29PNFk/edit?usp=sharing">
+				<img class="media-object" src="img/media/Wallpaper_iPhone4_a_thumb.png">
+			</a>
+			<div class="media-body">
+				<h4 class="media-heading">Wallpaper for iPhone, v1</h4>
+				This image contains the City of Barberton's crest on a purple gradient background and is sized to fit the screen of an iPhone 4S or older. (via Google Drive)
+			</div>
+		</div>
+		
+		<div class="media">
+			<a class="pull-left" href="https://docs.google.com/file/d/0B8DEfGLr7vyWTGl6SG9qRlhIcnc/edit?usp=sharing">
+				<img class="media-object" src="img/media/Wallpaper_iPhone4_b_thumb.png">
+			</a>
+			<div class="media-body">
+				<h4 class="media-heading">Wallpaper for iPhone, v2</h4>
+				This image contains the City of Barberton's crest on a purple gradient background and is sized to fit the screen of an iPhone 4S or older. (via Google Drive)
+			</div>
+		</div>
+		
+		<div class="media">
+			<span class="pull-left">
+				<img class="media-object" src="img/media/swatch_4e1e5d.png">
+			</span>
+			<div class="media-body">
+				<h4 class="media-heading">Purple Number One</h4>
+				This is a swatch of the dark purple (#4e1e5d) used throughout this website.
+			</div>
+		</div>
+		
+		<div class="media">
+			<span class="pull-left">
+				<img class="media-object" src="img/media/swatch_7e5489.png">
+			</span>
+			<div class="media-body">
+				<h4 class="media-heading">Purple Number Two</h4>
+				This is a swatch of the light purple (#7e5489) used throughout this website.
+			</div>
+		</div>
+		
+	</div>
+<!--#include virtual="/oc/lib/includes/foot.html" -->

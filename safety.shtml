@@ -1,0 +1,35 @@
+<!--#include virtual="/oc/lib/includes/head.html" -->
+	<div class="container contain-main">
+		<div class="row-fluid">
+			<div class="span9">
+				<div class="page-header"><h3>Barberton Safety Director</h3></div>
+				<p>
+					The Safety Director is the head of the Department of Public Safety and is appointed by the Mayor. According to the City Charter, the Safety Director is the supervising authority responsible for the Police and Fire Divisions.
+				</p>
+				
+				<br>
+				<h4>Phone Numbers</h4>
+				<!--#include virtual="/oc/lib/includes/contact_safety.html" -->
+			</div>
+			<div class="span3">
+				<div class="thumbnail">
+					<div class="caption">
+						<h4>TBA <br><small>Director</small></h4>
+						<address>
+							576 W Park Ave<br>
+							Room 101<br>
+							Barberton, OH 44203<br>
+							(330) 848-6714<br>
+							Fax: (330) 861-7237
+						</address><p>
+							Business Hours:<br>
+							8 am - 4:30 pm<br>
+							Monday-Friday
+						</p>
+						<a class="btn" href="mailto:safety@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+<!--#include virtual="/oc/lib/includes/foot.html" -->

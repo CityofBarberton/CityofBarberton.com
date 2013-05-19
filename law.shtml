@@ -1,0 +1,46 @@
+<!--#include virtual="/oc/lib/includes/head.html" -->
+	<div class="container contain-main">
+		<div class="row-fluid">
+			<div class="span9">
+				<div class="page-header"><h3>Barberton Law Department</h3></div>
+				<p>
+					The Law Department maintains a professional environment in providing prosecutorial services for the Barberton Municipal Court. In addition, the Law Department also provides legal advice for the various police agencies and for the departments within the City of Barberton.
+				</p><p>
+					Management of the Law Department is the responsibility of the Law Director. In the City of Barberton, the Law Director is an elected position, serving a term of four years. According to City Charter, the Law Department is responsible for preparing all contracts, bonds and other instruments in writing in which the City is concerned. The Law Department also represents the City in all legal proceedings and serves as the prosecuting attorney of the Municipal Court. Additionally, the Law Department functions as the chief legal advisor of all offices, departments, commissions, boards, agencies, officers and employees of the City in matters relating to their official powers and duties.
+				</p>
+				
+				<br>
+				<h4>Phone Numbers</h4>
+				<!--#include virtual="/oc/lib/includes/contact_law.html" -->
+			</div>
+			<div class="span3">
+				<div class="thumbnail">
+					<div class="caption">
+						<h4>Lisa O. Miller <br><small>Director</small></h4>
+						<address>
+							576 W Park Ave<br>
+							Room 301<br>
+							Barberton, OH 44203<br>
+							(330) 848-6728<br>
+							Fax: (330) 861-7209
+						</address><p>
+							Business Hours:<br>
+							8:30 am - 4:30 pm<br>
+							Monday-Friday
+						</p>
+						<a class="btn" href="mailto:law@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
+					</div>
+				</div>
+				<br>
+				<div class="thumbnail">
+					<div class="caption">
+						<p>
+							<a class="btn" href="law_public_records.shtml">Public Records Policy</a>
+						</p>
+						<a class="btn" href="http://www.amlegal.com/library/oh/barberton.shtml"><i class="icon-external-link"></i> Codified Ordinances</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+<!--#include virtual="/oc/lib/includes/foot.html" -->

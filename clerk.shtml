@@ -1,0 +1,58 @@
+<!--#include virtual="/oc/lib/includes/head.html" -->
+	<div class="container contain-main">
+		<div class="row-fluid">
+			<div class="span9">
+				<div class="page-header"><h3>Barberton Clerk of Courts</h3></div>
+				<p>
+					Thank you for using our online web resources.
+				</p><p>
+					The Barberton Municipal Court provides justice services for the communities of Barberton, Green, New Franklin, Norton, Copley, Coventry and Clinton.
+				</p><p>
+					Our Court handles misdemeanor traffic and criminal cases, as well as civil complaints up to $15,000 and small claims complaints up to $3,000. Preliminary hearings for felony cases are also conducted here.
+				</p><p>
+					The Barberton Municipal Clerk of Courts office is responsible for maintaining a public record of all court cases in Barberton Municipal Court as well as collecting and distributing fines and fees associated with these cases. 
+				</p><p>
+					The Clerk of Court’s website (<a href="http://www.cityofbarberton.com/clerkofcourts/">www.cityofbarberton.com/clerkofcourts</a>) will help you find answers to your questions, search court case information, pay fines online, and view the docket of the court’s hearings.
+				</p><p>
+					The Clerk of Courts office is committed to providing you with professional, efficient, and friendly service and the continued improvement of those services.
+				</p>
+				
+				<br>
+				<h4>Phone Numbers</h4>
+				<!--#include virtual="/oc/lib/includes/contact_clerk.html" -->
+				<p>
+					<a href="http://www.sccjis.co.summit.oh.us/">Summit County Criminal Justice Information System</a>
+				</p>
+			</div>
+			<div class="span3">
+				<div class="thumbnail">
+					<div class="caption">
+						<h4>Diana Stevenson <br><small>Clerk of Court</small></h4>
+						<address>
+							576 W Park Avenue<br>
+							Room 205<br>
+							Barberton, OH 44203<br>
+							(330) 753-2261<br>
+							Fax: (330) 848-6779
+						</address><p>
+							Business Hours:<br>
+							<br>
+							Criminal/Traffic:<br>
+							Monday-Friday<br>
+							8 a.m. - 8 p.m.<br>
+							Saturday<br>
+							8 a.m. - 11 a.m.<br>
+							<br>
+							Civil:<br>
+							Monday-Friday<br>
+							8 a.m. - 4:30 p.m.
+						</p><p>
+							<a class="btn" href="mailto:clerks@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
+						</p>
+						<a class="btn" href="http://www.cityofbarberton.com/clerkofcourts">Website</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+<!--#include virtual="/oc/lib/includes/foot.html" -->

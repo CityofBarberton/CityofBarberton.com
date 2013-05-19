@@ -1,0 +1,40 @@
+<!--#include virtual="/oc/lib/includes/head.html" -->
+	<div class="container contain-main">
+		<div class="row-fluid">
+			<div class="span12">
+				<div class="page-header"><h3>City of Barberton Phone Numbers</h3></div>
+				
+				<h4>City Offices</h4>
+				<!--#include virtual="/oc/lib/includes/contact_city.html" -->
+				<h4>Police Department</h4>
+				<!--#include virtual="/oc/lib/includes/contact_police.html" -->
+				<h4>Fire Department</h4>
+				<!--#include virtual="/oc/lib/includes/contact_fire.html" -->
+				<h4>City Services</h4>
+				<!--#include virtual="/oc/lib/includes/contact_service.html" -->
+				<h4>Beautification Department</h4>
+				<!--#include virtual="/oc/lib/includes/contact_service_beauty.html" -->
+				<h4>Parks Maintenance Department</h4>
+				<!--#include virtual="/oc/lib/includes/contact_service_parks_maint.html" -->
+				<h4>Street Maintenance</h4>
+				<!--#include virtual="/oc/lib/includes/contact_service_streets.html" -->
+				<h4>Signal Office</h4>
+				<!--#include virtual="/oc/lib/includes/contact_service_signal.html" -->
+				<h4>Safety Director</h4>
+				<!--#include virtual="/oc/lib/includes/contact_safety.html" -->
+				<h4>Health Department</h4>
+				<!--#include virtual="/oc/lib/includes/contact_health.html" -->
+				<h4>Law Department</h4>
+				<!--#include virtual="/oc/lib/includes/contact_law.html" -->
+				<h4>Human Resources Department</h4>
+				<!--#include virtual="/oc/lib/includes/contact_hr.html" -->
+				<h4>Civil Service</h4>
+				<!--#include virtual="/oc/lib/includes/contact_hr_civil_service.html" -->
+				<h4>Municipal Court</h4>
+				<!--#include virtual="/oc/lib/includes/contact_court.html" -->
+				<h4>Clerk of Courts</h4>
+				<!--#include virtual="/oc/lib/includes/contact_clerk.html" -->
+			</div>
+		</div>
+	</div>
+<!--#include virtual="/oc/lib/includes/foot.html" -->

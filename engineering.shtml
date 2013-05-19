@@ -1,0 +1,30 @@
+<!--#include virtual="/oc/lib/includes/head.html" -->
+	<div class="container contain-main">
+		<div class="row-fluid">
+			<div class="span9">
+				<div class="page-header"><h3>Barberton Engineering Department</h3></div>
+				<p>
+					The City Engineer is the head of the Engineering Division and is appointed by the Mayor. Administratively, the Engineering Division is considered to be part of the Department of Public Service. As such, the City Engineer reports to the Director of Public Service. In Barberton, the City Engineer is a part-time position. The Engineering Division is primarily responsible for the design and construction activities related to city streets, sidewalks, sewer and water utilities, bridges and facilities, and properties.
+				</p>
+			</div>
+			<div class="span3">
+				<div class="thumbnail">
+					<div class="caption">
+						<address>
+							576 W Park Ave<br>
+							Room 103<br>
+							Barberton, OH 44203<br>
+							(330) 848-6724<br>
+							Fax: (330) 848-6654
+						</address><p>
+							Business Hours:<br>
+							8:30 am - 4:30 pm<br>
+							Monday-Friday
+						</p>
+						<a class="btn" href="mailto:engineering@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+<!--#include virtual="/oc/lib/includes/foot.html" -->

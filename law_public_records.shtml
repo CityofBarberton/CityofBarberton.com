@@ -1,0 +1,35 @@
+<!--#include virtual="/oc/lib/includes/head.html" -->
+	<div class="container contain-main">
+		<div class="row-fluid">
+			<div class="span12">
+				<div class="page-header"><h3>Barberton Public Records Policy</h3></div>
+				<p>
+					Access to information concerning the conduct of the people's business is a right of every person in the city. Records of the City of Barberton which are not exempt from disclosure under the law are available for inspection and copying in accordance with the Ohio Public Records Act. Requests for records may be made during regular business hours to:
+				</p><p>
+					The City department that has custody of the records of Law Department,<br>
+					576 W Park Ave, Barberton, Ohio 44203
+				</p><p>
+					You may view the records you have requested at all reasonable times during the regular business hours of this office. If you wish to view public records of the city, we will promptly make them available to you. If you wish to receive copies of records, we will provide them within a reasonable period of time. "Prompt" and "reasonable" take into account the volume of records requested; the proximity of the location where the records are stored; and the necessity for any legal review of the records requested.
+				</p><p>
+					Once we have received your request, we will provide our response or acknowledge your request and provide you with: an estimate of when you should expect our response, and estimated cost if copies have been requested, and the items (if any) that we expect may be exempt from disclosure. If at any time prior to completing our response, we believe our response will take longer than initially estimated (because of the volume of records requested, the proximity of location where the records are stored, or the complexity of the legal review); we will inform you of this change.
+				</p><p>
+					It is within you rights not to:
+				</p>
+				<ul>
+					<li>Disclose you identity to the City of Barberton when you request records (you will be given a "public records request number" which we will use to track our communications with you and our response(s) to your request);</li>
+					<li>Provide our office with a written request; and</li>
+					<li>Provide a reason why you have requested these records.</li>
+				</ul>
+				<p>
+					If any portion of your request for records must be denied because the records are exempt from disclosure under the law, we will inform you which records you have requested are not public by clearly marking the portion "redacted" or we will explain which portions of the record(s) have been redacted. In addition, we will provide you with the legal authority upon which we have relied.
+				</p><p>
+					Please note that if we have denied your request because it is overbroad, ambiguous, or doesn't reasonably identify our records, we will provide you with information about how our records are maintained and if you wish, you may revise your request for the records.
+				</p><p>
+					A fee for copies of public records may be charged which covers the direct costs of duplication incurred by the CIty of Barberton. In addition, actual cost of postage or other delivery may be charged. We may require payment of these fees prior to processing your request. It is the policy of the City of Barberton to waive charges to a requestor for duplication of 20 pages or less per month.
+				</p><p>
+					Feel free to ask our Law Department any questions you may have about public records.
+				</p>
+			</div>
+		</div>
+	</div>
+<!--#include virtual="/oc/lib/includes/foot.html" -->
