@@ -49,9 +49,9 @@
 				<div class="thumbnail">
 					<div class="caption">
 						<p>
-							<a class="btn" href="https://drive.google.com/folderview?id=0B8DEfGLr7vyWeUFJSkkxWWY3VEk&usp=sharing"><i class="icon-folder-open-alt"></i> Forms &amp; Documents</a>
+							<a class="btn" href="https://drive.google.com/folderview?id=0B8DEfGLr7vyWeUFJSkkxWWY3VEk&amp;usp=sharing"><i class="icon-folder-open-alt"></i> Forms &amp; Documents</a>
 						</p>
-						<a class="btn" href="https://drive.google.com/folderview?id=0B8DEfGLr7vyWTzROV25PVHRadDg&usp=sharing"><i class="icon-folder-open-alt"></i> Maps</a>
+						<a class="btn" href="https://drive.google.com/folderview?id=0B8DEfGLr7vyWTzROV25PVHRadDg&amp;usp=sharing"><i class="icon-folder-open-alt"></i> Maps</a>
 					</div>
 				</div>
 			</div>
