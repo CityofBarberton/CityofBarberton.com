@@ -13,3 +13,5 @@ Reminder: Do not put trash, branches, or grass clippings in the road. Basketball
 Cars parked on the streets between 11:00 pm and 7:00 am will receive tickets according to ordinance #6-1993
 
 **Elwood Palmer, Director of Public Service**
+
+Check [this document](https://docs.google.com/file/d/0B8DEfGLr7vyWWG9KaTBkR0swb2M/edit?usp=sharing) for a street by street schedule.

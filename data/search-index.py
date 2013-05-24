@@ -82,7 +82,7 @@ def get_pagetext(file_name):
 				# remove unicode troublemakers
 				file_contents = re.sub(u'[’‘‹›™»]', '', file_contents)
 				file_contents = re.sub(u'[“”]', '"', file_contents)
-				file_contents = re.sub(u'[–]', '-', file_contents)
+				file_contents = re.sub(u'[–—]', '-', file_contents)
 				file_contents = re.sub(u'[é]', 'e', file_contents)
 				file_contents = re.sub(u'[×]', 'x', file_contents)
 				# remove markup
