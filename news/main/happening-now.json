@@ -1,26 +1,38 @@
 {
-	"Change for Change": {
-		"desc": "This month's <a href='news.shtml?d=main&amp;y=2013&amp;q=change_for_change'>Change for Change</a> funds will be donated to: Barberton Community Free Clinic <br> May 24, 4:30-7:00 at Casa del Ranchero",
-		"clss": "btn btn-pride",
-		"beg": "2013-05-23",
-		"end": "2013-05-24"
-	},
-	"City Offices Closed": {
-		"desc": "Barberton City Offices will be closed May 27 in observance of Memorial Day.",
-		"clss": "btn btn-primary",
-		"beg": "2013-05-24",
-		"end": "2013-05-27"
-	},
-	"Cruisin' Into Downtown": {
-		"desc": "Classic vehicle display, music, great food, shopping, contests, and loads of fun! Sponsored by NDS. <br> When: June 6 5-8pm <br> Where: 2nd St NW",
-		"clss": "btn btn-pride",
-		"beg": "2013-06-05",
-		"end": "2013-06-06"
+	"Career Opportunity": {
+		"desc": "The City of Barberton is seeking a qualified candidate to fill the <a href='https://docs.google.com/file/d/0B8DEfGLr7vyWWmxXUHFzTXIzNlk/edit?usp=sharing'>Stormwater Manager</a> position.",
+		"clss": "btn",
+		"beg": "2013-06-16",
+		"end": "2013-06-28"
 	},
 	"<i class='icon-leaf'></i> Farmers Market": {
 		"desc": "There will be a farmers market in downtown on Wednesday from 2 to 6. Fresh produce from local vendors, baked goods, jams, jellies, honey, syrup, flowers, health information & screening, cooking & vegetable carving demonstrations, gardening tips, kid's day, free market bag & shopper incentives. Fun for the whole family!",
 		"clss": "btn btn-success",
-		"beg": "2013-06-25",
+		"beg": "2013-06-24",
 		"end": "2013-06-26"
+	},
+	"Change for Change": {
+		"desc": "This month's <a href='news.shtml?d=main&amp;y=2013&amp;q=change_for_change'>Change for Change</a> funds will be donated to: Barberton Athletic Department <br> June 28, 4:30-7:00 at Fairways (451 Fairview Ave, Barberton, OH)",
+		"clss": "btn btn-pride",
+		"beg": "2013-06-27",
+		"end": "2013-06-28"
+	},
+	"City Offices Closed": {
+		"desc": "City offices will be closed July 4th in observance of Independence Day.",
+		"clss": "btn",
+		"beg": "2013-07-03",
+		"end": "2013-07-04"
+	},
+	"Concert: Terry Lee Goffee": {
+		"desc": "Johnny Cash style performer Terry Lee Goffee will be performing at the Lake Anna Park Gazebo Friday, July 12 at 7:30PM",
+		"clss": "btn btn-success",
+		"beg": "2013-07-11",
+		"end": "2013-07-12"
+	},
+	"Cruisin' Into Downtown": {
+		"desc": "Classic vehicle display, music, great food, shopping, contests, and loads of fun! Sponsored by NDS. <br> When: June 6 5-8pm <br> Where: 2nd St NW",
+		"clss": "btn btn-pride",
+		"beg": "2013-06-06",
+		"end": "2013-06-06"
 	}
 }

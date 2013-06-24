@@ -313,6 +313,15 @@
 			<div class="span3">
 				<div class="thumbnail">
 					<div class="caption">
+						<h4>Customer Service</h4>
+							<p>
+							(330) 753-0328
+						</p>
+					</div>
+				</div>
+				<br>
+				<div class="thumbnail">
+					<div class="caption">
 						<h4>Emergency Contacts</h4>
 							<p>
 							Monday-Friday<br>
@@ -334,7 +343,7 @@
 				<div class="thumbnail">
 					<div class="caption">
 						<h4>Forms</h4>
-						<a class="btn" href="https://docs.google.com/file/d/0B8DEfGLr7vyWdVNRbElRaVlxa2M/edit?usp=sharing"><i class="icon-file-alt"></i> Application for Direct Payment</a>
+						<a class="btn" href="https://docs.google.com/file/d/0B8DEfGLr7vyWQ1FPSGZEc2lPbzg/edit?usp=sharing"><i class="icon-file-alt"></i> Application for Direct Payment</a>
 					</div>
 				</div>
 			</div>

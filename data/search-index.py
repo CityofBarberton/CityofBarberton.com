@@ -115,7 +115,7 @@ def get_pagetext(file_name):
 					file_contents = re.sub(' & ', ' ', file_contents)
 					file_contents = re.sub('["\']', '', file_contents)
 
-		return file_contents
+		return file_contents.strip()
 
 
 def get_pagetitle(file_name):
@@ -151,7 +151,7 @@ def get_phonenumbers(file_name):
 					page_phonenumb = re.sub('.*\(', '(', line)
 					page_phonenumb = re.sub('<.*?>', '', page_phonenumb)
 
-					page_phones.append(str(page_phonedesc.strip() + '<address>&nbsp;' + page_phonenumb.strip() + '</address>'))
+					page_phones.append(str(page_phonedesc.strip() + '<br>&nbsp; ' + page_phonenumb.strip() + ' '))
 	f.close()
 	return page_phones
 
