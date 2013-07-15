@@ -71,16 +71,6 @@
 		
 		<div class="row-fluid">
 			<div class="span6">
-				<h4>Lake Anna Concert Series</h4>
-				<p>
-					The summer concert series kicks off on Friday June 7.
-					The gazebo will be rededicated at 6:30 and Nik and the Nice Guys Party Band will come on stage at 7:30.
-					Food will be available for purchase from Old Carolina BBQ.
-				</p>
-				<div class="text-center"><img src="img/parks/2013temp/2013-06-07a.jpg" /></div>
-				
-				<hr class="soften">
-				
 				<h4>NDS 2013 Cruisin' Into Downtown Barberton</h4>
 				<p>
 					Classic Vehicle Shows on the following Thursdays from 5 to 8 in the evening.
@@ -118,13 +108,6 @@
 					Summit Racing,
 					Wintrow Construction Corp.
 				</p>
-			</div>
-			
-			<div class="span6">
-				<h4>More Upcoming Events</h4>
-				<div class="gcal-agenda">
-					<iframe src="https://www.google.com/calendar/embed?showTitle=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=400&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=o7t942qbqsfvv6o56qtgrdbekk%40group.calendar.google.com&amp;color=%235229A3&amp;src=gaguk9r89act7mfjdkri8c1rco%40group.calendar.google.com&amp;color=%23125A12&amp;ctz=America%2FNew_York" style=" border-width:0 " width="100%" height="400" frameborder="0" scrolling="no"></iframe>
-				</div>
 				
 				<hr class="soften">
 				
@@ -148,6 +131,17 @@
 					Every Wednesday from 2 to 6, June 26 through October 9 on 3rd Street NW between W Park and W Tuscarawas.
 					For more information call Diane Breiding at (330) 472-0366 or visit <a href="http://www.ndsbarbertonevents.com/">www.ndsbarbertonevents.com</a>.
 				</p>
+			</div>
+			
+			<div class="span6">
+				<h4><a href="parks_events_concerts.shtml">Lake Anna Concert Series</a></h4>
+				
+				<hr class="soften">
+				
+				<h4>More Upcoming Events</h4>
+				<div class="gcal-agenda">
+					<iframe src="https://www.google.com/calendar/embed?showTitle=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=400&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=o7t942qbqsfvv6o56qtgrdbekk%40group.calendar.google.com&amp;color=%235229A3&amp;src=gaguk9r89act7mfjdkri8c1rco%40group.calendar.google.com&amp;color=%23125A12&amp;ctz=America%2FNew_York" style=" border-width:0 " width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+				</div>
 			</div>
 		</div>
 	</div>

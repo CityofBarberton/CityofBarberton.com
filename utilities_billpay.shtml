@@ -14,7 +14,7 @@
 				</p>
 				<div class="text-center">
 					<br>
-					<a class="btn btn-success" href="https://secure.go-concepts.com/egov2web/net/login.aspx?citykey=barberton"><i class="icon-credit-card"></i> Continue to Online Bill Pay</a>
+					<a class="btn btn-success" href="https://secure.go-concepts.com/egov2web/net/login.aspx?citykey=barberton">Continue to Online Bill Pay <i class="icon-external-link"></i></a>
 					<br>
 				</div>
 			</div>
@@ -22,7 +22,7 @@
 			<div class="span3">
 				<div class="thumbnail">
 					<div class="caption">
-						<a class="btn" href="https://docs.google.com/file/d/0B8DEfGLr7vyWOENyOEVkVjFXdXc/edit?usp=sharing"><i class="icon-envelope"></i> Online Bill Pay Tutorial</a>
+						<a class="btn" href="https://docs.google.com/file/d/0B8DEfGLr7vyWOENyOEVkVjFXdXc/edit?usp=sharing"><i class="icon-file-text"></i> Online Bill Pay Tutorial </a>
 					</div>
 				</div>
 			</div>

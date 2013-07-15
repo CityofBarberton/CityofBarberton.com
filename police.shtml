@@ -9,14 +9,14 @@
 				</p><p>
 					The Police Chief is the head of the Police Department and reports to Director of Public Safety. With approximately 57 full-time employees and an operating budget of approximately $4.6 million, the Police Department is the largest department within the city. The Police Department's primary responsibility is to serve and protect the citizens and visitors of the city of Barberton. The Police Department carries out this responsibility by completing various tasks such as patrolling the city, responding to calls for service, investigating crimes, apprehending offenders, processing crime scenes and enforcing traffic laws and regulations.
 				</p>
-				<!--
+				
 				<div class="hidden-phone">
 					<div class="twitter-feed">
-						<a class="twitter-timeline" href="https://twitter.com/BarbertonCity" data-widget-id="320595509905604608">Tweets by @BarbertonCity</a>
-						<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+						<a class="twitter-timeline" data-dnt="true" href="https://twitter.com/BarbertonPD" data-widget-id="352149062360895491">Tweets by @BarbertonPD</a>
+						<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 					</div>
 				</div>
-				-->
+				
 				<br>
 				<h4>Phone Numbers</h4>
 				<!--#include virtual="/oc/lib/includes/contact_police.html" -->
@@ -41,6 +41,27 @@
 						<a class="btn" href="mailto:tips@cityofbarberton.com"><i class="icon-envelope"></i> Crime Tips</a>
 					</div>
 				</div>
+				<!--
+				<br>
+				<div class="thumbnail">
+					<div class="caption">
+						<h4>Public Records <i class="icon-external-link"></i></h4>
+						<p>
+							<a class="btn btn-primary" href="">Daily Log Sheets</a>
+						</p><br><p>
+							<a class="btn btn-primary" href="http://reports.department-online.com//Search.aspx?Id=bf05ff68-cb7b-4af7-b407-788c411762a2&Type=traffic">Traffic Accident Reports</a>
+						</p>
+						<a class="btn btn-primary" href="http://reports.department-online.com//Search.aspx?Id=bf05ff68-cb7b-4af7-b407-788c411762a2&Type=incident">Incident Reports</a>
+					</div>
+				</div>
+				
+				<br>
+				<div class="thumbnail">
+					<div class="caption">
+						<a class="btn btn-primary" href="">Forms</a>
+					</div>
+				</div>
+				-->
 			</div>
 		</div>
 	</div>

@@ -1,0 +1,115 @@
+<!--#include virtual="/oc/lib/includes/head.html" -->
+	<div class="container contain-main">
+		<div class="row-fluid">
+			<div class="span9">
+				<div class="page-header"><h3>Storm Emergency Communications</h3></div>
+				
+				<h4><small>2013-07-15</small> 2:30 PM</h4>
+				<strong>Red Cross Shelter</strong>
+				<p>The Red Cross is operating a shelter at the YMCA building located at <a href="https://maps.google.com/maps?q=500+w+hopocan&fb=1&gl=us&hq=500+w+hopocan&hnear=Barberton,+Summit,+Ohio&t=h&z=16">500 W. Hopocan Avenue</a>.</p>
+				<p>The following services are available: Warm Shower, Limited Cleaning Kits, Quiet Area, and Food.</p>
+				
+				<hr>
+				<h4><small>2013-07-15</small> 11:00 AM</h4>
+				<strong>Donations for Flood Victims</strong>
+				<p>Anyone wishing to make a monetary donation to support victims of the recent flooding in Barberton can do so in person at the Lake Anna YMCA, the Barberton Active adult Center, or via the <a href="https://ops1.operations.daxko.com/features/onlinegiving/donationdetails.aspx?cid=2085&campaign=8548">online donations page</a>.</p>
+				
+				<hr>
+				<h4><small>2013-07-13</small> 1:00 PM</h4>
+				<strong>Volunteers</strong>
+				<p>The City has Volunteers handing out flood packets to the rest of South Barberton from VanBuren to Ohio and Snyder to Elson Pointe.
+				Our staff has already been out to some of the obscure flooding locations to distribute information.
+				Volunteers from the Chapel group are stationed at the Slovene Center on 14th and will be there from 9–4 today, 1-5 Sunday, and Monday evening.
+				Over fifty volunteers are serving warm food and helping the neighbors move flood damaged stuff out to curb.
+				<strong>Volunteers are Identified by bright orange vests.</strong>
+				The Red Cross is moving into the area and coordinating with the Chapel group to drop off water and complement each other’s services.
+				</p>
+				<strong>Safety</strong>
+				<p>Barberton Police are doing extra patrols in the flood areas due to individuals scavenging flood items which have been put out on the curbs.
+				<!--
+				Barberton Police will also be discouraging loitering in an effort to protect against impostor volunteers.
+				All volunteers that we have spoken with are dressed in easily identifiable safety vests.
+				-->
+				</p>
+				<strong>Trash</strong>
+				<p>The service department is out in the community assisting citizens.
+				Republic Waste will be dropping of at least one dumpster on 14th & Tusc and one dumpster on Stanley and George.
+				Dumpster will be on the roadway and marked with safety cones.
+				Republic is working to have two extra trucks mobilized for curb pick up Monday morning.
+				</p>
+				<strong>Programs</strong>
+				<p>The City has been taking calls and meeting people all morning, and the Mayor has been out in the affected neighborhoods assisting people.
+				The assistance center at the CIty Building closed at 12:30 today and will reopen on Monday at 8AM.
+				Sanitizer will be being dropped of to families who have requested it as well as to the volunteer stations.
+				</p>
+				<p>If you or someone you know needs assitance please be sure to call <strong>(330) 861-7279</strong> so that we can provide prompt assistance.</p>
+				
+				<hr>
+				<h4><small>2013-07-12</small> 3:00 PM</h4>
+				<strong>Mayor Judge announces Emergency Flood Program</strong>
+				<p>Please see the <a href="news.shtml?d=main&amp;y=2013&amp;q=emergency_flood_program">2013 Emergency Flood Program</a> press release for more details.</p>
+				
+				<hr>
+				<h4><small>2013-07-12</small> 3:00 PM</h4>
+				<strong>Tax Relief for Storm Victims</strong>
+				<p>Summit County Fiscal Officer Kristen M. Scalise CPA, CFE has announced that <a href="https://fiscaloffice.summitoh.net/index.php/news/160-real-estate-tax-relief-to-july-storm-victims">real estate tax relief</a> will be available to property owners who have sustained damage in the wake of the recent storms.</p>
+				
+				<hr>
+				<h4><small>2013-07-12</small> 2:00 PM</h4>
+				<strong>Update of road openings:</strong>
+				<ul>
+					<li>All south Barberton side streets</li>
+					<li>Newell St at Norton Ave.</li>
+					<li>Norton Ave. (15th  St .to 5th St. N.W)</li>
+					<li>4th St NW at Harrington</li>
+					<li>16th St. NW</li>
+				</ul>
+				 
+				<strong>Roads remaining closed:</strong>
+				<ul>
+					<li>Barber Rd.  ALL</li>
+					<li>Norton Ave. (5th St NW to Newell St.)</li>
+					<li>Morgan St. (BHS to Barber Rd.)</li>
+					<li>4th St NW  (Norton Ave to Harrington)</li>
+					<li>14th</li>
+					<li>15th</li>
+					<li>Wooster Rd W. at sports complex</li>
+					<li>Brady Ave. at Wolf Creek</li>
+				</ul>
+
+				<hr>		
+				<h4><small>2013-07-12</small> 9:30 AM</h4>
+				<p>A shelter was established yesterday afternoon at the <a href="https://maps.google.com/maps?q=500+w+hopocan+ave+barberton&hnear=500+W+Hopocan+Ave,+Barberton,+Summit,+Ohio+44203&gl=us&t=h&z=16">Lake Anna YMCA on 500 W Hopocan Ave</a> for anyone displaced by flooding.</p>
+				
+				<hr>
+				<h4><small>2013-07-11</small> 11:00 AM</h4>
+				<p>If you have a storm related issue, please call (330) 861-7279 for the City of Barberton Storm Emergency Line and leave your name, address, phone number, and a brief description. Your call will be taken in the order it is received and be returned as soon as possible. If you have a life threatening emergency please call 9-1-1.</p>
+				
+				<hr>
+				<h4><small>2013-07-11</small> 9:00 AM</h4>
+				<p>Response details will be coming soon ...</p>
+			</div>
+			
+			<div class="span3">
+				<div class="thumbnail">
+					<div class="caption">
+						<h4>Contact</h4>
+						<p>(330) 861-7279</p>
+					</div>
+					
+					<div class="caption">
+						<a class="btn" href="emergency_map.shtml"><i class="icon-map-marker"></i> Storm Emergency Map</a>
+					</div>
+				</div>
+				
+				<br>
+				<div class="thumbnail">
+					<div class="caption">
+						<a class="btn btn-primary" href="news.shtml?d=main&amp;y=2013&amp;q=emergency_flood_program">Emergency Flood Programs</a>
+					</div>
+				</div>
+			</div>
+			
+		</div>
+	</div>
+<!--#include virtual="/oc/lib/includes/foot.html" -->

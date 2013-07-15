@@ -75,53 +75,21 @@
 				<ol class="carousel-indicators">
 					<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
 					<li data-target="#myCarousel" data-slide-to="1"></li>
-					<li data-target="#myCarousel" data-slide-to="2"></li>
-					<li data-target="#myCarousel" data-slide-to="3"></li>
-					<li data-target="#myCarousel" data-slide-to="4"></li>
-					<li data-target="#myCarousel" data-slide-to="5"></li>
 				</ol>
 				<!-- Carousel items -->
 				<div class="carousel-inner">
 					<div class="active item">
 						<img src="img/cbf/1880x1162_a.jpg">
 						<div class="carousel-caption">
-							<h4>The 57th Annual Cherry Blossom Festival</h4>
-							<p>The Barberton Area Jaycees proudly present the 57th Annual Cherry Blossom Festival held Friday – Sunday, May 17 – 19, 2013 in Downtown Barberton at Lake Anna Park; brought to you in part by the Barberton Herald.</p>
+							<h4>Cherry Blossoms at Lake Anna Park</h4>
+							<p>Barberton is known for its beautiful cherry blossoms in the spring, as well as the mum festival in the fall.</p>
 						</div>
 					</div>
 					<div class="item">
 						<img src="img/cbf/1880x1162_b.jpg">
 						<div class="carousel-caption">
-							<h4>The Cherry Blossom Parade</h4>
-							<p>The traditional Cherry Blossom Parade with its "Hollywood" theme will kick off at 10AM on Saturday, May 18, 2013 led by our grand marshal, The Magical Theatre Company.  Make plans to attend the Parade Award Presentation at Lake Anna Park at noon.</p>
-						</div>
-					</div>
-					<div class="item">
-						<img src="img/cbf/1880x1162_c.jpg">
-						<div class="carousel-caption">
-							<h4>Rides at the Cherry Blossom Festival</h4>
-							<p>The Festival will feature Kissel Bros Shows carnival rides, games & food along with vendors, parade, free entertainment & children’s events.</p>
-						</div>
-					</div>
-					<div class="item">
-						<img src="img/cbf/1880x1162_d.jpg">
-						<div class="carousel-caption">
-							<h4>Family Fun at the Cherry Blossom Festival</h4>
-							<p>Bring the entire family out to enjoy the Cherry Pie Eating Contest, Sand Castle Building, Fishing Derby, Penny Search, Bounce House, Critter Keepers 4-H Club Petting Area and Car Show.</p>
-						</div>
-					</div>
-					<div class="item">
-						<img src="img/cbf/1880x1162_e.jpg">
-						<div class="carousel-caption">
-							<h4>Cherry Blossom Festival</h4>
-							<p>The festival will cover Block 7, Park Ave from Second St to Fourth St and Third Street from Tuscarawas Ave to Paige Ave.</p>
-						</div>
-					</div>
-					<div class="item">
-						<img src="img/cbf/1880x1162_f.jpg">
-						<div class="carousel-caption">
-							<h4>Barberton Cherry Blossom Festival</h4>
-							<p>To learn more, visit <a href="http://www.barbertoncherryblossom.com">www.barbertoncherryblossom.com</a></p>
+							<h4>Barberton Pride</h4>
+							<p></p>
 						</div>
 					</div>
 				</div>
