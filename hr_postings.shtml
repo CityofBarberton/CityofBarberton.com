@@ -2,10 +2,11 @@
 	<div class="container contain-main">
 		<div class="row-fluid">
 			<div class="span12">
-				<h4><a href="https://drive.google.com/folderview?id=0B8DEfGLr7vyWc2lVQndFbnZUdk0&usp=sharing">Current Exam Notices</a></h4>
-				
-				<h4><a href="https://drive.google.com/folderview?id=0B8DEfGLr7vyWLXZKQ2JnV0ZsRE0&usp=sharing">Current Job Openings</a></h4>
-				
+				<div class="page-header"><h3>Exam Notices and Job Openings</h3></div>
+				<ul>
+					<li><a href="http://db.tt/gSMNis8a">Current Exam Notices</a></li>
+					<li><a href="http://db.tt/uqHTBrCn">Current Job Openings</a></li>
+				</ul>
 			</div>
 		</div>
 	</div>

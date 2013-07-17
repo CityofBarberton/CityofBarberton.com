@@ -3,10 +3,10 @@
 		"desc": "The City of Barberton is cleaning up after the recent storms; Mayor Judge has established an <a href='news.shtml?d=main&amp;y=2013&amp;q=emergency_flood_program'>Emergency Flood Program</a>. Anyone wishing to make a monetary donation to support flood victims can do so at the Lake Anna YMCA or via the <a href='https://ops1.operations.daxko.com/features/onlinegiving/donationdetails.aspx?cid=2085&campaign=8548'>online donations page</a>. More details will be posted to the <a href='emergency_details.shtml'>emergency communications page</a> as they become available.",
 		"clss": "btn",
 		"beg": "2013-07-10",
-		"end": "2013-07-16"
+		"end": "2013-07-19"
 	},
 	"<i class='icon-music'></i> Concert: JD Eichler": {
-		"desc": "As a part of the <a href='parks_events_concerts.shtml'>Lake Anna Concert Series</a>, contemporary style performer JD Eichler will be performing at the Lake Anna Park Gazebo Wednesday, July 17 at 11:30AP and again at 7:30PM",
+		"desc": "As a part of the <a href='parks_events_concerts.shtml'>Lake Anna Concert Series</a>, contemporary style performer JD Eichler will be performing at the Lake Anna Park Gazebo Wednesday, July 17 at 11:30AM and again at 7:30PM",
 		"clss": "btn btn-success",
 		"beg": "2013-07-13",
 		"end": "2013-07-17"
@@ -45,6 +45,6 @@
 		"desc": "Be sure to check out <a href='http://www.awcbarberton.com/'>Age Well Community Barberton</a>, it is an online destination designed to connect older adults to a variety of resources to help them flourish and thrive in the Barberton community.",
 		"clss": "btn btn-pride",
 		"beg": "2013-07-01",
-		"end": "2013-07-19"
+		"end": "2013-07-15"
 	}
 }
