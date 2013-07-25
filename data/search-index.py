@@ -142,16 +142,18 @@ def get_phonenumbers(file_name):
 	f = open(file_name, 'r')
 	for line in f:
 		if re.search('<td>.+</td>', line):
-			if re.search('[0-9]', line):
-				if not re.search('911', line):
-					page_phonedesc = re.sub('<td.*?>', '', line)
-					page_phonedesc = re.sub('</td>\(.*', '', page_phonedesc)
-					page_phonedesc = re.sub('<.*?>', ' ', page_phonedesc)
-
-					page_phonenumb = re.sub('.*\(', '(', line)
-					page_phonenumb = re.sub('<.*?>', '', page_phonenumb)
-
-					page_phones.append(str(page_phonedesc.strip() + '<br>&nbsp; ' + page_phonenumb.strip() + ' '))
+			#if re.search('[0-9]', line):
+			if not re.search('911', line):
+				page_phonedesc = re.sub('<td.*?>', '', line)
+				page_phonedesc = re.sub('</td>.*', '', page_phonedesc)
+				page_phonedesc = re.sub('<.*?>', ' ', page_phonedesc)
+				#print line.strip()
+				
+				page_phonenumb = re.sub('.*</td><td.*?>', '', line)
+				page_phonenumb = re.sub('<.*?>', '', page_phonenumb)
+				#print page_phonenumb.strip()
+				#print
+				page_phones.append(str(page_phonedesc.strip() + '<br>&nbsp; ' + page_phonenumb.strip() + ' '))
 	f.close()
 	return page_phones
 

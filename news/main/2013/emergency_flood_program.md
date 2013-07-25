@@ -32,4 +32,4 @@ ELIGIBILITY: ALL AFFECTED RESIDENTS
 SCOPE: Due to the damages and displacement that were a result of the extreme storm activity, the City of Barberton has recognized a need for assistance. Due to this extreme weather event, The City of Barberton is establishing a displacement center that will assist with food, shower, and overnight lodging if necessary.  Through volunteers and donations some hygiene items may be available.  Please call (330) 861-7279
 
 #### Forms
-[Emergency Information/Data Application](http://db.tt/93XutpLU)
+No longer available. The programs have ended.

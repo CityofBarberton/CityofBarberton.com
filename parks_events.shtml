@@ -72,6 +72,11 @@
 		
 		<div class="row-fluid">
 			<div class="span6">
+				<h4>Lake Anna Concert Series</h4>
+				<p>Visit the <a href="parks_events_concerts.shtml">Lake Anna Concert Series</a> page to see a listing of the upcoming concerts or check the calendar of upcoming events on the right.</p>
+				
+				<hr class="soften">
+				
 				<h4>NDS 2013 Cruisin' Into Downtown Barberton</h4>
 				<p>
 					Classic Vehicle Shows on the following Thursdays from 5 to 8 in the evening.
@@ -135,10 +140,6 @@
 			</div>
 			
 			<div class="span6">
-				<h4><a href="parks_events_concerts.shtml">Lake Anna Concert Series</a></h4>
-				
-				<hr class="soften">
-				
 				<h4>More Upcoming Events</h4>
 				<div class="gcal-agenda">
 					<iframe src="https://www.google.com/calendar/embed?showTitle=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=400&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=o7t942qbqsfvv6o56qtgrdbekk%40group.calendar.google.com&amp;color=%235229A3&amp;src=gaguk9r89act7mfjdkri8c1rco%40group.calendar.google.com&amp;color=%23125A12&amp;ctz=America%2FNew_York" style=" border-width:0 " width="100%" height="400" frameborder="0" scrolling="no"></iframe>

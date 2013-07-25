@@ -1,39 +1,34 @@
 {
-	"<i class='icon-warning-sign'></i> Flooding": {
-		"desc": "The City of Barberton is cleaning up after the recent storms; Mayor Judge has established an <a href='news.shtml?d=main&amp;y=2013&amp;q=emergency_flood_program'>Emergency Flood Program</a>. Anyone wishing to make a monetary donation to support flood victims can do so at the Lake Anna YMCA or via the <a href='https://ops1.operations.daxko.com/features/onlinegiving/donationdetails.aspx?cid=2085&campaign=8548'>online donations page</a>. More details will be posted to the <a href='emergency_details.shtml'>emergency communications page</a> as they become available.",
-		"clss": "btn",
-		"beg": "2013-07-10",
-		"end": "2013-07-19"
-	},
-	"<i class='icon-music'></i> Concert: JD Eichler": {
-		"desc": "As a part of the <a href='parks_events_concerts.shtml'>Lake Anna Concert Series</a>, contemporary style performer JD Eichler will be performing at the Lake Anna Park Gazebo Wednesday, July 17 at 11:30AM and again at 7:30PM",
+	"<i class='icon-music'></i> Concert: Big Bands": {
+		"desc": "As a part of the <a href='parks_events_concerts.shtml'>Lake Anna Concert Series</a>, Big Band style performers The Swinging 87s will be performing at 11:30AM and the Glenn Miller Orchestra will be performing at 7:00PM on Wednesday, July 24 at the <a href='park_lake_anna.shtml'>Lake Anna Park Gazebo</a>",
 		"clss": "btn btn-success",
-		"beg": "2013-07-13",
-		"end": "2013-07-17"
+		"beg": "2013-07-23",
+		"end": "2013-07-24"
 	},
 	"<i class='icon-leaf'></i> Farmers Market": {
 		"desc": "There will be a farmers market in downtown on Wednesday from 2 to 6. Fresh produce from local vendors, baked goods, jams, jellies, honey, syrup, flowers, health information & screening, cooking & vegetable carving demonstrations, gardening tips, kid's day, free market bag & shopper incentives. Fun for the whole family!",
 		"clss": "btn btn-success",
-		"beg": "2013-07-16",
-		"end": "2013-07-17"
+		"beg": "2013-07-23",
+		"end": "2013-07-24"
 	},
-	"<i class='icon-flag-checkered'></i> Cruisin' Into Downtown": {
+	"<i class='icon-music'></i> Concert: Satisfaction": {
+		"desc": "As a part of the <a href='parks_events_concerts.shtml'>Lake Anna Concert Series</a>, Rolling Stones style performers Satisfaction will be performing at 7:30PM on Friday, July 26 at the <a href='park_lake_anna.shtml'>Lake Anna Park Gazebo</a>",
+		"clss": "btn btn-success",
+		"beg": "2013-07-25",
+		"end": "2013-07-26"
+	},
+	"Change for Change": {
+		"desc": "This month's <a href='news.shtml?d=main&amp;y=2013&amp;q=change_for_change'>Change for Change</a> funds will be donated to: Youth Action Fund <br> August 1, 4:30-7:00 at Hodges",
+		"clss": "btn btn-pride",
+		"beg": "2013-07-30",
+		"end": "2013-08-01"
+	},
+	
+	"<i class='icon-flag-checkered'></i> Cruisin'": {
 		"desc": "Classic vehicle display, music, great food, shopping, contests, and loads of fun! Sponsored by NDS. <br> When: July 18 5-8pm <br> Where: W Tuscarawas Ave & 5th St NW",
 		"clss": "btn btn-pride",
 		"beg": "2013-07-04",
 		"end": "2013-07-18"
-	},
-	"<i class='icon-music'></i> Concert: Pop Tarts": {
-		"desc": "50s and 60s style performers the Pop Tarts will be performing at the Lake Anna Park Gazebo Friday, July 19 at 7:30PM",
-		"clss": "btn btn-success",
-		"beg": "2013-07-18",
-		"end": "2013-07-19"
-	},
-	"Change for Change": {
-		"desc": "This month's <a href='news.shtml?d=main&amp;y=2013&amp;q=change_for_change'>Change for Change</a> funds will be donated to: Barberton Athletic Department <br> June 28, 4:30-7:00 at Fairways (451 Fairview Ave, Barberton, OH)",
-		"clss": "btn btn-pride",
-		"beg": "2013-06-27",
-		"end": "2013-06-28"
 	},
 	"<i class='icon-star'></i> City Offices Closed": {
 		"desc": "City offices will be closed July 4th in observance of Independence Day. The finance department will also be closed July 5th.",
