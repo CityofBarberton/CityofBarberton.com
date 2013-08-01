@@ -1,4 +1,6 @@
-<!--#include virtual="/oc/lib/includes/head.html" -->
+<!--#include virtual="/oc/lib/includes/head_a.html" -->
+	<title>City Council - City of Barberton</title>
+<!--#include virtual="/oc/lib/includes/head_b.html" -->
 	<div class="container contain-main">
 		<div class="row-fluid">
 			<div class="span9">
@@ -118,7 +120,7 @@
 				<br>
 				<div class="thumbnail">
 					<div class="caption">
-						<a class="btn" href="http://db.tt/qVqzIkFc"><i class="icon-folder-open-alt"></i> Council Documents</a>
+						<a class="btn" href="http://db.tt/qVqzIkFc"><i class="icon-dropbox"></i> Council Documents</a>
 					</div>
 				</div>
 			</div>

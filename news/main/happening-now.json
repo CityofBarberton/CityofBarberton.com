@@ -1,45 +1,63 @@
 {
-	"<i class='icon-music'></i> Concert: Big Bands": {
-		"desc": "As a part of the <a href='parks_events_concerts.shtml'>Lake Anna Concert Series</a>, Big Band style performers The Swinging 87s will be performing at 11:30AM and the Glenn Miller Orchestra will be performing at 7:00PM on Wednesday, July 24 at the <a href='park_lake_anna.shtml'>Lake Anna Park Gazebo</a>",
+	"<i class='icon-flag-checkered'></i> Cruisin'": {
+		"desc": "Classic vehicle display, music, great food, shopping, contests, and loads of fun! Sponsored by NDS. <br> When: August 1, 5-8pm",
+		"clss": "btn btn-pride",
+		"beg": "2013-07-31",
+		"end": "2013-08-01"
+	},
+	"<i class='icon-music'></i> The Brighter Side": {
+		"desc": "As a part of the <a href='parks_events_concerts.shtml'>Lake Anna Concert Series</a>, Blues performers The Brighter Side will be performing at 7:30PM on Friday, August 2 at the <a href='park_lake_anna.shtml'>Lake Anna Park Gazebo</a>",
 		"clss": "btn btn-success",
-		"beg": "2013-07-23",
-		"end": "2013-07-24"
+		"beg": "2013-08-01",
+		"end": "2013-08-02"
+	},
+	"Change for Change": {
+		"desc": "This month's <a href='news.shtml?d=main&amp;y=2013&amp;q=change_for_change'>Change for Change</a> funds will be donated to: Youth Action Fund <br> August <strike>1</strike> <strong>2</strong>, 4:30-7:00 at Hodges",
+		"clss": "btn btn-pride",
+		"beg": "2013-07-31",
+		"end": "2013-08-02"
+	},
+	"<i class='icon-music'></i> Polka &amp; Country": {
+		"desc": "As a part of the <a href='parks_events_concerts.shtml'>Lake Anna Concert Series</a>, On Wednesday, August 7 The Chardon Polka Band will be performing at 11:30PM and then Everyday America featuring Amanda Jones &amp; Sugarland Tribute Band will be performing at 7:30pm at the <a href='park_lake_anna.shtml'>Lake Anna Park Gazebo</a>",
+		"clss": "btn btn-success",
+		"beg": "2013-08-03",
+		"end": "2013-08-07"
 	},
 	"<i class='icon-leaf'></i> Farmers Market": {
 		"desc": "There will be a farmers market in downtown on Wednesday from 2 to 6. Fresh produce from local vendors, baked goods, jams, jellies, honey, syrup, flowers, health information & screening, cooking & vegetable carving demonstrations, gardening tips, kid's day, free market bag & shopper incentives. Fun for the whole family!",
 		"clss": "btn btn-success",
-		"beg": "2013-07-23",
-		"end": "2013-07-24"
+		"beg": "2013-08-04",
+		"end": "2013-08-07"
 	},
-	"<i class='icon-music'></i> Concert: Satisfaction": {
-		"desc": "As a part of the <a href='parks_events_concerts.shtml'>Lake Anna Concert Series</a>, Rolling Stones style performers Satisfaction will be performing at 7:30PM on Friday, July 26 at the <a href='park_lake_anna.shtml'>Lake Anna Park Gazebo</a>",
+	"<i class='icon-music'></i> Ruby Shooz": {
+		"desc": "As a part of the <a href='parks_events_concerts.shtml'>Lake Anna Concert Series</a>, 50s &amp; 60s style performers Ruby Shooz will be performing at 7:30PM on Friday, August 9 at the <a href='park_lake_anna.shtml'>Lake Anna Park Gazebo</a>",
 		"clss": "btn btn-success",
-		"beg": "2013-07-25",
-		"end": "2013-07-26"
+		"beg": "2013-08-08",
+		"end": "2013-08-09"
 	},
-	"Change for Change": {
-		"desc": "This month's <a href='news.shtml?d=main&amp;y=2013&amp;q=change_for_change'>Change for Change</a> funds will be donated to: Youth Action Fund <br> August 1, 4:30-7:00 at Hodges",
-		"clss": "btn btn-pride",
-		"beg": "2013-07-30",
-		"end": "2013-08-01"
+	"<i class='icon-music'></i> Todd Taylor": {
+		"desc": "As a part of the <a href='parks_events_concerts.shtml'>Lake Anna Concert Series</a>, 50s &amp; 60s style performers Todd Taylor will be performing at 11:30am on Wednesday, August 14 at the <a href='park_lake_anna.shtml'>Lake Anna Park Gazebo</a>",
+		"clss": "btn btn-success",
+		"beg": "2013-08-10",
+		"end": "2013-08-14"
+	},
+	"<i class='icon-leaf'></i> Downtown Farmers Market": {
+		"desc": "There will be a farmers market in downtown on Wednesday from 2 to 6. Fresh produce from local vendors, baked goods, jams, jellies, honey, syrup, flowers, health information & screening, cooking & vegetable carving demonstrations, gardening tips, kid's day, free market bag & shopper incentives. Fun for the whole family!",
+		"clss": "btn btn-success",
+		"beg": "2013-08-12",
+		"end": "2013-08-14"
 	},
 	
-	"<i class='icon-flag-checkered'></i> Cruisin'": {
-		"desc": "Classic vehicle display, music, great food, shopping, contests, and loads of fun! Sponsored by NDS. <br> When: July 18 5-8pm <br> Where: W Tuscarawas Ave & 5th St NW",
+	"<i class='icon-certificate'></i> Fireworks": {
+		"desc": "After the concert, there will be fireworks at Lake Anna Park at 9:30pm on Sunday, September 1.",
 		"clss": "btn btn-pride",
-		"beg": "2013-07-04",
-		"end": "2013-07-18"
+		"beg": "2013-08-28",
+		"end": "2013-09-01"
 	},
 	"<i class='icon-star'></i> City Offices Closed": {
-		"desc": "City offices will be closed July 4th in observance of Independence Day. The finance department will also be closed July 5th.",
+		"desc": "City offices will be closed September 2 in observance of Labor Day.",
 		"clss": "btn",
-		"beg": "2013-07-03",
-		"end": "2013-07-05"
-	},
-	"<i class='icon-group'></i> Age Well Community": {
-		"desc": "Be sure to check out <a href='http://www.awcbarberton.com/'>Age Well Community Barberton</a>, it is an online destination designed to connect older adults to a variety of resources to help them flourish and thrive in the Barberton community.",
-		"clss": "btn btn-pride",
-		"beg": "2013-07-01",
-		"end": "2013-07-15"
+		"beg": "2013-08-30",
+		"end": "2013-09-02"
 	}
 }

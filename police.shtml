@@ -1,4 +1,6 @@
-<!--#include virtual="/oc/lib/includes/head.html" -->
+<!--#include virtual="/oc/lib/includes/head_a.html" -->
+	<title>Police - City of Barberton</title>
+<!--#include virtual="/oc/lib/includes/head_b.html" -->
 	<div class="container contain-main">
 		<div class="row-fluid">
 			<div class="span9">
@@ -41,27 +43,29 @@
 						<a class="btn" href="mailto:tips@cityofbarberton.com"><i class="icon-envelope"></i> Crime Tips</a>
 					</div>
 				</div>
-				<!--
+				
 				<br>
 				<div class="thumbnail">
 					<div class="caption">
 						<h4>Public Records <i class="icon-external-link"></i></h4>
 						<p>
-							<a class="btn btn-primary" href="">Daily Log Sheets</a>
-						</p><br><p>
+							<a class="btn btn-primary" href="http://db.tt/RX5R6Jd4">Daily Log Sheets</a>
+						</p>
+						<a class="btn btn-primary" href="http://reports.department-online.com//Search.aspx?Id=bf05ff68-cb7b-4af7-b407-788c411762a2&Type=incident">Incident Reports</a>
+						<!--<p>
 							<a class="btn btn-primary" href="http://reports.department-online.com//Search.aspx?Id=bf05ff68-cb7b-4af7-b407-788c411762a2&Type=traffic">Traffic Accident Reports</a>
 						</p>
 						<a class="btn btn-primary" href="http://reports.department-online.com//Search.aspx?Id=bf05ff68-cb7b-4af7-b407-788c411762a2&Type=incident">Incident Reports</a>
+						-->
 					</div>
 				</div>
 				
 				<br>
 				<div class="thumbnail">
 					<div class="caption">
-						<a class="btn btn-primary" href="">Forms</a>
+						<a class="btn btn-primary" href="http://db.tt/PTv8fxPe">Forms</a>
 					</div>
 				</div>
-				-->
 			</div>
 		</div>
 	</div>

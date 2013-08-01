@@ -1,4 +1,6 @@
-<!--#include virtual="/oc/lib/includes/head.html" -->
+<!--#include virtual="/oc/lib/includes/head_a.html" -->
+	<title>Planning - City of Barberton</title>
+<!--#include virtual="/oc/lib/includes/head_b.html" -->
 	<div class="container contain-main">
 		<div class="row-fluid">
 			<div class="span9">
@@ -49,9 +51,9 @@
 				<div class="thumbnail">
 					<div class="caption">
 						<p>
-							<a class="btn" href="http://db.tt/o3HTOLea"><i class="icon-folder-open-alt"></i> Forms &amp; Documents</a>
+							<a class="btn" href="http://db.tt/o3HTOLea"><i class="icon-dropbox"></i> Forms &amp; Documents</a>
 						</p>
-						<a class="btn" href="http://db.tt/Xq4vXzCp"><i class="icon-folder-open-alt"></i> Maps</a>
+						<a class="btn" href="http://db.tt/Xq4vXzCp"><i class="icon-dropbox"></i> Maps</a>
 					</div>
 				</div>
 			</div>

@@ -1,4 +1,6 @@
-<!--#include virtual="/oc/lib/includes/head.html" -->
+<!--#include virtual="/oc/lib/includes/head_a.html" -->
+	<title>Parks Events - City of Barberton</title>
+<!--#include virtual="/oc/lib/includes/head_b.html" -->
 	<div class="container contain-main">
 		<div class="row-fluid">
 			<div class="span9">
@@ -63,8 +65,8 @@
 				<br>
 				<div class="thumbnail">
 					<div class="caption">
-						<!--<a class="btn" href="https://drive.google.com/folderview?id=0B8DEfGLr7vyWSTdUNHhwUTVmc2M&amp;usp=sharing"><i class="icon-folder-open-alt"></i> Fliers, Forms and Documents</a>-->
-						<a class="btn" href="http://db.tt/MTv81geD"><i class="icon-folder-open-alt"></i> Fliers, Forms and Documents</a>
+						<!--<a class="btn" href="https://drive.google.com/folderview?id=0B8DEfGLr7vyWSTdUNHhwUTVmc2M&amp;usp=sharing"><i class="icon-dropbox"></i> Fliers, Forms and Documents</a>-->
+						<a class="btn" href="http://db.tt/MTv81geD"><i class="icon-dropbox"></i> Fliers, Forms and Documents</a>
 					</div>
 				</div>
 			</div>

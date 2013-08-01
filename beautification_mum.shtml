@@ -1,4 +1,6 @@
-<!--#include virtual="/oc/lib/includes/head.html" -->
+<!--#include virtual="/oc/lib/includes/head_a.html" -->
+	<title>Mum Fest - City of Barberton</title>
+<!--#include virtual="/oc/lib/includes/head_b.html" -->
 	<div id="fb-root"></div>
 	<script>(function(d, s, id) {
 	  var js, fjs = d.getElementsByTagName(s)[0];

@@ -1,4 +1,6 @@
-<!--#include virtual="/oc/lib/includes/head.html" -->
+<!--#include virtual="/oc/lib/includes/head_a.html" -->
+	<title>Parks Concerts - City of Barberton</title>
+<!--#include virtual="/oc/lib/includes/head_b.html" -->
 	<div class="container contain-main">
 		<div class="row-fluid">
 			<div class="span7">
@@ -11,30 +13,35 @@
 					<li>Wed Jul 17</li>
 					<ul>
 						<li>11:30am - 12:30pm Concert: JD Eicher (Contemporary)</li>
-						<li>7:30pm - 8:30pm Concert: JD Eicher (Contemporary)</li>
+						<li>7:30pm - 9:00pm Concert: JD Eicher (Contemporary)</li>
 					</ul>
-					<li>Fri Jul 19 7:30pm - 8:30pm Concert: Pop Tarts (50's & 60's)</li>
+					<li>Fri Jul 19 7:30pm - 9:00pm Concert: Pop Tarts (50's &amp; 60's)</li>
 					<li>Wed Jul 24</li>
 					<ul>
 						<li>11:30am - 12:30pm Concert: The Swingin 78's (Big Band)</li>
 						<li>7:00pm - 8:00pm Concert: Glenn Miller Orchestra</li>
 					</ul>
-					<li>Fri Jul 26 7:30pm - 8:30pm Concert: Satisfaction (Rolling Stones)</li>
-					<li>Wed Jul 31 7:30pm - 8:30pm Concert: Mark Leach The Blue Collars (Country)</li>
-					<li>Fri Aug 2 7:30pm - 8:30pm Concert: The Brighter Side (Blues)</li>
+					<li>Fri Jul 26 7:30pm - 9:00pm Concert: Satisfaction (Rolling Stones)</li>
+					<li>Wed Jul 31 7:30pm - 9:00pm Concert: Mark Leach The Blue Collars (Country)</li>
+					<li>Fri Aug 2 7:30pm - 9:00pm Concert: The Brighter Side (Blues)</li>
 					<li>Wed Aug 7</li>
 					<ul>
 						<li>11:30am - 12:30pm Concert: Chardon Polka Band (Polka)</li>
-						<li>7:30pm - 8:30pm Concert: Chad Baker Band (Country)</li>
+						<li>7:30pm - 9:00pm Concert: <strike>Chad Baker Band (Country)</strike> Everyday America featuring Amanda Jones @ Sugarland Tribute Band</li>
 					</ul>
-					<li>Fri Aug 9 7:30pm - 8:30pm Concert: Ruby Shooz (50's &amp; 60's)</li>
+					<li>Fri Aug 9 7:30pm - 9:00pm Concert: Ruby Shooz (50's &amp; 60's)</li>
 					<li>Wed Aug 14 11:30am - 12:30pm Concert: Todd Taylor (50's &amp; 60's)</li>
-					<li>Fri Aug 16 7:30pm - 8:30pm Concert: Liverpool Lads (Beatles)</li>
+					<li>Fri Aug 16 7:30pm - 9:00pm Concert: Liverpool Lads (Beatles)</li>
 					<li>Wed Aug 21</li>
 					<ul>
 						<li>11:30am - 1:00pm Concert: Brett Newski (Folk)</li>
 						<li>7:30pm - 9:00pm Concert: Brett Newski (Folk)</li>
 					</ul>
+					<li>Fri Aug 23 7:30pm - 9:00pm Concert: Party Boys (Beach Boys)</li>
+					<li>Wed Aug 28 7:30pm - 9:00pm Concert: Northwest Territory (Bluegrass)</li>
+					<li>Fri Aug 30 7:30pm - 9:00pm Concert: Dark Side of the Moon (Pink Floyd) &amp; <strong>Laser Light Show</strong></li>
+					<li>Fri Aug 31 7:30pm - 9:00pm Concert: Doo-Wop Guys (50s &amp; 60s)</li>
+					<li>Fri Sep 1 7:30pm - 9:00pm Concert: Rick Alviti (Elvis) &amp; <strong>Fireworks</strong></li>
 				</ul>
 				
 			</div>

@@ -1,4 +1,6 @@
-<!--#include virtual="/oc/lib/includes/head.html" -->
+<!--#include virtual="/oc/lib/includes/head_a.html" -->
+	<title>Active Adult Center - City of Barberton</title>
+<!--#include virtual="/oc/lib/includes/head_b.html" -->
 	<div class="container contain-main">
 		<div class="row-fluid">
 			<div class="span9">
@@ -62,7 +64,7 @@
 				<br>
 				<div class="thumbnail">
 					<div class="caption">
-						<a class="btn" href="http://db.tt/QTUrDbpN"><i class="icon-folder-open-alt"></i> Fliers, Forms and Documents</a>
+						<a class="btn" href="http://db.tt/QTUrDbpN"><i class="icon-dropbox"></i> Fliers, Forms and Documents</a>
 					</div>
 				</div>
 			</div>

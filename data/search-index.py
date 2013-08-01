@@ -153,7 +153,11 @@ def get_phonenumbers(file_name):
 				page_phonenumb = re.sub('<.*?>', '', page_phonenumb)
 				#print page_phonenumb.strip()
 				#print
-				page_phones.append(str(page_phonedesc.strip() + '<br>&nbsp; ' + page_phonenumb.strip() + ' '))
+				
+				if re.search('http:.+', page_phonenumb) or re.search('https:.+', page_phonenumb):
+					page_phones.append('<a href=\'' + page_phonenumb.strip() + '\'>' + str(page_phonedesc.strip() + '</a>'))
+				else:
+					page_phones.append(str(page_phonedesc.strip() + '<br><span class=\'srchsub\'>' + page_phonenumb.strip() + '</span>'))
 	f.close()
 	return page_phones
 

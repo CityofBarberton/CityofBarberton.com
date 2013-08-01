@@ -139,6 +139,15 @@ hr.soften {
 	vertical-align: middle;
 }
 
+#search-results ul li {
+	margin-bottom: 4px;
+}
+.srchsub {
+	padding-bottom: 12px;
+	padding-left: 12px;
+	color:#5a5a5a;
+}
+
 .footer {
 	padding: 5px 40px;
 	font-size:smaller;
