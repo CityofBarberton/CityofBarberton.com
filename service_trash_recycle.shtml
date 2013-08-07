@@ -4,13 +4,14 @@
 	<div class="container contain-main">
 		<div class="row-fluid">
 			<div class="span9">
-				<div class="page-header"><h3>Barberton Trash and Recylcing</h3></div>
+				<div class="page-header"><h3>Barberton Trash and Recycling</h3></div>
 				<h4>What you can Recycle</h4>
 				<ul>
-					<li>Plastic bottles</li>
-					<li>Metal cans</li>
-					<li>Glass bottles</li>
-					<li>Newspapers, magazines, junk mail, and cardboard</li>
+					<li>Milk, Juice, Broth, Soup &  Other Food & Beverage Cartons</li>
+					<li>Paper, Magazines, Junk Mail & Cardboard</li>
+					<li>Plastics #1 - #7</li>
+					<li>Glass Bottles & Jars</li>
+					<li>Aluminum & Other Metal Cans</li>
 				</ul>
 				
 				<h4>Bulk Collection "Tag" Fees</h4>
@@ -25,6 +26,9 @@
 						</tr>
 					</thead><tbody>
 						<tr>
+							<td>Yard waste</td>
+							<td></td>
+						</tr><tr>
 							<td>Garbage cans (not to exceed 60lbs.)</td>
 							<td>$5</td>
 						</tr><tr>
@@ -75,6 +79,14 @@
 						</tr>
 					</tbody>
 				</table>
+				<p>Stickers can be purchased from the following vendors:</p>
+				<ul>
+					<li>Ritzman Pharmacy - 390 Robinson Ave. Barberton, Oh 44203</li>
+					<li>Rocky’s Drive Thru - 560 Norton Ave. Barberton, Oh 44203</li>
+					<li>Magic Mart Drive Thru - 618 Wooster Rd. Barberton, Ohio 44203</li>
+				</ul>
+				
+				<hr>
 				
 				<h4>Trash &amp; Recycle Holiday Schedule</h4>
 				<ul>
@@ -91,65 +103,10 @@
 				Should one of these holidays fall on a Saturday or Sunday, all collections for the following week will be performed on the normal collection day, without delay. 
 				</p>
 				
-				<!--
-				<h4>Rules and Regulations for Curbside Pickup</h4>
-				<ol>
-					<li>All refuse and recycle material must be placed at curbside for Monday pickup no later than 7:00 a.m. on the day of pickup or no earlier than one hour before sunset Sunday.</li>
-					<li>Refuse must be drained of all water and other fluids prior to being placed at curb for Monday pickup in either 20-gallon or 30-gallon garbage cans with handles or plastic bags.</li>
-					<li>All large items must be placed at curbside for Monday pickup.</li>
-					<li>Grass clippings, twigs and sticks, will be picked up when placed in bags or containers. Weight limit not to exceed 50 pounds.</li>
-					<li>Hedge and tree trimmings are to be securely tied in bundles not to exceed 2 feet in diameter and 4 feet in length and placed at curbside.</li>
-					<li>All recyclable items must be put in the proper recycle container and placed at curbside along with your regular refuse for Monday pickup. Limit (1) one container per household.</li>
-					<li>Residents of the City of Barberton shall be charged $17.04 per household for curbside trash & recycling.</li>
-					<li>Those who qualify for the Residential Services Relief Program shall be charged $13.84, for curbside trash & recycling.</li>
-					<li>“Residential unit” means the grouping together under a common roof of one to four residential units.</li>
-					<li>No residential unit may hire a private hauler.</li>
-					<li>Medical pickups are available for the physically disabled.</li>
-					<li>No construction material, no evictions or whole house clean-outs and no dirt, soil or feces. No tires, no explosives and no hazardous materials.</li>
-					<li>Board of Sanitary Collection Appeals will handle hardship cases.</li>
-					<li>Cancellation of this program requires a thirty (30) day written notice, may be only in increments of thirty (30) days, water must be turned off and not more than twice a year.</li>
-				</ol>
-				
-				<h4>Large items that will be picked up in addition to residential refuse</h4>
-				<ul>
-					<li>Picnic tables – dismantled / no pieces larger than 4’ x 4’ x 4’</li>
-					<li>Dog house – dismantled / no pieces larger than 4’ x 4’ x 4”</li>
-					<li>Window boxes or planters – not over 4’ in length</li>
-					<li>Firewood storage boxes – not over 4’ length, dismantled</li>
-					<li>Bookcases</li>
-					<li>Furniture</li>
-					<li>Household appliances: washers, dryers, stoves, etc. (NO items with Freon / refrigeration compressors, such as refrigerators, freezers, dehumidifiers or air conditioners)</li>
-					<li>House doors</li>
-					<li>Storm windows</li>
-					<li>Storm doors</li>
-					<li>Spouting</li>
-					<li>Tree trimmings, brush or hedge trimmings &ndash; if tied in bundles 4’ long or less (maximum number of bundled branches will be 4-5 at a time)</li>
-					<li>Grass (if bagged)</li>
-					<li>Swing sets – dismantled</li>
-					<li>Carpeting – 4’ long rolls or less and securely tied</li>
-					<li>Furnaces (not complete furnaces/ no more than 60 lbs.)</li>
-					<li>Water heaters</li>
-					<li>Bathroom fixtures</li>
-					<li>Pallets – no longer than 4’, dismantled and securely tied in bundles</li>
-					<li>TV antenna – dismantled</li>
-					<li>Wood –no longer than 4’ x 4’ x 4” with no exposed nails, securely tied in bundles</li>
-					<li>Car seats</li>
-					<li>Mufflers</li>
-					<li>Tail pipes</li>
-					<li>Fencing – rolled and tied not over 4’ in length</li>
-				</ul>
-				-->
 			</div>
 			<div class="span3">
 				<div class="thumbnail">
 					<div class="caption">
-						<h4>Recycling Drop-off Center</h4>
-						<address>
-							Barberton Street Department<br>
-							677 Brady Ave<br>
-							Barberton, OH 44203
-						</address>
-						
 						<h4>Republic Customer Service</h4>
 						<address>
 							1 (800) 247-3644

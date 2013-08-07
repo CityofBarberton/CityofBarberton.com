@@ -132,11 +132,15 @@
 		<div class="social-icons">
 			<div class="row-fluid">
 				<div class="span12 text-center">
-					<a href="https://www.facebook.com/pages/City-of-Barberton/321987684506398" class="nouline pwide">
+					<a title="Facebook" href="https://www.facebook.com/pages/City-of-Barberton/321987684506398" class="nouline pwide">
 						<i class="icon-facebook-sign icon-2x"></i>
-					</a><a href="https://twitter.com/BarbertonCity" class="nouline pwide">
+					</a><a title="Twitter" href="https://twitter.com/BarbertonCity" class="nouline pwide">
 						<i class="icon-twitter-sign icon-2x"></i>
-					</a><a href="https://github.com/CityofBarberton" class="nouline pwide">
+					</a><a title="Intsagram" href="http://instagram.com/Cityofbarberton" class="nouline pwide">
+						<i class="icon-instagram icon-2x"></i>
+					</a><a title="LinkedIn" href="http://www.linkedin.com/company/city-of-barberton" class="nouline pwide">
+						<i class="icon-linkedin-sign icon-2x"></i>
+					</a><a title="Github" href="https://github.com/CityofBarberton" class="nouline pwide">
 						<i class="icon-github-sign icon-2x"></i>
 					</a>
 				</div>

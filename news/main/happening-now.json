@@ -1,25 +1,7 @@
 {
-	"<i class='icon-flag-checkered'></i> Cruisin'": {
-		"desc": "Classic vehicle display, music, great food, shopping, contests, and loads of fun! Sponsored by NDS. <br> When: August 1, 5-8pm",
-		"clss": "btn btn-pride",
-		"beg": "2013-07-31",
-		"end": "2013-08-01"
-	},
-	"<i class='icon-music'></i> The Brighter Side": {
-		"desc": "As a part of the <a href='parks_events_concerts.shtml'>Lake Anna Concert Series</a>, Blues performers The Brighter Side will be performing at 7:30PM on Friday, August 2 at the <a href='park_lake_anna.shtml'>Lake Anna Park Gazebo</a>",
-		"clss": "btn btn-success",
-		"beg": "2013-08-01",
-		"end": "2013-08-02"
-	},
-	"Change for Change": {
-		"desc": "This month's <a href='news.shtml?d=main&amp;y=2013&amp;q=change_for_change'>Change for Change</a> funds will be donated to: Youth Action Fund <br> August <strike>1</strike> <strong>2</strong>, 4:30-7:00 at Hodges",
-		"clss": "btn btn-pride",
-		"beg": "2013-07-31",
-		"end": "2013-08-02"
-	},
-	"<i class='icon-music'></i> Polka &amp; Country": {
-		"desc": "As a part of the <a href='parks_events_concerts.shtml'>Lake Anna Concert Series</a>, On Wednesday, August 7 The Chardon Polka Band will be performing at 11:30PM and then Everyday America featuring Amanda Jones &amp; Sugarland Tribute Band will be performing at 7:30pm at the <a href='park_lake_anna.shtml'>Lake Anna Park Gazebo</a>",
-		"clss": "btn btn-success",
+	"<i class='icon-umbrella'></i> Concert Rained Out": {
+		"desc": "The Country Concert scheduled for Wednesday August 7 at 7:30pm at the Lake Anna Park Gazebo has been called due to rain.<br>Check the <a href='parks_events_concerts.shtml'>Lake Anna Concert Series</a> page for a schedule of other upcoming concerts",
+		"clss": "btn btn-primary",
 		"beg": "2013-08-03",
 		"end": "2013-08-07"
 	},
@@ -47,6 +29,13 @@
 		"beg": "2013-08-12",
 		"end": "2013-08-14"
 	},
+		"<i class='icon-bug'></i> M.A.D.": {
+		"desc": "The Mosquito Abatement District is having an open house on Monday, Aug. 19th from 1pm – 7pm. <br>For more information visit their website at <a href='http://www.mosquitodistrict.com'>www.mosquitodistrict.com</a>",
+		"clss": "btn",
+		"beg": "2013-08-15",
+		"end": "2013-08-19"
+	},
+
 	
 	"<i class='icon-certificate'></i> Fireworks": {
 		"desc": "After the concert, there will be fireworks at Lake Anna Park at 9:30pm on Sunday, September 1.",
@@ -59,5 +48,24 @@
 		"clss": "btn",
 		"beg": "2013-08-30",
 		"end": "2013-09-02"
+	},
+	"<i class='icon-cut'></i> Free Shredding": {
+		"desc": "ReWorks is offering a FREE confidential shredding, open to Summit County residents and businesses, on Saturday, September 14 from 9:00 a.m. to noon at the Barberton Community Foundation Sports Complex. Bring up to 10 file boxes or shopping bags of documents for shredding. Remove all plastic and metal pieces, besides staples. Shredded documents will be recycled into new products.<br>For more information visit summitreworks.com",
+		"clss": "btn",
+		"beg": "2013-09-07",
+		"end": "2013-09-14"
+	},
+	
+	"<i class='icon-flag-checkered'></i> Cruisin'": {
+		"desc": "Classic vehicle display, music, great food, shopping, contests, and loads of fun! Sponsored by NDS. <br> When: August 1, 5-8pm",
+		"clss": "btn btn-pride",
+		"beg": "2013-07-31",
+		"end": "2013-08-01"
+	},
+	"Change for Change": {
+		"desc": "This month's <a href='news.shtml?d=main&amp;y=2013&amp;q=change_for_change'>Change for Change</a> funds will be donated to: Youth Action Fund <br> August <strike>1</strike> <strong>2</strong>, 4:30-7:00 at Hodges",
+		"clss": "btn btn-pride",
+		"beg": "2013-07-31",
+		"end": "2013-08-02"
 	}
 }
