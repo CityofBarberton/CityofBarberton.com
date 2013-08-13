@@ -1,35 +1,29 @@
 {
-	"<i class='icon-umbrella'></i> Concert Rained Out": {
-		"desc": "The Country Concert scheduled for Wednesday August 7 at 7:30pm at the Lake Anna Park Gazebo has been called due to rain.<br>Check the <a href='parks_events_concerts.shtml'>Lake Anna Concert Series</a> page for a schedule of other upcoming concerts",
-		"clss": "btn btn-primary",
-		"beg": "2013-08-03",
-		"end": "2013-08-07"
-	},
-	"<i class='icon-leaf'></i> Farmers Market": {
-		"desc": "There will be a farmers market in downtown on Wednesday from 2 to 6. Fresh produce from local vendors, baked goods, jams, jellies, honey, syrup, flowers, health information & screening, cooking & vegetable carving demonstrations, gardening tips, kid's day, free market bag & shopper incentives. Fun for the whole family!",
-		"clss": "btn btn-success",
-		"beg": "2013-08-04",
-		"end": "2013-08-07"
-	},
-	"<i class='icon-music'></i> Ruby Shooz": {
-		"desc": "As a part of the <a href='parks_events_concerts.shtml'>Lake Anna Concert Series</a>, 50s &amp; 60s style performers Ruby Shooz will be performing at 7:30PM on Friday, August 9 at the <a href='park_lake_anna.shtml'>Lake Anna Park Gazebo</a>",
-		"clss": "btn btn-success",
-		"beg": "2013-08-08",
-		"end": "2013-08-09"
-	},
 	"<i class='icon-music'></i> Todd Taylor": {
 		"desc": "As a part of the <a href='parks_events_concerts.shtml'>Lake Anna Concert Series</a>, 50s &amp; 60s style performers Todd Taylor will be performing at 11:30am on Wednesday, August 14 at the <a href='park_lake_anna.shtml'>Lake Anna Park Gazebo</a>",
 		"clss": "btn btn-success",
 		"beg": "2013-08-10",
 		"end": "2013-08-14"
 	},
-	"<i class='icon-leaf'></i> Downtown Farmers Market": {
+	"<i class='icon-leaf'></i> Farmers Market": {
 		"desc": "There will be a farmers market in downtown on Wednesday from 2 to 6. Fresh produce from local vendors, baked goods, jams, jellies, honey, syrup, flowers, health information & screening, cooking & vegetable carving demonstrations, gardening tips, kid's day, free market bag & shopper incentives. Fun for the whole family!",
 		"clss": "btn btn-success",
 		"beg": "2013-08-12",
 		"end": "2013-08-14"
 	},
-		"<i class='icon-bug'></i> M.A.D.": {
+	"<i class='icon-music'></i> Liverpool Lads": {
+		"desc": "As a part of the <a href='parks_events_concerts.shtml'>Lake Anna Concert Series</a>, Beatles style performers the Liverpool Lads will be performing at 7:30pm on Wednesday, August 16 at the <a href='park_lake_anna.shtml'>Lake Anna Park Gazebo</a>",
+		"clss": "btn btn-success",
+		"beg": "2013-08-14",
+		"end": "2013-08-16"
+	},
+	"Dog Park Grand Opening": {
+		"desc": "There will be a grand opening for the dog park at Decker Park on Saturday, August 17 at 9am.",
+		"clss": "btn btn-pride",
+		"beg": "2013-08-15",
+		"end": "2013-08-17"
+	},
+	"<i class='icon-bug'></i> M.A.D.": {
 		"desc": "The Mosquito Abatement District is having an open house on Monday, Aug. 19th from 1pm – 7pm. <br>For more information visit their website at <a href='http://www.mosquitodistrict.com'>www.mosquitodistrict.com</a>",
 		"clss": "btn",
 		"beg": "2013-08-15",
@@ -48,6 +42,12 @@
 		"clss": "btn",
 		"beg": "2013-08-30",
 		"end": "2013-09-02"
+	},
+	"<i class='icon-lightbulb'></i> Bike and Brainstorm": {
+		"desc": "The City and the Summit County Metro Parks invite you to bring your bike to the Snyder Ave trailhead to ride through the city and consider ways in which the towpath can be connected to downtown.",
+		"clss": "btn btn-pride",
+		"beg": "2013-09-02",
+		"end": "2013-09-07"
 	},
 	"<i class='icon-cut'></i> Free Shredding": {
 		"desc": "ReWorks is offering a FREE confidential shredding, open to Summit County residents and businesses, on Saturday, September 14 from 9:00 a.m. to noon at the Barberton Community Foundation Sports Complex. Bring up to 10 file boxes or shopping bags of documents for shredding. Remove all plastic and metal pieces, besides staples. Shredded documents will be recycled into new products.<br>For more information visit summitreworks.com",

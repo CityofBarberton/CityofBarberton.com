@@ -1,5 +1,18 @@
 <!--#include virtual="/oc/lib/includes/head_a.html" -->
 	<title>Probation - City of Barberton</title>
+	<title>Courts - City of Barberton</title>
+	<meta name="description" content="Barberton Municipal Court Probation Department">
+	<meta property="og:type" content="website"/>
+	<meta property="og:title" content="Barberton Muni Court, Probation"/>
+	<meta property="og:url" content="http://cityofbarberton.com/oc/"/>
+	<meta property="og:description" content="Barberton Municipal Court Probation Department"/>
+	<meta property="og:image" content="http://cityofbarberton.com/oc/img/barberton_crest.png"/>
+	<meta property="twitter:card" content="summary"/>
+	<meta property="twitter:site" content="@BarbertonCity">
+	<meta property="twitter:title" content="Barberton Muni Court, Probation">
+	<meta property="twitter:url" content="http://cityofbarberton.com/oc/"/>
+	<meta property="twitter:description" content="Barberton Municipal Court Probation Department"/>
+	<meta property="twitter:image" content="http://cityofbarberton.com/oc/img/barberton_crest.png"/>
 <!--#include virtual="/oc/lib/includes/head_b.html" -->
 	<div class="container contain-main">
 		<div class="row-fluid">

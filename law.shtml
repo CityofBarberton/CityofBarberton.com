@@ -1,5 +1,17 @@
 <!--#include virtual="/oc/lib/includes/head_a.html" -->
 	<title>Law - City of Barberton</title>
+	<meta name="description" content="The City of Barberton Law Department">
+	<meta property="og:type" content="website"/>
+	<meta property="og:title" content="City of Barberton Law"/>
+	<meta property="og:url" content="http://cityofbarberton.com/oc/"/>
+	<meta property="og:description" content="The City of Barberton Law Department"/>
+	<meta property="og:image" content="http://cityofbarberton.com/oc/img/barberton_crest.png"/>
+	<meta property="twitter:card" content="summary"/>
+	<meta property="twitter:site" content="@BarbertonCity">
+	<meta property="twitter:title" content="City of Barberton Law">
+	<meta property="twitter:url" content="http://cityofbarberton.com/oc/"/>
+	<meta property="twitter:description" content="The City of Barberton Law Department"/>
+	<meta property="twitter:image" content="http://cityofbarberton.com/oc/img/barberton_crest.png"/>
 <!--#include virtual="/oc/lib/includes/head_b.html" -->
 	<div class="container contain-main">
 		<div class="row-fluid">
@@ -18,7 +30,7 @@
 			<div class="span3">
 				<div class="thumbnail">
 					<div class="caption">
-						<h4>Lisa O. Miller <br><small>Director</small></h4>
+						<h4>Lisa O. Miller <br><small>Law Director</small></h4>
 						<address>
 							576 W Park Ave<br>
 							Room 301<br>
@@ -37,9 +49,10 @@
 				<div class="thumbnail">
 					<div class="caption">
 						<p>
-							<a class="btn" href="law_public_records.shtml">Public Records Policy</a>
+							<a class="btn" href="http://www.amlegal.com/library/oh/barberton.shtml"><i class="icon-external-link"></i> Codified Ordinances</a>
+							
 						</p>
-						<a class="btn" href="http://www.amlegal.com/library/oh/barberton.shtml"><i class="icon-external-link"></i> Codified Ordinances</a>
+						<a class="btn" href="law_public_records.shtml">Public Records Policy</a>
 					</div>
 				</div>
 			</div>
