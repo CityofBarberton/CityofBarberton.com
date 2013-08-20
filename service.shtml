@@ -39,7 +39,7 @@
 							Business Hours<br>
 							8 a.m. - 4:30 p.m.
 						</p>
-						<a class="btn" href="mailto:service@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
+						<a class="btn btn-block" href="mailto:service@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
 					</div>
 				</div>
 			</div>

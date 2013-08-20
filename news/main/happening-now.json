@@ -1,18 +1,6 @@
 {
-	"<i class='icon-music'></i> Todd Taylor": {
-		"desc": "As a part of the <a href='parks_events_concerts.shtml'>Lake Anna Concert Series</a>, 50s &amp; 60s style performers Todd Taylor will be performing at 11:30am on Wednesday, August 14 at the <a href='park_lake_anna.shtml'>Lake Anna Park Gazebo</a>",
-		"clss": "btn btn-success",
-		"beg": "2013-08-10",
-		"end": "2013-08-14"
-	},
-	"<i class='icon-leaf'></i> Farmers Market": {
-		"desc": "There will be a farmers market in downtown on Wednesday from 2 to 6. Fresh produce from local vendors, baked goods, jams, jellies, honey, syrup, flowers, health information & screening, cooking & vegetable carving demonstrations, gardening tips, kid's day, free market bag & shopper incentives. Fun for the whole family!",
-		"clss": "btn btn-success",
-		"beg": "2013-08-12",
-		"end": "2013-08-14"
-	},
 	"<i class='icon-music'></i> Liverpool Lads": {
-		"desc": "As a part of the <a href='parks_events_concerts.shtml'>Lake Anna Concert Series</a>, Beatles style performers the Liverpool Lads will be performing at 7:30pm on Wednesday, August 16 at the <a href='park_lake_anna.shtml'>Lake Anna Park Gazebo</a>",
+		"desc": "As a part of the <a href='parks_events_concerts.shtml'>Lake Anna Concert Series</a>, Beatles style performers the Liverpool Lads will be performing at 7:30pm on Friday, August 16 at the <a href='park_lake_anna.shtml'>Lake Anna Park Gazebo</a>",
 		"clss": "btn btn-success",
 		"beg": "2013-08-14",
 		"end": "2013-08-16"
@@ -29,22 +17,81 @@
 		"beg": "2013-08-15",
 		"end": "2013-08-19"
 	},
-
-	
+	"<i class='icon-music'></i> Brett Newski": {
+		"desc": "As a part of the <a href='parks_events_concerts.shtml'>Lake Anna Concert Series</a>, Folk style performer Brett Newski will be performing on Wednesday, August 21 at 11:30am and again at 7:30pm at the <a href='park_lake_anna.shtml'>Lake Anna Park Gazebo</a>",
+		"clss": "btn btn-success",
+		"beg": "2013-08-19",
+		"end": "2013-08-21"
+	},
+	"<i class='icon-leaf'></i> Farmers Market": {
+		"desc": "There will be a farmers market in downtown on Wednesday from 2 to 6. Fresh produce from local vendors, baked goods, jams, jellies, honey, syrup, flowers, health information & screening, cooking & vegetable carving demonstrations, gardening tips, kid's day, free market bag & shopper incentives. Fun for the whole family!",
+		"clss": "btn btn-success",
+		"beg": "2013-08-20",
+		"end": "2013-08-21"
+	},
+	"Change for Change": {
+		"desc": "This month's <a href='news.shtml?d=main&amp;y=2013&amp;q=change_for_change'>Change for Change</a> we be held in cooperation with the <a href='http://www.akronymca.org/lakeanna.aspx'>Lake Anna YMCA</a>. Funds will be donated to: the Disaster Relief Fund <br> August 23, 4:30-7:00 at the Sokol Center on 888 W Hopocan Ave",
+		"clss": "btn btn-pride",
+		"beg": "2013-07-20",
+		"end": "2013-08-23"
+	},
+	"<i class='icon-music'></i> Party Boys": {
+		"desc": "As a part of the <a href='parks_events_concerts.shtml'>Lake Anna Concert Series</a>, Beach Boys style performers the Party Boys will be performing on Friday, August 23 at 7:30pm at the <a href='park_lake_anna.shtml'>Lake Anna Park Gazebo</a>",
+		"clss": "btn btn-success",
+		"beg": "2013-08-22",
+		"end": "2013-08-23"
+	},
+	"<i class='icon-music'></i> Northwest Territory": {
+		"desc": "As a part of the <a href='parks_events_concerts.shtml'>Lake Anna Concert Series</a>, Bluegrass style performers Northwest Territory will be performing on Wednesday, August 28 at 7:30pm at the <a href='park_lake_anna.shtml'>Lake Anna Park Gazebo</a>",
+		"clss": "btn btn-success",
+		"beg": "2013-08-24",
+		"end": "2013-08-28"
+	},
+	"<i class='icon-leaf'></i> Farmers' Market": {
+		"desc": "There will be a farmers market in downtown on Wednesday from 2 to 6. Fresh produce from local vendors, baked goods, jams, jellies, honey, syrup, flowers, health information & screening, cooking & vegetable carving demonstrations, gardening tips, kid's day, free market bag & shopper incentives. Fun for the whole family!",
+		"clss": "btn btn-success",
+		"beg": "2013-08-27",
+		"end": "2013-08-28"
+	},
+	"<i class='icon-music'></i> Darkside": {
+		"desc": "As a part of the <a href='parks_events_concerts.shtml'>Lake Anna Concert Series</a>, Pink Floyd style performers the Darkside of the Moon will be performing on Friday, August 30 at 7:30pm at the <a href='park_lake_anna.shtml'>Lake Anna Park Gazebo</a>",
+		"clss": "btn btn-success",
+		"beg": "2013-08-29",
+		"end": "2013-08-30"
+	},
+	"<i class='icon-music'></i> Doo-Wop Guys": {
+		"desc": "As a part of the <a href='parks_events_concerts.shtml'>Lake Anna Concert Series</a>, 50s and 60s style performers the Doo-Wop Guys will be performing on Saturday, August 31 at 7:30pm at the <a href='park_lake_anna.shtml'>Lake Anna Park Gazebo</a>",
+		"clss": "btn btn-success",
+		"beg": "2013-08-30",
+		"end": "2013-08-31"
+	},
+	"<i class='icon-music'></i> Rick Alviti": {
+		"desc": "As a part of the <a href='parks_events_concerts.shtml'>Lake Anna Concert Series</a>, Elvis style performer Rick Alviti will be performing on Sunday, September 1 at 7:30pm at the <a href='park_lake_anna.shtml'>Lake Anna Park Gazebo</a>",
+		"clss": "btn btn-success",
+		"beg": "2013-08-31",
+		"end": "2013-09-01"
+	},
 	"<i class='icon-certificate'></i> Fireworks": {
 		"desc": "After the concert, there will be fireworks at Lake Anna Park at 9:30pm on Sunday, September 1.",
 		"clss": "btn btn-pride",
-		"beg": "2013-08-28",
+		"beg": "2013-08-29",
 		"end": "2013-09-01"
+	},
+	"<i class='icon-star'></i> Parade": {
+		"desc": "The Labor Day Parade will be on September 2 at 10am",
+		"clss": "btn btn-pride",
+		"beg": "2013-08-30",
+		"end": "2013-09-02"
 	},
 	"<i class='icon-star'></i> City Offices Closed": {
 		"desc": "City offices will be closed September 2 in observance of Labor Day.",
 		"clss": "btn",
-		"beg": "2013-08-30",
+		"beg": "2013-09-01",
 		"end": "2013-09-02"
 	},
+	
 	"<i class='icon-lightbulb'></i> Bike and Brainstorm": {
-		"desc": "The City and the Summit County Metro Parks invite you to bring your bike to the Snyder Ave trailhead to ride through the city and consider ways in which the towpath can be connected to downtown.",
+		"desc": "Have thoughts on how to improve biking in Barberton? Join AMATS and the City of Barberton for a bike ride around the city and brainstorming to discuss your ideas. The bike-N-Brainstorm is also part of a larger study with AMATS and the City to improve connectivity throughout Barberton.<br>9AM Saturday, September 7<br>Wolf Creek Trailhead, 33 Snyder Ave.",
 		"clss": "btn btn-pride",
 		"beg": "2013-09-02",
 		"end": "2013-09-07"
@@ -61,11 +108,5 @@
 		"clss": "btn btn-pride",
 		"beg": "2013-07-31",
 		"end": "2013-08-01"
-	},
-	"Change for Change": {
-		"desc": "This month's <a href='news.shtml?d=main&amp;y=2013&amp;q=change_for_change'>Change for Change</a> funds will be donated to: Youth Action Fund <br> August <strike>1</strike> <strong>2</strong>, 4:30-7:00 at Hodges",
-		"clss": "btn btn-pride",
-		"beg": "2013-07-31",
-		"end": "2013-08-02"
 	}
 }

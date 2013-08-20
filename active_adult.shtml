@@ -70,13 +70,13 @@
 							Business Hours<br>
 							8:30 a.m. - 4:30 p.m.
 						</p>
-						<a class="btn" href="mailto:parks@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
+						<a class="btn btn-block" href="mailto:parks@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
 					</div>
 				</div>
 				<br>
 				<div class="thumbnail">
 					<div class="caption">
-						<a class="btn" href="http://db.tt/QTUrDbpN"><i class="icon-dropbox"></i> Fliers, Forms and Documents</a>
+						<a class="btn btn-block" href="http://db.tt/QTUrDbpN"><i class="icon-dropbox"></i> Fliers, Forms and Documents</a>
 					</div>
 				</div>
 			</div>

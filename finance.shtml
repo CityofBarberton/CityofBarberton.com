@@ -39,7 +39,7 @@
 							Business Hours:<br>
 							8 am - 4:30 pm
 						</p>
-						<a class="btn" href="mailto:finance@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
+						<a class="btn btn-block" href="mailto:finance@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
 					</div>
 				</div>
 				<br>
@@ -48,7 +48,7 @@
 							<strong>Income Tax Division</strong><br>
 							(800) 223-6317
 						</p>
-						<a class="btn" href="income_tax.shtml">Income Tax Page</a>
+						<a class="btn btn-block" href="income_tax.shtml">Income Tax Page</a>
 					</div>
 				</div>
 			</div>

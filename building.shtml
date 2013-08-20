@@ -39,13 +39,13 @@
 							Business Hours:<br>
 							8:30 am - 4:30 pm
 						</p>
-						<a class="btn" href="mailto:building@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
+						<a class="btn btn-block" href="mailto:building@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
 					</div>
 				</div>
 				<br>
 				<div class="thumbnail">
 					<div class="caption">
-						<a class="btn" href="http://db.tt/dRiC553P"><i class="icon-dropbox"></i> Forms &amp; Documents</a>
+						<a class="btn btn-block" href="http://db.tt/dRiC553P"><i class="icon-dropbox"></i> Forms &amp; Documents</a>
 					</div>
 				</div>
 			</div>

@@ -33,7 +33,7 @@
 						</tr>
 					</thead><tbody>
 						<tr>
-							<td class="nowrap"><a class="btn" href="park_anna_dean.shtml">Anna Dean</a></td>
+							<td class="nowrap"><a class="btn btn-block" href="park_anna_dean.shtml">Anna Dean</a></td>
 							<td></td><!-- play -->
 							<td></td><!-- spray -->
 							<td></td><!-- baseball -->
@@ -44,7 +44,7 @@
 							<td></td><!-- pavilion -->
 							<td></td><!-- restroom -->
 						</tr><tr>
-							<td class="nowrap"><a class="btn" href="park_avilee_webb.shtml">Avilee Webb</a></td>
+							<td class="nowrap"><a class="btn btn-block" href="park_avilee_webb.shtml">Avilee Webb</a></td>
 							<td>&times;</td><!-- play -->
 							<td></td><!-- spray -->
 							<td>&times;</td><!-- baseball -->
@@ -55,7 +55,7 @@
 							<td>&times;</td><!-- pavilion -->
 							<td>&times;</td><!-- restroom -->
 						</tr><tr>
-							<td class="nowrap"><a class="btn" href="park_sports_complex.shtml">Barberton Community<br>Sports Complex</a></td>
+							<td class="nowrap"><a class="btn btn-block" href="park_sports_complex.shtml">Barberton Community<br>Sports Complex</a></td>
 							<td>&times;</td><!-- play -->
 							<td></td><!-- spray -->
 							<td>4</td><!-- baseball -->
@@ -66,7 +66,7 @@
 							<td></td><!-- pavilion -->
 							<td>&times;</td><!-- restroom -->
 						</tr><tr>
-							<td class="nowrap"><a class="btn" href="park_breitenstine.shtml">Breitenstine</a></td>
+							<td class="nowrap"><a class="btn btn-block" href="park_breitenstine.shtml">Breitenstine</a></td>
 							<td>&times;</td><!-- play -->
 							<td></td><!-- spray -->
 							<td>&times;</td><!-- baseball -->
@@ -77,7 +77,7 @@
 							<td></td><!-- pavilion -->
 							<td>&times;</td><!-- restroom -->
 						</tr><tr>
-							<td class="nowrap"><a class="btn" href="park_carl_harter.shtml">Carl J. Harter</a></td>
+							<td class="nowrap"><a class="btn btn-block" href="park_carl_harter.shtml">Carl J. Harter</a></td>
 							<td>&times;</td><!-- play -->
 							<td></td><!-- spray -->
 							<td></td><!-- baseball -->
@@ -88,7 +88,7 @@
 							<td></td><!-- pavilion -->
 							<td></td><!-- restroom -->
 						</tr><tr>
-							<td class="nowrap"><a class="btn" href="park_college.shtml">College</a></td>
+							<td class="nowrap"><a class="btn btn-block" href="park_college.shtml">College</a></td>
 							<td>&times;</td><!-- play -->
 							<td></td><!-- spray -->
 							<td></td><!-- baseball -->
@@ -99,7 +99,7 @@
 							<td></td><!-- pavilion -->
 							<td>&times;</td><!-- restroom -->
 						</tr><tr>
-							<td class="nowrap"><a class="btn" href="park_conrad.shtml">Conrad</a></td>
+							<td class="nowrap"><a class="btn btn-block" href="park_conrad.shtml">Conrad</a></td>
 							<td>&times;</td><!-- play -->
 							<td></td><!-- spray -->
 							<td></td><!-- baseball -->
@@ -110,7 +110,7 @@
 							<td></td><!-- pavilion -->
 							<td></td><!-- restroom -->
 						</tr><tr>
-							<td class="nowrap"><a class="btn" href="park_crisman.shtml">Crisman</a></td>
+							<td class="nowrap"><a class="btn btn-block" href="park_crisman.shtml">Crisman</a></td>
 							<td></td><!-- play -->
 							<td></td><!-- spray -->
 							<td>&times;</td><!-- baseball -->
@@ -121,7 +121,7 @@
 							<td>&times;</td><!-- pavilion -->
 							<td>&times;</td><!-- restroom -->
 						</tr><tr>
-							<td class="nowrap"><a class="btn" href="park_decker.shtml">Decker</a></td>
+							<td class="nowrap"><a class="btn btn-block" href="park_decker.shtml">Decker</a></td>
 							<td>&times;</td><!-- play -->
 							<td>&times;</td><!-- spray -->
 							<td>2</td><!-- baseball -->
@@ -132,7 +132,7 @@
 							<td>&times;</td><!-- pavilion -->
 							<td>&times;</td><!-- restroom -->
 						</tr><tr>
-							<td class="nowrap"><a class="btn" href="park_edgewood.shtml">Edgewood</a></td>
+							<td class="nowrap"><a class="btn btn-block" href="park_edgewood.shtml">Edgewood</a></td>
 							<td>&times;</td><!-- play -->
 							<td>&times;</td><!-- spray -->
 							<td>&times;</td><!-- baseball -->
@@ -143,7 +143,7 @@
 							<td>&times;</td><!-- pavilion -->
 							<td>&times;</td><!-- restroom -->
 						</tr><tr>
-							<td class="nowrap"><a class="btn" href="park_lake_anna.shtml">Lake Anna</a></td>
+							<td class="nowrap"><a class="btn btn-block" href="park_lake_anna.shtml">Lake Anna</a></td>
 							<td></td><!-- play -->
 							<td></td><!-- spray -->
 							<td></td><!-- baseball -->
@@ -154,7 +154,7 @@
 							<td>&times;</td><!-- pavilion -->
 							<td>&times;</td><!-- restroom -->
 						</tr><tr>
-							<td class="nowrap"><a class="btn" href="park_mccafferty.shtml">McCafferty</a></td>
+							<td class="nowrap"><a class="btn btn-block" href="park_mccafferty.shtml">McCafferty</a></td>
 							<td>&times;</td><!-- play -->
 							<td></td><!-- spray -->
 							<td>&times;</td><!-- baseball -->
@@ -165,7 +165,7 @@
 							<td>&times;</td><!-- pavilion -->
 							<td>&times;</td><!-- restroom -->
 						</tr><tr>
-							<td class="nowrap"><a class="btn" href="park_newton.shtml">Newton</a></td>
+							<td class="nowrap"><a class="btn btn-block" href="park_newton.shtml">Newton</a></td>
 							<td>&times;</td><!-- play -->
 							<td></td><!-- spray -->
 							<td></td><!-- baseball -->
@@ -176,7 +176,7 @@
 							<td>&times;</td><!-- pavilion -->
 							<td>&times;</td><!-- restroom -->
 						</tr><tr>
-							<td class="nowrap"><a class="btn" href="park_portage.shtml">Portage</a></td>
+							<td class="nowrap"><a class="btn btn-block" href="park_portage.shtml">Portage</a></td>
 							<td></td><!-- play -->
 							<td></td><!-- spray -->
 							<td></td><!-- baseball -->
@@ -187,7 +187,7 @@
 							<td></td><!-- pavilion -->
 							<td></td><!-- restroom -->
 						</tr><tr>
-							<td class="nowrap"><a class="btn" href="park_tuscora.shtml">Tuscora</a></td>
+							<td class="nowrap"><a class="btn btn-block" href="park_tuscora.shtml">Tuscora</a></td>
 							<td>&times;</td><!-- play -->
 							<td></td><!-- spray -->
 							<td>2</td><!-- baseball -->
@@ -198,7 +198,7 @@
 							<td>&times;</td><!-- pavilion -->
 							<td>&times;</td><!-- restroom -->
 						</tr><tr>
-							<td class="nowrap"><a class="btn" href="park_waltz.shtml">Waltz</a></td>
+							<td class="nowrap"><a class="btn btn-block" href="park_waltz.shtml">Waltz</a></td>
 							<td>&times;</td><!-- play -->
 							<td></td><!-- spray -->
 							<td></td><!-- baseball -->
@@ -234,12 +234,12 @@
 							<td class="nowrap">Barberton Trailhead</td>
 							<td></td><!-- restroom -->
 							<td></td><!-- fountain -->
-							<td><a class="btn" href="http://maps.google.com/maps?q=5+Fairview+Ave.,+Barberton&oe=utf-8&client=firefox-a&ie=UTF8&hq=&hnear=5+Fairview+Ave,+Barberton,+Ohio+44203&gl=us&z=16">5 Fairview Ave., Barberton 44203</a></td>
+							<td><a class="btn btn-block" href="http://maps.google.com/maps?q=5+Fairview+Ave.,+Barberton&oe=utf-8&client=firefox-a&ie=UTF8&hq=&hnear=5+Fairview+Ave,+Barberton,+Ohio+44203&gl=us&z=16">5 Fairview Ave., Barberton 44203</a></td>
 						</tr><tr>
 							<td class="nowrap">Wolf Creek Trailhead</td>
 							<td>&times;</td><!-- restroom -->
 							<td>&times;</td><!-- fountain -->
-							<td><a class="btn" href="https://maps.google.com/maps?q=33+Snyder+Ave.,+Barberton&oe=utf-8&client=firefox-a&ie=UTF8&hq=&hnear=33+Snyder+Ave,+Barberton,+Ohio+44203&gl=us&z=16">33 Snyder Ave., Barberton 44203</a></td>
+							<td><a class="btn btn-block" href="https://maps.google.com/maps?q=33+Snyder+Ave.,+Barberton&oe=utf-8&client=firefox-a&ie=UTF8&hq=&hnear=33+Snyder+Ave,+Barberton,+Ohio+44203&gl=us&z=16">33 Snyder Ave., Barberton 44203</a></td>
 						</tr>
 					</tbody>
 				</table>

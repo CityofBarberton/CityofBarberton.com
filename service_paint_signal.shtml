@@ -36,7 +36,7 @@
 							Paint: (330) 848-6743<br>
 							Fax: (330) 848-6663
 						</address>
-						<a class="btn" href="mailto:service@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
+						<a class="btn btn-block" href="mailto:service@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
 					</div>
 				</div>
 			</div>

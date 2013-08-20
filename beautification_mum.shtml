@@ -88,6 +88,144 @@
 				</p><p>
 					MUM FEST 2013 is a cooperative effort involving the City of Barberton Beautification Program and Aris Horticulture Services.
 				</p>
+				
+				<h4 id="schedule">Schedule</h4>
+				<p>
+					Sand Sculpture (Gazebo), Ice Carving (City Hall), Vegetable Carving (Mum  Gardens), Log Carving (Gazebo) and Kids Place (Gazebo) activities taking place throughout the Mum Festival.
+				</p>
+				
+				<h5>Saturday, September 28</h5>
+				<table class="table table-striped table-bordered">
+					<thead>
+						<tr class="courts">
+							<th>Time
+							</th><th>Location
+							</th><th>Event
+							</th>
+						</tr>
+					</thead><tbody>
+						<tr>
+							<td>11:00 am
+							</td><td>Mum Gardens
+							</td><td>Diaper Derby Dash
+							</td>
+						</tr><tr>
+							<td>11:30 am
+							</td><td>Gazebo
+							</td><td>Magic Show 
+							</td>
+						</tr><tr>
+							<td>12:00 pm &ndash; 2:00 pm
+							</td><td>Roving
+							</td><td>Balloon Art 
+							</td>
+						</tr><tr>
+							<td>12:00 pm &ndash; 5:00 pm
+							</td><td>Masonic Temple
+							</td><td>Barberton Kiwanis Silent Auction
+							</td>
+						</tr><tr>
+							<td>12:00 pm &ndash; 5:00 pm
+							</td><td>Lakeview United Methodist Church
+							</td><td>Swiss Steak Dinner
+							</td>
+						</tr><tr>
+							<td>12:00 pm &ndash; 5:30 pm
+							</td><td>Library
+							</td><td>Barberton Library Book Sale
+							</td>
+						</tr><tr>
+							<td>12:15 pm, 2:45 pm &amp; 4:30 pm
+							</td><td>Visitors Center
+							</td><td>Water Ski Shows
+							</td>
+						</tr><tr>
+							<td>1:15 pm &amp; 3:30 pm
+							</td><td>Mum Gardens
+							</td><td>Indian Drumming &amp; Dancing
+							</td>
+						</tr><tr>
+							<td>2:00 pm
+							</td><td>Gazebo
+							</td><td>ETC
+							</td>
+						</tr><tr>
+							<td>2-2:45 pm &amp; 5:15-6:00 pm
+							</td><td>Mum Gardens
+							</td><td>Guitar Music
+							</td>
+						</tr><tr>
+							<td>3:30 pm
+							</td><td>Visitors Center
+							</td><td>Great Lake Anna Canoe Race
+							</td>
+						</tr>
+					</tbody>
+				</table>
+				
+				<h5>Sunday, September 29</h5>
+				<table class="table table-striped table-bordered">
+					<thead>
+						<tr class="courts">
+							<th>Time
+							</th><th>Location
+							</th><th>Event
+							</th>
+						</tr>
+					</thead><tbody>
+						<tr>
+							<td>11:30 am, 2:15 pm & 4:00 pm
+							</td><td>Visitors Center
+							</td><td>Water Ski Shows
+							</td>
+						</tr><tr>
+							<td>12:00 pm &ndash; 5:00 pm
+							</td><td>Masonic Temple
+							</td><td>Barberton Kiwanis Silent Auction
+							</td>
+						</tr><tr>
+							<td>12:00 pm &ndash; 5:30 pm
+							</td><td>Library
+							</td><td>Barberton Library Book Sale
+							</td>
+						</tr><tr>
+							<td>12:15 pm &  3:15 pm
+							</td><td>Mum Gardens
+							</td><td>Indian Drumming and Dancing
+							</td>
+						</tr><tr>
+							<td>12:30 pm &ndash; 2:30 pm
+							</td><td>Roving
+							</td><td>Balloon Art
+							</td>
+						</tr><tr>
+							<td>1:00 pm
+							</td><td>Gazebo
+							</td><td>New Horizons Band
+							</td>
+						</tr><tr>
+							<td>1:00 pm &ndash; 2:00 pm
+							</td><td>Mum Gardens
+							</td><td>Guitar Music
+							</td>
+						</tr><tr>
+							<td>1:00 pm &ndash; 2:00 pm
+							</td><td>Roving
+							</td><td>Ronald McDonald
+							</td>
+						</tr><tr>
+							<td>1:45 pm
+							</td><td>City Hall
+							</td><td>Babcock & Wilcox Centennial of Service Recognition
+							</td>
+						</tr><tr>
+							<td>4:45 pm
+							</td><td>Gazebo
+							</td><td>Magic Show
+							</td>
+						</tr>
+					</tbody>
+				</table>
 			</div>
 			<div class="span3">
 				<div class="thumbnail">
@@ -99,7 +237,7 @@
 							(330) 848-6653<br>
 							Fax: (330) 745-3841
 						</address>
-						<a class="btn" href="mailto:lmclean@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
+						<a class="btn btn-block" href="mailto:lmclean@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
 					</div>
 				</div>
 				<br>
@@ -119,9 +257,9 @@
 				<div class="thumbnail">
 					<div class="caption">
 						<p>
-							<a class="btn" href="beautification_mum_craftv.shtml">Craft Vendors</a>
+							<a class="btn btn-block" href="beautification_mum_craftv.shtml">Craft Vendors</a>
 						</p>
-						<a class="btn" href="beautification_mum_comv.shtml">Commercial Vendors</a>
+						<a class="btn btn-block" href="beautification_mum_comv.shtml">Commercial Vendors</a>
 					</div>
 				</div>
 			</div>

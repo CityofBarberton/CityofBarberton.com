@@ -21,11 +21,11 @@
 			haps.push('<div class="hapNow">Happening Now:</div>');
 			$.getJSON('news/main/happening-now.json', function(hapNow){
 				$.each(hapNow, function(hapNam, hapDet){
+					//datNow = new Date('8/27/2013 11:05:00');
 					datBeg = new Date(hapDet.beg);
 					datEnd = new Date(hapDet.end);
 					datBeg.setHours(24,0,0,0);
 					datEnd.setHours(48,0,0,0);
-					//alert(datNow +'\n'+ datBeg +'\n'+ datEnd)
 					if(datNow >= datBeg && datNow <= datEnd){
 						haps.push('<a href="#" class="hnall ' + hapDet.clss + '" style="margin-right:9px;" data-toggle="popover" data-placement="bottom" data-content="' + hapDet.desc + '" data-original-title="' + hapNam + '">' + hapNam + '</a>');
 					}

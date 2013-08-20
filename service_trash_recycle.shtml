@@ -26,6 +26,17 @@
 					<li>Aluminum & Other Metal Cans</li>
 				</ul>
 				
+				<h4>Yard Waste</h4>
+				<p>
+					Republic will collect leaves, grass clippings or decomposable natural yard waste, if placed in with your trash or if placed in a separate trash can with a tag purchased from a local authorized vendor.
+					Garbage cannot exceed 60 lbs. per $5 tag. 
+				</p><p>
+					At no charge, Mulch Makers of Ohio, 3307 Clark Mill Road, will accept yard waste such as grass clippings, twigs, limbs, leaves, shrubbery (root ball clean of dirt), and edgings. 
+				</p><p>
+					In the fall, The City of Barberton will pick up loose leaves raked into a row and placed on the street no more than two (2) feet from the curb or edge of the street without obstructing traffic.
+					Once the upcoming Fall Leaf Removal Schedule is released, it can be found on our website and will also be published in the Barberton Herald. 
+				</p>
+			
 				<h4>Bulk Collection "Tag" Fees</h4>
 				<p>
 					These charges are only for additional items that are <strong>not</strong> placed inside the trash cart. Residents that have items that will not fit in the cart should purchase stickers at the various local vendors in Barberton at least 24 hours before their collection day. Stickers should be placed, in a conspicuous place, on the item to be collected. Items placed at curb without stickers will not be collected with regular collection and may be assessed an additional charge if a return trip is required.
@@ -37,10 +48,12 @@
 							<th>Charge</th>
 						</tr>
 					</thead><tbody>
+						<!--
 						<tr>
 							<td>Yard waste</td>
 							<td></td>
-						</tr><tr>
+						</tr>
+						--><tr>
 							<td>Garbage cans (not to exceed 60lbs.)</td>
 							<td>$5</td>
 						</tr><tr>
@@ -129,7 +142,7 @@
 							(330) 848-6719
 						</address>
 						
-						<a class="btn" href="service_leaves.shtml">Leaf Pickup</a>
+						<a class="btn btn-block btn-block" href="service_leaves.shtml">Leaf Pickup</a>
 					</div>
 				</div>
 			</div>

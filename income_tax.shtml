@@ -54,13 +54,13 @@
 							Office Hours:<br>
 							Mon-Fri 7:30 am - 4:30 pm
 						</p>
-						<a class="btn" href="http://www.ccatax.ci.cleveland.oh.us/?p=contact"><i class="icon-external-link"></i> CCA Website</a>
+						<a class="btn btn-block" href="http://www.ccatax.ci.cleveland.oh.us/?p=contact"><i class="icon-external-link"></i> CCA Website</a>
 					</div>
 				</div>
 				<br>
 				<div class="thumbnail">
 					<div class="caption">
-						<a class="btn" href="http://www.tax.ohio.gov/"><i class="icon-external-link"></i> Ohio Department of Taxation</a>
+						<a class="btn btn-block" href="http://www.tax.ohio.gov/"><i class="icon-external-link"></i> Ohio Department of Taxation</a>
 					</div>
 				</div>
 			</div>

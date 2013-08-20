@@ -155,14 +155,14 @@
 					</div>
 					
 					<div class="caption">
-						<a class="btn" href="emergency_map.shtml"><i class="icon-map-marker"></i> Storm Emergency Map</a>
+						<a class="btn btn-block" href="emergency_map.shtml"><i class="icon-map-marker"></i> Storm Emergency Map</a>
 					</div>
 				</div>
 				
 				<br>
 				<div class="thumbnail">
 					<div class="caption">
-						<a class="btn btn-primary" href="news.shtml?d=main&amp;y=2013&amp;q=emergency_flood_program">Emergency Flood Programs</a>
+						<a class="btn btn-block btn-primary" href="news.shtml?d=main&amp;y=2013&amp;q=emergency_flood_program">Emergency Flood Programs</a>
 					</div>
 				</div>
 			</div>

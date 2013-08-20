@@ -33,7 +33,7 @@
 							<img src="img/parks/440x440_parks_a.jpg" class="img-rounded">
 							<h4></h4>
 							<p>
-								<a class="btn btn-pride" href="parks_parks.shtml">Parks »</a>
+								<a class="btn btn-block btn-pride" href="parks_parks.shtml">Parks »</a>
 							</p>
 						</div>
 						
@@ -41,7 +41,7 @@
 							<img src="img/parks/440x440_events_a.jpg" class="img-rounded">
 							<h4></h4>
 							<p>
-								<a class="btn btn-pride" href="parks_events.shtml">Events »</a>
+								<a class="btn btn-block btn-pride" href="parks_events.shtml">Events »</a>
 							</p>
 						</div>
 						
@@ -49,7 +49,7 @@
 							<img src="img/parks/440x440_programs_a.jpg" class="img-rounded">
 							<h4></h4>
 							<p>
-								<a class="btn btn-pride" href="parks_programs.shtml">Programs »</a>
+								<a class="btn btn-block btn-pride" href="parks_programs.shtml">Programs »</a>
 							</p>
 						</div>
 					</div>
@@ -69,7 +69,7 @@
 							Business Hours<br>
 							8:30 a.m. - 4:30 p.m.
 						</p>
-						<a class="btn" href="mailto:parks@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
+						<a class="btn btn-block" href="mailto:parks@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
 					</div>
 				</div>
 			</div>

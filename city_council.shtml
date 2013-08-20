@@ -126,16 +126,16 @@
 							Business Hours:<br>
 							9 am – 5 pm Mon-Fri
 						</p>
-						<a class="btn" href="mailto:councilclerk@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
+						<a class="btn btn-block" href="mailto:councilclerk@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
 					</div>
 				</div>
 				<br>
 				<div class="thumbnail">
 					<div class="caption">
 						<p>
-							<a class="btn" href="http://www.amlegal.com/library/oh/barberton.shtml"><i class="icon-external-link"></i> Codified Ordinances</a>
+							<a class="btn btn-block" href="http://www.amlegal.com/library/oh/barberton.shtml"><i class="icon-external-link"></i> Codified Ordinances</a>
 						</p>
-						<a class="btn" href="http://db.tt/qVqzIkFc"><i class="icon-dropbox"></i> Council Documents</a>
+						<a class="btn btn-block" href="http://db.tt/qVqzIkFc"><i class="icon-dropbox"></i> Council Documents</a>
 					</div>
 				</div>
 			</div>

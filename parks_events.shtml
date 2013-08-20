@@ -71,14 +71,14 @@
 							(330) 848-6739<br>
 							Fax: (330) 745-3841
 						</address>
-						<a class="btn" href="mailto:parks@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
+						<a class="btn btn-block" href="mailto:parks@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
 					</div>
 				</div>
 				<br>
 				<div class="thumbnail">
 					<div class="caption">
-						<!--<a class="btn" href="https://drive.google.com/folderview?id=0B8DEfGLr7vyWSTdUNHhwUTVmc2M&amp;usp=sharing"><i class="icon-dropbox"></i> Fliers, Forms and Documents</a>-->
-						<a class="btn" href="http://db.tt/MTv81geD"><i class="icon-dropbox"></i> Fliers, Forms and Documents</a>
+						<!--<a class="btn btn-block" href="https://drive.google.com/folderview?id=0B8DEfGLr7vyWSTdUNHhwUTVmc2M&amp;usp=sharing"><i class="icon-dropbox"></i> Fliers, Forms and Documents</a>-->
+						<a class="btn btn-block" href="http://db.tt/MTv81geD"><i class="icon-dropbox"></i> Fliers, Forms and Documents</a>
 					</div>
 				</div>
 			</div>

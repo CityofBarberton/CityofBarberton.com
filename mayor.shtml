@@ -33,7 +33,7 @@
 							Barberton, OH 44203<br>
 							(330) 848-6719
 						</address>
-						<a class="btn" href="mailto:mayor@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
+						<a class="btn btn-block" href="mailto:mayor@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
 					</div>
 				</div>
 			</div>

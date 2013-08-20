@@ -38,7 +38,7 @@
 							Business Hours:<br>
 							8 am - 4:30 pm
 						</p>
-						<a class="btn" href="mailto:parksmaintenance@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
+						<a class="btn btn-block" href="mailto:parksmaintenance@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
 					</div>
 				</div>
 			</div>

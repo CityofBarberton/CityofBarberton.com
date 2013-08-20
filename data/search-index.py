@@ -192,7 +192,7 @@ if __name__ == "__main__":
 			print(filename),
 			page_text = get_pagetext(filename)
 			if page_text:
-				if len(page_text) > 16 and len(page_text) < 2400:
+				if len(page_text) > 16 and len(page_text) < 4000:
 					jsonline  = '"%d":{' % (i+1)
 					jsonline += '"name":"%s",' % (get_pagetitle(filename))
 					jsonline += '"path":"%s"' % (re.sub('^\.\./', '', filename))

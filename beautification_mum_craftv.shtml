@@ -88,13 +88,13 @@
 							(330) 848-6653<br>
 							Fax: (330) 745-3841
 						</address>
-						<a class="btn" href="mailto:lmclean@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
+						<a class="btn btn-block" href="mailto:lmclean@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
 					</div>
 				</div>
 				<br>
 				<div class="thumbnail">
 					<div class="caption">
-						<a class="btn" href="http://db.tt/sD6TfJMD">Application</a>
+						<a class="btn btn-block" href="http://db.tt/sD6TfJMD">Application</a>
 					</div>
 				</div>
 			</div>

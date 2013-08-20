@@ -42,17 +42,17 @@
 							8:30 am - 4:30 pm<br>
 							Monday-Friday
 						</p>
-						<a class="btn" href="mailto:law@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
+						<a class="btn btn-block" href="mailto:law@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
 					</div>
 				</div>
 				<br>
 				<div class="thumbnail">
 					<div class="caption">
 						<p>
-							<a class="btn" href="http://www.amlegal.com/library/oh/barberton.shtml"><i class="icon-external-link"></i> Codified Ordinances</a>
+							<a class="btn btn-block" href="http://www.amlegal.com/library/oh/barberton.shtml"><i class="icon-external-link"></i> Codified Ordinances</a>
 							
 						</p>
-						<a class="btn" href="law_public_records.shtml">Public Records Policy</a>
+						<a class="btn btn-block" href="law_public_records.shtml">Public Records Policy</a>
 					</div>
 				</div>
 			</div>

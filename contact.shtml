@@ -24,29 +24,29 @@
 		
 		<div class="marketing">
 		<div class="alert alert-error"><strong>For all emergencies call 9-1-1</strong></div>
-			<!--
 			<div class="row-fluid">
 				<div class="span12">
 					<div class="span4 offset2">
 						<h4>Open a Work Order</h4>
 						<p>
 							The most efficient way to request city services is by directly opening a work order.
+							Work orders will be processed during normal business hours.
 						</p><p>
-							<a class="btn" href="workorder_open.shtml">Open</a>
+							<a class="btn btn-block" href="workorder_open.shtml">Open</a>
 						</p>
 					</div>
 					<div class="span4">
 						<h4>Check on a Work Order</h4>
 						<p>
 							Our staff is working hard to complete your work order, and you can check the status.
+							Remember, work orders are processed during normal business hours.
 						</p><p>
-							<a class="btn" href="workorder_view.shtml">Check</a>
+							<a class="btn btn-block" href="workorder_view.shtml">Check</a>
 						</p>
 					</div>
 				</div>
 			</div>
 			<br>
-			-->
 			<div class="row-fluid">
 				<div class="span12">
 					<div class="span4 offset4">
@@ -54,7 +54,7 @@
 						<p>
 							<!--If your concern cannot be handled with a work order then you can view our phone list.-->
 						</p><p>
-							<a class="btn" href="contact_phone.shtml"><i class="icon-phone"></i> Phone List</a>
+							<a class="btn btn-block" href="contact_phone.shtml"><i class="icon-phone"></i> Phone List</a>
 						</p>
 					</div>
 				</div>

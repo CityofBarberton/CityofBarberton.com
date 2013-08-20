@@ -50,9 +50,9 @@
 							Business Hours:<br>
 							8 am - 4:30 pm
 						</p><p>
-							<a class="btn" href="mailto:police@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
+							<a class="btn btn-block" href="mailto:police@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
 						</p>
-						<a class="btn" href="mailto:tips@cityofbarberton.com"><i class="icon-envelope"></i> Crime Tips</a>
+						<a class="btn btn-block" href="mailto:tips@cityofbarberton.com"><i class="icon-envelope"></i> Crime Tips</a>
 					</div>
 				</div>
 				
@@ -61,21 +61,22 @@
 					<div class="caption">
 						<h4>Public Records <i class="icon-external-link"></i></h4>
 						<p>
-							<a class="btn btn-primary" href="http://db.tt/RX5R6Jd4">Daily Log Sheets</a>
+							<a class="btn btn-block btn-primary" href="http://db.tt/RX5R6Jd4">Daily Log Sheets</a>
 						</p>
-						<a class="btn btn-primary" href="http://reports.department-online.com//Search.aspx?Id=bf05ff68-cb7b-4af7-b407-788c411762a2&Type=incident">Incident Reports</a>
-						<!--<p>
-							<a class="btn btn-primary" href="http://reports.department-online.com//Search.aspx?Id=bf05ff68-cb7b-4af7-b407-788c411762a2&Type=traffic">Traffic Accident Reports</a>
-						</p>
-						<a class="btn btn-primary" href="http://reports.department-online.com//Search.aspx?Id=bf05ff68-cb7b-4af7-b407-788c411762a2&Type=incident">Incident Reports</a>
+						<!--
+						<a class="btn btn-block btn-primary" href="http://reports.department-online.com//Search.aspx?Id=bf05ff68-cb7b-4af7-b407-788c411762a2&Type=incident">Incident Reports</a>
 						-->
+						<p>
+							<a class="btn btn-block btn-primary" href="http://reports.department-online.com//Search.aspx?Id=bf05ff68-cb7b-4af7-b407-788c411762a2&Type=traffic">Traffic Accident Reports</a>
+						</p>
+						<a class="btn btn-block btn-primary" href="http://reports.department-online.com//Search.aspx?Id=bf05ff68-cb7b-4af7-b407-788c411762a2&Type=incident">Incident Reports</a>
 					</div>
 				</div>
 				
 				<br>
 				<div class="thumbnail">
 					<div class="caption">
-						<a class="btn btn-primary" href="http://db.tt/PTv8fxPe">Forms</a>
+						<a class="btn btn-block btn-primary" href="http://db.tt/PTv8fxPe">Forms</a>
 					</div>
 				</div>
 			</div>
