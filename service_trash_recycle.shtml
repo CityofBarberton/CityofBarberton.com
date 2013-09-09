@@ -142,7 +142,10 @@
 							(330) 848-6719
 						</address>
 						
-						<a class="btn btn-block btn-block" href="service_leaves.shtml">Leaf Pickup</a>
+						<p>
+							<a class="btn btn-block btn-block" href="service_leaves.shtml">Leaf Pickup</a>
+						</p>
+						<a class="btn btn-block btn-block" href="news.shtml?d=main&y=2013&n=fall_bulk_pickup">Bulk Item Pickup</a>
 					</div>
 				</div>
 			</div>

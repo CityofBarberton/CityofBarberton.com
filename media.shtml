@@ -21,7 +21,7 @@
 			</a>
 			<div class="media-body">
 				<h4 class="media-heading">Barberton Crest, Color</h4>
-				This image contains the color version of the City of Barberton's crest. (via Google Drive)
+				This image contains the color version of the City of Barberton's crest. (via Dropbox)
 			</div>
 		</div>
 		<div class="media">
@@ -30,7 +30,7 @@
 			</a>
 			<div class="media-body">
 				<h4 class="media-heading">Barberton Crest, Black and White</h4>
-				This image contains the black and white version of the City of Barberton's crest. (via Google Drive)
+				This image contains the black and white version of the City of Barberton's crest. (via Dropbox)
 			</div>
 		</div>
 		
@@ -40,26 +40,26 @@
 			</a>
 			<div class="media-body">
 				<h4 class="media-heading">Magic Man</h4>
-				A cleaned up copy of the Magic Man who is occasionally seen in Barberton. (via Google Drive)
+				A cleaned up copy of the Magic Man who is occasionally seen in Barberton. (via Dropbox)
 			</div>
 		</div>
 		
 		<div class="media">
-			<a class="pull-left" href="http://db.tt/vGhuwnLA">
-				<img class="media-object" src="img/media/Wallpaper_iPhone4_a_thumb.png">
+			<a class="pull-left" href="http://db.tt/Qcu3Rfbx">
+				<img class="media-object" src="img/media/qr_code_a.png">
 			</a>
 			<div class="media-body">
-				<h4 class="media-heading">Wallpaper for iPhone, v1</h4>
-				This image contains the City of Barberton's crest on a purple gradient background and is sized to fit the screen of an iPhone 4S or older. (via Google Drive)
+				<h4 class="media-heading">City QR Code</h4>
+				This is a fancy QR code which contains a link to the City of Barberton's website. A QR code is two dimensional barcode which can be scanned using a smartphone; in this case it is used so that people do not have to type in the web address manually. (via Dropbox)
 			</div>
 		</div>
 		<div class="media">
-			<a class="pull-left" href="http://db.tt/vKlzqWx8">
-				<img class="media-object" src="img/media/Wallpaper_iPhone4_b_thumb.png">
+			<a class="pull-left" href="http://db.tt/DEsDosTv">
+				<img class="media-object" src="img/media/qr_code_b.png">
 			</a>
 			<div class="media-body">
-				<h4 class="media-heading">Wallpaper for iPhone, v2</h4>
-				This image contains the City of Barberton's crest on a purple gradient background and is sized to fit the screen of an iPhone 4S or older. (via Google Drive)
+				<h4 class="media-heading">Police QR Code</h4>
+				This is a fancy QR code which contains a link to the Police Department's website. A QR code is two dimensional barcode which can be scanned using a smartphone; in this case it is used so that people do not have to type in the web address manually. (via Dropbox)
 			</div>
 		</div>
 		
@@ -69,7 +69,7 @@
 			</a>
 			<div class="media-body">
 				<h4 class="media-heading">&ldquo;B&rdquo; Icon</h4>
-				This is the icon used when CityofBarberton.com is saved to an iOS device's home screen and is also sometimes used as a small avatar. (via Google Drive)
+				This is the icon used when CityofBarberton.com is saved to an iOS device's home screen and is also sometimes used as a small avatar. (via Dropbox)
 			</div>
 		</div>
 		
@@ -89,6 +89,25 @@
 			<div class="media-body">
 				<h4 class="media-heading">Purple Number Two</h4>
 				This is a swatch of the light purple (#7e5489) used throughout this website.
+			</div>
+		</div>
+		
+		<div class="media">
+			<a class="pull-left" href="http://db.tt/vGhuwnLA">
+				<img class="media-object" src="img/media/Wallpaper_iPhone4_a_thumb.png">
+			</a>
+			<div class="media-body">
+				<h4 class="media-heading">Wallpaper for iPhone, v1</h4>
+				This image contains the City of Barberton's crest on a purple gradient background and is sized to fit the screen of an iPhone 4S or older. (via Dropbox)
+			</div>
+		</div>
+		<div class="media">
+			<a class="pull-left" href="http://db.tt/vKlzqWx8">
+				<img class="media-object" src="img/media/Wallpaper_iPhone4_b_thumb.png">
+			</a>
+			<div class="media-body">
+				<h4 class="media-heading">Wallpaper for iPhone, v2</h4>
+				This image contains the City of Barberton's crest on a purple gradient background and is sized to fit the screen of an iPhone 4S or older. (via Dropbox)
 			</div>
 		</div>
 		

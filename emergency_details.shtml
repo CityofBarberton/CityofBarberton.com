@@ -104,7 +104,7 @@
 				<hr>
 				<h4><small>2013-07-12</small> 3:00 PM</h4>
 				<strong>Mayor Judge announces Emergency Flood Program</strong>
-				<p>Please see the <a href="news.shtml?d=main&amp;y=2013&amp;q=emergency_flood_program">2013 Emergency Flood Program</a> press release for more details.</p>
+				<p>Please see the <a href="news.shtml?d=main&amp;y=2013&amp;n=emergency_flood_program">2013 Emergency Flood Program</a> press release for more details.</p>
 				
 				<hr>
 				<h4><small>2013-07-12</small> 3:00 PM</h4>
@@ -162,7 +162,7 @@
 				<br>
 				<div class="thumbnail">
 					<div class="caption">
-						<a class="btn btn-block btn-primary" href="news.shtml?d=main&amp;y=2013&amp;q=emergency_flood_program">Emergency Flood Programs</a>
+						<a class="btn btn-block btn-primary" href="news.shtml?d=main&amp;y=2013&amp;n=emergency_flood_program">Emergency Flood Programs</a>
 					</div>
 				</div>
 			</div>
