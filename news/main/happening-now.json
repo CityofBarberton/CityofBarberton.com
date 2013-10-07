@@ -1,24 +1,4 @@
 {
-	"<i class='icon-warning-sign'></i> State Street": {
-		"desc": "Beginning on Saturday, September 7, Sate St. between Robinson Ave. and Highland Ave. will have various daily lane restrictions for resurfacing through early October.<br><a href='news.shtml?d=main&y=2013&n=construction_state'>State Street Construction Press Release</a>",
-		"clss": "btn btn-warning",
-		"beg": "2013-09-07",
-		"end": "2013-10-14"
-	},
-	"<i class='icon-cut'></i> Free Shredding": {
-		"desc": "ReWorks is offering a FREE confidential shredding, open to Summit County residents and businesses, on Saturday, September 14 from 9:00 a.m. to noon at the Barberton Community Foundation Sports Complex. Bring up to 10 file boxes or shopping bags of documents for shredding. Remove all plastic and metal pieces, besides staples. Shredded documents will be recycled into new products.<br>For more information visit summitreworks.com",
-		"clss": "btn",
-		"beg": "2013-09-07",
-		"end": "2013-09-14"
-	},
-	
-	"<i class='icon-leaf'></i> Farmers' Market": {
-		"desc": "There will be a farmers market in downtown on Wednesday from 2 to 6. Fresh produce from local vendors, baked goods, jams, jellies, honey, syrup, flowers, health information & screening, cooking & vegetable carving demonstrations, gardening tips, kid's day, free market bag & shopper incentives. Fun for the whole family!",
-		"clss": "btn btn-success",
-		"beg": "2013-09-10",
-		"end": "2013-09-11"
-	},
-	
 	"<i class='icon-sun'></i> Mum Festival": {
 		"desc": "The annual <a href='beautification_mum.shtml'>Barberton Mum Festival</a> will be held September 28th and 29th Lake Anna Park. Fabulous Food, FREE Musical Entertainment, Historical displays, Kid's Place, Water Ski Shows, Canoe Races, Arts and Crafts, and Sand Sculpting. Admission is Free!",
 		"clss": "btn btn-pride",
@@ -26,23 +6,44 @@
 		"end": "2013-09-29"
 	},
 	
+	"<i class='icon-warning-sign'></i> State Street": {
+		"desc": "Beginning on Saturday, September 7, Sate St. between Robinson Ave. and Highland Ave. will have various daily lane restrictions for resurfacing through early October.<br><a href='news.shtml?d=main&y=2013&n=construction_state'>State Street Construction Press Release</a>",
+		"clss": "btn btn-warning",
+		"beg": "2013-09-07",
+		"end": "2013-10-14"
+	},
+	
+	
 	"<i class='icon-trash'></i> Bulk Pickup": {
 		"desc": "The fall <a href='http://cityofbarberton.com/oc/news.shtml?d=main&y=2013&n=fall_bulk_pickup'>bulk garbage pickup</a> is the week of October 7.",
 		"clss": "btn",
 		"beg": "2013-10-02",
 		"end": "2013-10-12"
 	},
+	"<i class='icon-leaf'></i> Farmers' Market": {
+		"desc": "There will be a farmers market in downtown on Wednesday from 2 to 6. Fresh produce from local vendors, baked goods, jams, jellies, honey, syrup, flowers, health information & screening, cooking & vegetable carving demonstrations, gardening tips, kid's day, free market bag & shopper incentives. Fun for the whole family!",
+		"clss": "btn btn-success",
+		"beg": "2013-10-08",
+		"end": "2013-10-09"
+	},
 	"<i class='icon-smile'></i> Fun Night": {
 		"desc": "Family Fun Night is Saturday, October 12 at the Barberton Community Foundation Sports Complex <br>Check <a href='http://db.tt/ZiH19mH1'>the flyer</a> for more details.",
-		"clss": "btn",
+		"clss": "btn btn-pride",
 		"beg": "2013-10-04",
 		"end": "2013-10-12"
 	},
+	"<i class='icon-smile'></i> Trick-or-treat": {
+		"desc": "Downtown trick-or-treat is Saturday, October 26. Candy will be distributed from 11:30am to 1pm, and the costume contest will be at 1pm.",
+		"clss": "btn btn-pride",
+		"beg": "2013-10-18",
+		"end": "2013-10-26"
+	},
+	
 	
 	"Change for Change": {
-		"desc": "This month's <a href='news.shtml?d=main&amp;y=2013&amp;n=change_for_change'>Change for Change</a> we be held in cooperation with the <a href='http://www.akronymca.org/lakeanna.aspx'>Lake Anna YMCA</a>. Funds will be donated to: the Disaster Relief Fund <br> August 23, 4:30-7:00 at the Sokol Center on 888 W Hopocan Ave",
+		"desc": "This month's <a href='news.shtml?d=main&amp;y=2013&amp;n=change_for_change'>Change for Change</a> we be held at Angie’s Italian Restaurant. Funds will be donated to: the City of Barberton Dog Park <br> September 26, 4:30-7:00",
 		"clss": "btn btn-pride",
-		"beg": "2013-07-20",
-		"end": "2013-08-23"
+		"beg": "2013-09-25",
+		"end": "2013-09-26"
 	}
 }

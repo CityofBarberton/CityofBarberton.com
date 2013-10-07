@@ -13,6 +13,13 @@
 	<meta property="twitter:description" content="The City of Barberton Mum Fesitval"/>
 	<meta property="twitter:image" content="http://cityofbarberton.com/oc/img/barberton_crest.png"/>
 <!--#include virtual="/oc/lib/includes/head_b.html" -->
+	<div id="hapsNow" class="container">
+		<div class="alert alert-info">
+			<h4>Free Shuttle Service</h4>
+			Avoid the traffic around the lake by parking at the Barberton Middle School (<a href="https://maps.google.com/maps?q=Barberton+Middle+School&fb=1&gl=us&hq=barberton+middle+school+477+4th+st+nw&cid=0,0,695281357850026247&t=h&z=16&iwloc=A">477 4th St NW</a>) and riding the free shuttle. The shuttle runs from 10am to 6pm.
+		</div>
+	</div>
+
 	<div id="fb-root"></div>
 	<script>(function(d, s, id) {
 	  var js, fjs = d.getElementsByTagName(s)[0];
@@ -86,7 +93,7 @@
 				</p><p>
 					Admission to the Mum Fest is FREE. The chrysanthemums, some twenty-one (21) varieties in all, are donated by Aris Horticulture Services, located in Barberton, Ohio. Aris Horticulture Services, formerly known as Yoder Brothers, is a leading grower of high quality ornamental plant products. The mums are featured in colorful collage displays. In addition to the mum gardens, are garden mum hanging baskets and a floral arch of garden mums.
 				</p><p>
-					MUM FEST 2013 is a cooperative effort involving the City of Barberton Beautification Program and Aris Horticulture Services.
+					Mum Fest 2013 is a cooperative effort involving the City of Barberton Beautification Program, Aris Horticultural Services and the Barberton Community Foundation.
 				</p>
 				
 				<h4 id="schedule">Schedule</h4>
@@ -130,7 +137,7 @@
 							</td><td>Swiss Steak Dinner
 							</td>
 						</tr><tr>
-							<td>12:00 pm &ndash; 5:30 pm
+							<td><strike>12:00 pm &ndash; 5:30 pm</strike><br>10:00 am &ndash; 4:30 pm
 							</td><td>Library
 							</td><td>Barberton Library Book Sale
 							</td>
@@ -184,7 +191,7 @@
 							</td><td>Barberton Kiwanis Silent Auction
 							</td>
 						</tr><tr>
-							<td>12:00 pm &ndash; 5:30 pm
+							<td><strike>12:00 pm &ndash; 5:30 pm</strike><br>1:00 pm &ndash; 4:30 pm
 							</td><td>Library
 							</td><td>Barberton Library Book Sale
 							</td>
