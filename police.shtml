@@ -25,6 +25,7 @@
 				</p>
 				
 				<div class="hidden-phone">
+					<br>
 					<div class="twitter-feed">
 						<a class="twitter-timeline" data-dnt="true" href="https://twitter.com/BarbertonPD" data-widget-id="352149062360895491">Tweets by @BarbertonPD</a>
 						<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
@@ -34,6 +35,10 @@
 				<br>
 				<h4>Phone Numbers</h4>
 				<!--#include virtual="/oc/lib/includes/contact_police.html" -->
+				
+				<div class="text-center">
+					<iframe src="https://local.nixle.com/signup/widget/i/1200" frameborder="0" scrolling="auto" width="480" height="280" marginwidth="0" marginheight="0"></iframe>
+				</div>
 			</div>
 			<div class="span3">
 				<div class="thumbnail">
@@ -49,17 +54,16 @@
 							Patrol Division<br>
 							Business Hours:<br>
 							8 am - 4:30 pm
-						</p><p>
-							<a class="btn btn-block" href="mailto:police@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
 						</p>
-						<a class="btn btn-block" href="mailto:tips@cityofbarberton.com"><i class="icon-envelope"></i> Crime Tips</a>
+						<a class="btn btn-block" href="mailto:police@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
+						<!--<a class="btn btn-block" href="mailto:tips@cityofbarberton.com"><i class="icon-envelope"></i> Crime Tips</a>-->
 					</div>
 				</div>
 				
 				<br>
 				<div class="thumbnail">
 					<div class="caption">
-						<h4>Public Records <i class="icon-external-link"></i></h4>
+						<h4>Public Records</h4>
 						<p>
 							<a class="btn btn-block btn-primary" href="http://db.tt/xDrh3SrN">Daily Log Sheets</a>
 						</p>
@@ -68,17 +72,18 @@
 						-->
 						<p>
 							<a class="btn btn-block btn-primary" href="http://reports.department-online.com//Search.aspx?Id=bf05ff68-cb7b-4af7-b407-788c411762a2&Type=traffic">Traffic Accident Reports</a>
+						</p><p>
+							<a class="btn btn-block btn-primary" href="http://reports.department-online.com//Search.aspx?Id=bf05ff68-cb7b-4af7-b407-788c411762a2&Type=incident">Incident Reports</a>
 						</p>
-						<a class="btn btn-block btn-primary" href="http://reports.department-online.com//Search.aspx?Id=bf05ff68-cb7b-4af7-b407-788c411762a2&Type=incident">Incident Reports</a>
+						<a class="btn btn-block btn-primary" href="http://db.tt/PTv8fxPe">Forms</a>
 					</div>
 				</div>
 				
 				<br>
-				<div class="thumbnail">
-					<div class="caption">
-						<a class="btn btn-block btn-primary" href="http://db.tt/PTv8fxPe">Forms</a>
-					</div>
+				<div class="text-center">
+					<p><a href="https://local.nixle.com/tip/barberton-police-department/" title="Submit an Anonymous Tip"><img style="width: 175px; height: 204px; border: 0;" src="http://s3.amazonaws.com/nixle/uploads/static/tips/embed_btn_01.png" alt="Submit an Anonymous Tip"></a></p>
 				</div>
+				
 			</div>
 		</div>
 	</div>

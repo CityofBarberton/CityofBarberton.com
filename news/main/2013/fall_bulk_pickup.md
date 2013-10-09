@@ -1,5 +1,10 @@
 #### Fall Bulk Item Pick-up
 
+FALL BULK ITEM NOTICE:  Due to the volume of bulk items, Republic was not able to pick everything up as scheduled;
+therefore, there will be a delay in pickups throughout the remainder of the week.
+If your items are not picked up on their regularly scheduled day, please allow an extra day for pick up.
+If you feel your items were missed, please call Republic Services at 1-800-247-3644. 
+
 During the week of October 7th the City of Barberton will provide a free bulk item pickup for items such as TV’s, mattresses, couches, washers, dryers, and other furniture.
 Republic Services will collect bulk items on the day of your regular trash collection day.
 Unaccepted items include tires, electronic waste (such as computers), construction material and debris, chemicals and any kind of hazardous waste.

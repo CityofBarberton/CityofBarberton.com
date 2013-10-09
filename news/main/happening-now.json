@@ -10,7 +10,7 @@
 		"desc": "Beginning on Saturday, September 7, Sate St. between Robinson Ave. and Highland Ave. will have various daily lane restrictions for resurfacing through early October.<br><a href='news.shtml?d=main&y=2013&n=construction_state'>State Street Construction Press Release</a>",
 		"clss": "btn btn-warning",
 		"beg": "2013-09-07",
-		"end": "2013-10-14"
+		"end": "2013-10-07"
 	},
 	
 	
@@ -32,10 +32,10 @@
 		"beg": "2013-10-04",
 		"end": "2013-10-12"
 	},
-	"<i class='icon-smile'></i> Trick-or-treat": {
-		"desc": "Downtown trick-or-treat is Saturday, October 26. Candy will be distributed from 11:30am to 1pm, and the costume contest will be at 1pm.",
-		"clss": "btn btn-pride",
-		"beg": "2013-10-18",
+	"Trick-or-treat": {
+		"desc": "Trick-or-treat is Saturday, October 26. Downtown trick-or-treat is from 11:30am to 1pm, with a costume contest at 1pm. City-wide trick-or-treat is from 5-7pm.",
+		"clss": "btn btn-warning",
+		"beg": "2013-10-08",
 		"end": "2013-10-26"
 	},
 	
