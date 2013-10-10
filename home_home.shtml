@@ -14,7 +14,7 @@
 	<meta property="twitter:image" content="http://cityofbarberton.com/oc/img/barberton_crest.png"/>
 <!--#include virtual="/oc/lib/includes/head_b.html" -->
 	<div class="container contain-main">
-		<div class="row-fluid">
+		<div class="row">
 			<div class="span12">
 				<div class="page-header"><h3>Barberton, a place to call home</h3></div>
 				<p>

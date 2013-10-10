@@ -16,7 +16,7 @@
 	
 	"<i class='icon-trash'></i> Bulk Pickup": {
 		"desc": "The fall <a href='http://cityofbarberton.com/oc/news.shtml?d=main&y=2013&n=fall_bulk_pickup'>bulk garbage pickup</a> is the week of October 7.",
-		"clss": "btn",
+		"clss": "btn btn-default",
 		"beg": "2013-10-02",
 		"end": "2013-10-12"
 	},
@@ -33,7 +33,7 @@
 		"end": "2013-10-12"
 	},
 	"Trick-or-treat": {
-		"desc": "Trick-or-treat is Saturday, October 26. Downtown trick-or-treat is from 11:30am to 1pm, with a costume contest at 1pm. City-wide trick-or-treat is from 5-7pm.",
+		"desc": "Trick-or-treat is Saturday, October 26. Downtown trick-or-treat is from 11:30am to 1pm, with a costume contest at 1pm. City-wide trick-or-treat is from 5-8pm.",
 		"clss": "btn btn-warning",
 		"beg": "2013-10-08",
 		"end": "2013-10-26"

@@ -14,13 +14,13 @@
 	<meta property="twitter:image" content="http://cityofbarberton.com/oc/img/barberton_crest.png"/>
 <!--#include virtual="/oc/lib/includes/head_b.html" -->
 	<div class="container contain-main">
-		<div class="row-fluid">
+		<div class="row">
 			<div class="span12">
 				<div class="page-header"><h3>Diana Stevenson <small>Clerk of Court</small></h3></div>
 			</div>
 		</div>	
-		<div class="row-fluid">			
-			<div class="row-fluid">
+		<div class="row">			
+			<div class="row">
 				<div class="span3">
 					<img class="img-rounded" src="img/staff/stevenson.jpg">
 				</div>
