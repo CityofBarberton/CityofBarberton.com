@@ -75,20 +75,20 @@
 		
 		<div class="media">
 			<span class="pull-left">
-				<img class="media-object" src="img/media/swatch_4e1e5d.png">
+				<img class="media-object" src="img/media/swatch_50457b.png">
 			</span>
 			<div class="media-body">
 				<h4 class="media-heading">Purple Number One</h4>
-				This is a swatch of the dark purple (#4e1e5d) used throughout this website.
+				This is a swatch of the light purple (#50457b) used throughout this website.
 			</div>
 		</div>
 		<div class="media">
 			<span class="pull-left">
-				<img class="media-object" src="img/media/swatch_7e5489.png">
+				<img class="media-object" src="img/media/swatch_413864.png">
 			</span>
 			<div class="media-body">
 				<h4 class="media-heading">Purple Number Two</h4>
-				This is a swatch of the light purple (#7e5489) used throughout this website.
+				This is a swatch of the dark purple (#413864) used throughout this website.
 			</div>
 		</div>
 		

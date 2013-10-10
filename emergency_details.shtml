@@ -15,7 +15,7 @@
 <!--#include virtual="/oc/lib/includes/head_b.html" -->
 	<div class="container contain-main">
 		<div class="row">
-			<div class="span9">
+			<div class="col-xs-12 col-sm-9 col-md-9 col-lg-9">
 				<div class="page-header"><h3>Storm Emergency Communications</h3></div>
 				
 				<h4><small>2013-07-19</small> 4:30 PM</h4>
@@ -147,7 +147,7 @@
 				<p>Response details will be coming soon ...</p>
 			</div>
 			
-			<div class="span3">
+			<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
 				<div class="thumbnail">
 					<div class="caption">
 						<h4>Contact</h4>
@@ -155,7 +155,7 @@
 					</div>
 					
 					<div class="caption">
-						<a class="btn btn-block" href="emergency_map.shtml"><i class="icon-map-marker"></i> Storm Emergency Map</a>
+						<a class="btn btn-block btn-pride" href="emergency_map.shtml"><i class="icon-map-marker"></i> Storm Emergency Map</a>
 					</div>
 				</div>
 				

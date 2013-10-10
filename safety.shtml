@@ -15,7 +15,7 @@
 <!--#include virtual="/oc/lib/includes/head_b.html" -->
 	<div class="container contain-main">
 		<div class="row">
-			<div class="span9">
+			<div class="col-xs-12 col-sm-9 col-md-9 col-lg-9">
 				<div class="page-header"><h3>Barberton Safety Director</h3></div>
 				<p>
 					The Safety Director is the head of the Department of Public Safety and is appointed by the Mayor. According to the City Charter, the Safety Director is the supervising authority responsible for the Police and Fire Divisions.
@@ -25,7 +25,7 @@
 				<h4>Phone Numbers</h4>
 				<!--#include virtual="/oc/lib/includes/contact_safety.html" -->
 			</div>
-			<div class="span3">
+			<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
 				<div class="thumbnail">
 					<div class="caption">
 						<h4>Michael Kimble <br><small>Director</small></h4>
@@ -40,7 +40,7 @@
 							8 am - 4:30 pm<br>
 							Monday-Friday
 						</p>
-						<a class="btn btn-block btn-block" href="mailto:safety@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
+						<a class="btn btn-block btn-pride" href="mailto:safety@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
 					</div>
 				</div>
 			</div>

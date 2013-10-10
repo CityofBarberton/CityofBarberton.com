@@ -31,11 +31,11 @@
 	
 	<div class="container contain-main">
 		<div class="row">
-			<div class="span9">
+			<div class="col-xs-12 col-sm-9 col-md-9 col-lg-9">
 				<!--
 				<div class="page-header"><h3>Barberton Mum Festival</h3></div>
 				<p>
-					<img src="img/mums/arial-01.jpg" class="img-rounded">
+					<img src="img/mums/arial-01.jpg" class="img-rounded img-responsive">
 				</p>
 				-->
 					
@@ -78,8 +78,8 @@
 						</div>
 					</div>
 					<!-- Carousel nav -->
-					<a class="carousel-control left" href="#myCarousel" data-slide="prev">&lsaquo;</a>
-					<a class="carousel-control right" href="#myCarousel" data-slide="next">&rsaquo;</a>
+					<a class="carousel-control left" href="#myCarousel" data-slide="prev"><span class="icon-prev"></span></a>
+					<a class="carousel-control right" href="#myCarousel" data-slide="next"><span class="icon-next"></span></a>
 				</div>
 				
 				<p>
@@ -234,7 +234,7 @@
 					</tbody>
 				</table>
 			</div>
-			<div class="span3">
+			<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
 				<div class="thumbnail">
 					<div class="caption">
 						<h4>Barberton Mum Fest <small>Lisa McLean, Chairperson</small></h4>
@@ -244,7 +244,7 @@
 							(330) 848-6653<br>
 							Fax: (330) 745-3841
 						</address>
-						<a class="btn btn-block" href="mailto:lmclean@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
+						<a class="btn btn-block btn-pride" href="mailto:lmclean@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
 					</div>
 				</div>
 				<br>
@@ -264,14 +264,14 @@
 				<div class="thumbnail">
 					<div class="caption">
 						<p>
-							<a class="btn btn-block" href="beautification_mum_craftv.shtml">Craft Vendors</a>
+							<a class="btn btn-block btn-pride" href="beautification_mum_craftv.shtml">Craft Vendors</a>
 						</p>
-						<a class="btn btn-block" href="beautification_mum_comv.shtml">Commercial Vendors</a>
+						<a class="btn btn-block btn-pride" href="beautification_mum_comv.shtml">Commercial Vendors</a>
 					</div>
 				</div>
 			</div>
 		</div>
-		<div class="row hidden-phone">
+		<div class="row hidden-xs">
 			<hr>
 			<div class="fb-like-box" data-href="https://www.facebook.com/pages/Barberton-Mum-Festival/114476888579776" data-width="724" data-show-faces="true" data-stream="true" data-show-border="false" data-header="false"></div>
 		</div>

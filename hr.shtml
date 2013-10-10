@@ -15,23 +15,23 @@
 <!--#include virtual="/oc/lib/includes/head_b.html" -->
 	<div class="container contain-main">
 		<div class="row">
-			<div class="span9">
+			<div class="col-xs-12 col-sm-9 col-md-9 col-lg-9">
 				<div class="page-header"><h3>Careers at the City of Barberton</h3></div>
 				<p>
 					The Human Resources Director is the head of the Human Resources Department and is appointed by the Mayor.
 				</p><p>
 					The Human Resources Director plans, develops, and directs the City's human resources system; oversees administration of the City's collective bargaining agreements; ensures City compliance with employment laws and regulations; serves as a resource to department heads on human resources and labor relations issues.
 				</p><p>
-					<a class="btn" href="hr_postings.shtml">Current Notices and Job Openings</a>
+					<a class="btn btn-pride" href="hr_postings.shtml">Current Notices and Job Openings</a>
 				</p><p>
-					<a class="btn" href="hr_civil_service.shtml">Civil Service Commission</a>
+					<a class="btn btn-pride" href="hr_civil_service.shtml">Civil Service Commission</a>
 				</p>
 				
 				<br>
 				<h4>Phone Numbers</h4>
 				<!--#include virtual="/oc/lib/includes/contact_hr.html" -->
 			</div>
-			<div class="span3">
+			<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
 				<div class="thumbnail">
 					<div class="caption">
 						<h4>Michael Kimble <br><small>Director</small></h4>
@@ -46,7 +46,7 @@
 							8:30 am - 4:30 pm<br>
 							Monday-Friday
 						</p>
-						<a class="btn btn-block" href="mailto:safety@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
+						<a class="btn btn-block btn-pride" href="mailto:safety@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
 					</div>
 				</div>
 			</div>

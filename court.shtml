@@ -15,7 +15,7 @@
 <!--#include virtual="/oc/lib/includes/head_b.html" -->
 	<div class="container contain-main">
 		<div class="row">
-			<div class="span9">
+			<div class="col-xs-12 col-sm-9 col-md-9 col-lg-9">
 				<div class="page-header"><h3>Barberton Municipal Court</h3></div>
 				<p>
 					Welcome to the Barberton Municipal Court web site. 
@@ -31,7 +31,7 @@
 				<h4>Phone Numbers</h4>
 				<!--#include virtual="/oc/lib/includes/contact_court.html" -->
 			</div>
-			<div class="span3">
+			<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
 				<div class="thumbnail">
 					<div class="caption">
 						<h4><a href="court_croce.shtml">Judge Christine Croce</a> <br><small>Presiding Judge</small></h4>
@@ -64,9 +64,9 @@
 							Monday-Friday<br>
 							8:00 a.m. – 4:30 p.m.
 						</p><p>
-							<a class="btn btn-block" href="mailto:courts@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
+							<a class="btn btn-block btn-pride" href="mailto:courts@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
 						</p>
-						<a class="btn btn-block" href="http://www.cityofbarberton.com/clerkofcourts">Website</a>
+						<a class="btn btn-block btn-pride" href="http://www.cityofbarberton.com/clerkofcourts">Website</a>
 					</div>
 				</div>
 			</div>

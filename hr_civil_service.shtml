@@ -15,21 +15,21 @@
 <!--#include virtual="/oc/lib/includes/head_b.html" -->
 	<div class="container contain-main">
 		<div class="row">
-			<div class="span9">
+			<div class="col-xs-12 col-sm-9 col-md-9 col-lg-9">
 				<div class="page-header"><h3>Barberton Civil Service Commission</h3></div>
 				<p>
 					City Charter establishes a three member Civil Service Commission that is appointed by the Mayor with the consent of City Council. The Civil Service commission is responsible for prescribing, amending and enforcing rules for the classification of positions in the civil service, for position examinations and resignations, and for position appointments, promotions, removals, transfers, layoffs, suspensions, reductions and reinstatements. In Barberton, the Civil Service Commission has one part-time employee.
 				</p><p>
 					Notices of civil service tests/exams will be posted below.
 				</p><p>
-					<a class="btn" href="hr_postings.shtml">Current Notices and Openings</a>
+					<a class="btn btn-pride" href="hr_postings.shtml">Current Notices and Openings</a>
 				</p>
 				
 				<br>
 				<h4>Phone Numbers</h4>
 				<!--#include virtual="/oc/lib/includes/contact_hr_civil_service.html" -->
 			</div>
-			<div class="span3">
+			<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
 				<div class="thumbnail">
 					<div class="caption">
 						<h4>Renee Fox <br><small>Secretary</small></h4>
@@ -40,7 +40,7 @@
 							(330) 848-6650<br>
 							Fax: (330) 861-7237
 						</address>
-						<a class="btn btn-block" href="mailto:civilservice@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
+						<a class="btn btn-block btn-pride" href="mailto:civilservice@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
 					</div>
 				</div>
 			</div>

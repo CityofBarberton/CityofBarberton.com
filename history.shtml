@@ -15,7 +15,7 @@
 <!--#include virtual="/oc/lib/includes/head_b.html" -->
 	<div class="container contain-main">
 		<div class="row">
-			<div class="span12">
+			<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 				<div class="page-header"><h3>Barberton History</h3></div>
 				<p>
 					The city of Barberton has a history that is unique among Ohio cities. It was established in 1891, at the height of the state's industrial development, as a planned industrial community. Situated within easy reach of canal, river and railroad, the new town was located just seven miles southwest of Akron. Utilizing a natural glacial lake as its focal point, Barberton's founders laid out streets and lots for an attractive community of homes, churches, schools, and commercial buildings, and established many of the industries required to sustain it. A downtown developed, homes were constructed for businessmen and factory workers, churches and schools were built, and the city grew into an important industrial center of northeastern Ohio.
@@ -26,7 +26,7 @@
 		</div>
 		
 		<div class="row spacer">
-			<div class="span12">
+			<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 				<div class="tabbable tabs-left">
 				  <ul id="histTabs" class="nav nav-pills">
 				  	<li class="active">
@@ -44,7 +44,7 @@
 				  <div class="tab-content">
 				    <div class="tab-pane active" id="histA">
 				    	<h4>Part I: Before Barberton</h4>
-				    	<div class="span6" style="float:right;">
+				    	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6" style="float:right;">
 					    	<div class="thumbnail">
 					    		<img src="img/history/00_c-b_farmhouse.jpg">
 					    		<div class="caption-small">
@@ -91,7 +91,7 @@
 							</p><p>
 							Probably knowing of the projected railroad line through this site, Jacob Welsh built a pottery at New Portage in 1850. Welsh used the Ohio &amp; Erie Canal to ship his ware until the railroad was completed. His investment was shortly followed by a tavern, stores, a school and churches. Both railroad lines constructed stations at this second New Portage to accommodate passengers and freight. A center of local activity was the Edwards Hotel, built at New Portage between 1850 and 1870 to cater to the railroad traffic. This hotel, which still stands, is said to be the site of meetings held by O.C. Barber and his associates regarding plans for the new town of Barberton. Even with this activity, however, New Portage remained a small village for many years, surrounded by farms.
 							</p>
-							<div class="span6" style="float:right;">
+							<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6" style="float:right;">
 					    	<div class="thumbnail">
 					    		<img src="img/history/01_merwin_shaw_farm.jpg">
 					    		<div class="caption-small">
@@ -129,7 +129,7 @@
 							<p>
 							In January of 1890, O.C. Barber and three Akron associates purchased the 550 acres of farmland to the west of the Tuscarawas River with the intention of establishing a new manufacturing city. The three associates were attorney Charles Baird, Akron hardware merchant Albert T. Paige, and Diamond Match associate John K. Robinson. Barber had become familiar with the work of M.J. Alexander, a Pennsylvania man who had developed what was called a "magic formula" for turning farm land into thriving industrial communities. Alexander had successfully "boomed" the Pennsylvania towns of Jeannette and Charleroi in the 1880s by establishing industries on the land first, thereby creating a demand for housing and services. Purchasers of land in these new towns saw their property values greatly appreciate as the community developed and new industries came to town.
 							</p>
-							<div class="span6" style="float:right;">
+							<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6" style="float:right;">
 					    	<div class="thumbnail">
 					    		<img src="img/history/plan.jpg">
 					    		<div class="caption-small">
@@ -152,7 +152,7 @@
 							</p><p>
 							Alexander and Johnston considered the five-day land sale a success, with nearly half of the 1,100 available building lots sold, totaling $165,000 worth of real estate. Among the buyers was attorney Edward A. Huene, who opted to take a change on the new town, as yet unformed. Huene later described what he saw upon arriving a Barberton for the sale of lots on May 6, 1891: "...a beautiful, level tract of lately farm land nestling in a plateau between low hills, with a small, crystal clear lake of symmetrical form in its center. The smell of last year's crops was hardly out of the air; the wheat stubble covering the blocks of lots on every hand had not yet lost its green and gold..."
 							</p>
-							<div class="span6" style="float:right;">
+							<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6" style="float:right;">
 					    	<div class="thumbnail">
 					    		<img src="img/history/02_ccc_building.jpg">
 					    	</div>
@@ -177,7 +177,7 @@
 							</p><p>
 							Barber was able to stimulate the town's economy by moving his match operations here in 1894. Barberton entered a boom period of development, growing so rapidly that it earned the nickname "the magic city." By 1900, Barberton's population had increased dramatically to 4,354. Workers coming to the still-new town had the option of renting or buying homes built by the Land Company and other investors, or buying a lot and building their own homes. New buildings and businesses continued to be added to the commercial district on Second Street and Tuscarawas Avenue. And, churches and schools were constructed to meet the religious and educational needs of the population. The town's first newspaper, the Barberton Leader, was established in 1894. The Barber Public Library was organized in the Whigham &amp; Schubert Block in downtown Barberton in 1898.
 							</p>
-							<div class="span6" style="float:right;">
+							<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6" style="float:right;">
 					    	<div class="thumbnail">
 					    		<img src="img/history/03_richberger.jpg">
 					    		<div class="caption-small">
@@ -206,7 +206,7 @@
 							</p><p>
 							In 1903, Barber and Johnston were finally successful in purchasing the Kepler farms and the East Barberton Land Company was formed. Johnston laid out East Barberton in a regular grid on the Samuel Kepler farm, bounded by Robinson Avenue on the south, Van Buren Avenue on the west, Huston Street on the north, and 5th Street on the east. In a 1906 brochure promoting sale of the nearly 900 building lots, Johnston noted that "its lots are wider than others by 5 to 10 feet, the location is ideal, shade trees are already growing, natural gas will be piped through every street, and nice homes already there will draw more." Important to the proposed development of East Barberton were plans to construct a viaduct on Tuscarawas Avenue over the railroad, canal and river.
 							</p>
-							<div class="span6" style="float:right;">
+							<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6" style="float:right;">
 					    	<div class="thumbnail">
 					    		<img src="img/history/04_barn_no1.jpg">
 					    		<div class="caption-small">
@@ -254,7 +254,7 @@
 							</p><p>
 							Not unexpectedly, development of these areas resulted in their annexation to the city of BArberton. Annexed areas during a major expansion of 1917 and 1918 included East Barberton, South Barberton, and a portion of North Barberton. Still outside of the city limits was the Anna Dean Farm to the south of Robinson Avenue. Hoping to attract buyers and residents, areas of South Barberton were labeled "Barberview" and "Barberside," while the section of East Barberton north of Huston Street was called "Grandview Heights." The remainder of West Barberton and the Johnson's Corners area were annexed to the city in 1929.
 							</p>
-							<div class="span6" style="float:right;">
+							<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6" style="float:right;">
 					    	<div class="thumbnail">
 					    		<img src="img/history/05_north_ave.jpg">
 					    		<div class="caption-small">
@@ -281,7 +281,7 @@
 							</p><p>
 							Of course, downtown Barberton remained the primary commercial district in the city. By 1920, the downtown district consisted of one-, two- and three-story commercial buildings of both masonry and frame construction. Tuscarawas Avenue had emerged as the primary business street, with many substantial brick buildings, while Second Street generally housed smaller concerns and contained a variety of brick, frame and concrete block buildings. These buildings employed traditional commercial forms, combining lower story storefronts with upper floors, but remained very restrained in ornamentation. Cornice and parapet treatments usually consist of decorative brick set in panels or corbels. An exception in style and materials was the Central Savings and Trust Company building, built in 1918 in a monumental Neo-Classical Revival style designed by the noted Cleveland architectural firm of Walker and Weeks. The stone facade and columns express the important character of this banking institution.
 							</p>
-							<div class="span6" style="float:right;">
+							<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6" style="float:right;">
 					    	<div class="thumbnail">
 					    		<img src="img/history/06_tuscarawas_ave.jpg">
 					    		<div class="caption-small">
@@ -325,7 +325,7 @@
 							</p><p>
 							Barberton's population increased by less than 100 people during the decade of the 1930s, an indication of how the Depression had slowed its growth. As a result, little new housing stock was apparently built. Nevertheless, the community continued to see some important new construction during this period.
 							</p>
-							<div class="span6" style="float:right;">
+							<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6" style="float:right;">
 					    	<div class="thumbnail">
 					    		<img src="img/history/07_barberton_post_office.jpg">
 					    		<div class="caption-small">

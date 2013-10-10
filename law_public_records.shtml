@@ -15,7 +15,7 @@
 <!--#include virtual="/oc/lib/includes/head_b.html" -->
 	<div class="container contain-main">
 		<div class="row">
-			<div class="span12">
+			<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 				<div class="page-header"><h3>Barberton Public Records Policy</h3></div>
 				<p>
 					Access to information concerning the conduct of the people's business is a right of every person in the city. Records of the City of Barberton which are not exempt from disclosure under the law are available for inspection and copying in accordance with the Ohio Public Records Act. Requests for records may be made during regular business hours to:

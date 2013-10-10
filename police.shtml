@@ -15,7 +15,7 @@
 <!--#include virtual="/oc/lib/includes/head_b.html" -->
 	<div class="container contain-main">
 		<div class="row">
-			<div class="span9">
+			<div class="col-xs-12 col-sm-9 col-md-9 col-lg-9">
 				<div class="page-header"><h3>Barberton Police Department</h3></div>
 				<img src="img/depts/BPD_Patch.jpg" style="width:160px" class="img-rounded pull-right">
 				<p>
@@ -24,23 +24,19 @@
 					The Police Chief is the head of the Police Department and reports to Director of Public Safety. With approximately 57 full-time employees and an operating budget of approximately $4.6 million, the Police Department is the largest department within the city. The Police Department's primary responsibility is to serve and protect the citizens and visitors of the city of Barberton. The Police Department carries out this responsibility by completing various tasks such as patrolling the city, responding to calls for service, investigating crimes, apprehending offenders, processing crime scenes and enforcing traffic laws and regulations.
 				</p>
 				
-				<div class="hidden-phone">
-					<br>
+				<div class="hidden-xs">
+					<hr class="soften">
 					<div class="twitter-feed">
 						<a class="twitter-timeline" data-dnt="true" href="https://twitter.com/BarbertonPD" data-widget-id="352149062360895491">Tweets by @BarbertonPD</a>
 						<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 					</div>
 				</div>
 				
-				<br>
+				<hr class="soften">
 				<h4>Phone Numbers</h4>
 				<!--#include virtual="/oc/lib/includes/contact_police.html" -->
-				
-				<div class="text-center">
-					<iframe src="https://local.nixle.com/signup/widget/i/1200" frameborder="0" scrolling="auto" width="480" height="280" marginwidth="0" marginheight="0"></iframe>
-				</div>
 			</div>
-			<div class="span3">
+			<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
 				<div class="thumbnail">
 					<div class="caption">
 						<h4>Vince Morber <br><small>Chief</small></h4>
@@ -55,8 +51,8 @@
 							Business Hours:<br>
 							8 am - 4:30 pm
 						</p>
-						<a class="btn btn-block" href="mailto:police@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
-						<!--<a class="btn btn-block" href="mailto:tips@cityofbarberton.com"><i class="icon-envelope"></i> Crime Tips</a>-->
+						<a class="btn btn-block btn-pride" href="mailto:police@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
+						<!--<a class="btn btn-block btn-pride" href="mailto:tips@cityofbarberton.com"><i class="icon-envelope"></i> Crime Tips</a>-->
 					</div>
 				</div>
 				
@@ -84,6 +80,13 @@
 					<p><a href="https://local.nixle.com/tip/barberton-police-department/" title="Submit an Anonymous Tip"><img style="width: 175px; height: 204px; border: 0;" src="http://s3.amazonaws.com/nixle/uploads/static/tips/embed_btn_01.png" alt="Submit an Anonymous Tip"></a></p>
 				</div>
 				
+			</div>
+		</div>
+		
+		<div class="row">
+			<div class="text-center">
+				<hr class="soften">
+				<iframe src="https://local.nixle.com/signup/widget/i/1200" frameborder="0" scrolling="auto" width="480" height="280" marginwidth="0" marginheight="0"></iframe>
 			</div>
 		</div>
 	</div>

@@ -15,16 +15,16 @@
 <!--#include virtual="/oc/lib/includes/head_b.html" -->
 	<div class="container contain-main">
 		<div class="row">
-			<div class="span12">
+			<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 				<div class="page-header"><h3>David E. Fish <small>Judge of the Barberton Municipal Court District</small></h3></div>
 			</div>
 		</div>	
 		<div class="row">			
 			<div class="row">
-				<div class="span3">
-					<img class="img-rounded" src="img/staff/fish.jpg">
+				<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
+					<img class="img-rounded img-responsive" src="img/staff/fish.jpg">
 				</div>
-				<div class="span9">
+				<div class="col-xs-12 col-sm-9 col-md-9 col-lg-9">
 					<p>
 						Judge David Fish was elected Judge of the Barberton Municipal Court in November 2007.
 						He previously served 16 years as Criminal Prosecutor for Green, Copley, Barberton, Norton, Coventry, New Franklin and Clinton in the Barberton Municipal Court.

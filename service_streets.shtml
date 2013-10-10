@@ -15,7 +15,7 @@
 <!--#include virtual="/oc/lib/includes/head_b.html" -->
 	<div class="container contain-main">
 		<div class="row">
-			<div class="span9">
+			<div class="col-xs-12 col-sm-9 col-md-9 col-lg-9">
 				<div class="page-header"><h3>Street Maintenance &amp; Repair</h3></div>
 				
 				<div class="alert alert-block alert-warning">
@@ -33,7 +33,7 @@
 				<h4>Phone Numbers</h4>
 				<!--#include virtual="/oc/lib/includes/contact_service_streets.html" -->
 			</div>
-			<div class="span3">
+			<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
 				<div class="thumbnail">
 					<div class="caption">
 						<h4>Tom Jackson <br><small>Superintendent</small></h4>
@@ -47,7 +47,7 @@
 							Business Hours:<br>
 							8 am - 4:30 pm
 						</p>
-						<a class="btn btn-block" href="mailto:streetmaintenance@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
+						<a class="btn btn-block btn-pride" href="mailto:streetmaintenance@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
 					</div>
 				</div>
 			</div>
