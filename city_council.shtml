@@ -14,8 +14,8 @@
 	<meta property="twitter:image" content="http://cityofbarberton.com/oc/img/barberton_crest.png"/>
 <!--#include virtual="/oc/lib/includes/head_b.html" -->
 	<div class="container contain-main">
-		<div class="row-fluid">
-			<div class="span9">
+		<div class="row">
+			<div class="col-xs-12 col-sm-9 col-md-9 col-lg-9">
 				<div class="page-header"><h3>Barberton City Council</h3></div>
 				<p>
 					City Council consists of nine part-time members, six of whom are elected on a ward basis, two are elected at-large and one is elected as Council President. City Council persons are elected to four-year terms and are responsible for carrying out the legislative function of government. The Clerk of Council is a full-time position and is responsible for carrying out the administrative functions of City Council. These administrative functions include keeping and maintaining an accurate record of the proceedings of Council and of its committees, retaining and preserving all laws and ordinances of the City, as well as, other duties that Council may require.
@@ -26,7 +26,7 @@
 					<div class="caption">
 						<h5>Fred Maurer, President</h5>
 						<p>Home: (330) 697-2316</p>
-						<a class="btn" href="mailto:fmaurer@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
+						<a class="btn btn-pride" href="mailto:fmaurer@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
 					</div>
 				</div>
 			
@@ -35,7 +35,7 @@
 					<div class="caption">
 						<h5>Renee Fox, Council Clerk</h5>
 						<p>Home: (330) 825-5446</p>
-						<a class="btn" href="mailto:smatuch@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
+						<a class="btn btn-pride" href="mailto:smatuch@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
 					</div>
 				</div>
 			
@@ -44,7 +44,7 @@
 					<div class="caption">
 						<h5>Michael Soyars, At-Large <small>Public Welfare &amp; Safety Committee Chair</small></h5>
 						<p>Home: (330) 753-3850</p>
-						<a class="btn" href="mailto:msoyars@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
+						<a class="btn btn-pride" href="mailto:msoyars@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
 					</div>
 				</div>
 			
@@ -53,7 +53,7 @@
 					<div class="caption">
 						<h5>Carla Debevec, At-Large <small>Rules, Marketing &amp; Development Committee Chair</small></h5>
 						<p>Home: (330) 848-2197</p>
-						<a class="btn" href="mailto:cdebevec@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
+						<a class="btn btn-pride" href="mailto:cdebevec@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
 					</div>
 				</div>
 			
@@ -62,7 +62,7 @@
 					<div class="caption">
 						<h5>Gary Endres, Ward 1 <small>Planning, Annexation &amp; Codes Committee Chair</small></h5>
 						<p>Home: (330) 745-7427</p>
-						<a class="btn" href="mailto:gendres@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
+						<a class="btn btn-pride" href="mailto:gendres@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
 					</div>
 				</div>
 			
@@ -71,7 +71,7 @@
 					<div class="caption">
 						<h5>John Lysenko, Ward 2 <small>Streets, Sidewalks &amp; Lighting Committee Chair</small></h5>
 						<p>Home: (330) 687-8546</p>
-						<a class="btn" href="mailto:jlysenko@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
+						<a class="btn btn-pride" href="mailto:jlysenko@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
 					</div>
 				</div>
 			
@@ -80,7 +80,7 @@
 					<div class="caption">
 						<h5>John Wagner, Ward 3 <small>City Utilities Committee Chair</small></h5>
 						<p>Home: (330) 848-2828</p>
-						<a class="btn" href="mailto:jwagner@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
+						<a class="btn btn-pride" href="mailto:jwagner@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
 					</div>
 				</div>
 			
@@ -89,7 +89,7 @@
 					<div class="caption">
 						<h5>Craig Megyes, Ward 4 <small>City Properties, Parks &amp; Recreation Committee Chair</small></h5>
 						<p>Home: (330) 753-4958</p>
-						<a class="btn" href="mailto:cmegyes@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
+						<a class="btn btn-pride" href="mailto:cmegyes@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
 					</div>
 				</div>
 			
@@ -98,7 +98,7 @@
 					<div class="caption">
 						<h5>Terry Avant, Ward 5 <small>Finance &amp; Personnel Committee Chair</small></h5>
 						<p>Home: (330) 825-8581</p>
-						<a class="btn" href="mailto:tavant@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
+						<a class="btn btn-pride" href="mailto:tavant@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
 					</div>
 				</div>
 			
@@ -107,12 +107,12 @@
 					<div class="caption">
 						<h5>Carol Frey, Ward 6 <small>Environmental Health &amp; Social Services Committee Chair</small></h5>
 						<p>Home: (330) 825-0319</p>
-						<a class="btn" href="mailto:cfrey@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
+						<a class="btn btn-pride" href="mailto:cfrey@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
 					</div>
 				</div>
 			</div>
 			
-			<div class="span3">
+			<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
 				<div class="media thumbnail">
 					<div class="caption">
 						<h4>Renee Fox <br><small>Council Clerk</small></h4>
@@ -126,16 +126,29 @@
 							Business Hours:<br>
 							9 am – 5 pm Mon-Fri
 						</p>
-						<a class="btn btn-block" href="mailto:councilclerk@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
+						<a class="btn btn-block btn-pride" href="mailto:councilclerk@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
 					</div>
 				</div>
+				
 				<br>
 				<div class="thumbnail">
 					<div class="caption">
 						<p>
-							<a class="btn btn-block" href="http://www.amlegal.com/library/oh/barberton.shtml"><i class="icon-external-link"></i> Codified Ordinances</a>
+							<a class="btn btn-block btn-pride" href="http://www.amlegal.com/library/oh/barberton.shtml"><i class="icon-external-link"></i> Codified Ordinances</a>
 						</p>
-						<a class="btn btn-block" href="http://db.tt/qVqzIkFc"><i class="icon-dropbox"></i> Council Documents</a>
+						<a class="btn btn-block btn-pride" href="http://db.tt/qVqzIkFc"><i class="icon-dropbox"></i> Council Documents</a>
+					</div>
+				</div>
+				
+				<br>
+				<div class="thumbnail">
+					<div class="caption">
+						<p>
+							<a class="btn btn-block btn-pride" href="https://mapsengine.google.com/map/edit?mid=zI8_ZBdFf1LE.kvAtDwelCOQ0"><i class="icon-external-link"></i> Ward Maps</a>
+						</p><p>
+							The above linked map shows approximate boundary locations, for precise boundaries please refer to <a href="https://db.tt/ZTMjwOPD">Ordinance 7-2013</a>.
+						</p>
+						Need to know which ward you are in? You can click the button above and then search for your address to see in which ward it falls.
 					</div>
 				</div>
 			</div>

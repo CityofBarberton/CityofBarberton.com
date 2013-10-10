@@ -14,14 +14,14 @@
 	<meta property="twitter:image" content="http://cityofbarberton.com/oc/img/barberton_crest.png"/>
 <!--#include virtual="/oc/lib/includes/head_b.html" -->
 	<div class="container contain-main">
-		<div class="row-fluid">
-			<div class="span9">
+		<div class="row">
+			<div class="col-xs-12 col-sm-9 col-md-9 col-lg-9">
 				<div class="page-header"><h3>Barberton Engineering Department</h3></div>
 				<p>
 					The City Engineer is the head of the Engineering Division and is appointed by the Mayor. Administratively, the Engineering Division is considered to be part of the Department of Public Service. As such, the City Engineer reports to the Director of Public Service. In Barberton, the City Engineer is a part-time position. The Engineering Division is primarily responsible for the design and construction activities related to city streets, sidewalks, sewer and water utilities, bridges and facilities, and properties.
 				</p>
 			</div>
-			<div class="span3">
+			<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
 				<div class="thumbnail">
 					<div class="caption">
 						<address>
@@ -35,7 +35,7 @@
 							8:30 am - 4:30 pm<br>
 							Monday-Friday
 						</p>
-						<a class="btn btn-block" href="mailto:engineering@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
+						<a class="btn btn-block btn-pride" href="mailto:engineering@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
 					</div>
 				</div>
 			</div>

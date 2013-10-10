@@ -14,8 +14,8 @@
 	<meta property="twitter:image" content="http://cityofbarberton.com/oc/img/barberton_crest.png"/>
 <!--#include virtual="/oc/lib/includes/head_b.html" -->
 	<div class="container contain-main">
-		<div class="row-fluid">
-			<div class="span9">
+		<div class="row">
+			<div class="col-xs-12 col-sm-9 col-md-9 col-lg-9">
 				<div class="page-header"><h3>Barberton Fire Department</h3></div>
 				<img src="img/depts/BFD_Emblem.jpg" style="width:160px" class="img-rounded pull-right">
 				<p>
@@ -32,7 +32,7 @@
 					We will strive to become a fire service leader in the delivery of the highest level of care to the people we serve by utilizing a team of highly trained, dedicated professionals and state of the art resources.
 				</p>
 				
-				<div class="alert alert-block alert-error">
+				<div class="alert alert-block alert-danger">
 					<h4>Open Burning</h4>
 					Open burning is restricted by the Ohio Revised Code (<a href="http://codes.ohio.gov/orc/1503.18">1503.18 Regarding Kindled Fires</a>) and local city <a href="http://db.tt/BRSeVHqF">ordinance</a>.
 				</div>
@@ -40,7 +40,7 @@
 				<h4>Phone Numbers</h4>
 				<!--#include virtual="/oc/lib/includes/contact_fire.html" -->
 			</div>
-			<div class="span3">
+			<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
 				<div class="thumbnail">
 					<div class="caption">
 						<h4>Kim Baldwin <br><small>Chief</small></h4>
@@ -57,7 +57,7 @@
 							Barberton, OH 44203<br>
 							(330) 861-5223
 						</address>
-						<a class="btn btn-block" href="mailto:fire@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
+						<a class="btn btn-block btn-pride" href="mailto:fire@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
 					</div>
 				</div>
 			</div>

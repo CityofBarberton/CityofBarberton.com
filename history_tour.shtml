@@ -14,8 +14,8 @@
 	<meta property="twitter:image" content="http://cityofbarberton.com/oc/img/barberton_crest.png"/>
 <!--#include virtual="/oc/lib/includes/head_b.html" -->
 	<div class="container contain-main">
-		<div class="row-fluid">
-			<div class="span12">
+		<div class="row">
+			<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 				<div class="page-header"><h3>A Historic Downtown Walking Tour</h3></div>
 				<p>
 					This Walking Tour combines three of central Barberton's most interesting and history-filled areas: the Lake Anna Neighborhood, the Downtown Commercial District, and the Diamond Match Industrial District. Let this page guide you as you observe the peaceful residential environment of Lake Anna, the important brick and stone buildings of the downtown, and the remaining factory buildings of Barberton's famed Diamond Match Company.

@@ -14,15 +14,15 @@
 	<meta property="twitter:image" content="http://cityofbarberton.com/oc/img/barberton_crest.png"/>
 <!--#include virtual="/oc/lib/includes/head_b.html" -->
 	<div class="container contain-main">
-		<div class="row-fluid">
-			<div class="span9">
+		<div class="row">
+			<div class="col-xs-12 col-sm-9 col-md-9 col-lg-9">
 				<div class="page-header"><h3>Barberton Planning Department</h3></div>
 				<p>
 					To implement the City's Comprehensive Plan, promote positive community and economic development within the City of Barberton and provide excellent customer service.
 				</p><p>
 					City Charter establishes a five member Planning Commission. All of the members of the Planning Commission are appointed by the Mayor with confirmation from city Council. The City Charter also calls for the Planning Commission to appoint a Director of City Planning. The Planning Division is responsible for planning and providing regulations relating to the platting of all lands within the city, making regulations as to the manner in which streets and other public ways shall be graded and improved as well as regulating the manner and extent to which water, sewer, and other utility mains, piping or other facilities shall be installed. Additionally, the Planning Division also engages in and maintains the strategic and capital plans for the city.
 				</p><p>
-					<a class="btn" href="http://db.tt/QSBlbi2M"><i class="icon-file-alt"></i> Barberton Development Code</a>
+					<a class="btn btn-pride" href="http://db.tt/QSBlbi2M"><i class="icon-file-alt"></i> Barberton Development Code</a>
 				</p>
 				
 				<br>
@@ -42,7 +42,7 @@
 					<li><a href="http://www.epa.gov/lead/pubs/renovaterightbrochure.pdf">Protect Your Family from Lead - Renovate Right <i class="icon-external-link"></i></a></li>
 				</ul>
 			</div>
-			<div class="span3">
+			<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
 				<div class="thumbnail">
 					<div class="caption">
 						<h4>Diane Sheridan <br><small>Director</small></h4>
@@ -57,16 +57,16 @@
 							8 am - 4:30 pm<br>
 							Monday-Friday
 						</p>
-						<a class="btn btn-block" href="mailto:planning@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
+						<a class="btn btn-block btn-pride" href="mailto:planning@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
 					</div>
 				</div>
 				<br>
 				<div class="thumbnail">
 					<div class="caption">
 						<p>
-							<a class="btn btn-block" href="http://db.tt/o3HTOLea"><i class="icon-dropbox"></i> Forms &amp; Documents</a>
+							<a class="btn btn-block btn-pride" href="http://db.tt/o3HTOLea"><i class="icon-dropbox"></i> Forms &amp; Documents</a>
 						</p>
-						<a class="btn btn-block" href="http://db.tt/Xq4vXzCp"><i class="icon-dropbox"></i> Maps</a>
+						<a class="btn btn-block btn-pride" href="http://db.tt/Xq4vXzCp"><i class="icon-dropbox"></i> Maps</a>
 					</div>
 				</div>
 			</div>

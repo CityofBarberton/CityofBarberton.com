@@ -14,8 +14,8 @@
 	<meta property="twitter:image" content="http://cityofbarberton.com/oc/img/barberton_crest.png"/>
 <!--#include virtual="/oc/lib/includes/head_b.html" -->
 	<div class="container contain-main">
-		<div class="row-fluid">
-			<div class="span12">
+		<div class="row">
+			<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 				<div class="page-header"><h3>Barberton, a place to call home</h3></div>
 				<p>
 					The city, planned around what is now <a href="park_lake_anna.shtml">Lake Anna</a>, had a complex array of streets for homes, churches, schools and commercial business districts. Founded at a time when Ohio was bustling with growth from the Industrial Revolution, Barberton quickly became an important industrial center of Northeast Ohio.

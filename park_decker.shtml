@@ -14,8 +14,8 @@
 	<meta property="twitter:image" content="http://cityofbarberton.com/oc/img/barberton_crest.png"/>
 <!--#include virtual="/oc/lib/includes/head_b.html" -->
 	<div class="container contain-main">
-		<div class="row-fluid">
-			<div class="span6">
+		<div class="row">
+			<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
 				<div class="page-header"><h3>Decker Park</h3></div>
 				<p>
 					Decker Park is a large park on the west side of Barberton with just over 6 acres of green space.
@@ -34,7 +34,7 @@
 				</p>
 			</div>
 			
-			<div class="span6">
+			<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
 				<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Decker+Park,+Barberton,+OH&amp;aq=0&amp;oq=Decker+Park,+Barberton,+OH&amp;sll=41.023152,-81.611831&amp;sspn=0.008208,0.016394&amp;ie=UTF8&amp;hq=Decker+Park,+Barberton,+OH&amp;t=m&amp;ll=41.023147,-81.611836&amp;spn=0.006295,0.006295&amp;output=embed"></iframe><br /><small><a href="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Decker+Park,+Barberton,+OH&amp;aq=0&amp;oq=Decker+Park,+Barberton,+OH&amp;sll=41.023152,-81.611831&amp;sspn=0.008208,0.016394&amp;ie=UTF8&amp;hq=Decker+Park,+Barberton,+OH&amp;t=m&amp;ll=41.023147,-81.611836&amp;spn=0.006295,0.006295" style="color:#0000FF;text-align:left">View Larger Map</a></small>
 			</div>
 		</div>

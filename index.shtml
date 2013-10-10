@@ -18,7 +18,8 @@
 	<script type="text/javascript">
 		pageScript = function(){
 			var haps = [], datBeg = {}, datEnd = {}, datNow = new Date();
-			haps.push('<div class="hapNow">Happening Now:</div>');
+			//haps.push('<div class="hapNow">Happening Now:</div>');
+			haps.push('<div class="hapNow"></div>');
 			$.getJSON('news/main/happening-now.json', function(hapNow){
 				$.each(hapNow, function(hapNam, hapDet){
 					//datNow = new Date('8/27/2013 11:05:00');
@@ -27,12 +28,13 @@
 					datBeg.setHours(24,0,0,0);
 					datEnd.setHours(48,0,0,0);
 					if(datNow >= datBeg && datNow <= datEnd){
-						haps.push('<a href="#" class="hnall ' + hapDet.clss + '" style="margin-right:9px;" data-toggle="popover" data-placement="bottom" data-content="' + hapDet.desc + '" data-original-title="' + hapNam + '">' + hapNam + '</a>');
+						haps.push('<a href="#" class="col-xs-12 col-sm-2 col-md-2 col-lg-2 hnall ' + hapDet.clss + '" style="margin-right:9px;" data-toggle="popover" data-placement="bottom" data-content="' + hapDet.desc + '" data-original-title="' + hapNam + '">' + hapNam + '</a>');
 					}
 				});
 				if(haps.length > 1){
+					haps.push('<div style="clear:both;"></div');
 					$('<div/>', {
-						'class': 'well well-small',
+						'class': 'well well-sm',
 						html: haps.join('')
 					}).appendTo('#hapsNow');
 					$('.hnall').popover({html:true});
@@ -43,47 +45,52 @@
 	
 	<div class="container">
 		<div class="marketing">
-			<div class="row-fluid">
-				<div class="span3">
-					<img src="img/main/440x440_d.jpg" class="img-rounded">
+			<div class="row">
+				<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
+					<img src="img/main/440x440_d.jpg" class="img-rounded img-responsive">
 					<h4>A place for education</h4>
 					<p>
 						Education is the foundation for a thriving community, which is why Barberton has been investing heavily in education.
-					</p><p>
+					</p><p class="hidden-sm hidden-md hidden-lg">
 						<a class="btn btn-pride" href="home_education.shtml">Learn More »</a>
 					</p>
 				</div>
-				<div class="span3">
-					<img src="img/main/440x440_b.jpg" class="img-rounded">
+				<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
+					<img src="img/main/440x440_b.jpg" class="img-rounded img-responsive">
 					<h4>A place for business</h4>
 					<p>
 						Business built Barberton and helped it earn the nickname "The Magic City;" that synergetic relationship remains today.
-					</p><p>
+					</p><p class="hidden-sm hidden-md hidden-lg">
 						<a class="btn btn-pride" href="home_business.shtml">Learn More »</a>
 					</p>
 				</div>
-				<div class="span3">
-					<img src="img/main/440x440_c.jpg" class="img-rounded">
+				<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
+					<img src="img/main/440x440_c.jpg" class="img-rounded img-responsive">
 					<h4>A place for entertainment</h4>
 					<p>
 						Entertainment comes in a variety of forms around Barberton: sporting attractions, nature areas, cultural exhibits, and more.
-					</p><p>
+					</p><p class="hidden-sm hidden-md hidden-lg">
 						<a class="btn btn-pride" href="home_arts.shtml">Learn More »</a>
 					</p>
 				</div>
-				<div class="span3">
-					<img src="img/main/440x440_a.jpg" class="img-rounded">
+				<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
+					<img src="img/main/440x440_a.jpg" class="img-rounded img-responsive">
 					<h4>A place to call home</h4>
 					<p>
 						Barberton has the charm of a small community while providing all the services of a big city without the big city hassles.
-					</p><p>
+					</p><p class="hidden-sm hidden-md hidden-lg">
 						<a class="btn btn-pride" href="home_home.shtml">Learn More »</a>
 					</p>
 				</div>
 			</div>
+			<div class="row">
+				<div class="hidden-xs col-sm-3 col-md-3 col-lg-3"><a class="btn btn-pride" href="home_education.shtml">Learn More »</a></div>
+				<div class="hidden-xs col-sm-3 col-md-3 col-lg-3"><a class="btn btn-pride" href="home_business.shtml">Learn More »</a></div>
+				<div class="hidden-xs col-sm-3 col-md-3 col-lg-3"><a class="btn btn-pride" href="home_arts.shtml">Learn More »</a></div>
+				<div class="hidden-xs col-sm-3 col-md-3 col-lg-3"><a class="btn btn-pride" href="home_home.shtml">Learn More »</a></div>
+			</div>
 		</div>
 		
-		<!-- -->
 		<div>
 			<hr class="soften">
 			<div id="myCarousel" class="carousel slide">
@@ -115,18 +122,17 @@
 						</div>
 					</div>
 				</div>
-				<a class="carousel-control left" href="#myCarousel" data-slide="prev">&lsaquo;</a>
-				<a class="carousel-control right" href="#myCarousel" data-slide="next">&rsaquo;</a>
+				<a class="carousel-control left" href="#myCarousel" data-slide="prev"><span class="icon-prev"></span></a>
+				<a class="carousel-control right" href="#myCarousel" data-slide="next"><span class="icon-next"></span></a>
 			</div>
 		</div>
-		<!-- -->
 		
-		<div class="hidden-phone">
+		<div class="hidden-xs">
 			<!-- hide until YouTube videos are better -->
 			<!--
 			<hr class="soften">
-			<div class="row-fluid">
-				<div class="span12">
+			<div class="row">
+				<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 					<div class="youtube-video">
 						<iframe width="560" height="315" src="//www.youtube.com/embed/s8xHR1B13Sw?list=UUOn6jLGB0YEqTDHLhVc_7Uw" frameborder="0" allowfullscreen></iframe>
 					</div>
@@ -136,14 +142,14 @@
 			<!-- -->
 			<hr class="soften">
 			
-			<div class="row-fluid">
-				<div class="span6">
+			<div class="row">
+				<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
 					<div class="twitter-feed">
 						<a class="twitter-timeline" href="https://twitter.com/BarbertonCity" data-widget-id="320609433451364352">Tweets by @BarbertonCity</a>
 						<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 					</div>
 				</div>
-				<div class="span6">
+				<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
 					<h4>Upcoming Events</h4>
 					<div class="gcal-agenda">
 						<iframe src="https://www.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=o7t942qbqsfvv6o56qtgrdbekk%40group.calendar.google.com&amp;color=%235229A3&amp;src=cstoll%40cityofbarberton.com&amp;color=%2323164E&amp;src=en.usa%23holiday%40group.v.calendar.google.com&amp;color=%232952A3&amp;ctz=America%2FNew_York" style=" border-width:0 " width="100%" height="404" frameborder="0" scrolling="no"></iframe>
@@ -154,8 +160,8 @@
 		</div>
 		
 		<div class="social-icons">
-			<div class="row-fluid">
-				<div class="span12 text-center">
+			<div class="row">
+				<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 text-center">
 					<a title="Facebook" href="https://www.facebook.com/pages/City-of-Barberton/321987684506398" class="nouline pwide">
 						<i class="icon-facebook-sign icon-2x"></i>
 					</a><a title="Twitter" href="https://twitter.com/BarbertonCity" class="nouline pwide">

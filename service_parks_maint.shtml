@@ -14,8 +14,8 @@
 	<meta property="twitter:image" content="http://cityofbarberton.com/oc/img/barberton_crest.png"/>
 <!--#include virtual="/oc/lib/includes/head_b.html" -->
 	<div class="container contain-main">
-		<div class="row-fluid">
-			<div class="span9">
+		<div class="row">
+			<div class="col-xs-12 col-sm-9 col-md-9 col-lg-9">
 				<div class="page-header"><h3>Barberton Parks Maintenance Department</h3></div>
 				<p>
 					The Parks Maintenance division consists of a manager, six full-time employees and a number of seasonal/part-time employees who are responsible for providing and maintaining clean, safe and functional park facilities for the citizens and visitors of the city of Barberton. The primary duties completed by the Parks Maintenance Division include grass mowing, fertilizing, weed control, planting flowers, tree trimming and removal, debris and litter pickup and other general maintenance duties. The employees in the Parks Maintenance Division report to the Parks Maintenance manager who in turn reports to the Director of Public Service.
@@ -25,7 +25,7 @@
 				<h4>Phone Numbers</h4>
 				<!--#include virtual="/oc/lib/includes/contact_service_parks_maint.html" -->
 			</div>
-			<div class="span3">
+			<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
 				<div class="thumbnail">
 					<div class="caption">
 						<h4>Dan Knorr <br><small>Supervisor</small></h4>
@@ -38,7 +38,7 @@
 							Business Hours:<br>
 							8 am - 4:30 pm
 						</p>
-						<a class="btn btn-block" href="mailto:parksmaintenance@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
+						<a class="btn btn-block btn-pride" href="mailto:parksmaintenance@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
 					</div>
 				</div>
 			</div>

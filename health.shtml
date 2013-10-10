@@ -14,8 +14,8 @@
 	<meta property="twitter:image" content="http://cityofbarberton.com/oc/img/barberton_crest.png"/>
 <!--#include virtual="/oc/lib/includes/head_b.html" -->
 	<div class="container contain-main">
-		<div class="row-fluid">
-			<div class="span9">
+		<div class="row">
+			<div class="col-xs-12 col-sm-9 col-md-9 col-lg-9">
 				<div class="page-header"><h3>Health Department</h3></div>
 				<p>
 					The mission of Summit County Public Health is to protect and promote the health of the entire community through programs and activities designed to address the safety, health and well-being of the people who live in Summit County.  Through its programs and activities, the Health District seeks to create a healthful environment and ensure the accessibility of health services to all.
@@ -24,7 +24,7 @@
 				<h4>Phone Numbers</h4>
 				<!--#include virtual="/oc/lib/includes/contact_health.html" -->
 			</div>
-			<div class="span3">
+			<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
 				<div class="thumbnail">
 					<div class="caption">
 						<strong>Barberton location:</strong>
@@ -42,7 +42,7 @@
 							Business hours: M-F<br>
 							8 am - 4:00 pm
 						</p>
-						<a class="btn btn-block" href="http://www.scphoh.org"><i class="icon-external-link"></i> Website</a>
+						<a class="btn btn-block btn-pride" href="http://www.scphoh.org"><i class="icon-external-link"></i> Website</a>
 					</div>
 				</div>
 			</div>

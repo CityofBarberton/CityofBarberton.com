@@ -15,8 +15,8 @@
 	<meta property="twitter:image" content="http://cityofbarberton.com/oc/img/barberton_crest.png"/>
 <!--#include virtual="/oc/lib/includes/head_b.html" -->
 	<div class="container contain-main">
-		<div class="row-fluid">
-			<div class="span9">
+		<div class="row">
+			<div class="col-xs-12 col-sm-9 col-md-9 col-lg-9">
 				<div class="page-header"><h3>Barberton Probation Department</h3></div>
 				<p>
 					The Barberton Probation Department is part of the Barberton Municipal Court.  The Department works under the direction of the Judges. The Probation Department is charged with providing supervision of offenders in the community, alternative sentencing in lieu of jail, as well as producing various investigative reports for the Court. 
@@ -44,7 +44,7 @@
 					The Community Service Program is a cost effective and efficient sentencing alternative that responds to the needs of the Court and of the community. In appropriate cases, defendants are sentenced to perform hours of service as ordered by the court, as an alternative to jail. Defendants have been ordered to work at numerous nonprofit and governmental agencies in the Barberton Municipal Court District as part of community service.
 				</p>
 			</div>
-			<div class="span3">
+			<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
 				<div class="thumbnail">
 					<div class="caption">
 						<h4>Rebecca Dilbeck <br><small>Chief Probation Officer</small></h4>
@@ -61,9 +61,9 @@
 							Monday-Friday<br>
 							8:00 a.m. – 4:30 p.m.
 						</p><p>
-							<a class="btn btn-block" href="mailto:probation@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
+							<a class="btn btn-block btn-pride" href="mailto:probation@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
 						</p>
-						<a class="btn btn-block" href="http://www.cityofbarberton.com/clerkofcourts">Website</a>
+						<a class="btn btn-block btn-pride" href="http://www.cityofbarberton.com/clerkofcourts">Website</a>
 					</div>
 				</div>
 			</div>

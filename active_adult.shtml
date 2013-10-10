@@ -14,8 +14,8 @@
 	<meta property="twitter:image" content="http://cityofbarberton.com/oc/img/barberton_crest.png"/>
 <!--#include virtual="/oc/lib/includes/head_b.html" -->
 	<div class="container contain-main">
-		<div class="row-fluid">
-			<div class="span9">
+		<div class="row">
+			<div class="col-xs-12 col-sm-9 col-md-9 col-lg-9">
 				<div class="page-header"><h3>Active Adult Center</h3></div>
 				<p>
 					Active Adult Center Programs provide recreational and educational opportunities and services to meet the needs and improve the quality of life for all older adults. The City of Barberton operates an Active Adult Center in an effort to provide senior adults with various recreational opportunities. The staffing for the Active Adult Center consists of one full-time employee and several part-time employees. The costs of operations are paid from the proceeds of a trust and are accounted for as an agency fund. Active Adult Center employees report to the Director of Parks &amp; Recreation.
@@ -53,11 +53,11 @@
 						</div>
 					</div>
 					<!-- Carousel nav -->
-					<a class="carousel-control left" href="#myCarousel" data-slide="prev">&lsaquo;</a>
-					<a class="carousel-control right" href="#myCarousel" data-slide="next">&rsaquo;</a>
+					<a class="carousel-control left" href="#myCarousel" data-slide="prev"><span class="icon-prev"></span></a>
+					<a class="carousel-control right" href="#myCarousel" data-slide="next"><span class="icon-next"></span></a>
 				</div>
 			</div>
-			<div class="span3">
+			<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
 				<div class="thumbnail">
 					<div class="caption">
 						<h4>Shane McAvinew <br><small>Director</small></h4>
@@ -70,13 +70,13 @@
 							Business Hours<br>
 							8:30 a.m. - 4:30 p.m.
 						</p>
-						<a class="btn btn-block" href="mailto:parks@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
+						<a class="btn btn-block btn-pride" href="mailto:parks@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
 					</div>
 				</div>
 				<br>
 				<div class="thumbnail">
 					<div class="caption">
-						<a class="btn btn-block" href="http://db.tt/QTUrDbpN"><i class="icon-dropbox"></i> Fliers, Forms and Documents</a>
+						<a class="btn btn-block btn-pride" href="http://db.tt/QTUrDbpN"><i class="icon-dropbox"></i> Forms and Documents</a>
 					</div>
 				</div>
 			</div>

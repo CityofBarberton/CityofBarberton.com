@@ -14,8 +14,8 @@
 	<meta property="twitter:image" content="http://cityofbarberton.com/oc/img/barberton_crest.png"/>
 <!--#include virtual="/oc/lib/includes/head_b.html" -->
 	<div class="container contain-main">
-		<div class="row-fluid">
-			<div class="span9">
+		<div class="row">
+			<div class="col-xs-12 col-sm-9 col-md-9 col-lg-9">
 				<div class="page-header"><h3>Barberton City Services</h3></div>
 				<p>
 					The Service Director is the head of the Department of Public Service and is appointed by the Mayor. According to the City Charter, the Service Director is the supervising authority responsible for the Building Inspection Division, the Engineering Division, the Streets Division and the Utility Division. Within these divisions, the Service Director is charged with the construction, improvement, repair and maintenance of streets, sidewalks, alleys, lanes, bridges; of water mains, pumps, systems, pipes, purification and filtration plants, as well as, the water distribution system; of sewers, sewage systems, drains, ditches, culverts, streams, watercourses; and of all public buildings and other public places belonging to the city or dedicated to public use.
@@ -25,7 +25,7 @@
 				<h4>Phone Numbers</h4>
 				<!--#include virtual="/oc/lib/includes/contact_service.html" -->
 			</div>
-			<div class="span3">
+			<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
 				<div class="thumbnail">
 					<div class="caption">
 						<h4>Elwood Palmer <br><small>Service Director</small></h4>
@@ -39,7 +39,7 @@
 							Business Hours<br>
 							8 a.m. - 4:30 p.m.
 						</p>
-						<a class="btn btn-block" href="mailto:service@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
+						<a class="btn btn-block btn-pride" href="mailto:service@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
 					</div>
 				</div>
 			</div>
