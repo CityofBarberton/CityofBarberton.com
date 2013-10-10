@@ -129,6 +129,7 @@
 						<a class="btn btn-block" href="mailto:councilclerk@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
 					</div>
 				</div>
+				
 				<br>
 				<div class="thumbnail">
 					<div class="caption">
@@ -136,6 +137,18 @@
 							<a class="btn btn-block" href="http://www.amlegal.com/library/oh/barberton.shtml"><i class="icon-external-link"></i> Codified Ordinances</a>
 						</p>
 						<a class="btn btn-block" href="http://db.tt/qVqzIkFc"><i class="icon-dropbox"></i> Council Documents</a>
+					</div>
+				</div>
+				
+				<br>
+				<div class="thumbnail">
+					<div class="caption">
+						<p>
+							<a class="btn btn-block" href="https://mapsengine.google.com/map/edit?mid=zI8_ZBdFf1LE.kvAtDwelCOQ0"><i class="icon-external-link"></i> Ward Maps</a>
+						</p><p>
+							The above linked map shows approximate boundary locations, for precise boundaries please refer to <a href="https://db.tt/ZTMjwOPD">Ordinance 7-2013</a>.
+						</p>
+						Need to know which ward you are in? You can click the button above and then search for your address to see in which ward it falls.
 					</div>
 				</div>
 			</div>

@@ -17,6 +17,11 @@
 		<div class="row-fluid">
 			<div class="span12">
 				<div class="page-header"><h3>Directions to the Barberton City Building</h3></div>
+				<p>
+					Below is a map of the Barberton City Building which show nearby parking and handicapped accessible entrances.
+					This map can be opened in a larger window by navigating to the <a href="https://mapsengine.google.com/map/edit?mid=zI8_ZBdFf1LE.kEjsWQwTsUZw">City of Barberton's Google Maps</a> page.
+					Driving directions can be requested from <a href="https://maps.google.com/maps?q=576+W+Park+Ave+Barberton+Ohio&hnear=576+W+Park+Ave,+Barberton,+Ohio+44203&t=h&z=16">Google Maps</a>.
+				</p>
 				<iframe src="http://mapsengine.google.com/map/view?mid=zI8_ZBdFf1LE.kEjsWQwTsUZw" width="100%" height="480"></iframe>
 				<!--
 				<iframe width="100%" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps/ms?msid=214802191622714693302.0004d783fb8a1e8b6094a&amp;msa=0&amp;ie=UTF8&amp;t=m&amp;ll=41.015065,-81.610394&amp;spn=0.004007,0.007628&amp;output=embed"></iframe><br /><small>View <a href="https://maps.google.com/maps/ms?msid=214802191622714693302.0004d783fb8a1e8b6094a&amp;msa=0&amp;ie=UTF8&amp;t=m&amp;ll=41.015065,-81.610394&amp;spn=0.004007,0.007628&amp;source=embed" style="color:#0000FF;text-align:left">City of Barberton</a> in a larger map</small>
