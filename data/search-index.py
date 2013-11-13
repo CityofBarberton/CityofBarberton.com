@@ -58,7 +58,19 @@ def cfst(text_raw, text_parser_a):
 	text_dictionary = {}
 	for word in text_done:
 		text_dictionary[word] = 1
-	return ' '.join(text_dictionary)
+	#return ' '.join(text_dictionary)
+	
+	# concatenate phrases
+	phrase_dictionary = ' '.join(text_dictionary)
+	
+	# remove duplicate words from the concatenated phrases
+	phrase_words = phrase_dictionary.split(' ')
+	search_words = {}
+	for word in phrase_words:
+		search_words[word] = 1
+	
+	# return the unique words
+	return ' '.join(search_words)
 
 
 def get_pagetext(file_name):
@@ -96,13 +108,18 @@ def get_pagetext(file_name):
 					file_contents = ' ' + file_contents + ' '
 					file_contents = re.sub('[%\(\)]', '', file_contents)
 					file_contents = re.sub('( x){2,}', '', file_contents)
-					file_contents = re.sub(' x ', ' ', file_contents)
-					file_contents = re.sub(' am ', ' ', file_contents)
-					file_contents = re.sub(' pm ', ' ', file_contents)
 					file_contents = re.sub(' a.m. ', ' ', file_contents)
 					file_contents = re.sub(' p.m. ', ' ', file_contents)
+					file_contents = re.sub(' a.m ', ' ', file_contents)
+					file_contents = re.sub(' p.m ', ' ', file_contents)
+					file_contents = re.sub(' am ', ' ', file_contents)
+					file_contents = re.sub(' pm ', ' ', file_contents)
 					file_contents = re.sub(' oh ', ' ', file_contents)
+					file_contents = re.sub(' n ', ' ', file_contents)
 					file_contents = re.sub(' w ', ' ', file_contents)
+					file_contents = re.sub(' e ', ' ', file_contents)
+					file_contents = re.sub(' s ', ' ', file_contents)
+					file_contents = re.sub(' x ', ' ', file_contents)
 					file_contents = re.sub(' rd ', ' ', file_contents)
 					file_contents = re.sub(' ave ', ' ', file_contents)
 					file_contents = re.sub(' tty ', ' ', file_contents)
@@ -114,6 +131,7 @@ def get_pagetext(file_name):
 					file_contents = re.sub('business hours ', '', file_contents)
 					file_contents = re.sub(' & ', ' ', file_contents)
 					file_contents = re.sub('["\']', '', file_contents)
+					file_contents = re.sub('  ', ' ', file_contents)
 
 		return file_contents.strip()
 
