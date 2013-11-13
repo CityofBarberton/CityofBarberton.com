@@ -57,7 +57,10 @@
 							Barberton, OH 44203<br>
 							(330) 861-5223
 						</address>
-						<a class="btn btn-block btn-pride" href="mailto:fire@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
+						<p>
+							<a class="btn btn-block btn-pride" href="mailto:fire@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
+						</p>
+						<a class="btn btn-block btn-pride" href="community_notifications.shtml"><i class='icon-bullhorn'></i>&nbsp; Magics Alerts</a>
 					</div>
 				</div>
 			</div>

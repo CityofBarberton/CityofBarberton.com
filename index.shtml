@@ -22,7 +22,7 @@
 			haps.push('<div class="hapNow"></div>');
 			$.getJSON('news/main/happening-now.json', function(hapNow){
 				$.each(hapNow, function(hapNam, hapDet){
-					//datNow = new Date('8/27/2013 11:05:00');
+					//datNow = new Date('10/25/2013 11:05:00');
 					datBeg = new Date(hapDet.beg);
 					datEnd = new Date(hapDet.end);
 					datBeg.setHours(24,0,0,0);
@@ -103,22 +103,28 @@
 					<div class="active item">
 						<img src="img/mums/1880x1162_a.jpg">
 						<div class="carousel-caption">
+							<!--
 							<h4>23rd Annual Barberton Mum Fest</h4>
 							<p>Located at Barberton's beautiful Lake Anna Park there will be more than 20,000 mums in full bloom - over one million blooms!</p>
+							-->
 						</div>
 					</div>
 					<div class="item">
 						<img src="img/mums/1880x1162_b.jpg">
 						<div class="carousel-caption">
+							<!--
 							<h4>Featuring Mums, Music and More</h4>
 							<p>Fabulous Food, music, historical displays, kid's place, water ski shows, canoe races, arts, crafts, and sand sculpting.</p>
+							-->
 						</div>
 					</div>
 					<div class="item">
 						<img src="img/mums/1880x1162_c.jpg">
 						<div class="carousel-caption">
+							<!--
 							<h4>Admission is Free</h4>
 							<p>Brought to you by the City of Barberton Beautification Program, Aris Horticultural Services and the Barberton Community Foundation.</p>
+							-->
 						</div>
 					</div>
 				</div>

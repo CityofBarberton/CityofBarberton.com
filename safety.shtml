@@ -22,6 +22,12 @@
 				</p>
 				
 				<br>
+				<h4>Request for No Parking, STOP and other signage</h4>
+				<p>
+					To make a formal <a href="https://db.tt/MBjqzZqi">Request for No-Parking, STOP and Other Signage</a> with the City of Barberton, please fill out the attached form and submit to the Safety Director by email at safety@cityofbarberton.com or mail-in hard copy to The City of Barberton, Attn: Safety Director, 576 West Park Avenue, Barberton, OH 44203.
+				</p>
+				
+				<br>
 				<h4>Phone Numbers</h4>
 				<!--#include virtual="/oc/lib/includes/contact_safety.html" -->
 			</div>
@@ -33,14 +39,17 @@
 							576 W Park Ave<br>
 							Room 101<br>
 							Barberton, OH 44203<br>
-							(330) 848-6714<br>
+							(330) 848-6710<br>
 							Fax: (330) 861-7237
 						</address><p>
 							Business Hours:<br>
 							8 am - 4:30 pm<br>
 							Monday-Friday
 						</p>
-						<a class="btn btn-block btn-pride" href="mailto:safety@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
+						<p>
+							<a class="btn btn-block btn-pride" href="mailto:safety@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
+						</p>
+						<a class="btn btn-block btn-pride" href="community_notifications.shtml"><i class='icon-bullhorn'></i>&nbsp; Magics Alerts</a>
 					</div>
 				</div>
 			</div>

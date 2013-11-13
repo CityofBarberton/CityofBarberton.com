@@ -50,9 +50,12 @@
 							Patrol Division<br>
 							Business Hours:<br>
 							8 am - 4:30 pm
+						</p><p>
+							<a class="btn btn-block btn-pride" href="mailto:police@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
+						</p><p>
+							<a class="btn btn-block btn-pride" href="https://db.tt/3zuFD4Kd"><i class="icon-comment"></i> Press Releases</a>
 						</p>
-						<a class="btn btn-block btn-pride" href="mailto:police@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
-						<!--<a class="btn btn-block btn-pride" href="mailto:tips@cityofbarberton.com"><i class="icon-envelope"></i> Crime Tips</a>-->
+						<a class="btn btn-block btn-pride" href="community_notifications.shtml"><i class='icon-bullhorn'></i>&nbsp; Magics Alerts</a>
 					</div>
 				</div>
 				

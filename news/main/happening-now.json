@@ -1,49 +1,48 @@
 {
-	"<i class='icon-sun'></i> Mum Festival": {
-		"desc": "The annual <a href='beautification_mum.shtml'>Barberton Mum Festival</a> will be held September 28th and 29th Lake Anna Park. Fabulous Food, FREE Musical Entertainment, Historical displays, Kid's Place, Water Ski Shows, Canoe Races, Arts and Crafts, and Sand Sculpting. Admission is Free!",
+	"<i class='icon-bullhorn'></i> Magics Alerts": {
+		"desc": "The City of Barberton has begun using Nixle to provide community notifications. This service will help the City communicate electronically with the citizens in a timely manner. For more information and to sign up, please visit the <a href='community_notifications.shtml'>community notifications page.</a>",
 		"clss": "btn btn-pride",
-		"beg": "2013-09-20",
-		"end": "2013-09-29"
+		"beg": "2013-11-04",
+		"end": "2013-12-04"
+	},
+	"<i class='icon-star'></i> City Closed": {
+		"desc": "City offices will be closed Monday, November 11 in observance of Veterans Day",
+		"clss": "btn btn-primary",
+		"beg": "2013-11-08",
+		"end": "2013-11-11"
 	},
 	
-	"<i class='icon-warning-sign'></i> State Street": {
-		"desc": "Beginning on Saturday, September 7, Sate St. between Robinson Ave. and Highland Ave. will have various daily lane restrictions for resurfacing through early October.<br><a href='news.shtml?d=main&y=2013&n=construction_state'>State Street Construction Press Release</a>",
-		"clss": "btn btn-warning",
-		"beg": "2013-09-07",
-		"end": "2013-10-07"
+	"<i class='icon-star'></i> City Closed": {
+		"desc": "City offices will be closed Thursday, November 28 and Friday November 29 in observance of Thanksgiving",
+		"clss": "btn btn-primary",
+		"beg": "2013-11-25",
+		"end": "2013-11-29"
 	},
-	
-	
-	"<i class='icon-trash'></i> Bulk Pickup": {
-		"desc": "The fall <a href='http://cityofbarberton.com/oc/news.shtml?d=main&y=2013&n=fall_bulk_pickup'>bulk garbage pickup</a> is the week of October 7.",
-		"clss": "btn btn-default",
-		"beg": "2013-10-02",
-		"end": "2013-10-12"
-	},
-	"<i class='icon-leaf'></i> Farmers' Market": {
-		"desc": "There will be a farmers market in downtown on Wednesday from 2 to 6. Fresh produce from local vendors, baked goods, jams, jellies, honey, syrup, flowers, health information & screening, cooking & vegetable carving demonstrations, gardening tips, kid's day, free market bag & shopper incentives. Fun for the whole family!",
-		"clss": "btn btn-success",
-		"beg": "2013-10-08",
-		"end": "2013-10-09"
-	},
-	"<i class='icon-smile'></i> Fun Night": {
-		"desc": "Family Fun Night is Saturday, October 12 at the Barberton Community Foundation Sports Complex <br>Check <a href='http://db.tt/ZiH19mH1'>the flyer</a> for more details.",
+	"<i class='icon-lightbulb'></i> Park Lighting": {
+		"desc": "The Christmas walk and lighting of Lake Anna Park will be on Saturday November 30 from 4 to 9 PM.<br><br>4-5PM Pre-lighting activities in Downtown & Lake Anna area<br>5-6PM Lake Anna Gazebo activities<br>6-9PM Christmas walk activities",
 		"clss": "btn btn-pride",
-		"beg": "2013-10-04",
-		"end": "2013-10-12"
-	},
-	"Trick-or-treat": {
-		"desc": "Trick-or-treat is Saturday, October 26. Downtown trick-or-treat is from 11:30am to 1pm, with a costume contest at 1pm. City-wide trick-or-treat is from 5-8pm.",
-		"clss": "btn btn-warning",
-		"beg": "2013-10-08",
-		"end": "2013-10-26"
+		"beg": "2013-11-16",
+		"end": "2013-11-30"
 	},
 	
+	"<i class='icon-star'></i> City Closed": {
+		"desc": "City offices will be closed Tuesday, December 24 and Wenesday December 25 in observance of Christmas",
+		"clss": "btn btn-primary",
+		"beg": "2013-12-21",
+		"end": "2013-12-25"
+	},
 	
 	"Change for Change": {
-		"desc": "This month's <a href='news.shtml?d=main&amp;y=2013&amp;n=change_for_change'>Change for Change</a> we be held at Angie’s Italian Restaurant. Funds will be donated to: the City of Barberton Dog Park <br> September 26, 4:30-7:00",
+		"desc": "This month's <a href='news.shtml?d=main&amp;y=2013&amp;n=change_for_change'>Change for Change</a> we be held at the Barberton Moose. Funds will be donated to Mobile Meals <br> October 31, 4:30-7:00",
 		"clss": "btn btn-pride",
-		"beg": "2013-09-25",
-		"end": "2013-09-26"
+		"beg": "2013-10-25",
+		"end": "2013-10-31"
+	},
+	
+	"<i class='icon-warning-sign'></i> Road Closures": {
+		"desc": "To allow CSX Railroad to perform routine maintenance on tracks at Snyder and Fairview Ave., the following road closures will begin mid-morning on Monday, October 28 and will continue through Wednesday, October 30.<br><br>Barricades will be placed at:<br>Snyder &amp; 2nd Street<br>Snyder and South Van Buren<br>Fairview &amp; North Van Buren<br>Fairview &amp; Coventry<br>Fairview at the Metro Park Trail",
+		"clss": "btn btn-warning",
+		"beg": "2013-10-25",
+		"end": "2013-10-30"
 	}
 }

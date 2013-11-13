@@ -60,6 +60,7 @@
 						<a class="btn btn-block btn-pride" href="mailto:planning@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
 					</div>
 				</div>
+				
 				<br>
 				<div class="thumbnail">
 					<div class="caption">
@@ -67,6 +68,16 @@
 							<a class="btn btn-block btn-pride" href="http://db.tt/o3HTOLea"><i class="icon-dropbox"></i> Forms &amp; Documents</a>
 						</p>
 						<a class="btn btn-block btn-pride" href="http://db.tt/Xq4vXzCp"><i class="icon-dropbox"></i> Maps</a>
+					</div>
+				</div>
+				
+				<br>
+				<div class="thumbnail">
+					<div class="caption">
+						<p>
+							<a class="btn btn-block btn-pride" href="https://mapsengine.google.com/map/edit?mid=zI8_ZBdFf1LE.kvAtDwelCOQ0"><i class="icon-external-link"></i> Ward Maps</a>
+						</p>
+						The above linked map shows approximate boundary locations, for precise boundaries please refer to <a href="https://db.tt/ZTMjwOPD">Ordinance 7-2013</a>.
 					</div>
 				</div>
 			</div>

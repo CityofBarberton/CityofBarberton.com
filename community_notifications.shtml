@@ -1,0 +1,50 @@
+<!--#include virtual="/oc/lib/includes/head_a.html" -->
+	<title>Magics Alerts - City of Barberton</title>
+	<meta name="description" content="The City of Barberton Community Notifications">
+	<meta property="og:type" content="website"/>
+	<meta property="og:title" content="City of Barberton Notifications"/>
+	<meta property="og:url" content="http://cityofbarberton.com/oc/"/>
+	<meta property="og:description" content="The City of Barberton Community Notifications"/>
+	<meta property="og:image" content="http://cityofbarberton.com/oc/img/barberton_crest.png"/>
+	<meta property="twitter:card" content="summary"/>
+	<meta property="twitter:site" content="@BarbertonCity">
+	<meta property="twitter:title" content="City of Barberton Notifications">
+	<meta property="twitter:url" content="http://cityofbarberton.com/oc/"/>
+	<meta property="twitter:description" content="The City of Barberton Community Notifications"/>
+	<meta property="twitter:image" content="http://cityofbarberton.com/oc/img/barberton_crest.png"/>
+<!--#include virtual="/oc/lib/includes/head_b.html" -->
+	<div class="container contain-main">
+		<div class="row">
+			<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+				<div class="page-header"><h3>Barberton Magics Alerts</h3></div>
+				<p>
+					Barberton, Ohio - The City of Barberton will utilize a new communications service, effective November 1, 2013, that allows us to send important community information directly to residents using the latest technology.
+				</p><p>
+					The Nixle Community Information Service allows us to create and publish messages to be delivered to subscribed residents instantly via cell phone text message and/or email. Notifications can also be accessed online at Nixle's web site at <a href="www.nixle.com">www.nixle.com</a>.
+				</p><p>
+					Messages may include severe weather alerts, road closures, boil alerts, police advisories, and other relevant safety and community event information.
+				</p><p>
+					The service is secure, reliable and easy to use for our group. 
+				</p><p>
+					The messages can be sent specifically to residents registered within a 1/4 mile radius, giving them the opportunity to receive trustworthy information relevant only to their neighborhood.
+					Residents decide from which local agencies they want to receive information.
+					Subscribers can also choose the way in which alerts are received, whether it is by email, text message, or over the web.
+				</p><p>
+					Nixle builds on the foundations of other public-to-public communication services, such as Twitter and Facebook, but adds a key component: security.
+					When citizens receive information from our agency via Nixle, they know it can be trusted. 
+				</p><p>
+					Residents of Barberton and those in neighboring communities can immediately begin receiving pertinent information via text message, email, and web by registering with the attached form.
+				</p><p>
+					We are very excited to have you experience it for yourself.
+				</p>
+			</div>
+		</div>
+		
+		<div class="row">
+			<div class="text-center">
+				<hr class="soften">
+				<iframe src="https://local.nixle.com/signup/widget/i/1200" frameborder="0" scrolling="auto" width="480" height="280" marginwidth="0" marginheight="0"></iframe>
+			</div>
+		</div>
+	</div>
+<!--#include virtual="/oc/lib/includes/foot.html" -->
