@@ -357,7 +357,17 @@
 				<div class="thumbnail">
 					<div class="caption">
 						<h4>Forms</h4>
-						<a class="btn btn-block btn-pride" href="http://db.tt/eOBFLGqW"><i class="icon-file-alt"></i> Direct Payment<br>Application</a>
+						<p>
+							<a class="btn btn-block btn-pride" href="http://db.tt/eOBFLGqW"><i class="icon-file-alt"></i> Direct Payment<br>Application</a>
+						</p>
+						<a class="btn btn-block btn-pride" href="https://db.tt/kPgd9Ck4"><i class="icon-file-alt"></i> Backflow Assembly<br>Test Report</a>
+					</div>
+				</div>
+				<br>
+				<div class="thumbnail">
+					<div class="caption">
+						<h4>Notices</h4>
+						<a class="btn btn-block btn-pride" href="https://db.tt/q6HOzXhR"><i class="icon-file-alt"></i> Drinking Water<br>Notices</a>
 					</div>
 				</div>
 			</div>

@@ -1,44 +1,36 @@
-{
-	"<i class='icon-bullhorn'></i> Magics Alerts": {
-		"desc": "The City of Barberton has begun using Nixle to provide community notifications. This service will help the City communicate electronically with the citizens in a timely manner. For more information and to sign up, please visit the <a href='community_notifications.shtml'>community notifications page.</a>",
+{	
+	"Holiday Lights": {
+		"desc": "The City of Barberton hosts a display of multi-colored holiday lights through New Years Day as part of the annual Lake Anna Holiday Light Display at Lake Anna Park in Barberton. For more info see the <a href='parks_events.shtml'>Parks Events Page.</a>",
 		"clss": "btn btn-pride",
-		"beg": "2013-11-04",
-		"end": "2013-12-04"
+		"beg": "2013-11-26",
+		"end": "2014-01-01"
 	},
-	"<i class='icon-star'></i> City Closed": {
-		"desc": "City offices will be closed Monday, November 11 in observance of Veterans Day",
-		"clss": "btn btn-primary",
-		"beg": "2013-11-08",
-		"end": "2013-11-11"
-	},
-	
-	"<i class='icon-star'></i> City Closed": {
-		"desc": "City offices will be closed Thursday, November 28 and Friday November 29 in observance of Thanksgiving",
-		"clss": "btn btn-primary",
-		"beg": "2013-11-25",
-		"end": "2013-11-29"
-	},
-	"<i class='icon-lightbulb'></i> Park Lighting": {
-		"desc": "The Christmas walk and lighting of Lake Anna Park will be on Saturday November 30 from 4 to 9 PM.<br><br>4-5PM Pre-lighting activities in Downtown & Lake Anna area<br>5-6PM Lake Anna Gazebo activities<br>6-9PM Christmas walk activities",
-		"clss": "btn btn-pride",
-		"beg": "2013-11-16",
-		"end": "2013-11-30"
-	},
-	
-	"<i class='icon-star'></i> City Closed": {
-		"desc": "City offices will be closed Tuesday, December 24 and Wenesday December 25 in observance of Christmas",
+	"<i class='icon-star'></i> City Closed ": {
+		"desc": "City offices will be closed Tuesday, December 24 and Wenesday December 25 in observance of Christmas<br><br>The Utilities department will also be closed Monday December 23.",
 		"clss": "btn btn-primary",
 		"beg": "2013-12-21",
 		"end": "2013-12-25"
 	},
 	
-	"Change for Change": {
-		"desc": "This month's <a href='news.shtml?d=main&amp;y=2013&amp;n=change_for_change'>Change for Change</a> we be held at the Barberton Moose. Funds will be donated to Mobile Meals <br> October 31, 4:30-7:00",
+	"<i class='icon-bullhorn'></i> Magics Alerts": {
+		"desc": "The City of Barberton has begun using Nixle to provide community notifications. This service will help the City communicate electronically with the citizens in a timely manner. For more information and to sign up, please visit the <a href='community_notifications.shtml'>community notifications page.</a>",
 		"clss": "btn btn-pride",
-		"beg": "2013-10-25",
-		"end": "2013-10-31"
+		"beg": "2013-11-04",
+		"end": "2013-12-30"
+	},
+	"Bid Request": {
+		"desc": "Sealed bids for the City of Barberton Downtown Towpath Trail Connector will be received until 3:00 PM on December 18, 2013 at Barberton City Hall, 576 Park Avenue, Barberton, Ohio 44203<br>For more details see the <a href='https://db.tt/Agpcf4Jn'>full notice</a>",
+		"clss": "btn btn-default",
+		"beg": "2013-11-04",
+		"end": "2013-12-30"
 	},
 	
+	"Change for Change": {
+		"desc": "This month's <a href='news.shtml?d=main&amp;y=2013&amp;n=change_for_change'>Change for Change</a> we be held at the Green Diamond. Funds will be donated to Greynolds Classic. <br> November 22, 4:30-7:00",
+		"clss": "btn btn-pride",
+		"beg": "2013-11-14",
+		"end": "2013-11-22"
+	},
 	"<i class='icon-warning-sign'></i> Road Closures": {
 		"desc": "To allow CSX Railroad to perform routine maintenance on tracks at Snyder and Fairview Ave., the following road closures will begin mid-morning on Monday, October 28 and will continue through Wednesday, October 30.<br><br>Barricades will be placed at:<br>Snyder &amp; 2nd Street<br>Snyder and South Van Buren<br>Fairview &amp; North Van Buren<br>Fairview &amp; Coventry<br>Fairview at the Metro Park Trail",
 		"clss": "btn btn-warning",
