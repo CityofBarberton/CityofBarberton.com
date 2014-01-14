@@ -1,16 +1,4 @@
-{	
-	"Holiday Lights": {
-		"desc": "The City of Barberton hosts a display of multi-colored holiday lights through New Years Day as part of the annual Lake Anna Holiday Light Display at Lake Anna Park in Barberton. For more info see the <a href='parks_events.shtml'>Parks Events Page.</a>",
-		"clss": "btn btn-pride",
-		"beg": "2013-11-26",
-		"end": "2014-01-01"
-	},
-	"<i class='icon-star'></i> City Closed ": {
-		"desc": "City offices will be closed Tuesday, December 24 and Wenesday December 25 in observance of Christmas<br><br>The Utilities department will also be closed Monday December 23.",
-		"clss": "btn btn-primary",
-		"beg": "2013-12-21",
-		"end": "2013-12-25"
-	},
+{
 	
 	"<i class='icon-bullhorn'></i> Magics Alerts": {
 		"desc": "The City of Barberton has begun using Nixle to provide community notifications. This service will help the City communicate electronically with the citizens in a timely manner. For more information and to sign up, please visit the <a href='community_notifications.shtml'>community notifications page.</a>",
@@ -26,15 +14,70 @@
 	},
 	
 	"Change for Change": {
-		"desc": "This month's <a href='news.shtml?d=main&amp;y=2013&amp;n=change_for_change'>Change for Change</a> we be held at Barberton VFW Post 1066. Funds will be donated to the Victim Assistance Program. <br> December 20, 4:30-7:00",
+		"desc": "This month's <a href='news.shtml?d=main&amp;y=2013&amp;n=change_for_change'>Change for Change</a> we be held at Liedertafel (191 2nd St NW). Funds will be donated to the Salvation Army. <br> January 24, 4:30-7:00",
 		"clss": "btn btn-pride",
-		"beg": "2013-12-19",
-		"end": "2013-12-20"
+		"beg": "2014-01-19",
+		"end": "2014-01-24"
 	},
-	"<i class='icon-warning-sign'></i> Road Closures": {
-		"desc": "To allow CSX Railroad to perform routine maintenance on tracks at Snyder and Fairview Ave., the following road closures will begin mid-morning on Monday, October 28 and will continue through Wednesday, October 30.<br><br>Barricades will be placed at:<br>Snyder &amp; 2nd Street<br>Snyder and South Van Buren<br>Fairview &amp; North Van Buren<br>Fairview &amp; Coventry<br>Fairview at the Metro Park Trail",
-		"clss": "btn btn-warning",
-		"beg": "2013-10-25",
-		"end": "2013-10-30"
+	
+	"<i class='icon-star'></i> City Closed (MLK Day)": {
+		"desc": "City offices will be closed Monday, January 20 in observance of Martin Luther King, Jr. Day",
+		"clss": "btn btn-primary",
+		"beg": "2014-01-17",
+		"end": "2014-01-20"
+	},
+	"<i class='icon-star'></i> City Closed (Presidents' Day)": {
+		"desc": "City offices will be closed Monday, February 17 in observance of Presidents' Day",
+		"clss": "btn btn-primary",
+		"beg": "2014-02-14",
+		"end": "2014-02-17"
+	},
+	"<i class='icon-star'></i> City Closed (Good Friday)": {
+		"desc": "City offices will be closed Friday, April 18 in observance of Good Friday",
+		"clss": "btn btn-primary",
+		"beg": "2014-04-14",
+		"end": "2014-04-18"
+	},
+	"<i class='icon-star'></i> City Closed (Memorial Day)": {
+		"desc": "City offices will be closed Monday, May 26 in observance of Memorial Day. Trash pickup will be delayed one day.",
+		"clss": "btn btn-primary",
+		"beg": "2014-05-23",
+		"end": "2014-05-26"
+	},
+	"<i class='icon-star'></i> City Closed (Independence Day)": {
+		"desc": "City offices will be closed Friday, July 4 in observance of Independence Day",
+		"clss": "btn btn-primary",
+		"beg": "2014-06-30",
+		"end": "2014-07-04"
+	},
+	"<i class='icon-star'></i> City Closed (Labor Day)": {
+		"desc": "City offices will be closed Monday, September 1 in observance of Labor Day. Trash pickup will be delayed one day.",
+		"clss": "btn btn-primary",
+		"beg": "2014-08-28",
+		"end": "2014-09-01"
+	},
+	"<i class='icon-star'></i> City Closed (Veterans' Day)": {
+		"desc": "City offices will be closed Tuesday, November 11 in observance of Veterans' Day",
+		"clss": "btn btn-primary",
+		"beg": "2014-11-07",
+		"end": "2014-11-11"
+	},
+	"<i class='icon-star'></i> City Closed (Thanksgiving)": {
+		"desc": "City offices will be closed Thursday, November 27 and Friday, November 28 in observance of Thanksgiving",
+		"clss": "btn btn-primary",
+		"beg": "2014-11-22",
+		"end": "2014-11-28"
+	},
+	"<i class='icon-star'></i> City Closed (Christmas)": {
+		"desc": "City offices will be closed Wednesday, December 24 and Thursday, December 25 in observance of Christmas",
+		"clss": "btn btn-primary",
+		"beg": "2014-12-20",
+		"end": "2014-12-25"
+	},
+	"<i class='icon-star'></i> City Closed (New Year's)": {
+		"desc": "City offices will be closed Thursday, January 1 in observance of New Year's Day",
+		"clss": "btn btn-primary",
+		"beg": "2014-12-27",
+		"end": "2015-01-01"
 	}
 }
