@@ -27,7 +27,7 @@
 					}
 				</script>
 				-->
-				<iframe id="woiframe" style="height:1000px;" src="http://webapps.cityofbarberton.com/osTicket/open.php" frameborder="0"></iframe>
+				<iframe id="woiframe" style="height:1200px;" src="http://webapps.cityofbarberton.com/osTicket/open.php" frameborder="0"></iframe>
 			</div>
 		</div>
 	</div>
