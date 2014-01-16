@@ -33,7 +33,9 @@
 						<img class="img-responsive" src="img/tech/BtownAppIcon.png">
 						<br>
 						<div class="text-center">
-						<img src="img/tech/Download_on_the_App_Store_Badge_US-UK_135x40.png">
+							<a href="https://itunes.apple.com/us/app/barberton/id795739147">
+								<img src="img/tech/Download_on_the_App_Store_Badge_US-UK_135x40.png">
+							</a>
 						</div>
 					</div>
 				</div>
