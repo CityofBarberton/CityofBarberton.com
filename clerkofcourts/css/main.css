@@ -1,0 +1,172 @@
+body {
+	color:#311313;
+	background-color: #c4cef0;
+	background-color: #ccc;
+	font-family: Helvetica, Arial, sans-serif;
+}
+iframe {
+	width: 720px;
+	width: 100%;
+	margin: 0px auto;
+}
+
+
+
+.container {
+	background-color: #fff;
+}
+.nav {
+	background-color: #fff;
+}
+
+
+
+.masthead {
+	background-color: #357ebd;
+	background-color: #1E508F;
+	/*border-bottom: 4px solid black;*/
+}
+.seal {
+	height: 160px;
+	float: left;
+  display: block;
+  margin-bottom: -20px;
+  padding: 12px 0px 10px 20px;
+}
+.contain-top {
+	background-color: #1E508F;
+}
+.mh-main {
+	padding: 8px 1px 1px 172px;
+	color: #fff;
+	background-color: #1E508F;
+	font-size:smaller;
+	text-shadow: 0 1px 0 #000;
+	font-family: 'Marcellus SC', serif;
+}
+.mh-clerk-pic {
+  display: none;
+  margin: 12px 20px -20px 40px;
+  border: 2px solid #fff;
+  border-radius: 16px;
+}
+.mh-clerk-pic img {
+	height: 120px;
+	border-radius: 16px;
+}
+.mh-title {
+	padding: 8px 8px 0 0;
+	font-size: x-large;
+}
+.mh-subt {
+	font-size: small;
+}
+.mh-clerk {
+	padding: 0 8px;
+	font-size: x-large;
+}
+.round-top {
+	margin: 0 -15px;
+	border-top-left-radius: 12px;
+	border-top-right-radius: 12px;
+	/*margin-bottom: -4px;*/
+}
+
+.contain-main {
+	min-height: 184px;
+}
+.main-btns {
+	text-align: center;
+}
+.contain-iframe {
+	text-align: center;
+}
+
+
+
+.sidebar {
+	display: none; /* none when small */	
+	width: 212px;
+	margin-top: 40px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background-color: #fff;
+	border-radius: 10px;
+	border: 1px solid #ccc;
+}
+.affix {
+	top: 20px;
+}
+
+
+
+.table > thead > tr > td.courts,
+.table > tbody > tr > td.courts,
+.table > tfoot > tr > td.courts,
+.table > thead > tr > th.courts,
+.table > tbody > tr > th.courts,
+.table > tfoot > tr > th.courts,
+.table > thead > tr.courts > td,
+.table > tbody > tr.courts > td,
+.table > tfoot > tr.courts > td,
+.table > thead > tr.courts > th,
+.table > tbody > tr.courts > th,
+.table > tfoot > tr.courts > th {
+	background-color: #357ebd;
+	background-color: #1E508F;
+	border-color: #d6e9c6;
+	color: white;
+}
+
+
+
+.round-bottom {
+	margin: 0 -15px;
+	border-bottom-left-radius: 8px;
+	border-bottom-right-radius: 8px;
+}
+.footer {
+	margin: 0;
+	color: #ccc;
+	font-size:smaller;
+	background-color: #1E508F;
+}
+.contain-foot {
+	font-size:small;
+	background-color: #1E508F;
+}
+.footpad {
+	height: 8px;
+	background-color: #fff;
+}
+.copyright {
+	margin: 0;
+	padding: 6px 12px;
+}
+
+/* small .col-sm-* */
+@media screen and (min-width: 768px) {
+	.mh-clerk-pic {
+	  display: block;
+	}
+	.mh-title {
+		padding: 16px 8px 0 0;
+		font-size: xx-large;
+	}
+	.contain-main {
+		min-height: 780px;
+	}
+	.sidebar {
+		display: block;
+	}
+}
+
+/* large .col-lg-* */
+@media screen and (min-width: 992px) {
+	.contain-main {
+		min-height: 518px;
+	}
+	.sidebar {
+		display: block;
+	}
+}

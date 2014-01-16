@@ -1,0 +1,25 @@
+<!--#include virtual="/clerkofcourts/lib/includes/head_a.html" -->
+	<title>Parking - Barberton Courts</title>
+<!--#include virtual="/clerkofcourts/lib/includes/head_b.html" -->
+	<div class="container contain-main">
+		<div class="row">
+			<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+				<div class="page-header"><h3>General Information Regarding Parking Tickets</h3></div>
+				<p>
+					If you receive a parking ticket you may pay the fine as listed on the back of the ticket or you can contest the ticket.
+				</p><p>
+					You may contest the ticket by appearing in person at 576 West Park Avenue, Room 205 on Saturday's at 9:00 A.M.
+					Your hearing will be held on the Saturday you appear and request the hearing.
+					Bring with you any information that supports your belief that the parking ticket should be dismissed.
+				</p><p>
+					If you choose to pay the fine, the Court accepts payment by cash, check, money order or Visa / Mastercard.
+					Checks and money orders should be made payable to the Barberton Municipal Court;
+					please include a copy of the ticket or the ticket number on the check or money order.
+					Check the <a href="payment_options.shtml">payment options page</a> for more details on payment options.
+				</p>
+				
+				<!--#include virtual="/clerkofcourts/editable/waiver_parking.html" -->
+			</div>
+		</div>
+	</div>
+<!--#include virtual="/clerkofcourts/lib/includes/foot.html" -->

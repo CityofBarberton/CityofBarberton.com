@@ -1,0 +1,45 @@
+<!--#include virtual="/clerkofcourts/lib/includes/head_a.html" -->
+	<title>Rules Appendices - Barberton Courts</title>
+<!--#include virtual="/clerkofcourts/lib/includes/head_b.html" -->
+	<div class="container contain-main">
+		<div class="row">
+			<div class="col-xs-12 col-sm-8 col-md-9 col-lg-9">
+				<div class="page-header"><h3>Local Court Rules Appendices</h3></div>
+				
+				<h4 id="lcrappend-a">Appendix A: Barberton Municipal Court Schedule of Court Sessions</h4>
+				<!--#include virtual="/clerkofcourts/editable/rules_appendix_a.html" -->
+				
+				<hr>
+				<h4 id="lcrappend-b">Appendix B: Barberton Municipal Court Schedule of Court Costs</h4>
+				<!--#include virtual="/clerkofcourts/editable/rules_appendix_b.html" -->
+				
+				<hr>
+				<h4 id="lcrappend-c">Appendix C: Barberton Municipal Court Bond Schedule</h4>
+				<!--#include virtual="/clerkofcourts/editable/bond_criminal.html" -->
+				<!--#include virtual="/clerkofcourts/editable/bond_traffic.html" -->
+				
+				<hr>
+				<h4 id="lcrappend-d">Appendix D: Barberton Municipal Waiver Schedule</h4>
+				<!--#include virtual="/clerkofcourts/editable/waiver_criminal.html" -->
+				<!--#include virtual="/clerkofcourts/editable/waiver_parking.html" -->
+				<!--#include virtual="/clerkofcourts/editable/waiver_traffic.html" -->
+				
+				<hr>
+				<h4 id="lcrappend-e">Appendix E: Barberton Municipal Civil Cost Schedule</h4>
+				<!--#include virtual="/clerkofcourts/editable/rules_appendix_e.html" -->
+			</div>
+			
+			<div class="col-sm-4 col-md-3 col-lg-3">
+				<div class="sidebar" data-spy="affix" data-offset-top="140">
+					<ul class="nav">
+						<li><a href="#lcrappend-a">Appendix A: Barberton Municipal Court Schedule of Court Sessions</a></li>
+						<li><a href="#lcrappend-b">Appendix B: Barberton Municipal Court Schedule of Court Costs</a></li>
+						<li><a href="#lcrappend-c">Appendix C: Barberton Municipal Court Bond Schedule</a></li>
+						<li><a href="#lcrappend-d">Appendix D: Barberton Municipal Waiver Schedule</a></li>
+						<li><a href="#lcrappend-e">Appendix E: Barberton Municipal Civil Cost Schedule</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+<!--#include virtual="/clerkofcourts/lib/includes/foot.html" -->

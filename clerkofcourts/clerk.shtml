@@ -1,0 +1,11 @@
+<!--#include virtual="/clerkofcourts/lib/includes/head_a.html" -->
+	<title>Clerk - Barberton Courts</title>
+<!--#include virtual="/clerkofcourts/lib/includes/head_b.html" -->
+	<div class="container contain-main">
+		<div class="row">
+			<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+<!--#include virtual="/clerkofcourts/editable/clerk_stevenson.html" -->
+			</div>
+		</div>
+	</div>
+<!--#include virtual="/clerkofcourts/lib/includes/foot.html" -->

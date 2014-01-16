@@ -1,0 +1,39 @@
+<!--#include virtual="/clerkofcourts/lib/includes/head_a.html" -->
+	<title>Public Records - Barberton Courts</title>
+<!--#include virtual="/clerkofcourts/lib/includes/head_b.html" -->
+	<div class="container contain-main">
+		<div class="row">
+			<div class="col-xs-12 col-sm-7 col-md-8 col-lg-8">
+				<div class="page-header"><h3>Public Records</h3></div>
+				<p>
+					The Clerk of Courts office provides public viewing and/or copies of court records at 576 W Park Avenue, Room 205, Barberton, OH 44203, Monday through Friday between the hours of 8:00 a.m. to 4:00 p.m., with the exception of published holidays.
+					We highly recommend obtaining records from 1996 to present on our website, where you can get immediate access.
+					If you are looking for records prior to 1996, submit a written <a href="http://www.cityofbarberton.com/clerkofcourts/Forms/PublicRecordsRequestForm.pdf">Public Records Request Form</a>, by e-mail, mail or in-person.
+				</p>
+
+				<h4>Public Records Copy Fees</h4>
+				<table class="table table-bordered">
+					<tr>
+						<td>Certified Copies</td>
+						<td>$1.00</td>
+					</tr><tr>
+						<td>Computer Docket Printouts (per page) / Copies (per page)</td>
+						<td>$0.10</td>
+					</tr>
+				</table>
+				
+			</div>
+			
+			<div class="col-xs-12 col-sm-5 col-md-4 col-lg-4">
+				<h4>&nbsp;</h4>
+				<p>
+					<a class="btn btn-primary btn-block" href="forms/PublicRecordsRequestForm.pdf"><i class="icon-file"></i>&nbsp; Request Form</a>
+				</p><p>
+					<a class="btn btn-primary btn-block" href="forms/2011PublicRecordsPolicy.pdf"><i class="icon-file"></i>&nbsp; Public Records Policy</a>
+				</p><p>
+					<a class="btn btn-primary btn-block" href="forms/RecordsRetentionRules.pdf"><i class="icon-file"></i>&nbsp; Record Retention Schedule</a>
+				</p>
+			</div>
+		</div>
+	</div>
+<!--#include virtual="/clerkofcourts/lib/includes/foot.html" -->

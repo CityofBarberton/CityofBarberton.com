@@ -1,0 +1,119 @@
+<!--#include virtual="/clerkofcourts/lib/includes/head_a.html" -->
+	<title>Barberton Municipal Court</title>
+<!--#include virtual="/clerkofcourts/lib/includes/head_b.html" -->
+	<script type="text/javascript">
+		pageScript = function(){
+			var haps = [], datBeg = {}, datEnd = {}, datNow = new Date();
+			haps.push('<div class="panel-heading"><h3 class="panel-title">Special Announcements</h3></div>');
+			$.getJSON('editable/announce.json', function(hapNow){
+				$.each(hapNow, function(hapNam, hapDet){
+					//datNow = new Date('8/27/2013 11:05:00');
+					datBeg = new Date(hapDet.beg);
+					datEnd = new Date(hapDet.end);
+					datBeg.setHours(24,0,0,0);
+					datEnd.setHours(48,0,0,0);
+					if(datNow >= datBeg && datNow <= datEnd){
+						haps.push('<div class="panel-body">' + hapDet.desc + '</div>');
+					}
+				});
+				if(haps.length > 1){
+					$('<div/>', {
+						'class': 'panel panel-primary',
+						html: haps.join('')
+					}).appendTo('#announce');
+				}	
+			});
+		}
+	</script>
+	
+	<div class="main">
+	<div class="container contain-main">
+		<div class="row">
+			<div class="col-xs-12 col-sm-4 col-md-3 col-lg-3">
+				<br>
+				<div class="main-btns">
+					<p><a class="btn btn-success btn-lg btn-block" href="payment.shtml"><i class="icon-credit-card"></i>&nbsp; Pay Fines Online</a></p>
+					<p><a class="btn btn-primary btn-lg btn-block" href="search.shtml"><i class="icon-search"></i>&nbsp; Search Records</a></p>
+					<!--<br>-->
+					<p><a class="btn btn-primary btn-lg btn-block" href="docket.shtml"><i class="icon-legal"></i>&nbsp; Daily Docket</a></p>
+					<!--<br>-->
+					<p><a class="btn btn-primary btn-lg btn-block" href="forms.shtml"><i class="icon-file-text-alt"></i>&nbsp; Court Forms</a></p>
+					<!--<br>-->
+					<p><a class="btn btn-primary btn-lg btn-block" href="waiver.shtml">Waiver Amounts</a></p>
+					<p><a class="btn btn-primary btn-lg btn-block" href="rules.shtml">Court Rules</a></p>
+					<!--<br>-->
+					<div id="announce"></div>
+				</div>
+			</div>
+			
+			<div class="col-xs-12 col-sm-8 col-md-9 col-lg-7">
+				<br>
+				<p>
+					Welcome to the website for the Barberton Municipal Clerk of Court’s office, Diana Stevenson, Clerk.
+					The Clerk’s office is responsible for maintaining the public record on all court cases filed in the Barberton Municipal Court as well as collecting and distributing fines and fees associated with these cases.
+					Our new and improved website will help you find answers to your questions, search court case information, pay fines online, and view a complete docket of the court’s hearings.
+				</p><p>
+					Our goal is to help you navigate your way through the municipal court system.
+					We are always looking for ways to expand our services so please let us know your suggestions by sending an email to:
+					<a href="mailto://clerkwebmaster@cityofbarberton.com">clerkwebmaster@cityofbarberton.com</a>.
+				<!--
+				<p>
+					The Clerk of Courts office is the communication hub of the Courts.
+					The purpose of this website is to provide access to and information regarding records held by the Clerk of the Barberton Municipal Court and information regarding the operations of the Court.
+					Our goal is to help you navigate your way through the municipal court system.
+					Any questions or comments regarding this site can be directed to <a href="mailto://clerkwebmaster@cityofbarberton.com">clerkwebmaster@cityofbarberton.com</a>.
+					We are constantly looking at ways to expand our services to the public, so please let us know what you would like to see here.
+				</p>
+				-->
+				<p>
+					The clerk’s office serves the communities of
+					<a href="http://cityofbarberton.com/oc/">Barberton</a>,
+					<a href="http://www.cityofgreen.org/">Green</a>,
+					<a href="http://www.cityofnorton.org/">Norton</a>,
+					<a href="http://www.copley.oh.us/">Copley</a>,
+					<a href="http://www.newfranklin.org/">New Franklin</a>,
+					<a href="http://www.coventrytownship.com/">Coventry</a> and
+					<a href="http://clintonvillageohio.com/">Clinton</a>.
+				</p>
+				
+				<h4>Business Hours</h4>
+				<table class="table-condensed">
+					<tr>
+						<th></th>
+						<th>Monday - Friday</th>
+						<th>Saturday</th>
+					</tr><tr>
+						<th>Criminal / Traffic</th>
+						<td>8AM - 8PM</td>
+						<td>8AM - 11AM</td>
+					</tr><tr>
+						<th>Civil</th>
+						<td>8AM - 4:30PM</td>
+						<td>Closed</td>
+					</tr><tr>
+						<th>Judges</th>
+						<td>9AM - 1PM</td>
+						<td>Closed</td>
+					</tr>
+				</table>
+				
+				<h4>Interpreters</h4>
+				<p>Requests for an interpreter must be made to the Court Bailiff <strong>5 days in advance</strong> of your court hearing date.</p>
+				
+				<h4>QR Codes</h4>
+				<img src="img/qr_clerkofcourts_a_small.png" class="pull-right hidden-xs">
+				<p>
+					A QR Code is a two dimensional barcode that can be scanned using your Smartphone.
+					Once scanned, QR Codes can load contact information and driving directions, initiate phone calls, launch URLs, and more.
+					If you need a QR Code Reader for your Smartphone, visit your device's App Store and search for "QR Code".
+				</p><p>
+					QR Codes on glossy surfaces, such as computer monitors, can be hard for scanners to read.
+					It may be necessary to hold your smartphone at a different angle to reduce glare from glossy surfaces.
+				</p><p>
+					The QR Code shown to the right contains a link to this page.
+				</p>
+			</div>
+		</div>
+	</div>
+	</div>
+<!--#include virtual="/clerkofcourts/lib/includes/foot.html" -->

@@ -1,0 +1,109 @@
+<!--#include virtual="/clerkofcourts/lib/includes/head_a.html" -->
+	<title>Traffic - Barberton Courts</title>
+<!--#include virtual="/clerkofcourts/lib/includes/head_b.html" -->
+	<div class="container contain-main">
+		<div class="row">
+			<div class="col-xs-12 col-sm-8 col-md-9 col-lg-9">
+				<div class="page-header"><h3>General Information Regarding Traffic Court</h3></div>
+				<p>
+					You may visit the Traffic Division during the office hours of 8:00 A.M. to 8:00 P.M., Monday through Friday and from 8:00 A.M. and 12 Noon, Saturday.
+					The Traffic Division is located in the Barberton Municipal Building on the second floor, Room 205.
+					Please review carefully all information on both the front and back of the citation that was issued to you.
+					The waiver schedule can be accessed through this site under Waiver Information.
+				</p>
+				
+				<h4 id="commonquestions">Common Questions</h4>
+					<h5>Can I call to request time to pay my fine?</h5>
+					<p>
+						No, you must appear in court on the court date and ask the Judge for time to pay.
+					</p>
+					 
+					<h5>I forgot to pay my citation on time. Can I mail it on the court date?</h5>
+					<p>
+						If you have a waiverable citation, you must add a $5.00 late fee if you pay after your court date (you must do so within 30 days of your Court date).
+					</p>
+					 
+					<h5>I forgot to show my insurance card to the officer and was told if I bring it in, I can just pay my fine. Is this correct?</h5>
+					<p>
+						Yes, if you have a waiverable citation you can mail or bring in a copy of your insurance card or policy showing coverage for the date of your violation.
+					</p>
+					 
+					<h5>Will my fine be different if I come to court? How do I know how much money to bring?</h5>
+					<p>
+						The Judge determines the fine amount in court and there is no way of knowing what you will pay prior to your court appearance. The Judge reviews the records, listens to your comments, and bases his decision on all the information given. If you do not have money on the day of your appearance and your fines and costs exceed $100.00, the Court will sometimes allow you additional time to pay your fine. This is referred to as a payment agreement. There is a $20.00 fee for being placed on a payment agreement.
+					</p>
+					 
+					<h5>I did not have insurance on the day I received my citation. Will my license be suspended? For how long?</h5>
+					<p>
+						Yes, your license will be suspended for 90 days by the Bureau of Motor Vehicles.
+					</p>
+					 
+					<h5>Can I get driving privileges while my license is suspended?</h5>
+					<p>
+						Contact the Bureau of Motor Vehicles.
+					</p>
+				
+					<h4 id="paymentoffines">Payment of Fines</h4>
+					<p>
+						The Court accepts payment by cash, check, money order or Visa/Mastercard. Checks and money orders should be made payable to the Barberton Municipal Court; please include a copy of the citation or the citation number on the check or money order. For details on payment options, please click here.
+					</p><p>
+						Court costs are a minimum $133.00 for moving violations and $104.00 for non-moving violations (including charges that can be waived). These costs CANNOT be waived if a person is found guilty, unless the Court makes a determination that the person is indigent.
+					</p><p>
+						If you go to trial, there may be additional costs incurred for subpoenas, witness fees, etc. These fees are in addition to the minimum court costs.
+					</p>
+					
+					<h4 id="pleadnotguilty">To Plead Not Guilty</h4>
+					<p>
+						If you wish to plead not guilty you must either:
+					</p><ol>
+						<li>Appear in court on the date and time specified on the citation and enter a verbal not guilty plea, or</li>
+						<li>Enter your not guilty plea in writing by the date and time on the citation. You must have the citation number, your complete name and address and a phone number at which you can be reached. Based on the not guilty plea the court will set a trial date and will notify you by mail of your date.</li>
+					</ol>
+					
+					<h4 id="extensions">Extensions</h4>
+					<p>
+						The Clerk's Office can grant one (1) extension of your original arraignment date of up to seven (7) days at a cost of $5.00 (unless you have been charged with DUI/DWI or you have posted bond on the case).
+					</p><p>
+						A second continuance of your arraignment date or a continuance of your pre-trial, trial, or status hearing must be granted by a judge. You must request this continuance in writing explaining the reason for the request. The Court will notify you of its decision.
+					</p>
+					
+					<h4 id="mandatoryappearances">Mandatory Appearances</h4>
+					<p>
+						If your citation requires a mandatory appearance, report to the Clerk's office on your stated court date and time (arraignments are at 9 A.M. or 1 P.M.) which is listed on the lower right hand corner of the citation copy given to you by the officer. You may report directly to Room 207 and sign in. All proceedings are called in check-in order.
+					</p>
+					
+					<h4 id="whattobring">What to Bring with You to Court</h4>
+					<ul>
+						<li>Proof of insurance for the vehicle and driver for the date shown on the citation.</li>
+						<li>Valid operator's license.</li>
+						<li>Adequate funds to pay for fines and costs.</li>
+					</ul>
+					
+					<h4 id="failure">Failure to Appear</h4>
+					<p>
+						Failure to appear in Court as required will result in the following actions:
+					</p><p>
+						Warrant for arrest for failure to appear and contempt of court, which is a misdemeanor and is punishable by a fine, jail or both. You will be required to post a bond, if arrested.
+					</p><p>
+						The Court will notify the Ohio Bureau of Motor Vehicles of your failure to appear. The BMV will withhold the issuance or renewal of your driver's license and registration, and suspend your driving privileges until the case is formally closed.
+					</p>
+				<!--#include virtual="/clerkofcourts/editable/bond_traffic.html" -->
+			</div>
+			
+			<div class="col-sm-4 col-md-3 col-lg-3">
+				<div class="sidebar" data-spy="affix" data-offset-top="140">
+					<ul class="nav">
+						<li><a href="#commonquestions">Common Questions</a></li>
+						<li><a href="#paymentoffines">Payment of Fines</a></li>
+						<li><a href="#pleadnotguilty">To Plead Not Guilty</a></li>
+						<li><a href="#extensions">Extensions</a></li>
+						<li><a href="#mandatoryappearances">Mandatory Appearances</a></li>
+						<li><a href="#whattobring">What to Bring to Court</a></li>
+						<li><a href="#failure">Failure to Appear</a></li>
+						<li><a href="#bondschedule">Bond Schedule</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+<!--#include virtual="/clerkofcourts/lib/includes/foot.html" -->

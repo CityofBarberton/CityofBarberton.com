@@ -1,0 +1,93 @@
+<!--#include virtual="/clerkofcourts/lib/includes/head_a.html" -->
+	<title>Criminal - Barberton Courts</title>
+<!--#include virtual="/clerkofcourts/lib/includes/head_b.html" -->
+	<div class="container contain-main">
+		<div class="row">
+			<div class="col-xs-12 col-sm-8 col-md-9 col-lg-9">
+				<div class="page-header"><h3>Criminal Division</h3></div>
+				<p>
+					You may visit the Criminal Division during the office hours of 8:00 A.M. to 8:00 P.M., Monday through Friday and from 8:00 A.M. to 12 Noon, Saturday.
+					The Criminal Division is located in Barberton Municipal Building, on the second floor, Room 205.
+					The phone number is (330) 861-7188.
+				</p>
+				
+				<h4 id="commonquestions">Common Questions</h4>
+					<h5>What must I do when I come to the court as specified by my citation, assignment notice, letter, or bond recognizance form?</h5>
+					<p>
+						Report to the Clerk's office for directions to the courtroom in which your hearing will be held, report to the courtroom and sign in.
+					</p>
+
+					<h5>When appearing at the Clerk's office, how should I identify myself?</h5>
+					<ul>	
+						<li>DO NOT use a nickname or alias</li>
+						<li>Use the same spelling as listed on your paperwork</li>
+						<li>If the name or address is incorrect, ADVISE the court so it may be corrected</li>
+					</ul>
+
+					<h5>What must I bring to court?</h5>
+					<p>
+						You must bring any relevant paperwork having to do with your case, such as:
+					</p><ul>
+						<li>Copy of citation</li>
+						<li>Any written communication from the Court</li>
+						<li>Bond papers and receipt</li>
+						<li>Documents of proof for compliance of judicial order or sentence</li>
+						<li>Adequate funds to pay fines and costs</li>
+					</ul>
+
+					<h5>How long should I plan to be in court?</h5>
+					<p>
+						It will depend on the number of cases scheduled for that day.
+						There is a sign-in sheet stationed outside the courtroom.
+						Each Defendant is to sign-in and will be called before the Judge in the order the names appear on the sign-in sheet.
+					</p>
+
+					<h5>What are the different possible hearings?</h5>
+					<ul>
+						<li><strong>Arraignment</strong> - Reading of your rights, reading of the charges, entering a plea.</li>
+						<li><strong>Pretrial Hearing</strong> - A conference between parties (Prosecutor and Defendant or attorney for the Defendant) regarding the issues of the case.</li>
+						<li><strong>Trial</strong> - The examination of the evidence and the decisions of the issues of law by a judge or jury to determine guilt or innocence.</li>
+						<li><strong>Status Hearing</strong> - Any hearing after sentencing that would require a modification, review or change in the Court's Order</li>
+					</ul>
+
+					<h5>Do I need to have an attorney represent me?</h5>
+					<p>
+						You may have an attorney represent you at trial, if you wish, but you are not required to have one.
+					</p>
+
+					<h5>Can I bring in statements from witnesses to present to the Court?</h5>
+					<p>
+						The Court will not consider affidavits or other written statements in lieu of a witness' appearance at trial.
+						If you want the Court to hear from a witness, they must be present.
+					</p>
+					
+					<h5>How do I get a witness to come to court?</h5>
+					<p>
+						If you want a witness to come to court, and they refuse to come voluntarily, several days prior to trial you must ask the Court to issue a subpoena compelling appearance.
+					</p>
+					
+					<h5>Can I ask the City for certain information that I will need for trial?</h5>
+					<p>
+						If you think that the City of Barberton has certain information in its possession that you will need to use at trial, you must make a discovery request for that information under Rule 16 of the Criminal Rules of Procedure, prior to trial.
+					</p>
+					
+					<h5>What if I cannot come to court on the day scheduled for trial?</h5>
+					<p>
+						If you cannot appear on the day scheduled for trial you must file a Motion for Continuance at least three (3) working days in advance of the trial date.
+						However, you must appear for trial on the day scheduled if the court does not notify you that it has granted your request.
+					</p>
+					
+					<!--#include virtual="/clerkofcourts/editable/bond_criminal.html" -->
+			</div>
+			
+			<div class="col-sm-4 col-md-3 col-lg-3">
+				<div class="sidebar" data-spy="affix" data-offset-top="140">
+					<ul class="nav">
+						<li><a href="#commonquestions">Common Questions</a></li>
+						<li><a href="#bondschedule">Bond Schedule</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+<!--#include virtual="/clerkofcourts/lib/includes/foot.html" -->

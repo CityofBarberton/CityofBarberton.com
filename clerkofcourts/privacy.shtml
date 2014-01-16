@@ -1,0 +1,30 @@
+<!--#include virtual="/clerkofcourts/lib/includes/head_a.html" -->
+	<title>Privacy Policy - Barberton Courts</title>
+<!--#include virtual="/clerkofcourts/lib/includes/head_b.html" -->
+	<div class="container contain-main">
+		<div class="row">
+			<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+				<div class="page-header"><h3>Privacy Policy</h3></div>
+				<p>
+					This website is the property of the Clerk of Court's Office for the Barberton Municipal Court.
+					All of the pages contained within this site are maintained by the Systems Administrator for the Municipal Court. 
+				</p><p>
+					The modification, updating, defacing or alteration of any page or any data connected with this site is prohibited without the express written permission of the Clerk of Court or the Webmaster of this site. 
+				</p><p>
+					This website performs normal levels of auditing to maintain the site and allow the public access to records and information regarding the operations of the Court and Clerk's Office.
+					Under normal circumstances, this information is not used for any purposes except to assist in troubleshooting problems occurring with the site and to determine the identity of individuals involved in unauthorized alterations, updates or interruptions of service involving this site. Both the laws of the United States and the State of Ohio prohibit the unauthorized defacement, updating, replacement, alteration or denial of access to any page or pages within this site. 
+				</p><p>
+					The Public Access Module of the website sets a pair of cookies that enable the application to track the progress of the query being made.
+					This was done to make site operation usable in an internet environment and to prevent the online inquiries from adversely impacting the ongoing operations of the Court since the Public Access module is running against the same database as the internal Court operations use.
+					This cookie doesn't track information beyond the progress of the current session. Refusing cookies will not result in inability to utilize the online Public Access, but it does make one's session more prone to being 'pruned' and in that event having to start the query over from the beginning. 
+				</p><p>
+					The Online Payment Process collects personal information from individuals wishing to pay fines and costs online.
+					This information is retained and used to resolve the case(s) in question, some of it becoming part of the public record. 
+				</p><p>
+					The privacy of individuals accessing this site for legitimate purposes will not be compromised. However, as with the Website of any public/governmental agency, all aspects of its operation are subject to scrutiny under various public access laws.
+					No specific record is made regarding records accessed via the public access function of this website.
+				</p>
+			</div>
+		</div>
+	</div>
+<!--#include virtual="/clerkofcourts/lib/includes/foot.html" -->

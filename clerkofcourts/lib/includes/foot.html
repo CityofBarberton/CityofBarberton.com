@@ -1,0 +1,62 @@
+	<div class="footer">
+		<div class="container contain-foot">
+			<div class="footpad round-bottom"></div>
+			<div class="copyright text-right">
+				Barberton Clerk of Courts
+				&ndash;
+				576 W Park Ave
+				Barberton, OH 44203
+			</div>
+		</div>
+	</div>
+	
+	<div class="modal fade" id="legalNoticeModal" role="dialog">
+		<div class="modal-dialog">
+			<div class="modal-content">
+				<div class="modal-header">
+					<h4 class="modal-title">Notice to All Users and Legal Disclaimer</h4>
+				</div>
+				<div class="modal-body">
+					<p>
+						The Barberton Municipal Court computer record information disclosed by the system is current only within the limitations of the Barberton Municipal Court data retrieval system.
+						There will be a delay between court filings and judicial action and the posting of such data.
+						The delay could be at least twenty-four hours, and may be longer.
+						The user of this system is hereby notified that any reliance on the data displayed on the screen is at your own risk and liability.
+						Information on the system may be altered, amended, or modified without notice.
+						If you require verified information as to the records of the Barberton Municipal Court, you may send a written request to the Barberton Municipal Court or visit the court, located at 576 West Park Avenue, Barberton, Ohio 44203, during regular business hours.
+					</p><p>
+						<strong>Note:</strong> If you keep seeing this message then you probably have cookies disabled.
+					</p>
+				</div>
+				<div class="modal-footer">
+					<button type="button" class="btn btn-primary" data-dismiss="modal">I Agree</button>
+				</div>
+			</div><!-- /.modal-content -->
+		</div><!-- /.modal-dialog -->
+	</div><!-- /.modal -->
+	
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+	<script src="lib/bootstrap/js/bootstrap.min.js"></script>
+	<script src="lib/jquery/jquery.cookie.js"></script>
+	<script type="text/javascript">
+		$(function(){
+			//$.removeCookie('hasReadLegalNotice');
+			if($.cookie('hasReadLegalNotice') !== 'YES'){
+				$('#legalNoticeModal').modal('show');
+				$.cookie('hasReadLegalNotice', 'YES', { expires: 30 });
+			}
+		});
+		
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+		ga('create', 'UA-39111665-2', 'cityofbarberton.com');
+		ga('send', 'pageview');
+		
+		// check for and execute page specific scripts last
+		if(typeof(pageScript)==='function'){
+			pageScript();
+		}
+	</script>
+</body></html>

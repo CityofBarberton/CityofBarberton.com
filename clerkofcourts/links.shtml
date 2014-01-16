@@ -1,0 +1,30 @@
+<!--#include virtual="/clerkofcourts/lib/includes/head_a.html" -->
+	<title>Links - Barberton Courts</title>
+<!--#include virtual="/clerkofcourts/lib/includes/head_b.html" -->
+	<div class="container contain-main">
+		<div class="row">
+			<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+				<div class="page-header"><h3>Related Web Sites</h3></div>
+				<ul>
+					<li><a href="http://courts.ci.akron.oh.us" class="links" target="_blank">Akron Municipal Court</a></li>
+					<li><a href="http://www.state.oh.us/contacts.htm" class="links" target="_blank">Ohio Departments and Agencies Phone Directory</a></li>
+					<li><a href="http://akronbar.org" class="links" target="_blank">Akron Bar Association</a></li>
+					<li><a href="http://www.ohiobar.org" class="links" target="_blank">Ohio State Bar Association</a></li>
+					<li><a href="http://www.akronlawlib.org" class="links" target="_blank">Akron Law Library</a></li>
+					<li><a href="http://www.state.oh.us" class="links" target="_blank">State of Ohio</a></li>
+					<li><a href="http://www.akronlegalnews.com" class="links" target="_blank">Akron Legal News</a></li>
+					<li><a href="http://www.cpclerk.co.summit.oh.us/" target="_blank" class="links">Summit County Clerk of Courts</a></li>
+					<li><a href="http://www.state.oh.us/odps" class="links" target="_blank">Bureau of Motor Vehicles</a></li>
+					<li><a href="http://www.summitcpcourt.net/" target="_blank" class="links">Summit County Common Pleas Court</a></li>
+					<li><a href="http://www.cityofgreen.org/" target="_blank" class="links">City of Green</a></li>
+					<li><a href="http://www.co.summit.oh.us" class="links" target="_blank">Summit County Government</a></li>
+					<li><a href="http://www.cityofnorton.org/" target="_blank" class="links">City of Norton</a></li>
+					<li><a href="http://probatecourt.summitoh.net/" target="_blank" class="links">Summit County Probate Court</a></li>
+					<li><a href="http://www.stowmunicourt.com/" class="links">Stow Municipal Court</a></li>
+					<li><a href="http://www.sconet.state.oh.us" class="links" target="_blank">Supreme Court of Ohio</a></li>
+					<li><a href="http://www.co.summit.oh.us" class="links" target="_blank">Ninth District Court of Appeals</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+<!--#include virtual="/clerkofcourts/lib/includes/foot.html" -->

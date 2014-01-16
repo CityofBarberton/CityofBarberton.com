@@ -1,0 +1,43 @@
+<!--#include virtual="/clerkofcourts/lib/includes/head_a.html" -->
+	<title>Court Forms - Barberton Courts</title>
+<!--#include virtual="/clerkofcourts/lib/includes/head_b.html" -->
+	<div class="container contain-main">
+		<div class="row">
+			<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+				<div class="page-header"><h3>Court Forms</h3></div>
+				<p>
+					These forms are provided for the convenience of residents of the Barberton Municipal Court District.
+				</p><p>
+					<strong>REMEMBER</strong> - legal matters are often complicated and involve issues that are best handled by an attorney.
+					If you need more information contact the Akron Bar Association.
+					The Akron Bar Association's Lawyer Referral Service can provide you with the name of an attorney who will do an initial one-half hour consultation with you for $30.00.
+					The Lawyer Referral Service can be reached by telephone at (330) 253-5038 or by e-mail at <a href="mailto://lris@akronbar.org">lris@akronbar.org</a>.
+				</p>
+				<ul>
+					<li><a href="forms/affadavitcurrentbalance.pdf">Affidavit of Current Balance Due on Garnishment Order</a></li>
+					<li><a href="Forms/forcibleentryanddetainer.pdf">Forcible Entry &amp; Detainer for Personal Judgment</a></li>
+					<li><a href="forms/affidcurrentbalancerequestforhearing.pdf">Affidavit of Current Balance Due </a> </li>
+					<li><a href="forms/garnishmentrequestforhearing.pdf">Garnishment Request for Hearing</a></li>
+					<li><a href="Forms/Answer_Form.pdf">Answer</a></li>
+					<li><a href="forms/interimreport.pdf">Interim Report and Answer of Garnishee</a></li>
+					<li><a href="Forms/ApplicationforDefaultJudgment.pdf">Application for Default Judgment</a></li>
+					<li><a href="Forms/NonCompliance12PtSuspensionDrivingPrivileges.pdf">Non-Compliance 12-Point Suspension Limited Driving Privileges</a></li>
+					<li><a href="forms/sealconviction.pdf">Application for Sealing of Conviction</a></li>
+					<li><a href="forms/Notice_of_Court_Proceedings_15_day_demand.pdf">Notice of Court Proceedings to Collect Debt</a></li>
+					<li><a href="forms/sealdismissal.pdf">Application for Sealing of Dismissal</a></li>
+					<li><a href="forms/noticetoleavepremises.pdf">Notice to Leave the Premises</a></li>
+					<li><a href="Forms/BMVReinstatement%20Fees%20Payment%20Plan%20Driving%20Priv.pdf">BMV Reinstatement Fees Repayment Plan and Limited Driving Privileges</a></li>
+					<li><a href="Forms/12PointLicenseAppealForm.pdf">Petition for Non-Compliance and 12 Point Suspension Driving Privileges</a></li>
+					<li><a href="forms/debtordisclosureform.pdf">Debtor Disclosure Form</a></li>
+					<li><a href="forms/praecipeforsubpoena.pdf">Praecipe for Subpoena</a></li>
+					<li><a href="Forms/ExpungementForm.pdf">Expungement Application</a></li>
+					<li><a href="forms/smallclaimsinfosheet.pdf">Small Claims Information Sheet</a></li>
+					<li><a href="forms/finalreportandanswer.pdf">Final Report and Answer of Garnishee</a></li>
+					<li><a href="forms/PublicRecordsRequestForm.pdf">Public Records Request Form</a></li>
+					<li><a href="forms/2011PublicRecordsPolicy.pdf">Public Records Policy</a></li>
+					<li><a href="forms/RecordsRetentionRules.pdf">Public Records Retention Schedule</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+<!--#include virtual="/clerkofcourts/lib/includes/foot.html" -->

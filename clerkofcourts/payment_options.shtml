@@ -1,0 +1,66 @@
+<!--#include virtual="/clerkofcourts/lib/includes/head_a.html" -->
+	<title>Payment Options - Barberton Courts</title>
+<!--#include virtual="/clerkofcourts/lib/includes/head_b.html" -->
+	<div class="container contain-main">
+		<div class="row">
+			<div class="col-xs-12 col-sm-8 col-md-9 col-lg-9">
+				<div class="page-header"><h3>Court Payment Options</h3></div>
+				<p>
+					The Court accepts payments by cash, check, money order or Visa / Mastercard.
+				</p><p>
+					Checks and money orders should be made payable to the Barberton Municipal Court;
+					please include a copy of the citation, or write the citation number or case number on the check or money order.
+				</p>
+				
+				<h4 id="paybymail">Payments by US Mail</h4>
+				<p>
+					Checks or money orders can be mailed to the following address:
+					<address>
+						Barberton Municipal Court<br>
+						576 West Park Avenue, Room 205<br>
+						Barberton, OH 44203
+					</address>
+				</p><p>
+					If you are paying a <a href="waiver.shtml">waiverable citation</a>, payment can also be made by Visa or Mastercard by completing and signing the form on the waiver envelope you were given.
+				</p><p>
+					Include your ticket, signed on the reverse side. Also include your Proof of Insurance (if not shown to the Officer). If your ticket is not paid on or before your court date, add a $10.00 late fee to the amount owed.
+				</p>
+
+				<h4 id="payinperson">Payments in Person</h4>
+				<p>
+					Payments can be made in person at the office of the Barberton Clerk of Courts:
+					576 West Park Avenue, Room 205, in Barberton, Ohio (right across from Lake Anna in the Barberton Municipal Building).
+					Payments can be made during our regular business hours, which are:
+				</p><p>
+					Monday through Friday - 8:00 a.m. to 8:00 p.m.<br>
+					Saturday - 8:00 a.m. to 12:00 noon<br>
+					Closed on Sundays and <a href="http://cityofbarberton.com/oc/calendar.shtml">Holidays</a>
+				</p><p>
+					The Court accepts payments by cash, check, money order, or Visa / Mastercard.
+				</p>
+
+				<h4 id="payonline">Payments Online</h4>
+				<p>
+					The online payment system allows you to search for and pay fines and waivers for any cases you have with the Barberton Municipal Court considered payable online from the comfort of your home.
+					Before continuing, please review our <a href="privacy.shtml">privacy</a> and <a href="return.shtml">return</a> policies.
+					When you're ready to begin, please visit the <a href="payment.shtml">online payments page</a>.
+					If you have any questions or problems, please contact <a href="mailto://webadmin@henschen.com">webadmin@henschen.com</a>.
+				</p><p>
+					<div class="text-center">
+						<a class="btn btn-success btn-large" href="payment.shtml"><i class="icon-credit-card"></i>&nbsp; Pay Fines Online</a>
+					</div>
+				</p>
+			</div>
+			
+			<div class="col-sm-4 col-md-3 col-lg-3">
+				<div class="sidebar" data-spy="affix" data-offset-top="140">
+					<ul class="nav">
+						<li><a href="#paybymail">Payments by Mail</a></li>
+						<li><a href="#payinperson">Payments in Person</a></li>
+						<li><a href="#payonline">Payments Online</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+<!--#include virtual="/clerkofcourts/lib/includes/foot.html" -->

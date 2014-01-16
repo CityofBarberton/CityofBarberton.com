@@ -1,0 +1,15 @@
+<!--#include virtual="/clerkofcourts/lib/includes/head_a.html" -->
+	<title>Return Policy - Barberton Courts</title>
+<!--#include virtual="/clerkofcourts/lib/includes/head_b.html" -->
+	<div class="container contain-main">
+		<div class="row">
+			<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+				<div class="page-header"><h3>Return Policy</h3></div>
+				<p>
+					Unless a refund is due as a direct result of our error, all transactions are final.
+					We will credit you in the same manner as your original payment within 7 days of an error having been found or brought to our attention.
+				</p>
+			</div>
+		</div>
+	</div>
+<!--#include virtual="/clerkofcourts/lib/includes/foot.html" -->

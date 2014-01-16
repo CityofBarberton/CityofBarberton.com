@@ -1,0 +1,68 @@
+<!--#include virtual="/clerkofcourts/lib/includes/head_a.html" -->
+	<title>Waivers - Barberton Courts</title>
+<!--#include virtual="/clerkofcourts/lib/includes/head_b.html" -->
+	<div class="container contain-main">
+		<div class="row">
+			<div class="col-xs-12 col-sm-8 col-md-9 col-lg-9">
+				<div class="page-header"><h3>Waiverable Offenses</h3></div>
+				<p>
+					Certain traffic violations and criminal offenses can be waived - that is you can admit guilt and pay your fines and court costs without having to come to court.
+					Other violations REQUIRE a court appearance under the law.
+					Below you will find a list of the mandatory appearances as well as those that are waiverable.
+				</p>
+				
+				<h4 id="mandatory">Mandatory Court Appearances</h4>
+				<p>
+					If you have been cited for one of the following violations, you are REQUIRED to appear in court on the date listed at the bottom of your citation:
+				</p><ul>
+					<li>Construction Zone</li>
+					<li>Drag racing</li>
+					<li>Driving 21 miles or more above the posted speed limit</li>
+					<li>Driving with impaired alertness or ability</li>
+					<li>Drug offense</li>
+					<li>DUI, DWI, Driving Under Suspension</li>
+					<li>Fictitious unauthorized, display or no front plate</li>
+					<li>Hit skip</li>
+					<li>Intoxicated pedestrian</li>
+					<li>No Ohio license</li>
+					<li>Noise abatement</li>
+					<li>Physical control</li>
+					<li>Two prior traffic convictions within the last year</li>
+					<li>Unsafe vehicle (2 or more convictions)</li>
+					<li>Vehicular homicide</li>
+					<li>Violation involving a school bus/zone</li>
+					<li>Violation involving operators' license (over 6 months)</li>
+					<li>Willful fleeing</li>
+				</ul><p><strong>
+					ALL VIOLATIONS REQUIRE PROOF OF INSURANCE FOR THE DATE OF THE CITATION.
+					IF YOUR TICKET IS MARKED "FR NOT SHOWN" YOU MUST BRING PROOF TO COURT.
+					DO NOT BRING INVOICES OR APPLICATIONS.
+					YOU NEED AN INSURANCE CARD WITH EFFECTIVE DATES FOR THE CAR LISTED ON THE CITATION, OR A COPY OF YOUR INSURANCE POLICY.
+				</strong></p><p><strong>
+					FAILURE TO PROVIDE PROOF OF INSURANCE WILL RESULT IN A SUSPENSION OF YOUR LICENSE IMPOSED BY THE OHIO BUREAU OF MOTOR VEHICLES FOR A MINIMUM OF 90 DAYS.
+				</strong></p><p>
+					The following traffic violations may be waived by paying the amounts shown next to the citation.
+					Waivers must be paid in full - NO PARTIAL PAYMENTS!
+					If you received more than one violation on the face of the traffic ticket, you must pay the amount listed for each violation.
+				</p><p><strong>
+					Checks must have current address and phone number listed. Please write ticket number on memo line for proper credit.
+				</strong></p>
+				
+				<!--#include virtual="/clerkofcourts/editable/waiver_traffic.html" -->
+				<!--#include virtual="/clerkofcourts/editable/waiver_parking.html" -->
+				<!--#include virtual="/clerkofcourts/editable/waiver_criminal.html" -->
+			</div>
+			
+			<div class="col-sm-4 col-md-3 col-lg-3">
+				<div class="sidebar" data-spy="affix" data-offset-top="140">
+					<ul class="nav">
+						<li><a href="#mandatory">Mandatory Appearances</a></li>
+						<li><a href="#waive_traffic">Waiverable Traffic Offenses</a></li>
+						<li><a href="#waive_parking">Waiverable Parking Offenses</a></li>
+						<li><a href="#waive_criminal">Waiverable Criminal Offenses</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+<!--#include virtual="/clerkofcourts/lib/includes/foot.html" -->

@@ -1,0 +1,101 @@
+<!--#include virtual="/clerkofcourts/lib/includes/head_a.html" -->
+	<title>Online Payments - Barberton Courts</title>
+<!--#include virtual="/clerkofcourts/lib/includes/head_b.html" -->
+	<div class="container contain-main">
+		<div class="row">
+			<div class="col-xs-12 col-sm-8 col-md-9 col-lg-9">
+				<div class="page-header"><h3>Online Ticket Payment Program</h3></div>
+				<p>
+					Welcome to the Online Ticket Payment Program for the Barberton Municipal Court.
+					As part of an ongoing process of expanding services and incorporating technology in day-to-day operations, you can now pay eligible citations online.
+				</p>
+				
+				<h4 id="waivers">Payment of Citation Without Court Appearance (Waivers)</h4>
+				<p>
+					Ohio law allows certain traffic citations to be resolved by a Traffic Violations Bureau instead of appearing in Court.
+					If your citation qualifies, payment can be made either in person, telephone, mail, or now online, as long as it is received by the Clerk's office prior to the Court date and time which can be found on the bottom of your citation or by accessing the record search information.
+					You must pay the full amount, NO partial payment can be accepted.
+					By paying your ticket online you are voluntarily waiving your right to a trial and are entering a plea of guilty to the charge(s).
+				</p><p>
+					Court records are updated every 24 hours, so if you forgot or missed your court date, you should check the status after that time.
+					You may still qualify to pay.
+					If you do not qualify for payment, you MUST appear in person at the Clerk's office as a warrant has already been issued for your arrest and/or notification to the Bureau of Motor Vehicles of a license forfeiture and/or block along with additional fees.
+				</p>
+				
+				<h4 id="multipleviolations">Multiple Violations on Citation(s)</h4>
+				<p>
+					The result of your search will display all cases relevant to that search.
+					Tickets can contain up to seven (7) separate charges.
+					If you are paying to waive a court appearance, make sure you are paying all the charges.
+					Multiple cases per ticket are listed with letters after the case number as illustrated below:
+				</p>
+				<img class="img-responsive" src="img/payment01.gif"/>
+				
+				<h4 id="proofofinsurance">Proof of Insurance</h4>
+				<p>
+					Proof of insurance is a State of Ohio requirement.
+					To verify that you showed proof of insurance to the Officer, look at the "Case Information" page by clicking the case number(s) on the list of matching cases. An example of this screen is shown below:
+				</p>
+				<img class="img-responsive" src="img/payment02.gif"/>
+				<p>
+					If you showed proof of insurance at the time of the offense (indicated as "Proof of Ins.?: Shown"), then you have complied with the State of Ohio requirements, no further action on your behalf is required.
+					If you did not show proof of insurance at the time of the offense (indicated as "Proof of Ins.?: Not Shown"), the Court is required to notify the State of Ohio Bureau of Motor Vehicles who in turn will mail you a request for proof of insurance.
+					Failure to comply will result in a suspension of your driving privileges.
+					DO NOT SEND PROOF OF INSURANCE TO THE COURT AFTER PAYMENT.
+				</p>
+				
+				<h4 id="donotqualify">Citations That Do Not Qualify</h4>
+				<p>
+					If a citation includes any mandatory offense, it is NOT payable online and a Court appearance is required.
+					What follows is a list of offenses that cannot be paid online requiring a Court appearance:
+				</p><ul>
+					<li>Any felony or indictable offense</li>
+					<li>Operating a motor vehicle under the influence of alcohol or drugs of abuse, or permitting another to do so</li>
+					<li>Leaving the scene of an accident</li>
+					<li>Driving under suspension or without a license except for expired license of less than six (6) months</li>
+					<li>Third moving violation within 12 months</li>
+					<li>Eluding/fleeing a police officer</li>
+					<li>Drag racing</li>
+					<li>Physical control</li>
+					<li>Illegal license plates</li>
+					<li>Any speed clocked at 100 MPH or more</li>
+					<li>Passing a school bus</li>
+					<li>Some railroad crossing violations</li>
+					<li>Reckless operation of a motor vehicle</li>
+					<li>Overload violations</li>
+				</ul>
+				
+				<h4 id="payaftercourt">Payment of Citation After Court Appearance</h4>
+				<p>
+					Payment of Fines/Costs are also accepted by the Clerk's Office as long as it is received prior to your scheduled court date.
+					If you missed the date, you MUST appear in person at the Clerk's Office as a warrant may have been issued for your arrest and/or notification to the Bureau of Motor Vehicles of a license forfeiture and/or block along with additional fees.
+				</p>
+				
+				<h4 id="finalauthorization">Final Authorization</h4>
+				<p>
+					By submitting your information to request payment, you understand that you are pleading "Guilty" to all charges against you as listed on the citation, consequently waiving your right to an appearance in court or to a trial.
+					You further understand that, when processed, this will close your case and the Court will forward this information to the Bureau of Motor Vehicles and the appropriate points will still be added to your license.
+					This secure site utilizes encryption technology and every precaution has been taken to reduce the possibility of unauthorized access to your private information while it is transferred over the internet.
+					However, by submitting this information electronically, you are acknowledging that neither the Barberton Municipal Court, the Clerk of the Barberton Municipal Court, nor the City of assumes any liability for data submitted via this site (please read our privacy statement).
+				</p>
+				
+				<div class="text-center">
+					<p><a class="btn btn-primary btn-large" href="payment_ha.shtml">Continue</a></p>
+				</div>
+			</div>
+			
+			<div class="col-sm-4 col-md-3 col-lg-3">
+				<div class="sidebar" data-spy="affix" data-offset-top="140">
+					<ul class="nav">
+						<li><a href="#waivers">Payment of Citation Without Court Appearance (Waivers)</a></li>
+						<li><a href="#multipleviolations">Multiple Violations on Citation(s)</a></li>
+						<li><a href="#proofofinsurance">Proof of Insurance</a></li>
+						<li><a href="#donotqualify">Citations That Do Not Qualify</a></li>
+						<li><a href="#payaftercourt">Payment of Citation After Court Appearance</a></li>
+						<li><a href="#finalauthorization">Final Authorization</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+<!--#include virtual="/clerkofcourts/lib/includes/foot.html" -->

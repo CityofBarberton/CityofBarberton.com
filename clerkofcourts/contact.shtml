@@ -1,0 +1,47 @@
+<!--#include virtual="/clerkofcourts/lib/includes/head_a.html" -->
+	<title>Contact - Barberton Courts</title>
+<!--#include virtual="/clerkofcourts/lib/includes/head_b.html" -->
+	<div class="container contain-main">
+		<div class="row">
+			<div class="col-xs-12 col-sm-8 col-md-9 col-lg-9">
+				<div class="page-header"><h3 id="phonenumbers">Contact Us</h3></div>
+				<!--#include virtual="/clerkofcourts/editable/court_contact.html" -->
+				<h4 id="wheretopark">Where to Park</h4>
+				<p>
+					One and two hour free parking on the street is available in front of the Municipal Building on West Park Avenue and behind the Municipal Building on West Tuscarawas Avenue.
+					There is unlimited free parking in the City Lot on the corner of Third Street NW and West Park Avenue and Wooster Road W (behind Magic 8 Cinema).
+				</p>
+				
+				<h4 id="wayshelp">Ways we Can Help</h4
+					<h5>The Clerk's Office Can:</h5>
+					<ul>
+						<li>Answer questions you may have about court procedures.</li>
+						<li>Help you find information about your case and where you must go for court.</li>
+						<li>Answer questions about monies owed to the court.</li>
+						<li>Direct you to other agencies that can provide assistance.</li>
+					</ul>
+					
+					<h5>The Clerk's Office Cannot:</h5>
+					<ul>
+						<li>Give you legal advice or fill out forms for you.</li>
+						<li>Tell you what to say or write.</li>
+						<li>Recommend lawyers or bonding agents.</li>
+						<li>Reschedule for the Judge's office.</li>
+					</ul>
+
+				<!--#include virtual="/clerkofcourts/editable/court_holidays.html" -->
+			</div>
+			
+			<div class="col-sm-4 col-md-3 col-lg-3">
+				<div class="sidebar" data-spy="affix" data-offset-top="140">
+					<ul class="nav">
+						<li><a href="#phonenumbers">Phone Numbers</a></li>
+						<li><a href="#wheretopark">Where to Park</a></li>
+						<li><a href="#wayshelp">Ways we Can Help</a></li>
+						<li><a href="#holidays">Holidays</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+<!--#include virtual="/clerkofcourts/lib/includes/foot.html" -->
