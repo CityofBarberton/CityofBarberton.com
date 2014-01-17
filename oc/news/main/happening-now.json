@@ -20,61 +20,61 @@
 		"end": "2014-01-24"
 	},
 	
-	"<i class='icon-star'></i> City Closed (MLK Day)": {
+	"<i class='icon-star'></i> City Closed 1/20": {
 		"desc": "City offices will be closed Monday, January 20 in observance of Martin Luther King, Jr. Day",
 		"clss": "btn btn-primary",
 		"beg": "2014-01-17",
 		"end": "2014-01-20"
 	},
-	"<i class='icon-star'></i> City Closed (Presidents' Day)": {
+	"<i class='icon-star'></i> City Closed 2/17": {
 		"desc": "City offices will be closed Monday, February 17 in observance of Presidents' Day",
 		"clss": "btn btn-primary",
 		"beg": "2014-02-14",
 		"end": "2014-02-17"
 	},
-	"<i class='icon-star'></i> City Closed (Good Friday)": {
+	"<i class='icon-star'></i> City Closed 4/18": {
 		"desc": "City offices will be closed Friday, April 18 in observance of Good Friday",
 		"clss": "btn btn-primary",
 		"beg": "2014-04-14",
 		"end": "2014-04-18"
 	},
-	"<i class='icon-star'></i> City Closed (Memorial Day)": {
+	"<i class='icon-star'></i> City Closed 5/26": {
 		"desc": "City offices will be closed Monday, May 26 in observance of Memorial Day. Trash pickup will be delayed one day.",
 		"clss": "btn btn-primary",
 		"beg": "2014-05-23",
 		"end": "2014-05-26"
 	},
-	"<i class='icon-star'></i> City Closed (Independence Day)": {
+	"<i class='icon-star'></i> City Closed 7/4": {
 		"desc": "City offices will be closed Friday, July 4 in observance of Independence Day",
 		"clss": "btn btn-primary",
 		"beg": "2014-06-30",
 		"end": "2014-07-04"
 	},
-	"<i class='icon-star'></i> City Closed (Labor Day)": {
+	"<i class='icon-star'></i> City Closed 9/1": {
 		"desc": "City offices will be closed Monday, September 1 in observance of Labor Day. Trash pickup will be delayed one day.",
 		"clss": "btn btn-primary",
 		"beg": "2014-08-28",
 		"end": "2014-09-01"
 	},
-	"<i class='icon-star'></i> City Closed (Veterans' Day)": {
+	"<i class='icon-star'></i> City Closed 11/11": {
 		"desc": "City offices will be closed Tuesday, November 11 in observance of Veterans' Day",
 		"clss": "btn btn-primary",
 		"beg": "2014-11-07",
 		"end": "2014-11-11"
 	},
-	"<i class='icon-star'></i> City Closed (Thanksgiving)": {
+	"<i class='icon-star'></i> City Closed 11/26-27": {
 		"desc": "City offices will be closed Thursday, November 27 and Friday, November 28 in observance of Thanksgiving",
 		"clss": "btn btn-primary",
 		"beg": "2014-11-22",
 		"end": "2014-11-28"
 	},
-	"<i class='icon-star'></i> City Closed (Christmas)": {
+	"<i class='icon-star'></i> City Closed 12/24-25": {
 		"desc": "City offices will be closed Wednesday, December 24 and Thursday, December 25 in observance of Christmas",
 		"clss": "btn btn-primary",
 		"beg": "2014-12-20",
 		"end": "2014-12-25"
 	},
-	"<i class='icon-star'></i> City Closed (New Year's)": {
+	"<i class='icon-star'></i> City Closed 1/1": {
 		"desc": "City offices will be closed Thursday, January 1 in observance of New Year's Day",
 		"clss": "btn btn-primary",
 		"beg": "2014-12-27",
