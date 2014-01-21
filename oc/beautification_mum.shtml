@@ -13,13 +13,15 @@
 	<meta property="twitter:description" content="The City of Barberton Mum Fesitval"/>
 	<meta property="twitter:image" content="http://cityofbarberton.com/oc/img/barberton_crest.png"/>
 <!--#include virtual="/oc/lib/includes/head_b.html" -->
+	<!--
 	<div id="hapsNow" class="container">
 		<div class="alert alert-info">
 			<h4>Free Shuttle Service</h4>
 			Avoid the traffic around the lake by parking at the Barberton Middle School (<a href="https://maps.google.com/maps?q=Barberton+Middle+School&fb=1&gl=us&hq=barberton+middle+school+477+4th+st+nw&cid=0,0,695281357850026247&t=h&z=16&iwloc=A">477 4th St NW</a>) and riding the free shuttle. The shuttle runs from 10am to 6pm.
 		</div>
 	</div>
-
+	-->
+	
 	<div id="fb-root"></div>
 	<script>(function(d, s, id) {
 	  var js, fjs = d.getElementsByTagName(s)[0];
@@ -81,158 +83,22 @@
 					<a class="carousel-control left" href="#myCarousel" data-slide="prev"><span class="icon-prev"></span></a>
 					<a class="carousel-control right" href="#myCarousel" data-slide="next"><span class="icon-next"></span></a>
 				</div>
-				
-				<p>
-					<strong>BARBERTON MUM FEST</strong> to feature Mums, Music and More; Annual festival to be held September 28th and 29th in Barberton, Ohio.
+				<br>
+			
+				<h4>	
+				BARBERTON MUM FEST TO FEATURE MUMS, MUSIC & MORE; ANNUAL FESTIVAL TO BE HELD SEPTEMBER 27 AND 28 IN BARBERTON, OHIO
+				</h4><p>
+				Mums the Word:  Lake Anna Park will explode with color as 20,000 chrysanthemums create over a million mum blooms in a rainbow of color at the twenty fourth annual MUM FEST 2014 on Saturday and Sunday, September 27th and 28th.
 				</p><p>
-					Lake Anna Park will explode with color as 20,000 chrysanthemums create over a million mum blooms in a rainbow of color at the twenty-second annual MUM FEST 2013 on Saturday and Sunday, September 28th and 29th.
+				The dazzling floral display will provide a brilliant backdrop for a weekend filled with FREE family entertainment, arts and crafts, gardening tips, and fabulous foods.
 				</p><p>
-					The dazzling floral display will provide a brilliant backdrop for a weekend filled with FREE family entertainment, historic views of Barberton, arts and crafts, gardening tips, and fabulous food.
+				MUM FEST 2014 will include water ski shows, canoe races on Lake Anna, roving entertainers, unique food vendors, ice carving, sand sculpting, and children’s activities.
 				</p><p>
-					MUM FEST 2013 will include water ski shows, canoe races on Lake Anna, musical entertainment, historical displays, unique food vendors, sand sculpting and children's activities.
+				Admission to the Mum Fest is FREE.  The chrysanthemums are donated by Aris Horticulture, Inc., located in Barberton, Ohio.  Aris Horticulture is a leading grower of high quality ornamental plant products.   The mums are featured in colorful collage displays.  In addition to the mum gardens, are garden mum hanging baskets and a floral arch of garden mums.
 				</p><p>
-					Admission to the Mum Fest is FREE. The chrysanthemums, some twenty-one (21) varieties in all, are donated by Aris Horticulture Services, located in Barberton, Ohio. Aris Horticulture Services, formerly known as Yoder Brothers, is a leading grower of high quality ornamental plant products. The mums are featured in colorful collage displays. In addition to the mum gardens, are garden mum hanging baskets and a floral arch of garden mums.
-				</p><p>
-					Mum Fest 2013 is a cooperative effort involving the City of Barberton Beautification Program, Aris Horticultural Services and the Barberton Community Foundation.
+				MUM FEST 2014 is a cooperative effort involving the City of Barberton Beautification Program, Aris Horticulture, Inc., and the Barberton Community Foundation.
 				</p>
-				
-				<h4 id="schedule">Schedule</h4>
-				<p>
-					Sand Sculpture (Gazebo), Ice Carving (City Hall), Vegetable Carving (Mum  Gardens), Log Carving (Gazebo) and Kids Place (Gazebo) activities taking place throughout the Mum Festival.
-				</p>
-				
-				<h5>Saturday, September 28</h5>
-				<table class="table table-striped table-bordered">
-					<thead>
-						<tr class="courts">
-							<th>Time
-							</th><th>Location
-							</th><th>Event
-							</th>
-						</tr>
-					</thead><tbody>
-						<tr>
-							<td>11:00 am
-							</td><td>Mum Gardens
-							</td><td>Diaper Derby Dash
-							</td>
-						</tr><tr>
-							<td>11:30 am
-							</td><td>Gazebo
-							</td><td>Magic Show 
-							</td>
-						</tr><tr>
-							<td>12:00 pm &ndash; 2:00 pm
-							</td><td>Roving
-							</td><td>Balloon Art 
-							</td>
-						</tr><tr>
-							<td>12:00 pm &ndash; 5:00 pm
-							</td><td>Masonic Temple
-							</td><td>Barberton Kiwanis Silent Auction
-							</td>
-						</tr><tr>
-							<td>12:00 pm &ndash; 5:00 pm
-							</td><td>Lakeview United Methodist Church
-							</td><td>Swiss Steak Dinner
-							</td>
-						</tr><tr>
-							<td><strike>12:00 pm &ndash; 5:30 pm</strike><br>10:00 am &ndash; 4:30 pm
-							</td><td>Library
-							</td><td>Barberton Library Book Sale
-							</td>
-						</tr><tr>
-							<td>12:15 pm, 2:45 pm &amp; 4:30 pm
-							</td><td>Visitors Center
-							</td><td>Water Ski Shows
-							</td>
-						</tr><tr>
-							<td>1:15 pm &amp; 3:30 pm
-							</td><td>Mum Gardens
-							</td><td>Indian Drumming &amp; Dancing
-							</td>
-						</tr><tr>
-							<td>2:00 pm
-							</td><td>Gazebo
-							</td><td>ETC
-							</td>
-						</tr><tr>
-							<td>2-2:45 pm &amp; 5:15-6:00 pm
-							</td><td>Mum Gardens
-							</td><td>Guitar Music
-							</td>
-						</tr><tr>
-							<td>3:30 pm
-							</td><td>Visitors Center
-							</td><td>Great Lake Anna Canoe Race
-							</td>
-						</tr>
-					</tbody>
-				</table>
-				
-				<h5>Sunday, September 29</h5>
-				<table class="table table-striped table-bordered">
-					<thead>
-						<tr class="courts">
-							<th>Time
-							</th><th>Location
-							</th><th>Event
-							</th>
-						</tr>
-					</thead><tbody>
-						<tr>
-							<td>11:30 am, 2:15 pm & 4:00 pm
-							</td><td>Visitors Center
-							</td><td>Water Ski Shows
-							</td>
-						</tr><tr>
-							<td>12:00 pm &ndash; 5:00 pm
-							</td><td>Masonic Temple
-							</td><td>Barberton Kiwanis Silent Auction
-							</td>
-						</tr><tr>
-							<td><strike>12:00 pm &ndash; 5:30 pm</strike><br>1:00 pm &ndash; 4:30 pm
-							</td><td>Library
-							</td><td>Barberton Library Book Sale
-							</td>
-						</tr><tr>
-							<td>12:15 pm &  3:15 pm
-							</td><td>Mum Gardens
-							</td><td>Indian Drumming and Dancing
-							</td>
-						</tr><tr>
-							<td>12:30 pm &ndash; 2:30 pm
-							</td><td>Roving
-							</td><td>Balloon Art
-							</td>
-						</tr><tr>
-							<td>1:00 pm
-							</td><td>Gazebo
-							</td><td>New Horizons Band
-							</td>
-						</tr><tr>
-							<td>1:00 pm &ndash; 2:00 pm
-							</td><td>Mum Gardens
-							</td><td>Guitar Music
-							</td>
-						</tr><tr>
-							<td>1:00 pm &ndash; 2:00 pm
-							</td><td>Roving
-							</td><td>Ronald McDonald
-							</td>
-						</tr><tr>
-							<td>1:45 pm
-							</td><td>City Hall
-							</td><td>Babcock & Wilcox Centennial of Service Recognition
-							</td>
-						</tr><tr>
-							<td>4:45 pm
-							</td><td>Gazebo
-							</td><td>Magic Show
-							</td>
-						</tr>
-					</tbody>
-				</table>
+	
 			</div>
 			<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
 				<div class="thumbnail">
@@ -252,7 +118,7 @@
 					<div class="caption">
 						<p>
 							<strong>When:</strong><br>
-							September 28 &amp; 29<br>
+							September 27 &amp; 28<br>
 							10:00 am - 6:00 pm<br>
 							<br>
 							<strong>Where:</strong><br>
