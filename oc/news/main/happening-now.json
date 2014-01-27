@@ -20,12 +20,6 @@
 		"end": "2014-01-24"
 	},
 	
-	"<i class='icon-star'></i> City Closed 1/20": {
-		"desc": "City offices will be closed Monday, January 20 in observance of Martin Luther King, Jr. Day",
-		"clss": "btn btn-primary",
-		"beg": "2014-01-17",
-		"end": "2014-01-20"
-	},
 	"<i class='icon-star'></i> City Closed 2/17": {
 		"desc": "City offices will be closed Monday, February 17 in observance of Presidents' Day",
 		"clss": "btn btn-primary",
@@ -37,6 +31,12 @@
 		"clss": "btn btn-primary",
 		"beg": "2014-04-14",
 		"end": "2014-04-18"
+	},
+	"Magic Egg Hunt": {
+		"desc": "The Magic Egg Hunt will be Saturday, April 19, 2013 at 11:00 am at Tuscora Park<br><a href='https://db.tt/M7W465xp'>More Details</a>",
+		"clss": "btn btn-primary",
+		"beg": "2014-04-12",
+		"end": "2014-04-19"
 	},
 	"<i class='icon-star'></i> City Closed 5/26": {
 		"desc": "City offices will be closed Monday, May 26 in observance of Memorial Day. Trash pickup will be delayed one day.",
