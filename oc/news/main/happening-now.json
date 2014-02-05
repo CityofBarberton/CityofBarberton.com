@@ -1,23 +1,22 @@
 {
-	
+	"<i class='icon-star'></i> State of the City": {
+		"desc": "Mayor William B. Judge invites you to attend the State of the City Address at 6PM on Thursday February 27 at the Active Adult Center.<br><a href='news.shtml?d=main&y=2014&n=state_of_the_city'>State of the City Invitation</a>",
+		"clss": "btn btn-pride",
+		"beg": "2013-02-05",
+		"end": "2014-02-27"
+	},
 	"<i class='icon-bullhorn'></i> Magics Alerts": {
 		"desc": "The City of Barberton has begun using Nixle to provide community notifications. This service will help the City communicate electronically with the citizens in a timely manner. For more information and to sign up, please visit the <a href='community_notifications.shtml'>community notifications page.</a>",
 		"clss": "btn btn-pride",
 		"beg": "2013-11-04",
-		"end": "2014-01-30"
-	},
-	"Exam Notice": {
-		"desc": "THE CITY OF BARBERTON ANNOUNCES A CIVIL SERVICE EXAMINATION FOR THE POSITON OF LABORER <br><a href='http://cityofbarberton.com/oc/hr_postings.shtml'>HR Postings</a>",
-		"clss": "btn btn-default",
-		"beg": "2014-01-02",
-		"end": "2014-01-29"
+		"end": "2014-03-01"
 	},
 	
 	"Change for Change": {
-		"desc": "This month's <a href='news.shtml?d=main&amp;y=2013&amp;n=change_for_change'>Change for Change</a> we be held at Liedertafel (191 2nd St NW). Funds will be donated to the Salvation Army. <br> January 24, 4:30-7:00",
+		"desc": "This month's <a href='news.shtml?d=main&amp;y=2013&amp;n=change_for_change'>Change for Change</a> we be held at David B's. Funds will be donated to the Relay for Life. <br> February 21, 4:30-7:00",
 		"clss": "btn btn-pride",
-		"beg": "2014-01-19",
-		"end": "2014-01-24"
+		"beg": "2014-02-19",
+		"end": "2014-02-21"
 	},
 	
 	"<i class='icon-star'></i> City Closed 2/17": {

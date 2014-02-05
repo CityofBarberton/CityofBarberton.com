@@ -43,15 +43,19 @@
 			// example:
 			//  news.shtml?d=main&y=2013&n=fall_bulk_pickup
 			if(urlvars['d'] && urlvars['y'] && (urlvars['n'] || urlvars['q'])){
-				var newst = decodeURIComponent(urlvars['q']).replace(/[+_]/g," ");				
-				$('#newsload').html(newst);
+				var newsurl = '';
 				
 				if(urlvars['n']){
 					newsurl = urlvars['n'];
 				}else{
 					newsurl = urlvars['q'];
 				}
-				var newsurl = 'news/' + urlvars['d'] + '/' + urlvars['y'] + '/' + newsurl.replace(/[:%\.]/g,"") + '.md';	
+				
+				//newst = decodeURIComponent(newsurl).replace(/[+_]/g," ");
+				//$('#newsload').html(newst);
+				
+				newsurl = 'news/' + urlvars['d'] + '/' + urlvars['y'] + '/' + newsurl.replace(/[:%\.]/g,"") + '.md';	
+				//console.log(newsurl);
 				
 				$.ajax({
 					url: newsurl
