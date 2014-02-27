@@ -4,7 +4,7 @@
 	<script type="text/javascript">
 		pageScript = function(){
 			var haps = [], datBeg = {}, datEnd = {}, datNow = new Date();
-			haps.push('<div class="panel-heading"><h3 class="panel-title">Special Announcements</h3></div>');
+			haps.push('<div class="panel-heading"><h3 class="panel-title">Special Announcement</h3></div>');
 			$.getJSON('editable/announce.json', function(hapNow){
 				$.each(hapNow, function(hapNam, hapDet){
 					//datNow = new Date('8/27/2013 11:05:00');
@@ -18,7 +18,7 @@
 				});
 				if(haps.length > 1){
 					$('<div/>', {
-						'class': 'panel panel-primary',
+						'class': 'panel panel-danger',
 						html: haps.join('')
 					}).appendTo('#announce');
 				}	
@@ -32,17 +32,13 @@
 			<div class="col-xs-12 col-sm-4 col-md-3 col-lg-3">
 				<br>
 				<div class="main-btns">
+					<div id="announce"></div>
 					<p><a class="btn btn-success btn-lg btn-block" href="payment.shtml"><i class="icon-credit-card"></i>&nbsp; Pay Fines Online</a></p>
 					<p><a class="btn btn-primary btn-lg btn-block" href="search.shtml"><i class="icon-search"></i>&nbsp; Search Records</a></p>
-					<!--<br>-->
 					<p><a class="btn btn-primary btn-lg btn-block" href="docket.shtml"><i class="icon-legal"></i>&nbsp; Daily Docket</a></p>
-					<!--<br>-->
 					<p><a class="btn btn-primary btn-lg btn-block" href="forms.shtml"><i class="icon-file-text-alt"></i>&nbsp; Court Forms</a></p>
-					<!--<br>-->
 					<p><a class="btn btn-primary btn-lg btn-block" href="waiver.shtml">Waiver Amounts</a></p>
 					<p><a class="btn btn-primary btn-lg btn-block" href="rules.shtml">Court Rules</a></p>
-					<!--<br>-->
-					<div id="announce"></div>
 				</div>
 			</div>
 			

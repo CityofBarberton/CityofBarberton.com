@@ -1,13 +1,19 @@
 {
+	"BPD Housecalls": {
+		"desc": "The Barberton Police Department is starting a program called “Housecalls For Healthcare” to help dispose of old and unused medication. <br><br><a href='https://db.tt/Jxo2bkMD'>Press Release and fliers</a>",
+		"clss": "btn btn-primary",
+		"beg": "2013-02-19",
+		"end": "2014-02-20"
+	},
 	"<i class='icon-star'></i> State of the City": {
-		"desc": "Mayor William B. Judge invites you to attend the State of the City Address at 6PM on Thursday February 27 at the Active Adult Center.<br><a href='news.shtml?d=main&y=2014&n=state_of_the_city'>State of the City Invitation</a>",
+		"desc": "Mayor William B. Judge invites you to attend the State of the City Address at 6PM on Thursday February 27 at the Active Adult Center. <br><br><a href='news.shtml?d=main&y=2014&n=state_of_the_city'>State of the City Invitation</a>",
 		"clss": "btn btn-pride",
 		"beg": "2013-02-05",
 		"end": "2014-02-27"
 	},
 	"DRB Volunteer": {
 		"desc": "The City of Barberton is in need of 3 volunteers to sit on the Design Review Board. Check the <a href='news.shtml?d=main&y=2014&n=design_review_board_volunteer'>press release</a> for more information",
-		"clss": "btn btn-pride",
+		"clss": "btn btn-primary",
 		"beg": "2014-02-13",
 		"end": "2014-03-06"
 	},
@@ -15,7 +21,7 @@
 		"desc": "The City of Barberton has begun using Nixle to provide community notifications. This service will help the City communicate electronically with the citizens in a timely manner. For more information and to sign up, please visit the <a href='community_notifications.shtml'>community notifications page.</a>",
 		"clss": "btn btn-pride",
 		"beg": "2013-11-04",
-		"end": "2014-03-01"
+		"end": "2014-02-18"
 	},
 	
 	"Change for Change": {

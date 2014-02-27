@@ -1,7 +1,7 @@
 {
-	"Court Closed": {
-		"desc": "The court will be closed Monday November 24-25 in observance of Christmas",
-		"beg": "2013-11-22",
-		"end": "2013-11-25"
+	"Court Open": {
+		"desc": "Court is open and hearings are going forward as scheduled.",
+		"beg": "2014-02-18",
+		"end": "2014-02-18"
 	}
 }
