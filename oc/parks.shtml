@@ -33,7 +33,7 @@
 							<img src="img/parks/440x440_parks_a.jpg" class="img-rounded img-responsive">
 							<h4></h4>
 							<p>
-								<a class="btn btn-block btn-pride" href="parks_parks.shtml">Parks »</a>
+								<a class="btn btn-block btn-pride" href="parks_parks.shtml">Parks</a>
 							</p>
 						</div>
 						
@@ -41,7 +41,9 @@
 							<img src="img/parks/440x440_events_a.jpg" class="img-rounded img-responsive">
 							<h4></h4>
 							<p>
-								<a class="btn btn-block btn-pride" href="parks_events.shtml">Events »</a>
+								<a class="btn btn-block btn-pride" href="parks_events.shtml">Events</a>
+							</p><p>
+								<a class="btn btn-block btn-pride" href="parks_events_concerts.shtml">Concerts</a>
 							</p>
 						</div>
 						
@@ -49,7 +51,7 @@
 							<img src="img/parks/440x440_programs_a.jpg" class="img-rounded img-responsive">
 							<h4></h4>
 							<p>
-								<a class="btn btn-block btn-pride" href="parks_programs.shtml">Programs »</a>
+								<a class="btn btn-block btn-pride" href="parks_programs.shtml">Programs</a>
 							</p>
 						</div>
 					</div>
