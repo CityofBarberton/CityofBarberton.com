@@ -39,7 +39,7 @@
 						<h4>Check on a Work Order</h4>
 						<p>
 							Our staff is working hard to complete your work order, and you can check the status.
-							Remember, work orders are processed during normal business hours.
+							Remember, work orders are only processed during normal business hours.
 						</p><p>
 							<a class="btn btn-block btn-pride" href="workorder_view.shtml">Check</a>
 						</p>
