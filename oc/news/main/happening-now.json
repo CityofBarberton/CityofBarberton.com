@@ -1,22 +1,16 @@
 {
 	"Change for Change": {
-		"desc": "This month's <a href='news.shtml?d=main&amp;y=2013&amp;n=change_for_change'>Change for Change</a> we be held at David B's. Funds will be donated to the Relay for Life. <br> February 21, 4:30-7:00",
+		"desc": "This month's <a href='news.shtml?d=main&amp;y=2013&amp;n=change_for_change'>Change for Change</a> we be held at Tony's SpeakEasy. Funds will be donated to the Barberton Beautification Fund. <br> March 28, 5:00-7:00",
 		"clss": "btn btn-pride",
-		"beg": "2014-02-19",
-		"end": "2014-02-21"
+		"beg": "2014-03-26",
+		"end": "2014-03-28"
 	},
 	
-	"DRB Volunteer": {
-		"desc": "The City of Barberton is in need of 3 volunteers to sit on the Design Review Board. Check the <a href='news.shtml?d=main&y=2014&n=design_review_board_volunteer'>press release</a> for more information",
-		"clss": "btn btn-primary",
-		"beg": "2014-02-13",
-		"end": "2014-03-06"
-	},
-	"Job Fair": {
-		"desc": "City of Barberton is hosting a Job and Resource Fair Saturday, March 22 from 10am-1pm at the Active Adult Center. <br><br><a href='news.shtml?d=main&amp;y=2014&amp;n=job_fair'>Job Fair Details</a>",
-		"clss": "btn btn-primary",
-		"beg": "2013-03-01",
-		"end": "2014-03-22"
+	"Egg Hunt": {
+		"desc": "The 26th Annual Egg Hunt: 11AM Saturday, April 19, 2014 at Tuscora Park <br><br><a href='https://db.tt/93Mdk5n9'>More Details</a>",
+		"clss": "btn btn-pride",
+		"beg": "2014-04-12",
+		"end": "2014-04-19"
 	},
 	
 	"<i class='icon-star'></i> City Closed 4/18": {
@@ -37,6 +31,14 @@
 		"beg": "2014-05-23",
 		"end": "2014-05-26"
 	},
+	
+	"Yard sales": {
+		"desc": "Barberton city-wide yardsale is June 19-22. A yard sale permit is NOT needed for these days only. <br><br><a href='https://db.tt/HdAaJKJ8'>More Details</a>",
+		"clss": "btn btn-pride",
+		"beg": "2014-06-18",
+		"end": "2014-06-22"
+	},
+	
 	"<i class='icon-star'></i> City Closed 7/4": {
 		"desc": "City offices will be closed Friday, July 4 in observance of Independence Day",
 		"clss": "btn btn-primary",
