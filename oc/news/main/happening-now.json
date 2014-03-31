@@ -6,13 +6,6 @@
 		"end": "2014-03-28"
 	},
 	
-	"Egg Hunt": {
-		"desc": "The 26th Annual Egg Hunt: 11AM Saturday, April 19, 2014 at Tuscora Park <br><br><a href='https://db.tt/93Mdk5n9'>More Details</a>",
-		"clss": "btn btn-pride",
-		"beg": "2014-04-12",
-		"end": "2014-04-19"
-	},
-	
 	"<i class='icon-star'></i> City Closed 4/18": {
 		"desc": "City offices will be closed Friday, April 18 in observance of Good Friday",
 		"clss": "btn btn-primary",
@@ -20,10 +13,16 @@
 		"end": "2014-04-18"
 	},
 	"Magic Egg Hunt": {
-		"desc": "The Magic Egg Hunt will be Saturday, April 19, 2013 at 11:00 am at Tuscora Park<br><a href='https://db.tt/M7W465xp'>More Details</a>",
-		"clss": "btn btn-primary",
+		"desc": "The Magic Egg Hunt will be Saturday, April 19 at 11:00 am at Tuscora Park<br><a href='https://db.tt/M7W465xp'>More Details</a>",
+		"clss": "btn btn-pride",
 		"beg": "2014-04-12",
 		"end": "2014-04-19"
+	},
+	"Clean-up Day": {
+		"desc": "Barberton City clean-up will be Saturday, April 26",
+		"clss": "btn btn-pride",
+		"beg": "2014-04-19",
+		"end": "2014-04-26"
 	},
 	"<i class='icon-star'></i> City Closed 5/26": {
 		"desc": "City offices will be closed Monday, May 26 in observance of Memorial Day. Trash pickup will be delayed one day.",
@@ -44,6 +43,96 @@
 		"clss": "btn btn-primary",
 		"beg": "2014-06-30",
 		"end": "2014-07-04"
+	},
+	"<i class='icon-music'></i>&nbsp; Concert 7/11": {
+		"desc": "11-Jul at 7:30 pm – Rick Alviti (Elvis) <br><br><a href='http://cityofbarberton.com/oc/parks_events_concerts.shtml'>Parks Concert Page</a>",
+		"clss": "btn btn-pride",
+		"beg": "2014-07-09",
+		"end": "2014-07-11"
+	},
+	"<i class='icon-music'></i>&nbsp; Concert 7/16": {
+		"desc": "16-Jul at 11:30 am – Mike Bunn (Folk) <br><br><a href='http://cityofbarberton.com/oc/parks_events_concerts.shtml'>Parks Concert Page</a>",
+		"clss": "btn btn-pride",
+		"beg": "2014-07-14",
+		"end": "2014-07-16"
+	},
+	"<i class='icon-music'></i>&nbsp; Concert 7/18": {
+		"desc": "18-Jul at 7:30 pm – Bon Journey (Bon Jovi / Journey) <br><br><a href='http://cityofbarberton.com/oc/parks_events_concerts.shtml'>Parks Concert Page</a>",
+		"clss": "btn btn-pride",
+		"beg": "2014-07-16",
+		"end": "2014-07-18"
+	},
+	"<i class='icon-music'></i>&nbsp; Concert 7/23": {
+		"desc": "23-Jul at 11:30 am – Swingin 78’s (Big Band)<br>23-Jul at 7:30 pm – Glenn Miller Orchestra (Big Band) <br><br><a href='http://cityofbarberton.com/oc/parks_events_concerts.shtml'>Parks Concert Page</a>",
+		"clss": "btn btn-pride",
+		"beg": "2014-07-21",
+		"end": "2014-07-23"
+	},
+	"<i class='icon-music'></i>&nbsp; Concert 7/25": {
+		"desc": "25-Jul at 7:30 pm – Terry Lee Goffee (Johnny Cash) <br><br><a href='http://cityofbarberton.com/oc/parks_events_concerts.shtml'>Parks Concert Page</a>",
+		"clss": "btn btn-pride",
+		"beg": "2014-07-23",
+		"end": "2014-07-25"
+	},
+	"<i class='icon-music'></i>&nbsp; Concert 7/30": {
+		"desc": "30-Jul at 11:30 am – Matt Schafer Polka Band (Polka) <br><br><a href='http://cityofbarberton.com/oc/parks_events_concerts.shtml'>Parks Concert Page</a>",
+		"clss": "btn btn-pride",
+		"beg": "2014-07-28",
+		"end": "2014-07-30"
+	},
+	"<i class='icon-music'></i>&nbsp; Concert 8/1": {
+		"desc": "1-Aug at 7:30 pm – Amanda Jones & The Family Band (Sugarland Tribute) <br><br><a href='http://cityofbarberton.com/oc/parks_events_concerts.shtml'>Parks Concert Page</a>",
+		"clss": "btn btn-pride",
+		"beg": "2014-07-30",
+		"end": "2014-08-01"
+	},
+	"<i class='icon-music'></i>&nbsp; Concert 8/6": {
+		"desc": "6-Aug at 11:30 am – JD Eicher (Contemporary) <br><br><a href='http://cityofbarberton.com/oc/parks_events_concerts.shtml'>Parks Concert Page</a>",
+		"clss": "btn btn-pride",
+		"beg": "2014-08-04",
+		"end": "2014-08-06"
+	},
+	"<i class='icon-music'></i>&nbsp; Concert 8/8": {
+		"desc": "8-Aug at 7:30 pm – Belairs & Elvis (50's and 60's) <br><br><a href='http://cityofbarberton.com/oc/parks_events_concerts.shtml'>Parks Concert Page</a>",
+		"clss": "btn btn-pride",
+		"beg": "2014-08-06",
+		"end": "2014-08-08"
+	},
+	"<i class='icon-music'></i>&nbsp; Concert 8/13": {
+		"desc": "13-Aug at 11:30 am AND 7:30 pm– Chardon Polka Band (Polka) <br><br><a href='http://cityofbarberton.com/oc/parks_events_concerts.shtml'>Parks Concert Page</a>",
+		"clss": "btn btn-pride",
+		"beg": "2014-08-11",
+		"end": "2014-08-13"
+	},
+	"<i class='icon-music'></i>&nbsp; Concert 8/15": {
+		"desc": "15-Aug at 7:30 pm – Ruby Shooz (50's and 60's) <br><br><a href='http://cityofbarberton.com/oc/parks_events_concerts.shtml'>Parks Concert Page</a>",
+		"clss": "btn btn-pride",
+		"beg": "2014-08-13",
+		"end": "2014-08-15"
+	},
+	"<i class='icon-music'></i>&nbsp; Concert 8/22": {
+		"desc": "22-Aug at 7:30 pm – Desert Highway (Eagles Tribute) <br><br><a href='http://cityofbarberton.com/oc/parks_events_concerts.shtml'>Parks Concert Page</a>",
+		"clss": "btn btn-pride",
+		"beg": "2014-08-20",
+		"end": "2014-08-22"
+	},
+	"<i class='icon-music'></i>&nbsp; Concert 8/29": {
+		"desc": "29-Aug at 7:30 pm – Beach Party Boys (Beach Boys) <br><br><a href='http://cityofbarberton.com/oc/parks_events_concerts.shtml'>Parks Concert Page</a>",
+		"clss": "btn btn-pride",
+		"beg": "2014-08-27",
+		"end": "2014-08-29"
+	},
+	"<i class='icon-music'></i>&nbsp; Concert 8/30": {
+		"desc": "30-Aug at 7:30 pm – Darkside of the Moon (Pink Floyd and Jimmy Buffet) <br><br><a href='http://cityofbarberton.com/oc/parks_events_concerts.shtml'>Parks Concert Page</a>",
+		"clss": "btn btn-pride",
+		"beg": "2014-08-28",
+		"end": "2014-08-30"
+	},
+	"<i class='icon-music'></i>&nbsp; Concert 8/31": {
+		"desc": "31-Aug at 7:30 pm – Parrots of the Caribbean (Fireworks) <br><br><a href='http://cityofbarberton.com/oc/parks_events_concerts.shtml'>Parks Concert Page</a>",
+		"clss": "btn btn-pride",
+		"beg": "2014-08-29",
+		"end": "2014-08-31"
 	},
 	"<i class='icon-star'></i> City Closed 9/1": {
 		"desc": "City offices will be closed Monday, September 1 in observance of Labor Day. Trash pickup will be delayed one day.",
