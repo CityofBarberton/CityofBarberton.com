@@ -6,6 +6,13 @@
 		"end": "2014-03-28"
 	},
 	
+	"<i class='icon-fire-extinguisher'></i> Fire Training": {
+		"desc": "On April 7th and 9th between the hours of 8am and 4pm, the Barberton Fire Department will be conducting Fire Department Response Training.",
+		"clss": "btn btn-warning",
+		"beg": "2014-04-06",
+		"end": "2014-04-09"
+	},
+	
 	"<i class='icon-star'></i> City Closed 4/18": {
 		"desc": "City offices will be closed Friday, April 18 in observance of Good Friday",
 		"clss": "btn btn-primary",
