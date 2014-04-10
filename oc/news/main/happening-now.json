@@ -12,6 +12,12 @@
 		"beg": "2014-04-06",
 		"end": "2014-04-09"
 	},
+	"<i class='icon-warning'></i> Wooster Rd W": {
+		"desc": "Wooster Rd W will be closed during the day while repairs near the fire station are completed.",
+		"clss": "btn btn-warning",
+		"beg": "2014-04-09",
+		"end": "2014-04-11"
+	},
 	
 	"<i class='icon-star'></i> City Closed 4/18": {
 		"desc": "City offices will be closed Friday, April 18 in observance of Good Friday",
@@ -30,6 +36,12 @@
 		"clss": "btn btn-pride",
 		"beg": "2014-04-19",
 		"end": "2014-04-26"
+	},
+	"Memorial 5K": {
+		"desc": "The PNC Jeep Davis Memorial 5K & Little Leap Kids Fun Run is Saturday, May 17.<br><a href='http://www.barbertoncf.org/pnc-jeep-davis-memorial-5k-little-leap-kids-fun-run'>More Details</a>",
+		"clss": "btn btn-pride",
+		"beg": "2014-05-03",
+		"end": "2014-05-17"
 	},
 	"<i class='icon-star'></i> City Closed 5/26": {
 		"desc": "City offices will be closed Monday, May 26 in observance of Memorial Day. Trash pickup will be delayed one day.",
