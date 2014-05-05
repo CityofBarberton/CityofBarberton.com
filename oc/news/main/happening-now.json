@@ -6,12 +6,6 @@
 		"end": "2014-04-25"
 	},
 	
-	"<i class='icon-fire-extinguisher'></i> Fire Training": {
-		"desc": "On April 7th and 9th between the hours of 8am and 4pm, the Barberton Fire Department will be conducting Fire Department Response Training.",
-		"clss": "btn btn-warning",
-		"beg": "2014-04-06",
-		"end": "2014-04-09"
-	},
 	"<i class='icon-warning'></i> Wooster Rd W": {
 		"desc": "Wooster Rd W will be closed during the day while repairs near the fire station are completed.",
 		"clss": "btn btn-warning",
@@ -19,23 +13,17 @@
 		"end": "2014-04-11"
 	},
 	
-	"<i class='icon-star'></i> City Closed 4/18": {
-		"desc": "City offices will be closed Friday, April 18 in observance of Good Friday",
-		"clss": "btn btn-primary",
-		"beg": "2014-04-14",
-		"end": "2014-04-18"
-	},
-	"Magic Egg Hunt": {
-		"desc": "The Magic Egg Hunt will be Saturday, April 19 at 11:00 am at Tuscora Park<br><a href='https://db.tt/93Mdk5n9'>More Details</a>",
+	"Cruise-In 5/8": {
+		"desc": "The next Cruise-In is May 8. <br />Cruisin' Into Downtown Barberton is a classic car show on 2nd Street NW in downtown Barberton.<br /><a href='http://www.ndsbarbertonevents.com'>More Details</a>",
 		"clss": "btn btn-pride",
-		"beg": "2014-04-12",
-		"end": "2014-04-19"
+		"beg": "2014-05-05",
+		"end": "2014-05-08"
 	},
-	"Clean-up Day": {
-		"desc": "Barberton City clean-up will be Saturday, April 26",
+	"Cherry Blossom": {
+		"desc": "It's time for the Cherry Blossom Festival. Enjoy the parade, rides, food, games, exhibits and more! The festival is May 16-18, the parade is May 17 at 10AM. <br> <a href='http://www.BarbertonCherryBlossom.com/'>BarbertonCherryBlossom.com</a>",
 		"clss": "btn btn-pride",
-		"beg": "2014-04-19",
-		"end": "2014-04-26"
+		"beg": "2014-05-10",
+		"end": "2014-05-18"
 	},
 	"Memorial 5K": {
 		"desc": "The PNC Jeep Davis Memorial 5K & Little Leap Kids Fun Run is Saturday, May 17.<br><a href='http://www.barbertoncf.org/pnc-jeep-davis-memorial-5k-little-leap-kids-fun-run'>More Details</a>",
@@ -50,13 +38,50 @@
 		"end": "2014-05-26"
 	},
 	
+	"Towpath Bridge": {
+		"desc": "The dedication of the towpath bridge is Wednesday May 28th.",
+		"clss": "btn btn-pride",
+		"beg": "2014-05-23",
+		"end": "2014-05-28"
+	},
+	
+	"Cruise-In 6/5": {
+		"desc": "The next Cruise-In is June 5. <br />Cruisin' Into Downtown Barberton is a classic car show on W Tuscarawas Ave in downtown Barberton.<br /><a href='http://www.ndsbarbertonevents.com'>More Details</a>",
+		"clss": "btn btn-pride",
+		"beg": "2014-06-02",
+		"end": "2014-06-05"
+	},
+	"<i class='icon-music'></i>&nbsp; Concert 6/13": {
+		"desc": "13-Jun at 7:30 pm – For Keeps (70's, 80's, and 90's) <br><br><a href='http://cityofbarberton.com/oc/parks_events_concerts.shtml'>Parks Concert Page</a>",
+		"clss": "btn btn-pride",
+		"beg": "2014-06-11",
+		"end": "2014-06-13"
+	},
+	"<i class='icon-music'></i>&nbsp; Concert 6/20": {
+		"desc": "20-Jun at 7:30 pm – Greased LIghtning (50's and 60's) <br><br><a href='http://cityofbarberton.com/oc/parks_events_concerts.shtml'>Parks Concert Page</a>",
+		"clss": "btn btn-pride",
+		"beg": "2014-06-18",
+		"end": "2014-06-20"
+	},
 	"Yard sales": {
 		"desc": "Barberton city-wide yardsale is June 19-22. A yard sale permit is NOT needed for these days only. <br><br><a href='https://db.tt/HdAaJKJ8'>More Details</a>",
 		"clss": "btn btn-pride",
 		"beg": "2014-06-18",
 		"end": "2014-06-22"
 	},
+	"<i class='icon-music'></i>&nbsp; Concert 6/27": {
+		"desc": "27-Jun at 7:30 pm – MaryLanes (Irish) <br><br><a href='http://cityofbarberton.com/oc/parks_events_concerts.shtml'>Parks Concert Page</a>",
+		"clss": "btn btn-pride",
+		"beg": "2014-06-25",
+		"end": "2014-06-27"
+	},
 	
+	"Cruise-In 7/3": {
+		"desc": "The next Cruise-In is July 3. <br />Cruisin' Into Downtown Barberton is a classic car show on 2nd Street NW in downtown Barberton.<br /><a href='http://www.ndsbarbertonevents.com'>More Details</a>",
+		"clss": "btn btn-pride",
+		"beg": "2014-06-30",
+		"end": "2014-07-03"
+	},
 	"<i class='icon-star'></i> City Closed 7/4": {
 		"desc": "City offices will be closed Friday, July 4 in observance of Independence Day",
 		"clss": "btn btn-primary",
@@ -104,6 +129,12 @@
 		"clss": "btn btn-pride",
 		"beg": "2014-07-30",
 		"end": "2014-08-01"
+	},
+	"Cruise-In 8/7": {
+		"desc": "The next Cruise-In is August 7. <br />Cruisin' Into Downtown Barberton is a classic car show on W Tuscarawas Ave in downtown Barberton.<br /><a href='http://www.ndsbarbertonevents.com'>More Details</a>",
+		"clss": "btn btn-pride",
+		"beg": "2014-08-04",
+		"end": "2014-08-07"
 	},
 	"<i class='icon-music'></i>&nbsp; Concert 8/6": {
 		"desc": "6-Aug at 11:30 am – JD Eicher (Contemporary) <br><br><a href='http://cityofbarberton.com/oc/parks_events_concerts.shtml'>Parks Concert Page</a>",
@@ -158,6 +189,18 @@
 		"clss": "btn btn-primary",
 		"beg": "2014-08-28",
 		"end": "2014-09-01"
+	},
+	"Cruise-In 9/4": {
+		"desc": "The next Cruise-In is September 4. <br />Cruisin' Into Downtown Barberton is a classic car show on 2nd Street NW in downtown Barberton.<br /><a href='http://www.ndsbarbertonevents.com'>More Details</a>",
+		"clss": "btn btn-pride",
+		"beg": "2014-09-01",
+		"end": "2014-09-04"
+	},
+	"Cruise-In 10/2": {
+		"desc": "The next Cruise-In is October 2. <br />Cruisin' Into Downtown Barberton is a classic car show on W Tuscarawas Ave in downtown Barberton.<br /><a href='http://www.ndsbarbertonevents.com'>More Details</a>",
+		"clss": "btn btn-pride",
+		"beg": "2014-09-29",
+		"end": "2014-10-02"
 	},
 	"<i class='icon-star'></i> City Closed 11/11": {
 		"desc": "City offices will be closed Tuesday, November 11 in observance of Veterans' Day",

@@ -350,7 +350,10 @@
 				<br>
 				<div class="thumbnail">
 					<div class="caption">
-						<a class="btn btn-block btn-success" href="utilities_billpay.shtml"><i class="icon-credit-card"></i> Online Bill Pay</a>
+						<p>
+							<a class="btn btn-block btn-success" href="utilities_billpay.shtml"><i class="icon-credit-card"></i> Online Bill Pay</a>
+						</p>
+						<a class="btn btn-block btn-pride" href="news.shtml?d=main&y=2014&n=new_utilities_bill">New Utility Bill FAQ</a>
 					</div>
 				</div>
 				<br>
