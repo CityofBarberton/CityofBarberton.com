@@ -14,4 +14,4 @@ Cars parked on the streets between 11:00 pm and 7:00 am will receive tickets acc
 
 **Elwood Palmer, Director of Public Service**
 
-Check [this document](http://db.tt/IkWKpMTh) for a street by street schedule.
+Check [this document](https://www.dropbox.com/s/8d9ipezzb7kpda2/Street%20Sweep%20Schedule.pdf) for a street by street schedule.

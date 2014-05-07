@@ -11,6 +11,6 @@ Unaccepted items include tires, electronic waste (such as computers), constructi
 Whole house clean outs or court evictions will not be accepted. Please note:  there will be a separate truck from your trash or recycle truck that picks these items up.
 For additional information on this program, visit our website at [www.cityofbarberton.com/oc/service_trash_recycle.shtml](http://cityofbarberton.com/oc/service_trash_recycle.shtml)
 
-For a detailed list of acceptable and non-acceptable items please refer to section [1060.01 and 1060.02 of Ordinance Number 16-2013](http://db.tt/VwHuSEzD)
+For a detailed list of acceptable and non-acceptable items please refer to section [1060.01 and 1060.02 of Ordinance Number 16-2013](https://www.dropbox.com/s/thpyz59n2mgntqc/016-2013.pdf)
 
 Link to this page: [Fall Bulk Item Pick-up](http://cityofbarberton.com/oc/news.shtml?d=main&y=2013&n=fall_bulk_pickup)

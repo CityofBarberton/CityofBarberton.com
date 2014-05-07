@@ -12,4 +12,4 @@ Any resident or small business currently located in the City and served by anoth
 
 The City is pleased to have made this program possible but asks that you do not call the City offices.  They are not equipped to handle a large volume of calls.  Residents should contact Constellation toll free at 1-800-718-1493 if they have any questions.
 
-[Common Questions Regarding the Natural Gas Aggregation Program](https://db.tt/Sg1Sg0ny)
+[Common Questions Regarding the Natural Gas Aggregation Program](https://www.dropbox.com/s/rsxlqgtswbz2kwx/NaturalGasFAQs_Barberton_Oct2013.pdf)
