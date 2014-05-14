@@ -148,6 +148,16 @@
 						<a class="btn btn-block btn-pride" href="news.shtml?d=main&y=2013&n=fall_bulk_pickup">Bulk Item Pickup</a>
 					</div>
 				</div>
+				
+				<br />
+				<div class="thumbnail">
+					<div class="caption">
+						<h4>Pickup Schedule</h4>
+						Monday &ndash; Wards 5 &amp; 6<br />
+						Tuesday &ndash; Wards 1 &amp; 4<br />
+						Wednesday &ndash; Wards 2 &amp; 3
+					</div>
+				</div>
 			</div>
 		</div>
 	</div>

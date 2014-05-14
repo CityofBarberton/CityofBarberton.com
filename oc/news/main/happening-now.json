@@ -6,11 +6,11 @@
 		"end": "2014-04-25"
 	},
 	
-	"<i class='icon-warning'></i> Wooster Rd W": {
-		"desc": "Wooster Rd W will be closed during the day while repairs near the fire station are completed.",
+	"<i class='icon-warning'></i> Boil Alert": {
+		"desc": "A boil alert has been issued for residents of Norton in the area of Summit and Wadsworth Roads. Residents of Barberton can expect some off color water caused by low system pressure, but as of Friday are not under a boil alert. For the most up to date information, please subscribe to our <a href='http://cityofbarberton.com/oc/community_notifications.shtml'>Magics Alerts</a>. <br/><br/> <a href='https://local.nixle.com/alert/5194887/?sub_id=1495398'>More details</a>",
 		"clss": "btn btn-warning",
-		"beg": "2014-04-09",
-		"end": "2014-04-11"
+		"beg": "2014-05-09",
+		"end": "2014-05-12"
 	},
 	
 	"Cruise-In 5/8": {
@@ -52,13 +52,13 @@
 		"end": "2014-06-05"
 	},
 	"<i class='icon-music'></i>&nbsp; Concert 6/13": {
-		"desc": "13-Jun at 7:30 pm – Greased Lightning (50's and 60's) <br><br><a href='http://cityofbarberton.com/oc/parks_events_concerts.shtml'>Parks Concert Page</a>",
+		"desc": "13-Jun at 7:30 pm – For Keeps (70's, 80's, and 90's) <br><br><a href='http://cityofbarberton.com/oc/parks_events_concerts.shtml'>Parks Concert Page</a>",
 		"clss": "btn btn-pride",
 		"beg": "2014-06-11",
 		"end": "2014-06-13"
 	},
 	"<i class='icon-music'></i>&nbsp; Concert 6/20": {
-		"desc": "20-Jun at 7:30 pm – For Keeps (70's, 80's, and 90's) <br><br><a href='http://cityofbarberton.com/oc/parks_events_concerts.shtml'>Parks Concert Page</a>",
+		"desc": "20-Jun at 7:30 pm – Greased Lightning (50's and 60's) <br><br><a href='http://cityofbarberton.com/oc/parks_events_concerts.shtml'>Parks Concert Page</a>",
 		"clss": "btn btn-pride",
 		"beg": "2014-06-18",
 		"end": "2014-06-20"
@@ -87,6 +87,12 @@
 		"clss": "btn btn-primary",
 		"beg": "2014-06-30",
 		"end": "2014-07-04"
+	},
+	"<i class='icon-music'></i>&nbsp; Concert 7/9": {
+		"desc": "9-Jul at 11:30 am and 7:30 pm – American Heritage <br><br><a href='http://cityofbarberton.com/oc/parks_events_concerts.shtml'>Parks Concert Page</a>",
+		"clss": "btn btn-pride",
+		"beg": "2014-07-07",
+		"end": "2014-07-09"
 	},
 	"<i class='icon-music'></i>&nbsp; Concert 7/11": {
 		"desc": "11-Jul at 7:30 pm – Rick Alviti (Elvis) <br><br><a href='http://cityofbarberton.com/oc/parks_events_concerts.shtml'>Parks Concert Page</a>",
@@ -159,6 +165,12 @@
 		"clss": "btn btn-pride",
 		"beg": "2014-08-13",
 		"end": "2014-08-15"
+	},
+	"<i class='icon-music'></i>&nbsp; Concert 8/20": {
+		"desc": "20-Aug at 7:30 pm – Mick and Rick (60's and 70's Rock and Soul) <br><br><a href='http://cityofbarberton.com/oc/parks_events_concerts.shtml'>Parks Concert Page</a>",
+		"clss": "btn btn-pride",
+		"beg": "2014-08-16",
+		"end": "2014-08-20"
 	},
 	"<i class='icon-music'></i>&nbsp; Concert 8/22": {
 		"desc": "22-Aug at 7:30 pm – Desert Highway (Eagles Tribute) <br><br><a href='http://cityofbarberton.com/oc/parks_events_concerts.shtml'>Parks Concert Page</a>",

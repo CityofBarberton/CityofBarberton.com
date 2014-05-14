@@ -12,6 +12,7 @@
 				<hr>
 				<h4 id="lcrappend-b">Appendix B: Barberton Municipal Court Schedule of Court Costs</h4>
 				<!--#include virtual="/clerkofcourts/editable/rules_appendix_b.html" -->
+				<!--#include virtual="/clerkofcourts/editable/probation_fund.html" -->
 				
 				<hr>
 				<h4 id="lcrappend-c">Appendix C: Barberton Municipal Court Bond Schedule</h4>
