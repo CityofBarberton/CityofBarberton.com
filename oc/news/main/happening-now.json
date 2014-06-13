@@ -1,55 +1,23 @@
-{
-	"Change for Change": {
-		"desc": "This month's <a href='news.shtml?d=main&amp;y=2013&amp;n=change_for_change'>Change for Change</a> we be held at Hodges Cafe. Funds will be donated to the Mobile Meals. <br> April 25, 4:30-7:00",
-		"clss": "btn btn-pride",
-		"beg": "2014-04-23",
-		"end": "2014-04-25"
-	},
-	
+{	
 	"<i class='icon-warning'></i> Boil Alert": {
 		"desc": "A boil alert has been issued for residents of Norton in the area of Summit and Wadsworth Roads. Residents of Barberton can expect some off color water caused by low system pressure, but as of Friday are not under a boil alert. For the most up to date information, please subscribe to our <a href='http://cityofbarberton.com/oc/community_notifications.shtml'>Magics Alerts</a>. <br/><br/> <a href='https://local.nixle.com/alert/5194887/?sub_id=1495398'>More details</a>",
 		"clss": "btn btn-warning",
 		"beg": "2014-05-09",
 		"end": "2014-05-12"
 	},
+
+	"Change for Change": {
+		"desc": "This month's <a href='news.shtml?d=main&amp;y=2013&amp;n=change_for_change'>Change for Change</a> we be held at the Green Diamond. Funds will be donated to the Lary Bidlingmyer Community Bike Ride. <br> May 30, 4:30-7:00",
+		"clss": "btn btn-pride",
+		"beg": "2014-05-28",
+		"end": "2014-05-30"
+	},
 	
-	"Cruise-In 5/8": {
-		"desc": "The next Cruise-In is May 8. <br />Cruisin' Into Downtown Barberton is a classic car show on 2nd Street NW in downtown Barberton.<br /><a href='http://www.ndsbarbertonevents.com'>More Details</a>",
-		"clss": "btn btn-pride",
-		"beg": "2014-05-05",
-		"end": "2014-05-08"
-	},
-	"Cherry Blossom": {
-		"desc": "It's time for the Cherry Blossom Festival. Enjoy the parade, rides, food, games, exhibits and more! The festival is May 16-18, the parade is May 17 at 10AM. <br> <a href='http://www.BarbertonCherryBlossom.com/'>BarbertonCherryBlossom.com</a>",
-		"clss": "btn btn-pride",
-		"beg": "2014-05-10",
-		"end": "2014-05-18"
-	},
-	"Memorial 5K": {
-		"desc": "The PNC Jeep Davis Memorial 5K & Little Leap Kids Fun Run is Saturday, May 17.<br><a href='http://www.barbertoncf.org/pnc-jeep-davis-memorial-5k-little-leap-kids-fun-run'>More Details</a>",
-		"clss": "btn btn-pride",
-		"beg": "2014-05-03",
-		"end": "2014-05-17"
-	},
-	"<i class='icon-star'></i> City Closed 5/26": {
-		"desc": "City offices will be closed Monday, May 26 in observance of Memorial Day. Trash pickup will be delayed one day.",
+	"Out to Lunch": {
+		"desc": "Join Mayor Judge, NDS, and your local restaurants and merchants on Friday, June 13th from 11am - 2pm for 'Out to Lunch Downtown Barberton'. Enjoy lunch specials from our downtown restaurants, coupons to local businesses, as well as gifts, prizes, entertainment and more! <br/><br/> <a href='https://www.dropbox.com/s/dhpin8a5xji41kh/OutToLunchMap.pdf'>More Details</a> (<a href='https://www.dropbox.com/s/bxt2hlhhf1f6kz0/CouponsNumbers.jpg'>Coupons</a>)",
 		"clss": "btn btn-primary",
-		"beg": "2014-05-23",
-		"end": "2014-05-26"
-	},
-	
-	"Towpath Bridge": {
-		"desc": "The dedication of the towpath bridge is Wednesday May 28th.",
-		"clss": "btn btn-pride",
-		"beg": "2014-05-23",
-		"end": "2014-05-28"
-	},
-	
-	"Cruise-In 6/5": {
-		"desc": "The next Cruise-In is June 5. <br />Cruisin' Into Downtown Barberton is a classic car show on W Tuscarawas Ave in downtown Barberton.<br /><a href='http://www.ndsbarbertonevents.com'>More Details</a>",
-		"clss": "btn btn-pride",
-		"beg": "2014-06-02",
-		"end": "2014-06-05"
+		"beg": "2014-06-11",
+		"end": "2014-06-13"
 	},
 	"<i class='icon-music'></i>&nbsp; Concert 6/13": {
 		"desc": "13-Jun at 7:30 pm – For Keeps (70's, 80's, and 90's) <br><br><a href='http://cityofbarberton.com/oc/parks_events_concerts.shtml'>Parks Concert Page</a>",
@@ -99,6 +67,12 @@
 		"clss": "btn btn-pride",
 		"beg": "2014-07-09",
 		"end": "2014-07-11"
+	},
+	"Bike Ride": {
+		"desc": "The Larry Bidlingmyer Community Bide Ride is July 12, starting at 10am <br><br><a href='http://cityofbarberton.com/oc/parks_events.shtml'>Parks Events Page</a>",
+		"clss": "btn btn-pride",
+		"beg": "2014-07-05",
+		"end": "2014-07-12"
 	},
 	"<i class='icon-music'></i>&nbsp; Concert 7/16": {
 		"desc": "16-Jul at 11:30 am – Mike Bunn (Folk) <br><br><a href='http://cityofbarberton.com/oc/parks_events_concerts.shtml'>Parks Concert Page</a>",
