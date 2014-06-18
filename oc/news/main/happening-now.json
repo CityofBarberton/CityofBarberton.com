@@ -7,24 +7,12 @@
 	},
 
 	"Change for Change": {
-		"desc": "This month's <a href='news.shtml?d=main&amp;y=2013&amp;n=change_for_change'>Change for Change</a> we be held at the Green Diamond. Funds will be donated to the Lary Bidlingmyer Community Bike Ride. <br> May 30, 4:30-7:00",
+		"desc": "This month's <a href='news.shtml?d=main&amp;y=2013&amp;n=change_for_change'>Change for Change</a> we be held at the Angie's. Funds will be donated to the Lake Anna Preseervation Fund. <br> June 25, 4:30-7:00",
 		"clss": "btn btn-pride",
-		"beg": "2014-05-28",
-		"end": "2014-05-30"
+		"beg": "2014-06-20",
+		"end": "2014-06-25"
 	},
 	
-	"Out to Lunch": {
-		"desc": "Join Mayor Judge, NDS, and your local restaurants and merchants on Friday, June 13th from 11am - 2pm for 'Out to Lunch Downtown Barberton'. Enjoy lunch specials from our downtown restaurants, coupons to local businesses, as well as gifts, prizes, entertainment and more! <br/><br/> <a href='https://www.dropbox.com/s/dhpin8a5xji41kh/OutToLunchMap.pdf'>More Details</a> (<a href='https://www.dropbox.com/s/bxt2hlhhf1f6kz0/CouponsNumbers.jpg'>Coupons</a>)",
-		"clss": "btn btn-primary",
-		"beg": "2014-06-11",
-		"end": "2014-06-13"
-	},
-	"<i class='icon-music'></i>&nbsp; Concert 6/13": {
-		"desc": "13-Jun at 7:30 pm – For Keeps (70's, 80's, and 90's) <br><br><a href='http://cityofbarberton.com/oc/parks_events_concerts.shtml'>Parks Concert Page</a>",
-		"clss": "btn btn-pride",
-		"beg": "2014-06-11",
-		"end": "2014-06-13"
-	},
 	"<i class='icon-music'></i>&nbsp; Concert 6/20": {
 		"desc": "20-Jun at 7:30 pm – Greased Lightning (50's and 60's) <br><br><a href='http://cityofbarberton.com/oc/parks_events_concerts.shtml'>Parks Concert Page</a>",
 		"clss": "btn btn-pride",
