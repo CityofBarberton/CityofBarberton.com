@@ -1,103 +1,25 @@
 {	
-	"<i class='icon-warning'></i> Boil Alert": {
-		"desc": "A boil alert has been issued for residents of Norton in the area of Summit and Wadsworth Roads. Residents of Barberton can expect some off color water caused by low system pressure, but as of Friday are not under a boil alert. For the most up to date information, please subscribe to our <a href='http://cityofbarberton.com/oc/community_notifications.shtml'>Magics Alerts</a>. <br/><br/> <a href='https://local.nixle.com/alert/5194887/?sub_id=1495398'>More details</a>",
+	"A new image": {
+		"desc": "The 'fried chicken capital of the world' is looking to add to its reputation... <br><br><a href='news_2014-07-21.shtml'>Watch the Video</a>",
+		"clss": "btn btn-pride",
+		"beg": "2014-07-21",
+		"end": "2014-08-21"
+	},
+	
+	"<i class='icon-warning'></i> Road Closures": {
+		"desc": "<strong>Austin Drive</strong> - Closed 7/11 - 8/11 from 5th St/SR619 to <strike>East</strike> West Heatherwood Drive (<a href='https://www.dropbox.com/s/l7qk2dq1h48b33u/FINAL%20AUSTIN%20_DETOUR%20SIGNS%20PLAN%20VIEW.pdf'>Map</a>)<br/><br/><strong>Wooster Road West</strong> - Open through 8/29 while utilities work and paving completed between Johnson Road and 37th St<br/><br/>Please follow the posted detours.",
 		"clss": "btn btn-warning",
-		"beg": "2014-05-09",
-		"end": "2014-05-12"
+		"beg": "2014-07-07",
+		"end": "2014-08-11"
 	},
 
 	"Change for Change": {
-		"desc": "This month's <a href='news.shtml?d=main&amp;y=2013&amp;n=change_for_change'>Change for Change</a> we be held at the Angie's. Funds will be donated to the Lake Anna Preseervation Fund. <br> June 25, 4:30-7:00",
+		"desc": "This month's <a href='news.shtml?d=main&amp;y=2013&amp;n=change_for_change'>Change for Change</a> we be held at the El Jalapenos. Funds will be donated to the Barberton Free Clinic. <br> June 25, 4:30-7:00",
 		"clss": "btn btn-pride",
-		"beg": "2014-06-20",
-		"end": "2014-06-25"
+		"beg": "2014-07-29",
+		"end": "2014-07-31"
 	},
-	
-	"<i class='icon-music'></i>&nbsp; Concert 6/20": {
-		"desc": "20-Jun at 7:30 pm – Greased Lightning (50's and 60's) <br><br><a href='http://cityofbarberton.com/oc/parks_events_concerts.shtml'>Parks Concert Page</a>",
-		"clss": "btn btn-pride",
-		"beg": "2014-06-18",
-		"end": "2014-06-20"
-	},
-	"Yard sales": {
-		"desc": "Barberton city-wide yardsale is June 19-22. A yard sale permit is NOT needed for these days only. <br><br><a href='https://www.dropbox.com/s/t2qfwa5y0gjq4jx/2014%20City%20Wide%20Yard%20Sale.pdf'>More Details</a>",
-		"clss": "btn btn-pride",
-		"beg": "2014-06-18",
-		"end": "2014-06-22"
-	},
-	"<i class='icon-music'></i>&nbsp; Concert 6/27": {
-		"desc": "27-Jun at 7:30 pm – MaryLanes (Irish) <br><br><a href='http://cityofbarberton.com/oc/parks_events_concerts.shtml'>Parks Concert Page</a>",
-		"clss": "btn btn-pride",
-		"beg": "2014-06-25",
-		"end": "2014-06-27"
-	},
-	
-	"Cruise-In 7/3": {
-		"desc": "The next Cruise-In is July 3. <br />Cruisin' Into Downtown Barberton is a classic car show on 2nd Street NW in downtown Barberton.<br /><a href='http://www.ndsbarbertonevents.com'>More Details</a>",
-		"clss": "btn btn-pride",
-		"beg": "2014-06-30",
-		"end": "2014-07-03"
-	},
-	"<i class='icon-star'></i> City Closed 7/4": {
-		"desc": "City offices will be closed Friday, July 4 in observance of Independence Day",
-		"clss": "btn btn-primary",
-		"beg": "2014-06-30",
-		"end": "2014-07-04"
-	},
-	"<i class='icon-music'></i>&nbsp; Concert 7/9": {
-		"desc": "9-Jul at 11:30 am and 7:30 pm – American Heritage <br><br><a href='http://cityofbarberton.com/oc/parks_events_concerts.shtml'>Parks Concert Page</a>",
-		"clss": "btn btn-pride",
-		"beg": "2014-07-07",
-		"end": "2014-07-09"
-	},
-	"<i class='icon-music'></i>&nbsp; Concert 7/11": {
-		"desc": "11-Jul at 7:30 pm – Rick Alviti (Elvis) <br><br><a href='http://cityofbarberton.com/oc/parks_events_concerts.shtml'>Parks Concert Page</a>",
-		"clss": "btn btn-pride",
-		"beg": "2014-07-09",
-		"end": "2014-07-11"
-	},
-	"Bike Ride": {
-		"desc": "The Larry Bidlingmyer Community Bide Ride is July 12, starting at 10am <br><br><a href='http://cityofbarberton.com/oc/parks_events.shtml'>Parks Events Page</a>",
-		"clss": "btn btn-pride",
-		"beg": "2014-07-05",
-		"end": "2014-07-12"
-	},
-	"<i class='icon-music'></i>&nbsp; Concert 7/16": {
-		"desc": "16-Jul at 11:30 am – Mike Bunn (Folk) <br><br><a href='http://cityofbarberton.com/oc/parks_events_concerts.shtml'>Parks Concert Page</a>",
-		"clss": "btn btn-pride",
-		"beg": "2014-07-14",
-		"end": "2014-07-16"
-	},
-	"<i class='icon-music'></i>&nbsp; Concert 7/18": {
-		"desc": "18-Jul at 7:30 pm – Bon Journey (Bon Jovi / Journey) <br><br><a href='http://cityofbarberton.com/oc/parks_events_concerts.shtml'>Parks Concert Page</a>",
-		"clss": "btn btn-pride",
-		"beg": "2014-07-16",
-		"end": "2014-07-18"
-	},
-	"<i class='icon-music'></i>&nbsp; Concert 7/23": {
-		"desc": "23-Jul at 11:30 am – Swingin 78’s (Big Band)<br>23-Jul at 7:30 pm – Glenn Miller Orchestra (Big Band) <br><br><a href='http://cityofbarberton.com/oc/parks_events_concerts.shtml'>Parks Concert Page</a>",
-		"clss": "btn btn-pride",
-		"beg": "2014-07-21",
-		"end": "2014-07-23"
-	},
-	"<i class='icon-music'></i>&nbsp; Concert 7/25": {
-		"desc": "25-Jul at 7:30 pm – Terry Lee Goffee (Johnny Cash) <br><br><a href='http://cityofbarberton.com/oc/parks_events_concerts.shtml'>Parks Concert Page</a>",
-		"clss": "btn btn-pride",
-		"beg": "2014-07-23",
-		"end": "2014-07-25"
-	},
-	"<i class='icon-music'></i>&nbsp; Concert 7/30": {
-		"desc": "30-Jul at 11:30 am – Matt Schafer Polka Band (Polka) <br><br><a href='http://cityofbarberton.com/oc/parks_events_concerts.shtml'>Parks Concert Page</a>",
-		"clss": "btn btn-pride",
-		"beg": "2014-07-28",
-		"end": "2014-07-30"
-	},
-	"<i class='icon-music'></i>&nbsp; Concert 8/1": {
-		"desc": "1-Aug at 7:30 pm – Amanda Jones & The Family Band (Sugarland Tribute) <br><br><a href='http://cityofbarberton.com/oc/parks_events_concerts.shtml'>Parks Concert Page</a>",
-		"clss": "btn btn-pride",
-		"beg": "2014-07-30",
-		"end": "2014-08-01"
-	},
+
 	"Cruise-In 8/7": {
 		"desc": "The next Cruise-In is August 7. <br />Cruisin' Into Downtown Barberton is a classic car show on W Tuscarawas Ave in downtown Barberton.<br /><a href='http://www.ndsbarbertonevents.com'>More Details</a>",
 		"clss": "btn btn-pride",
@@ -111,7 +33,7 @@
 		"end": "2014-08-06"
 	},
 	"<i class='icon-music'></i>&nbsp; Concert 8/8": {
-		"desc": "8-Aug at 7:30 pm – Belairs & Elvis (50's and 60's) <br><br><a href='http://cityofbarberton.com/oc/parks_events_concerts.shtml'>Parks Concert Page</a>",
+		"desc": "8-Aug at 7:30 pm – <strike>Belairs &</strike> Elvis (50's and 60's) <br><br><a href='http://cityofbarberton.com/oc/parks_events_concerts.shtml'>Parks Concert Page</a>",
 		"clss": "btn btn-pride",
 		"beg": "2014-08-06",
 		"end": "2014-08-08"
@@ -123,7 +45,7 @@
 		"end": "2014-08-13"
 	},
 	"<i class='icon-music'></i>&nbsp; Concert 8/15": {
-		"desc": "15-Aug at 7:30 pm – Ruby Shooz (50's and 60's) <br><br><a href='http://cityofbarberton.com/oc/parks_events_concerts.shtml'>Parks Concert Page</a>",
+		"desc": "15-Aug at 7:30 pm – Beach Party Boys (Beach Boys) <br><br><a href='http://cityofbarberton.com/oc/parks_events_concerts.shtml'>Parks Concert Page</a>",
 		"clss": "btn btn-pride",
 		"beg": "2014-08-13",
 		"end": "2014-08-15"
@@ -141,7 +63,7 @@
 		"end": "2014-08-22"
 	},
 	"<i class='icon-music'></i>&nbsp; Concert 8/29": {
-		"desc": "29-Aug at 7:30 pm – Beach Party Boys (Beach Boys) <br><br><a href='http://cityofbarberton.com/oc/parks_events_concerts.shtml'>Parks Concert Page</a>",
+		"desc": "29-Aug at 7:30 pm – Ruby Shooz (50's and 60's) <br><br><a href='http://cityofbarberton.com/oc/parks_events_concerts.shtml'>Parks Concert Page</a>",
 		"clss": "btn btn-pride",
 		"beg": "2014-08-27",
 		"end": "2014-08-29"

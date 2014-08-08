@@ -370,7 +370,10 @@
 				<div class="thumbnail">
 					<div class="caption">
 						<h4>Notices</h4>
-						<a class="btn btn-block btn-pride" href="https://www.dropbox.com/sh/g0rcqu83k6rfyk8/sOZvxytXtj"><i class="icon-file-alt"></i> Drinking Water<br>Notices</a>
+						<p>
+							<a class="btn btn-block btn-pride" href="https://www.dropbox.com/sh/g0rcqu83k6rfyk8/sOZvxytXtj"><i class="icon-file-alt"></i> Drinking Water<br>Notices</a>
+						</p>
+						<a class="btn btn-block btn-pride" href="https://www.dropbox.com/s/02ji2iipv4ja2sc/Barberton%202013%20final%20CCR%205-23-14.pdf"><i class="icon-file-alt"></i> Report on<br>Water Quality</a>
 					</div>
 				</div>
 			</div>

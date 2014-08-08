@@ -102,7 +102,6 @@
 					<li data-target="#myCarousel" data-slide-to="4"></li>
 					<li data-target="#myCarousel" data-slide-to="5"></li>
 				</ol>
-				<!-- Carousel items -->
 				<div class="carousel-inner">
 					<div class="active item">
 						<img src="img/cbf/1880x1162_a.jpg">
@@ -159,12 +158,11 @@
 			<div class="row">
 				<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 					<div class="youtube-video">
-						<iframe width="560" height="315" src="//www.youtube.com/embed/s8xHR1B13Sw?list=UUOn6jLGB0YEqTDHLhVc_7Uw" frameborder="0" allowfullscreen></iframe>
+						<object id="flashObj" width="640" height="390" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,47,0"><param name="movie" value="http://c.brightcove.com/services/viewer/federated_f9?isSlim=1" /><param name="bgcolor" value="#FFFFFF" /><param name="flashVars" value="videoId=3688009324001&playerID=2747075824001&playerKey=AQ~~,AAAAB_zNwdE~,sELXX2gKZV81MSaZdE6V2mCy59kW3uLK&domain=embed&dynamicStreaming=true&autoStart=0&autoplay=0" /><param name="base" value="http://admin.brightcove.com" /><param name="seamlesstabbing" value="false" /><param name="allowFullScreen" value="true" /><param name="swLiveConnect" value="true" /><param name="allowScriptAccess" value="always" /><param name="autoplay" value="0" /><param name="autoStart" value="0" /><embed src="http://c.brightcove.com/services/viewer/federated_f9?isSlim=1" bgcolor="#FFFFFF" flashVars="videoId=3688009324001&playerID=2747075824001&playerKey=AQ~~,AAAAB_zNwdE~,sELXX2gKZV81MSaZdE6V2mCy59kW3uLK&domain=embed&dynamicStreaming=true&autoStart=0&autoplay=0" base="http://admin.brightcove.com" name="flashObj" width="640" height="390" seamlesstabbing="false" type="application/x-shockwave-flash" allowFullScreen="false" swLiveConnect="true" allowScriptAccess="always" autoStart="0" autoplay="0" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></embed></object>
 					</div>
 				</div>
 			</div>
 			-->
-			<!-- -->
 			<hr class="soften">
 			
 			<div class="row">
