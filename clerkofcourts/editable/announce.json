@@ -1,7 +1,7 @@
 {
-	"Court Open": {
-		"desc": "Court is open and hearings are going forward as scheduled.",
-		"beg": "2014-02-18",
-		"end": "2014-02-18"
+	"Amnesty": {
+		"desc": "The Barberton Municipal Court is holding an Amnesty Program from August 15, 2014 through September 30, 2014. <br/> <a href='pr-2014-amnesty.shtml'>Click here to learn more.</a>",
+		"beg": "2014-08-13",
+		"end": "2014-09-30"
 	}
 }

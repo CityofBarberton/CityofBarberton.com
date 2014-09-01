@@ -13,73 +13,20 @@
 		"end": "2014-08-11"
 	},
 
+	"Labor Day Weekend": {
+		"desc": "8/29 7:30PM &ndash; Ruby Shooz Concert<br/>8/30 8PM &ndash; Darkside of the Moon<br/>8/30 8PM &ndash; Laser Light Show<br/>8/31 5PM &ndash; Evolution Concert<br/>8/31 7:30PM &ndash; Greased Lightning<br/>8/31 7:30PM &ndash; Parrots of the Caribbean Concert<br/>8/31 At Dark &ndash; Fireworks<br/>9/1 10AM &ndash; Parade<br/><br/><a href='https://www.facebook.com/events/671748196254736/?ref_dashboard_filter=upcoming'>More Details</a>",
+		"clss": "btn btn-pride",
+		"beg": "2014-08-25",
+		"end": "2014-09-01"
+	},
+	
 	"Change for Change": {
-		"desc": "This month's <a href='news.shtml?d=main&amp;y=2013&amp;n=change_for_change'>Change for Change</a> we be held at the El Jalapenos. Funds will be donated to the Barberton Free Clinic. <br> June 25, 4:30-7:00",
-		"clss": "btn btn-pride",
-		"beg": "2014-07-29",
-		"end": "2014-07-31"
-	},
-
-	"Cruise-In 8/7": {
-		"desc": "The next Cruise-In is August 7. <br />Cruisin' Into Downtown Barberton is a classic car show on W Tuscarawas Ave in downtown Barberton.<br /><a href='http://www.ndsbarbertonevents.com'>More Details</a>",
-		"clss": "btn btn-pride",
-		"beg": "2014-08-04",
-		"end": "2014-08-07"
-	},
-	"<i class='icon-music'></i>&nbsp; Concert 8/6": {
-		"desc": "6-Aug at 11:30 am – JD Eicher (Contemporary) <br><br><a href='http://cityofbarberton.com/oc/parks_events_concerts.shtml'>Parks Concert Page</a>",
-		"clss": "btn btn-pride",
-		"beg": "2014-08-04",
-		"end": "2014-08-06"
-	},
-	"<i class='icon-music'></i>&nbsp; Concert 8/8": {
-		"desc": "8-Aug at 7:30 pm – <strike>Belairs &</strike> Elvis (50's and 60's) <br><br><a href='http://cityofbarberton.com/oc/parks_events_concerts.shtml'>Parks Concert Page</a>",
-		"clss": "btn btn-pride",
-		"beg": "2014-08-06",
-		"end": "2014-08-08"
-	},
-	"<i class='icon-music'></i>&nbsp; Concert 8/13": {
-		"desc": "13-Aug at 11:30 am AND 7:30 pm– Chardon Polka Band (Polka) <br><br><a href='http://cityofbarberton.com/oc/parks_events_concerts.shtml'>Parks Concert Page</a>",
-		"clss": "btn btn-pride",
-		"beg": "2014-08-11",
-		"end": "2014-08-13"
-	},
-	"<i class='icon-music'></i>&nbsp; Concert 8/15": {
-		"desc": "15-Aug at 7:30 pm – Beach Party Boys (Beach Boys) <br><br><a href='http://cityofbarberton.com/oc/parks_events_concerts.shtml'>Parks Concert Page</a>",
-		"clss": "btn btn-pride",
-		"beg": "2014-08-13",
-		"end": "2014-08-15"
-	},
-	"<i class='icon-music'></i>&nbsp; Concert 8/20": {
-		"desc": "20-Aug at 7:30 pm – Mick and Rick (60's and 70's Rock and Soul) <br><br><a href='http://cityofbarberton.com/oc/parks_events_concerts.shtml'>Parks Concert Page</a>",
-		"clss": "btn btn-pride",
-		"beg": "2014-08-16",
-		"end": "2014-08-20"
-	},
-	"<i class='icon-music'></i>&nbsp; Concert 8/22": {
-		"desc": "22-Aug at 7:30 pm – Desert Highway (Eagles Tribute) <br><br><a href='http://cityofbarberton.com/oc/parks_events_concerts.shtml'>Parks Concert Page</a>",
-		"clss": "btn btn-pride",
-		"beg": "2014-08-20",
-		"end": "2014-08-22"
-	},
-	"<i class='icon-music'></i>&nbsp; Concert 8/29": {
-		"desc": "29-Aug at 7:30 pm – Ruby Shooz (50's and 60's) <br><br><a href='http://cityofbarberton.com/oc/parks_events_concerts.shtml'>Parks Concert Page</a>",
+		"desc": "This month's <a href='news.shtml?d=main&amp;y=2013&amp;n=change_for_change'>Change for Change</a> we be held at The Fast Lane. Funds will be donated to the Barberton All Sports Boosters. <br> August 29, 4:30-7:00",
 		"clss": "btn btn-pride",
 		"beg": "2014-08-27",
 		"end": "2014-08-29"
 	},
-	"<i class='icon-music'></i>&nbsp; Concert 8/30": {
-		"desc": "30-Aug at 7:30 pm – Darkside of the Moon (Pink Floyd and Jimmy Buffet) <br><br><a href='http://cityofbarberton.com/oc/parks_events_concerts.shtml'>Parks Concert Page</a>",
-		"clss": "btn btn-pride",
-		"beg": "2014-08-28",
-		"end": "2014-08-30"
-	},
-	"<i class='icon-music'></i>&nbsp; Concert 8/31": {
-		"desc": "31-Aug at 7:30 pm – Parrots of the Caribbean (Fireworks) <br><br><a href='http://cityofbarberton.com/oc/parks_events_concerts.shtml'>Parks Concert Page</a>",
-		"clss": "btn btn-pride",
-		"beg": "2014-08-29",
-		"end": "2014-08-31"
-	},
+	
 	"<i class='icon-star'></i> City Closed 9/1": {
 		"desc": "City offices will be closed Monday, September 1 in observance of Labor Day. Trash pickup will be delayed one day.",
 		"clss": "btn btn-primary",
@@ -97,6 +44,12 @@
 		"clss": "btn btn-pride",
 		"beg": "2014-09-29",
 		"end": "2014-10-02"
+	},
+	"Trick-or-Treat": {
+		"desc": "Haloween Trick-or-Treat is Saturday, October 25 from 5 to 7",
+		"clss": "btn btn-primary",
+		"beg": "2014-10-11",
+		"end": "2014-10-25"
 	},
 	"<i class='icon-star'></i> City Closed 11/11": {
 		"desc": "City offices will be closed Tuesday, November 11 in observance of Veterans' Day",
