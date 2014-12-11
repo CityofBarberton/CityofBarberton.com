@@ -1,0 +1,35 @@
+<!--#include virtual="/oc/lib/includes/head_a.html" -->
+	<title>Judge - City of Barberton</title>
+	<meta name="description" content="Barberton Municipal Court Judge">
+	<meta property="og:type" content="website"/>
+	<meta property="og:title" content="Barberton Muni Court Judge"/>
+	<meta property="og:url" content="http://cityofbarberton.com/oc/"/>
+	<meta property="og:description" content="Barberton Municipal Court Judge"/>
+	<meta property="og:image" content="http://cityofbarberton.com/oc/img/barberton_crest.png"/>
+	<meta property="twitter:card" content="summary"/>
+	<meta property="twitter:site" content="@BarbertonCity">
+	<meta property="twitter:title" content="Barberton Muni Court Judge">
+	<meta property="twitter:url" content="http://cityofbarberton.com/oc/"/>
+	<meta property="twitter:description" content="Barberton Municipal Court Judge"/>
+	<meta property="twitter:image" content="http://cityofbarberton.com/oc/img/barberton_crest.png"/>
+<!--#include virtual="/oc/lib/includes/head_b.html" -->
+	<div class="container contain-main">
+		<div class="row">
+			<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+				<div class="page-header"><h3>Open <small>Judge of the Barberton Municipal Court District</small></h3></div>
+			</div>
+		</div>	
+		<div class="row">			
+			<div class="row">
+				<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
+					<img class="img-rounded img-responsive" src="img/staff/staff.jpg">
+				</div>
+				<div class="col-xs-12 col-sm-9 col-md-9 col-lg-9">
+					<p>
+					
+					</p>
+				</div>
+			</div>
+		</div>
+	</div>
+<!--#include virtual="/oc/lib/includes/foot.html" -->
