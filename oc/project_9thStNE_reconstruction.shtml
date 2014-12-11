@@ -1,0 +1,97 @@
+<!--#include virtual="/oc/lib/includes/head_a.html" -->
+	<title>Projects - City of Barberton</title>
+	<meta name="description" content="The City of Barberton Information Technology Department">
+	<meta property="og:type" content="website"/>
+	<meta property="og:title" content="City of Barberton Technology"/>
+	<meta property="og:url" content="http://cityofbarberton.com/oc/"/>
+	<meta property="og:description" content="The City of Barberton Information Technology Department"/>
+	<meta property="og:image" content="http://cityofbarberton.com/oc/img/barberton_crest.png"/>
+	<meta property="twitter:card" content="summary"/>
+	<meta property="twitter:site" content="@BarbertonCity">
+	<meta property="twitter:title" content="City of Barberton Technology">
+	<meta property="twitter:url" content="http://cityofbarberton.com/oc/"/>
+	<meta property="twitter:description" content="The City of Barberton Information Technology Department"/>
+	<meta property="twitter:image" content="http://cityofbarberton.com/oc/img/barberton_crest.png"/>
+	<style>
+		.carousel-inner > .item > img, 
+		.carousel-inner > .item > a > img{
+		width: 100%; /* use this, or not */
+		margin: auto;
+		}
+	</style>
+<!--#include virtual="/oc/lib/includes/head_b.html" -->
+	<div class="container contain-main">
+		<div class="row">
+			<div class="col-xs-12 col-sm-9 col-md-9 col-lg-9">
+				<div class="page-header"><h3>9th Street NE Reconstruction</h3></div>
+				<p>
+The City is planning a roadway reconstruction project along Ninth Street NE from Robinson Avenue to State Street.  Ninth Street is an important road providing access into the nearby neighborhoods and serving as a “cut through” for local residents.  Years of traffic, utility repairs and asphalt overlays have resulted in a poor roadway surface and marginal drainage efficiency.  The project has been discussed for years, but the City did not have the funds to completely reconstruct Ninth Street while there were so many areas of need within the City. With the passage of Issue 8 in 2013 the City has been able to collect funds earmarked specifically for roadway repair and maintenance. Ninth Street NE will be the first road to be fully reconstructed as a result of the Issue 8 funds.  The project will consist of waterline replacement, sanitary sewer repairs and a new storm sewer system along Ninth Street NE.  The construction work should begin in the fall of 2015 and continue into the summer of 2016.
+				</p>
+				
+				<br>
+				<div id="myCarousel" class="carousel slide">
+					<ol class="carousel-indicators">
+						<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+						<li data-target="#myCarousel" data-slide-to="1"></li>
+						<li data-target="#myCarousel" data-slide-to="2"></li>
+						<li data-target="#myCarousel" data-slide-to="3"></li>
+						<li data-target="#myCarousel" data-slide-to="4"></li>
+						<li data-target="#myCarousel" data-slide-to="5"></li>
+					</ol>
+					<!-- Carousel items -->
+					<div class="carousel-inner">
+						<div class="active item">
+							<img src="img/projects/9thStNE/optA.png">
+						</div>
+						<div class="item">
+							<img src="img/projects/9thStNE/optB.png">
+						</div>
+						<div class="item">
+							<img src="img/projects/9thStNE/optC.png">
+						</div>
+						<div class="item">
+							<img src="img/projects/9thStNE/optD.png">
+						</div>
+						<div class="item">
+							<img src="img/projects/9thStNE/optE.png">
+						</div>
+					</div>
+					<!-- Carousel nav -->
+					<a class="carousel-control left" href="#myCarousel" data-slide="prev"><span class="icon-prev"></span></a>
+					<a class="carousel-control right" href="#myCarousel" data-slide="next"><span class="icon-next"></span></a>
+				</div>
+				<br>
+			
+				<p>
+					The proposed road will consist of a concrete curb and an asphalt surface.  Residents will find that this arrangement provides for a clean look and a quiet, smooth ride. All drive aprons will be replaced to ensure a smooth transition to the new roadway.  The City does not anticipate any assessments to be imposed on the residents along the construction corridor.  However, if residents elect to add or replace roof drains or yard drains on their property to connect to the upgraded storm sewer system, the associated costs on private property would be the responsibility of the homeowner.
+				</p><p>
+					There are five (5) roadway options that the City is considering.  Because of the location of the utility poles along the eastern side of the road, none of the options include a sidewalk along the east side of Ninth Street, NE.  As a point of reference, the existing pavement varies from 24’ to 27’ wide.  Five (5) potential “roadway sections” include:
+					<ul>
+						<li>Option A:	26’ wide pavement and no sidewalks.</li>
+						<li>Option B:	26’ wide pavement and a single sidewalk on the west side.</li>
+						<li>Option C:	32’ wide pavement, bike lanes and a single sidewalk and treelawn on the west side.</li>
+						<li>Option D:	32’ wide pavement, bike lanes and a single sidewalk on the west side with no treelawn.</li>
+						<li>Option E:	26’ wide pavement and a 10’ wide multi-use path on the west side</li>
+					</ul>
+				</p><p>
+					Another area of opportunity involves the intersection of Ninth Street and State Street.  Options here include:
+					<ul>
+						<li>Option 1:	Keep current roadway alignment.</li>
+						<li>Option 2:  	Eliminate the 9th and State Street intersection and require all vehicles to turn right onto Huston to access State Street.</li>
+					</ul>
+				</p>
+			</div>
+			
+			<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
+				<div class="thumbnail">
+					<div class="caption">
+						<h4>More Resources</h4>
+						<p>
+							<a class="btn btn-block btn-primary" href="https://www.dropbox.com/sh/f0ai1uxl6rzossl/AAADvSw9lIwmbNz-1q4EVwEga?dl=0">Project Documents</a>
+						</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+<!--#include virtual="/oc/lib/includes/foot.html" -->
