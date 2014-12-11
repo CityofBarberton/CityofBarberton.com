@@ -35,7 +35,7 @@
 			
 			// poor man's search results
 			if(urlvars['q']){
-				var schq = decodeURIComponent(urlvars['q']).replace(/[+]/g," ");
+				var schq = decodeURIComponent(urlvars['q']).replace(/[<>]/g,"").replace(/[+]/g," ");
 				
 				// update the "search for" message
 				$('#search-term').html(schq);
