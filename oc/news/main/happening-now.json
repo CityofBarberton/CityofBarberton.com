@@ -7,32 +7,14 @@
 	},
 	
 	"Change for Change": {
-		"desc": "This month's <a href='news.shtml?d=main&amp;y=2013&amp;n=change_for_change'>Change for Change</a> we be held at Block 7 Bar & Grill. Funds will help the Fire Department purchase coats for Barberton children in need. <br> October 24, 4:30-7:00",
+		"desc": "This month's <a href='news.shtml?d=main&amp;y=2013&amp;n=change_for_change'>Change for Change</a> will be Friday, 12/19 4-7pm at Block 7 Bar & Grill; it benefits the Winebrenner Family",
 		"clss": "btn btn-pride",
-		"beg": "2014-10-18",
-		"end": "2014-10-24"
+		"beg": "2014-12-19",
+		"end": "2014-12-12"
 	},
 
-	"Fall Clean-up": {
-		"desc": "The City of Barberton’s Fall Clean-up will be held November 3 - 5, 2014. Residents who are part of the City’s curb side program are eligible to participate in the clean-up. <br /><a href='http://cityofbarberton.com/oc/news.shtml?d=main&y=2014&n=fall_clean-up'>More Details</a>",
-		"clss": "btn btn-pride",
-		"beg": "2014-10-11",
-		"end": "2014-11-05"
-	},
-	"<i class='icon-star'></i> City Closed 11/11": {
-		"desc": "City offices will be closed Tuesday, November 11 in observance of Veterans' Day",
-		"clss": "btn btn-primary",
-		"beg": "2014-11-06",
-		"end": "2014-11-11"
-	},
-	"<i class='icon-star'></i> City Closed 11/26-27": {
-		"desc": "City offices will be closed Thursday, November 27 and Friday, November 28 in observance of Thanksgiving",
-		"clss": "btn btn-primary",
-		"beg": "2014-11-22",
-		"end": "2014-11-28"
-	},
-	"<i class='icon-star'></i> City Closed 12/24-25": {
-		"desc": "City offices will be closed Wednesday, December 24 and Thursday, December 25 in observance of Christmas",
+	"<i class='icon-star'></i> City Closed 12/25-26": {
+		"desc": "City offices will be closed Thursday, December 25 and Friday, December 26 in observance of Christmas",
 		"clss": "btn btn-primary",
 		"beg": "2014-12-20",
 		"end": "2014-12-25"
@@ -40,7 +22,20 @@
 	"<i class='icon-star'></i> City Closed 1/1": {
 		"desc": "City offices will be closed Thursday, January 1 in observance of New Year's Day",
 		"clss": "btn btn-primary",
-		"beg": "2014-12-27",
+		"beg": "2014-12-26",
 		"end": "2015-01-01"
+	},
+	
+	"Leaves": {
+		"desc": "Beginning December 1st, crews will pick up leaves on a non-scheduled basis in each Ward targeting large piles of leaves over the next couple of weeks, weather permitting and barring equipment failures.  We will generally follow the same order as originally scheduled for each Ward (4,1,5,2,3 & 6).<br /><br />Mulch Makers will also take leaves, they must be de-bagged.",
+		"clss": "btn btn-primary",
+		"beg": "2014-11-25",
+		"end": "2015-12-20"
+	},
+	"9th St NE": {
+		"desc": "The City is planning a roadway reconstruction project along Ninth Street NE from Robinson Avenue to State Street.<br><br>The Mayor is holding a neighborhood meeting at the Charity Baptist Church, 770 E. Paige Avenue on December 18, 2014 at 6:00 p.m. to allow residents to ask questions, provide input and learn more about the project. Please plan to attend if you have any interest or concerns.<br><br>More details are available at the <a href='http://cityofbarberton.com/oc/project_9thStNE_reconstruction.shtml'>9th St NE Reconstruction Project</a> page.",
+		"clss": "btn btn-warning",
+		"beg": "2014-11-25",
+		"end": "2015-12-20"
 	}
 }
