@@ -1,0 +1,122 @@
+<!--#include virtual="/oc/lib/includes/head_a.html" -->
+	<title>Stormwater - City of Barberton</title>
+	<meta name="description" content="The City of Barberton Stormwater Department">
+	<meta property="og:type" content="website"/>
+	<meta property="og:title" content="City of Barberton Stormwater"/>
+	<meta property="og:url" content="http://cityofbarberton.com/oc/"/>
+	<meta property="og:description" content="The City of Barberton Stormwater Department"/>
+	<meta property="og:image" content="http://cityofbarberton.com/oc/img/barberton_crest.png"/>
+	<meta property="twitter:card" content="summary"/>
+	<meta property="twitter:site" content="@BarbertonCity">
+	<meta property="twitter:title" content="City of Barberton Stormwater">
+	<meta property="twitter:url" content="http://cityofbarberton.com/oc/"/>
+	<meta property="twitter:description" content="The City of Barberton Stormwater Department"/>
+	<meta property="twitter:image" content="http://cityofbarberton.com/oc/img/barberton_crest.png"/>
+<!--#include virtual="/oc/lib/includes/head_b.html" -->
+	<div class="container contain-main">
+		<div class="row">
+			<div class="col-xs-12 col-sm-9 col-md-9 col-lg-9">
+				<div class="page-header"><h3>Stormwater Housekeeping</h3></div>
+				
+				<h4>Medical Disposal</h4>
+				<p>
+					Sewer treatment plants are not designed to remove medicine.
+					Any medicine disposed of through the toilet or drain will end up in out lakes and rivers.
+					Unwanted medicine should be kept it in its original packaging, but all personal information should be blacked out before disposal.
+					Secure the medicine in a zip lock bag and deposit it at the drop box at the Barberton police station lobby.
+					Only pills, capsules and syrup can be disposed of at the drop box.
+				</p><p>
+					For syringe disposal please call (330) 926-5600.
+				</p>
+				
+				<h4>Plants and Fertilizers</h4>
+				<p>
+					Consider using native plants in yards, they require less pesticides, herbicides, and fertilizers.
+					They provide food and habitat for native wildlife, decrease the amount of water needed, are low maintenance, and help control erosion.
+				</p>
+				
+				<h5>Native Ohio Plants</h5>
+				<strong>Shrubs</strong>
+				<ul>
+					<li>Button Bush</li>
+					<li>Spice Bush</li>
+					<li>Gray, Silky and Red Osier</li>
+					<li>Nannyberry</li>
+				</ul>
+				<strong>Flowers</strong>
+				<ul>
+					<li>Purple Coneflower</li>
+					<li>Cardinal Flower</li>
+					<li>Black-eyed Susan</li>
+					<li>Wild Geranium</li>
+					<li>Blue Lobelia</li>
+					<li>Garden Phlox</li>
+					<li>Butterfly Weed</li>
+					<li>Turtle Head</li>
+					<li>Fairy Candles</li>
+					<li>Obedient Plant</li>
+					<li>Foamflower</li>
+				</ul>
+				
+				<h5>Invasive Plants</h5>
+				<ul>
+					<li>Autumn Olive</li>
+					<li>Bush Honeysuckle</li>
+					<li>Buckthorn</li>
+					<li>Common Reed Grass</li>
+					<li>Garlic Mustard</li>
+					<li>Japanese Honeysuckle</li>
+					<li>Japanese Knotweed</li>
+					<li>Multiflora Rose</li>
+					<li>Purple Loosestrife</li>
+					<li>Reed Canary Grass</li>
+				</ul>
+				
+				<h4>Draining Your Pool</h4>
+				<p>
+					Steps to drain your pool
+				</p><ol>
+					<li>Remove chlorine to less than one PPM
+						<ol>
+							<li>Simply stop adding chlorine to your pool and leave uncovered.  Wait ten days until the sun has naturally dissipated the chlorine. Test the water with a swimming pool test kit to measure the chlorine.</li>
+							<li>Chemically dechlorinate the pool water.  Chemicals can be bought at pool vendors.</li>
+						</ol>
+						</li>
+					<li>Discharging dechlorinated pool water
+						<ol>
+							<li>Unless your swimming pool is directly connected to the sanitary sewer for easy drainage, consider draining to the nearest storm sewer.</li>
+							<li>Use a pump and hose to drain pool water.</li>
+						</ol>
+					</li>
+				</ol><p>
+					<strong>SMALL CONCENTRATIONS OF CHLORINE CAN BE VERY TOXIC TO FISH AND SMALL CRUSTACEANS</strong>
+				</p>
+				
+				<h4>Why should I keep my yard clippings out of the street?</h4>
+				<p>
+					Grass clippings can cover inlets and block water from flowing into them.
+					The grass that does make it into the storm sewers decomposes and depletes dissolved oxygen that aquatic life needs to survive.
+					The grass also encourages algae growth.
+				</p><div class="text-center">
+					<img src="img/stormwater/stormwater_diagram_a.jpg">
+				</div>
+				
+			</div>
+			
+			<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
+				<div class="thumbnail">
+					<div class="caption">
+						<h4>Caroline Knorr <br><small>Stormwater Manager</small></h4>
+						<p>(330) 861-7298</p>
+						<p><a class="btn btn-block btn-pride" href="mailto:cknorr@cityofbarberton.com"><i class="icon-envelope"></i> Email</a></p>
+						
+						<br>
+						<h4>Alan Keltyka <br><small>Stormwater Engineer</small></h4>
+						<p>(330) 861-7299</p>
+						<a class="btn btn-block btn-pride" href="mailto:akeltyka@cityofbarberton.com"><i class="icon-envelope"></i> Email</a></p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+<!--#include virtual="/oc/lib/includes/foot.html" -->

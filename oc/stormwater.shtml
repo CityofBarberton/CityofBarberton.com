@@ -41,278 +41,59 @@
 					causing nearly 40% of pollution is US water bodies.</em>
 				</p>
 				
-				<h4>What is the city doing?</h4>
-				<ul>
-					<li>Retention ponds help contain sediment and litter from getting into waterways. They also help reduce flooding by holding large amounts of water and slowly releasing it.  The City is currently working on developing two retention ponds to reduce flooding.</li>
-					<li>The City has programs for street sweeping and catch basin cleanings.</li>
-					<li>
-						The City has adopted the Riparian Setback and Stormwater Management Ordinance (<a href="https://www.dropbox.com/s/egwc48nzmet9e4j/Stormwater%20Management-Riparian%20Setback%20Ordinance.pdf">Riparian Ordinance</a>), Erosion and Sediment Control Ordinance (<a href="https://www.dropbox.com/s/3c2hbb0qrqlkj5q/147-2003_scan.pdf">Erosion and Sediment Ordinance</a>), and Illicit Discharge into Storm Sewers Ordinance (<a href="https://www.dropbox.com/s/lcrqnzbxzpkapnj/Illicit%20Discharge%20into%20Storm%20Sewer%20Ordinance.PDF">Illicit Discharge Ordinance</a>).
-					</li>
-					<li>The City annually has outfalls tested for E. coli and fecal coliform to help detect illicit discharges.</li>
-					<li>The City is installing a new storm water friendly parking lot to help reduce pollution in Lake Anna.</li>
-					<li>Storm sewer reconstruction and installation throughout the city.</li>
-					<li>Installing curbs to help direct water flow.</li>
-					<li>Maintain collection and disposal of debris from street sweeping and leaf pick-up. </li>
-					<li>Field inspection and enforcement of Barberton stormwater design standards and regulations.</li>
-					<li>Recycling and clean-up programs.</li>
-					<li>Community information, education and involvement in Stormwater Management.</li>
-				</ul>
-				
-				<h4>Drinkable water in the world</h4>
-				<div class="well">
-					<img src="img/stormwater/water_breakdown.png" class="img-responsive pull-right" alt="Total water">
+				<div class="marketing">
+					<div class="row">
+						<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+							<!--<img src="img/stormwater/stormwater_matters.jpg" class="img-rounded img-responsive">-->
+							<p><a class="btn btn-block btn-pride" href="stormwater_education.shtml">Education &amp;<br>Outreach</a></p>
+						</div>
+						
+						<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+							<!--<img src="img/stormwater/stormwater_matters.jpg" class="img-rounded img-responsive">-->
+							<p>
+								<a class="btn btn-block btn-pride" href="stormwater_involvement.shtml">Get Involved with<br>Stormwater</a>
+							</p>
+						</div>
+						
+						<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+							<!--<img src="img/stormwater/stormwater_matters.jpg" class="img-rounded img-responsive">-->
+							<p><a class="btn btn-block btn-pride" href="stormwater_illicit_discharge.shtml">Illicit Discharge<br>Detection &amp; Elimination</a></p>
+						</div>
+					</div>
 					
-					<h5>70% of the Earth is covered in water</h5>
-					<ul class="list-unstyled">
-						<li>97.5% of the water on Earth is saltwater</li>
-						<li>2.5% of water on Earth is freshwater</li>
-					</ul>
-					
-					<h5>2.5% freshwater breakdown</h5>
-					<ul class="list-unstyled">
-						<li>70% is frozen is snow and icecaps in Antarctica and Greenland</li>
-						<li>30% is groundwater</li>
-						<li>0.3% is freshwater lakes and rivers (Easily accessible by humans)</li>
-					</ul>
-					
-					<h5>A timeline of human water use:</h5>
-					<ul>
-						<li>12,000 yrs. ago: hunter-gatherers continually return to fertile river valleys</li>
-						<li>7,000 yrs. ago: water shortages spur humans to invent irrigation</li>
-						<li>1,100 yrs ago: collapse of Mayan civilization due to drought</li>
-						<li>Mid 1800's: fecal contamination of surface water causes severe health problems (typhoid, cholera) in some major North American cities, notably Chicago</li>
-						<li>1858: "Year of the Great Stink" in London, due to sewage and wastes in Thames</li>
-						<li>Late 1800s-early 1900: Dams became popular as a water management tool</li>
-						<li>1900s: The green revolution strengthens human dependency on irrigation for agriculture</li>
-						<li>World War II: water quality impacted by industrial and agricultural chemicals</li>
-						<li>1972: Clean Water Act passed; humans recognize need to protect water</li>
-					</ul>
-					"Human Appropriation of the World's Fresh Water Supply." <em>Human Appropriation of the World's Fresh Water Supply.</em> University of Michigan, 4 Jan. 2006. Web. 2 Dec. 2013.
+					<div class="row">
+						<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+							<!--<img src="img/stormwater/stormwater_matters.jpg" class="img-rounded img-responsive">-->
+							<p><a class="btn btn-block btn-pride" href="stormwater_construction.shtml">Construction</a></p>
+						</div>
+						
+						<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+							<!--<img src="img/stormwater/stormwater_matters.jpg" class="img-rounded img-responsive">-->
+							<p>
+								<a class="btn btn-block btn-pride" href="stormwater_postconstruction.shtml">Post-Construction</a>
+							</p>
+						</div>
+						
+						<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+							<!--<img src="img/stormwater/stormwater_matters.jpg" class="img-rounded img-responsive">-->
+							<p><a class="btn btn-block btn-pride" href="stormwater_housekeeping.shtml">Good Housekeeping</a></p>
+						</div>
+					</div>
 				</div>
 				
-				<h4>Stormwater Sewers VS Sanitary Sewers</h4>
-				<p>
-					<img src="img/stormwater/drains.png" class="img-responsive" alt="Total water">
-					Stormwater sewers go directly to local water bodies without being treated.
-					Sanitary sewers go to a wastewater treatment plant to be treated before discharging into a local water body.
-				</p>
-				<table class="table table-striped table-bordered">
-					<tr>
-						<th>Stormwater Sewers</th>
-						<th>Sanitary Sewers</th>
-					</tr><tr>
-						<td>Foundation drains</td>
-						<td>Toilet</td>
-					</tr><tr>
-						<td>Roof drains</td>
-						<td>Washer</td>
-					</tr><tr>
-						<td>Catch basins</td>
-						<td>Dishwasher</td>
-					</tr><tr>
-						<td></td>
-						<td>Sinks</td>
-					</tr><tr>
-						<td></td>
-						<td>Floor drains</td>
-					</tr>
-				</table>
-				
-				<h4>What is storm water runoff?</h4>
-				<p>
-					Storm water runoff is untreated water that is created from rain or melted snow that does not seep into the ground.
-					Instead, water flows across the land into the nearest body of water.
-					As the water flows it picks up animal waste, oil, fertilizers, pesticides and other pollutants compromising water quality.
-					In the City of Barberton, most storm water discharges into Wolf Creek, Hudson Run, Tuscarawas River, Mud Run, Pancake Creek, Columbia Lake and Lake Anna.
-				</p>
-				
-				<h4>Point Source Pollution and Non-Point Source Pollution</h4>
-				<p>
-					Point Source Pollution- Known source and easily regulated (Industrial and municipal waste)
-					Non-Point Source Pollution-Not easily identified and hard to regulate (Streets, vehicles, parking lots, etc.)
-				</p>
-				
-				<h4>Watersheds</h4>
-				<p>
-					Watersheds come in all different shapes and sizes.
-					All water in the watershed goes to the same place.
-					For example, you may have seen a sign on highway 21 saying “Ohio Divide” this means all the water falling North of the watershed sign will end up in Lake Erie, and all the water falling South of the sign will end up in the Ohio River.
-					Watersheds not only cross through a state, but they go through the entire U.S.  In other words, there are watersheds in watersheds!
-					All the water that runs off in Barberton eventually ends up in the Gulf Coast of Mexico.
-					Wolf Creek and Hudson Run flow into the Tuscarawas River, the Tuscarawas River joins the Walhonding in Coshocton.
-					The Walhonding flows into the Ohio River, the Ohio River into the Mississippi River and that discharges into the Gulf of Mexico.
-				</p>
-				
-				<h4>How much runoff does my house produce?</h4>
-				<p>
-					The average house is 2000 square feet and the average rain fall in Barberton yearly is 39 inches.
-					This mean an average roof will produce 48,425 gallons of runoff every year!
-				</p><p>
-					There are approximately 12,000 houses in Barberton.
-					If we collected all the runoff in a year from all those houses, we would have about 581,100,000 gallons of water!
-					That is enough water to supply Barberton for 145 days!
-				</p>
-				
-				<h4>Rain Barrels</h4>
-				<p>
-					Rain barrels are a rainwater collection system that connects to your downspouts to store rain water.
-					The stored water is FREE soft water that can be used to wash cars, top off swimming pools, water gardens or lawns, window washing, etc.
-				</p><p>
-					Rain barrels are typically 55 gallons (but come in a variety of sizes.)
-					They can be bought at local gardening or retail stores, or made at home.
-				</p>
-				
-				<h4>Illicit Discharge and Illicit Connections</h4>
-				<p>
-					An illicit discharge is defined by the Environmental Protection Agency (EPA) as any discharge into to a storm sewer system that is not composed entirely of rain water.
-					Illicit discharges occur when pollutants are directly poured into a storm sewer, ditch or stream, as well as when pollutants are picked up by rain water and carried to stormwater infrastructure.
-					Please see our Illicit Discharge into Storm Sewers Ordinance, section six (6) for exceptions.  
-				</p><p>
-					Examples of illicit discharges:
-				</p><ul>
-					<li>Connections from washing machines, dishwasher, toilets, floor drains, or sinks</li>
-					<li>Paint, cleaners, or chemicals</li>
-					<li>Overflowing sanitary sewers</li>
-					<li>Leaking septic tanks and failing septic tanks</li>
-					<li>Oil, gas and car fluids</li>
-					<li>Cooking oil and grease</li>
-					<li>Litter and illegal dumping</li>
-				</ul><p>
-					For more information on illicit discharges, please see our link under downloads and our illicit discharge ordinance. 
-				</p><p>
-					If you think you have found an illicit discharge, please report it to Alan Keltyka at (330) 861-7299 or Caroline Knorr at (330) 861-7298.
-				</p>
-				
-				<h4>Medical Disposal</h4>
-				<p>
-					Sewer treatment plants are not designed to remove medicine.
-					Any medicine disposed of through the toilet or drain will end up in out lakes and rivers.
-					Unwanted medicine should be kept it in its original packaging, but all personal information should be blacked out before disposal.
-					Secure the medicine in a zip lock bag and deposit it at the drop box at the Barberton police station lobby.
-					Only pills, capsules and syrup can be disposed of at the drop box.
-				</p><p>
-					For syringe disposal please call (330) 926-5600.
-				</p>
-				
-				<h4>Plants and Fertilizers</h4>
-				<p>
-					Consider using native plants in yards, they require less pesticides, herbicides, and fertilizers.
-					They provide food and habitat for native wildlife, decrease the amount of water needed, are low maintenance, and help control erosion.
-				</p>
-				
-				<h5>Native Ohio Plants</h5>
-				<strong>Shrubs</strong>
-				<ul>
-					<li>Button Bush</li>
-					<li>Spice Bush</li>
-					<li>Gray, Silky and Red Osier</li>
-					<li>Nannyberry</li>
-				</ul>
-				<strong>Flowers</strong>
-				<ul>
-					<li>Purple Coneflower</li>
-					<li>Cardinal Flower</li>
-					<li>Black-eyed Susan</li>
-					<li>Wild Geranium</li>
-					<li>Blue Lobelia</li>
-					<li>Garden Phlox</li>
-					<li>Butterfly Weed</li>
-					<li>Turtle Head</li>
-					<li>Fairy Candles</li>
-					<li>Obedient Plant</li>
-					<li>Foamflower</li>
-				</ul>
-				
-				<h5>Invasive Plants</h5>
-				<ul>
-					<li>Autumn Olive</li>
-					<li>Bush Honeysuckle</li>
-					<li>Buckthorn</li>
-					<li>Common Reed Grass</li>
-					<li>Garlic Mustard</li>
-					<li>Japanese Honeysuckle</li>
-					<li>Japanese Knotweed</li>
-					<li>Multiflora Rose</li>
-					<li>Purple Loosestrife</li>
-					<li>Reed Canary Grass</li>
-				</ul>
-				
-				<h4>What can I do to help?</h4>
-				<h5>Cars</h5>
-				<ul>
-					<li>Maintain your car so it does not leak oil and other fluids</li>
-					<li>Wash your car on the grass and avoid getting soap and water in the storm drain</li>
-				</ul>
-				<h5>Yard</h5>
-				<ul>
-					<li>Do not over fertilize your lawn</li>
-					<li>Do not use pesticides or fertilizer before a heavy rain</li>
-					<li>If you spill fertilizer, sweep it up instead of washing it away with a hose</li>
-					<li>Turn downspouts away from hard surfaces</li>
-					<li>Seed bare spots in your yard to help control erosion</li>
-					<li>Use native plants for landscaping</li>
-				</ul>
-				<h5>Septic system</h5>
-				<ul>
-					<li>Maintain it properly; have it pumped every three to five years</li>
-					<li>Never put chemicals in your septic system, it can leach into groundwater and damage the system</li>
-				</ul>
-				<h5>Pets</h5>
-				<ul>
-					<li>Pick up after your pet and dispose of waste in garbage</li>
-					<li>Do not use pet waste as fertilizer</li>
-				</ul>
-				<h5>Household</h5>
-				<ul>
-					<li>Learn how to make your own cleaning products that do not contain harmful substances</li>
-					<li>Always follow directions when using hazardous substances</li>
-					<li>Never mix harmful chemicals/waste together</li>
-					<li>Never dispose of toxic materials in a storm sewer</li>
-					<li>Never flush pharmaceuticals or chemicals down your toilet</li>
-				</ul>
-				<strong>REMEMBER: do not dump chemicals, solvents, paints, auto fluids, leaves, trash, grass clippings or pet waste in storm water drains. Only rain in the drain!</strong>
-				
-				<h4>Draining Your Pool</h4>
-				<p>
-					Steps to drain your pool
-				</p><ol>
-					<li>Remove chlorine to less than one PPM
-						<ol>
-							<li>Simply stop adding chlorine to your pool and leave uncovered.  Wait ten days until the sun has naturally dissipated the chlorine. Test the water with a swimming pool test kit to measure the chlorine.</li>
-							<li>Chemically dechlorinate the pool water.  Chemicals can be bought at pool vendors.</li>
-						</ol>
-						</li>
-					<li>Discharging dechlorinated pool water
-						<ol>
-							<li>Unless your swimming pool is directly connected to the sanitary sewer for easy drainage, consider draining to the nearest storm sewer.</li>
-							<li>Use a pump and hose to drain pool water.</li>
-						</ol>
-					</li>
-				</ol><p>
-					<strong>SMALL CONCENTRATIONS OF CHLORINE CAN BE VERY TOXIC TO FISH AND SMALL CRUSTACEANS</strong>
-				</p>
-				
-				<h4>Why should I keep my yard clippings out of the street?</h4>
-				<p>
-					Grass clippings can cover inlets and block water from flowing into them.
-					The grass that does make it into the storm sewers decomposes and depletes dissolved oxygen that aquatic life needs to survive.
-					The grass also encourages algae growth.
-				</p><div class="text-center">
-					<img src="img/stormwater/stormwater_diagram_a.jpg">
-				</div>
 			</div>
 			
 			<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
 				<div class="thumbnail">
 					<div class="caption">
-						<h4>Alan Keltyka <br><small>Stormwater Engineer</small></h4>
-						<p>(330) 861-7299</p>
-						<a class="btn btn-block btn-pride" href="mailto:akeltyka@cityofbarberton.com"><i class="icon-envelope"></i> Email</a></p>
-						
-						<br>
 						<h4>Caroline Knorr <br><small>Stormwater Manager</small></h4>
 						<p>(330) 861-7298</p>
 						<p><a class="btn btn-block btn-pride" href="mailto:cknorr@cityofbarberton.com"><i class="icon-envelope"></i> Email</a></p>
+						
+						<br>
+						<h4>Alan Keltyka <br><small>Stormwater Engineer</small></h4>
+						<p>(330) 861-7299</p>
+						<a class="btn btn-block btn-pride" href="mailto:akeltyka@cityofbarberton.com"><i class="icon-envelope"></i> Email</a></p>
 					</div>
 				</div>
 				

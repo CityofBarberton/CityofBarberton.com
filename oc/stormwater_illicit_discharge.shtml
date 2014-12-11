@@ -1,0 +1,60 @@
+<!--#include virtual="/oc/lib/includes/head_a.html" -->
+	<title>Stormwater - City of Barberton</title>
+	<meta name="description" content="The City of Barberton Stormwater Department">
+	<meta property="og:type" content="website"/>
+	<meta property="og:title" content="City of Barberton Stormwater"/>
+	<meta property="og:url" content="http://cityofbarberton.com/oc/"/>
+	<meta property="og:description" content="The City of Barberton Stormwater Department"/>
+	<meta property="og:image" content="http://cityofbarberton.com/oc/img/barberton_crest.png"/>
+	<meta property="twitter:card" content="summary"/>
+	<meta property="twitter:site" content="@BarbertonCity">
+	<meta property="twitter:title" content="City of Barberton Stormwater">
+	<meta property="twitter:url" content="http://cityofbarberton.com/oc/"/>
+	<meta property="twitter:description" content="The City of Barberton Stormwater Department"/>
+	<meta property="twitter:image" content="http://cityofbarberton.com/oc/img/barberton_crest.png"/>
+<!--#include virtual="/oc/lib/includes/head_b.html" -->
+	<div class="container contain-main">
+		<div class="row">
+			<div class="col-xs-12 col-sm-9 col-md-9 col-lg-9">
+				<div class="page-header"><h3>Stormwater Illicit Discharge Detection &amp; Elimination</h3></div>
+				
+				<h4>Illicit Discharge and Illicit Connections</h4>
+				<p>
+					An illicit discharge is defined by the Environmental Protection Agency (EPA) as any discharge into to a storm sewer system that is not composed entirely of rain water.
+					Illicit discharges occur when pollutants are directly poured into a storm sewer, ditch or stream, as well as when pollutants are picked up by rain water and carried to stormwater infrastructure.
+					Please see our Illicit Discharge into Storm Sewers Ordinance, section six (6) for exceptions.  
+				</p><p>
+					Examples of illicit discharges:
+				</p><ul>
+					<li>Connections from washing machines, dishwasher, toilets, floor drains, or sinks</li>
+					<li>Paint, cleaners, or chemicals</li>
+					<li>Overflowing sanitary sewers</li>
+					<li>Leaking septic tanks and failing septic tanks</li>
+					<li>Oil, gas and car fluids</li>
+					<li>Cooking oil and grease</li>
+					<li>Litter and illegal dumping</li>
+				</ul><p>
+					For more information on illicit discharges, please see our link under downloads and our illicit discharge ordinance. 
+				</p><p>
+					If you think you have found an illicit discharge, please report it to Alan Keltyka at (330) 861-7299 or Caroline Knorr at (330) 861-7298.
+				</p>
+				
+			</div>
+			
+			<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
+				<div class="thumbnail">
+					<div class="caption">
+						<h4>Caroline Knorr <br><small>Stormwater Manager</small></h4>
+						<p>(330) 861-7298</p>
+						<p><a class="btn btn-block btn-pride" href="mailto:cknorr@cityofbarberton.com"><i class="icon-envelope"></i> Email</a></p>
+						
+						<br>
+						<h4>Alan Keltyka <br><small>Stormwater Engineer</small></h4>
+						<p>(330) 861-7299</p>
+						<a class="btn btn-block btn-pride" href="mailto:akeltyka@cityofbarberton.com"><i class="icon-envelope"></i> Email</a></p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+<!--#include virtual="/oc/lib/includes/foot.html" -->

@@ -1,0 +1,39 @@
+<!--#include virtual="/oc/lib/includes/head_a.html" -->
+	<title>Stormwater - City of Barberton</title>
+	<meta name="description" content="The City of Barberton Stormwater Department">
+	<meta property="og:type" content="website"/>
+	<meta property="og:title" content="City of Barberton Stormwater"/>
+	<meta property="og:url" content="http://cityofbarberton.com/oc/"/>
+	<meta property="og:description" content="The City of Barberton Stormwater Department"/>
+	<meta property="og:image" content="http://cityofbarberton.com/oc/img/barberton_crest.png"/>
+	<meta property="twitter:card" content="summary"/>
+	<meta property="twitter:site" content="@BarbertonCity">
+	<meta property="twitter:title" content="City of Barberton Stormwater">
+	<meta property="twitter:url" content="http://cityofbarberton.com/oc/"/>
+	<meta property="twitter:description" content="The City of Barberton Stormwater Department"/>
+	<meta property="twitter:image" content="http://cityofbarberton.com/oc/img/barberton_crest.png"/>
+<!--#include virtual="/oc/lib/includes/head_b.html" -->
+	<div class="container contain-main">
+		<div class="row">
+			<div class="col-xs-12 col-sm-9 col-md-9 col-lg-9">
+				<div class="page-header"><h3>Stormwater Construction</h3></div>
+				
+			</div>
+			
+			<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
+				<div class="thumbnail">
+					<div class="caption">
+						<h4>Caroline Knorr <br><small>Stormwater Manager</small></h4>
+						<p>(330) 861-7298</p>
+						<p><a class="btn btn-block btn-pride" href="mailto:cknorr@cityofbarberton.com"><i class="icon-envelope"></i> Email</a></p>
+						
+						<br>
+						<h4>Alan Keltyka <br><small>Stormwater Engineer</small></h4>
+						<p>(330) 861-7299</p>
+						<a class="btn btn-block btn-pride" href="mailto:akeltyka@cityofbarberton.com"><i class="icon-envelope"></i> Email</a></p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+<!--#include virtual="/oc/lib/includes/foot.html" -->

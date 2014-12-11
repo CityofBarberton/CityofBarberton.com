@@ -1,0 +1,143 @@
+<!--#include virtual="/oc/lib/includes/head_a.html" -->
+	<title>Stormwater - City of Barberton</title>
+	<meta name="description" content="The City of Barberton Stormwater Department">
+	<meta property="og:type" content="website"/>
+	<meta property="og:title" content="City of Barberton Stormwater"/>
+	<meta property="og:url" content="http://cityofbarberton.com/oc/"/>
+	<meta property="og:description" content="The City of Barberton Stormwater Department"/>
+	<meta property="og:image" content="http://cityofbarberton.com/oc/img/barberton_crest.png"/>
+	<meta property="twitter:card" content="summary"/>
+	<meta property="twitter:site" content="@BarbertonCity">
+	<meta property="twitter:title" content="City of Barberton Stormwater">
+	<meta property="twitter:url" content="http://cityofbarberton.com/oc/"/>
+	<meta property="twitter:description" content="The City of Barberton Stormwater Department"/>
+	<meta property="twitter:image" content="http://cityofbarberton.com/oc/img/barberton_crest.png"/>
+<!--#include virtual="/oc/lib/includes/head_b.html" -->
+	<div class="container contain-main">
+		<div class="row">
+			<div class="col-xs-12 col-sm-9 col-md-9 col-lg-9">
+				<div class="page-header"><h3>Stormwater Education &amp; Outreach</h3></div>
+				
+				<h4>Drinkable water in the world</h4>
+				<div class="well">
+					<img src="img/stormwater/water_breakdown.png" class="img-responsive pull-right" alt="Total water">
+					
+					<h5>70% of the Earth is covered in water</h5>
+					<ul class="list-unstyled">
+						<li>97.5% of the water on Earth is saltwater</li>
+						<li>2.5% of water on Earth is freshwater</li>
+					</ul>
+					
+					<h5>2.5% freshwater breakdown</h5>
+					<ul class="list-unstyled">
+						<li>70% is frozen is snow and icecaps in Antarctica and Greenland</li>
+						<li>30% is groundwater</li>
+						<li>0.3% is freshwater lakes and rivers (Easily accessible by humans)</li>
+					</ul>
+					
+					<h5>A timeline of human water use:</h5>
+					<ul>
+						<li>12,000 yrs. ago: hunter-gatherers continually return to fertile river valleys</li>
+						<li>7,000 yrs. ago: water shortages spur humans to invent irrigation</li>
+						<li>1,100 yrs ago: collapse of Mayan civilization due to drought</li>
+						<li>Mid 1800's: fecal contamination of surface water causes severe health problems (typhoid, cholera) in some major North American cities, notably Chicago</li>
+						<li>1858: "Year of the Great Stink" in London, due to sewage and wastes in Thames</li>
+						<li>Late 1800s-early 1900: Dams became popular as a water management tool</li>
+						<li>1900s: The green revolution strengthens human dependency on irrigation for agriculture</li>
+						<li>World War II: water quality impacted by industrial and agricultural chemicals</li>
+						<li>1972: Clean Water Act passed; humans recognize need to protect water</li>
+					</ul>
+					"Human Appropriation of the World's Fresh Water Supply." <em>Human Appropriation of the World's Fresh Water Supply.</em> University of Michigan, 4 Jan. 2006. Web. 2 Dec. 2013.
+				</div>
+				
+				<h4>Stormwater Sewers VS Sanitary Sewers</h4>
+				<p>
+					<img src="img/stormwater/drains.png" class="img-responsive" alt="Total water">
+					Stormwater sewers go directly to local water bodies without being treated.
+					Sanitary sewers go to a wastewater treatment plant to be treated before discharging into a local water body.
+				</p>
+				<table class="table table-striped table-bordered">
+					<tr>
+						<th>Stormwater Sewers</th>
+						<th>Sanitary Sewers</th>
+					</tr><tr>
+						<td>Foundation drains</td>
+						<td>Toilet</td>
+					</tr><tr>
+						<td>Roof drains</td>
+						<td>Washer</td>
+					</tr><tr>
+						<td>Catch basins</td>
+						<td>Dishwasher</td>
+					</tr><tr>
+						<td></td>
+						<td>Sinks</td>
+					</tr><tr>
+						<td></td>
+						<td>Floor drains</td>
+					</tr>
+				</table>
+				
+				<h4>What is storm water runoff?</h4>
+				<p>
+					Storm water runoff is untreated water that is created from rain or melted snow that does not seep into the ground.
+					Instead, water flows across the land into the nearest body of water.
+					As the water flows it picks up animal waste, oil, fertilizers, pesticides and other pollutants compromising water quality.
+					In the City of Barberton, most storm water discharges into Wolf Creek, Hudson Run, Tuscarawas River, Mud Run, Pancake Creek, Columbia Lake and Lake Anna.
+				</p>
+				
+				<h4>Point Source Pollution and Non-Point Source Pollution</h4>
+				<p>
+					Point Source Pollution- Known source and easily regulated (Industrial and municipal waste)
+					Non-Point Source Pollution-Not easily identified and hard to regulate (Streets, vehicles, parking lots, etc.)
+				</p>
+				
+				<h4>Watersheds</h4>
+				<p>
+					Watersheds come in all different shapes and sizes.
+					All water in the watershed goes to the same place.
+					For example, you may have seen a sign on highway 21 saying “Ohio Divide” this means all the water falling North of the watershed sign will end up in Lake Erie, and all the water falling South of the sign will end up in the Ohio River.
+					Watersheds not only cross through a state, but they go through the entire U.S.  In other words, there are watersheds in watersheds!
+					All the water that runs off in Barberton eventually ends up in the Gulf Coast of Mexico.
+					Wolf Creek and Hudson Run flow into the Tuscarawas River, the Tuscarawas River joins the Walhonding in Coshocton.
+					The Walhonding flows into the Ohio River, the Ohio River into the Mississippi River and that discharges into the Gulf of Mexico.
+				</p>
+				
+				<h4>How much runoff does my house produce?</h4>
+				<p>
+					The average house is 2000 square feet and the average rain fall in Barberton yearly is 39 inches.
+					This mean an average roof will produce 48,425 gallons of runoff every year!
+				</p><p>
+					There are approximately 12,000 houses in Barberton.
+					If we collected all the runoff in a year from all those houses, we would have about 581,100,000 gallons of water!
+					That is enough water to supply Barberton for 145 days!
+				</p>
+				
+				<h4>Rain Barrels</h4>
+				<p>
+					Rain barrels are a rainwater collection system that connects to your downspouts to store rain water.
+					The stored water is FREE soft water that can be used to wash cars, top off swimming pools, water gardens or lawns, window washing, etc.
+				</p><p>
+					Rain barrels are typically 55 gallons (but come in a variety of sizes.)
+					They can be bought at local gardening or retail stores, or made at home.
+				</p>
+				
+			</div>
+			
+			<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
+				<div class="thumbnail">
+					<div class="caption">
+						<h4>Caroline Knorr <br><small>Stormwater Manager</small></h4>
+						<p>(330) 861-7298</p>
+						<p><a class="btn btn-block btn-pride" href="mailto:cknorr@cityofbarberton.com"><i class="icon-envelope"></i> Email</a></p>
+						
+						<br>
+						<h4>Alan Keltyka <br><small>Stormwater Engineer</small></h4>
+						<p>(330) 861-7299</p>
+						<a class="btn btn-block btn-pride" href="mailto:akeltyka@cityofbarberton.com"><i class="icon-envelope"></i> Email</a></p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+<!--#include virtual="/oc/lib/includes/foot.html" -->

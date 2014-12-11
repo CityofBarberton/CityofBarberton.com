@@ -1,0 +1,91 @@
+<!--#include virtual="/oc/lib/includes/head_a.html" -->
+	<title>Stormwater - City of Barberton</title>
+	<meta name="description" content="The City of Barberton Stormwater Department">
+	<meta property="og:type" content="website"/>
+	<meta property="og:title" content="City of Barberton Stormwater"/>
+	<meta property="og:url" content="http://cityofbarberton.com/oc/"/>
+	<meta property="og:description" content="The City of Barberton Stormwater Department"/>
+	<meta property="og:image" content="http://cityofbarberton.com/oc/img/barberton_crest.png"/>
+	<meta property="twitter:card" content="summary"/>
+	<meta property="twitter:site" content="@BarbertonCity">
+	<meta property="twitter:title" content="City of Barberton Stormwater">
+	<meta property="twitter:url" content="http://cityofbarberton.com/oc/"/>
+	<meta property="twitter:description" content="The City of Barberton Stormwater Department"/>
+	<meta property="twitter:image" content="http://cityofbarberton.com/oc/img/barberton_crest.png"/>
+<!--#include virtual="/oc/lib/includes/head_b.html" -->
+	<div class="container contain-main">
+		<div class="row">
+			<div class="col-xs-12 col-sm-9 col-md-9 col-lg-9">
+				<div class="page-header"><h3>Stormwater Get Involved with Stormwater</h3></div>
+				
+				<h4>What is the city doing?</h4>
+				<ul>
+					<li>Retention ponds help contain sediment and litter from getting into waterways. They also help reduce flooding by holding large amounts of water and slowly releasing it.  The City is currently working on developing two retention ponds to reduce flooding.</li>
+					<li>The City has programs for street sweeping and catch basin cleanings.</li>
+					<li>
+						The City has adopted the Riparian Setback and Stormwater Management Ordinance (<a href="https://www.dropbox.com/s/egwc48nzmet9e4j/Stormwater%20Management-Riparian%20Setback%20Ordinance.pdf">Riparian Ordinance</a>), Erosion and Sediment Control Ordinance (<a href="https://www.dropbox.com/s/3c2hbb0qrqlkj5q/147-2003_scan.pdf">Erosion and Sediment Ordinance</a>), and Illicit Discharge into Storm Sewers Ordinance (<a href="https://www.dropbox.com/s/lcrqnzbxzpkapnj/Illicit%20Discharge%20into%20Storm%20Sewer%20Ordinance.PDF">Illicit Discharge Ordinance</a>).
+					</li>
+					<li>The City annually has outfalls tested for E. coli and fecal coliform to help detect illicit discharges.</li>
+					<li>The City is installing a new storm water friendly parking lot to help reduce pollution in Lake Anna.</li>
+					<li>Storm sewer reconstruction and installation throughout the city.</li>
+					<li>Installing curbs to help direct water flow.</li>
+					<li>Maintain collection and disposal of debris from street sweeping and leaf pick-up. </li>
+					<li>Field inspection and enforcement of Barberton stormwater design standards and regulations.</li>
+					<li>Recycling and clean-up programs.</li>
+					<li>Community information, education and involvement in Stormwater Management.</li>
+				</ul>
+				
+				<h4>What can I do to help?</h4>
+				<h5>Cars</h5>
+				<ul>
+					<li>Maintain your car so it does not leak oil and other fluids</li>
+					<li>Wash your car on the grass and avoid getting soap and water in the storm drain</li>
+				</ul>
+				<h5>Yard</h5>
+				<ul>
+					<li>Do not over fertilize your lawn</li>
+					<li>Do not use pesticides or fertilizer before a heavy rain</li>
+					<li>If you spill fertilizer, sweep it up instead of washing it away with a hose</li>
+					<li>Turn downspouts away from hard surfaces</li>
+					<li>Seed bare spots in your yard to help control erosion</li>
+					<li>Use native plants for landscaping</li>
+				</ul>
+				<h5>Septic system</h5>
+				<ul>
+					<li>Maintain it properly; have it pumped every three to five years</li>
+					<li>Never put chemicals in your septic system, it can leach into groundwater and damage the system</li>
+				</ul>
+				<h5>Pets</h5>
+				<ul>
+					<li>Pick up after your pet and dispose of waste in garbage</li>
+					<li>Do not use pet waste as fertilizer</li>
+				</ul>
+				<h5>Household</h5>
+				<ul>
+					<li>Learn how to make your own cleaning products that do not contain harmful substances</li>
+					<li>Always follow directions when using hazardous substances</li>
+					<li>Never mix harmful chemicals/waste together</li>
+					<li>Never dispose of toxic materials in a storm sewer</li>
+					<li>Never flush pharmaceuticals or chemicals down your toilet</li>
+				</ul>
+				<strong>REMEMBER: do not dump chemicals, solvents, paints, auto fluids, leaves, trash, grass clippings or pet waste in storm water drains. Only rain in the drain!</strong>
+				
+			</div>
+			
+			<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
+				<div class="thumbnail">
+					<div class="caption">
+						<h4>Caroline Knorr <br><small>Stormwater Manager</small></h4>
+						<p>(330) 861-7298</p>
+						<p><a class="btn btn-block btn-pride" href="mailto:cknorr@cityofbarberton.com"><i class="icon-envelope"></i> Email</a></p>
+						
+						<br>
+						<h4>Alan Keltyka <br><small>Stormwater Engineer</small></h4>
+						<p>(330) 861-7299</p>
+						<a class="btn btn-block btn-pride" href="mailto:akeltyka@cityofbarberton.com"><i class="icon-envelope"></i> Email</a></p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+<!--#include virtual="/oc/lib/includes/foot.html" -->
