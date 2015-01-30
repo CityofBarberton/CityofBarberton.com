@@ -1,0 +1,40 @@
+<!--#include virtual="/oc/lib/includes/head_a.html" -->
+	<title>Parks Concerts - City of Barberton</title>
+	<meta name="description" content="The City of Barberton Concert Series">
+	<meta property="og:type" content="website"/>
+	<meta property="og:title" content="City of Barberton Concerts"/>
+	<meta property="og:url" content="http://cityofbarberton.com/oc/"/>
+	<meta property="og:description" content="The City of Barberton Concert Series"/>
+	<meta property="og:image" content="http://cityofbarberton.com/oc/img/barberton_crest.png"/>
+	<meta property="twitter:card" content="summary"/>
+	<meta property="twitter:site" content="@BarbertonCity">
+	<meta property="twitter:title" content="City of Barberton Concerts">
+	<meta property="twitter:url" content="http://cityofbarberton.com/oc/"/>
+	<meta property="twitter:description" content="The City of Barberton Concert Series"/>
+	<meta property="twitter:image" content="http://cityofbarberton.com/oc/img/barberton_crest.png"/>
+<!--#include virtual="/oc/lib/includes/head_b_concerts.html" -->
+	<div class="container contain-main">
+		<div class="row">
+			<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+				<div class="page-header"><h3>Friday, July 10 &ndash; 7:30 pm</h3></div>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col-xs-12 col-sm-7 col-md-7 col-lg-7">
+				<h4>Terry Lee Goffee <small>Johnny Cash</small></h4>
+<p>
+The "Ultimate" Johnny Cash Experience, featuring Terry Lee Goffee covers the 50 year career of an American music legend. With his six foot two inch burly frame, sturdy jaw, icy stare and rich baritone voice, Goffee takes on the persona of the Man in Black in a performance that incorporates the guitar slinging body movements that were a Johnny Cash trademark. This is the show that has gained fans all across the U S, Canada, Ireland and Britain. Goffee's portrayal of the larger than life Johnny Cash will have you believing that you're watching the Man in Black himself. Now in it's seventh year, "Train of Love" featuring Terry Lee Goffee is the Ultimate Johnny Cash Tribute Show.  
+</p><p>
+<a href="http://www.terryleegoffee.com/about-terry-lee-goffee/">http://www.terryleegoffee.com/about-terry-lee-goffee/</a>
+</p>
+
+			</div>
+			
+			<div class="col-xs-12 col-sm-5 col-md-5 col-lg-5">
+				<img class="img-rounded img-responsive" src="img/parks/concerts/2015/TerryLeeGoffee_400x400.png">
+			</div>
+		</div>
+		
+	</div>
+<!--#include virtual="/oc/lib/includes/foot.html" -->

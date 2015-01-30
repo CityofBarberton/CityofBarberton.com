@@ -1,7 +1,7 @@
 {
 	"Amnesty": {
-		"desc": "The Barberton Municipal Court is holding an Amnesty Program from August 15, 2014 through September 30, 2014. <br/> <a href='pr-2014-amnesty.shtml'>Click here to learn more.</a>",
-		"beg": "2014-08-13",
-		"end": "2014-09-30"
+		"desc": "The Barberton Municipal Court will be closed Thursday, December 25 and Friday, December 26 in observance of Christmas. For more details see the <a href='http://www.cityofbarberton.com/clerkofcourts/contact.shtml#holidays'>holiday schedule</a>.",
+		"beg": "2014-12-19",
+		"end": "2014-12-24"
 	}
 }

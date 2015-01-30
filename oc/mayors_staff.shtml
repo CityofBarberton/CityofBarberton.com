@@ -20,6 +20,50 @@
 				
 				<div class="row">
 					<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
+						<img class="img-rounded img-responsive" src="img/staff/nophoto.png">
+					</div>
+					<div class="col-xs-12 col-sm-9 col-md-9 col-lg-9">
+						<h4>Russ Arters <small>Director of Building</small></h4>
+						<div class="tabbable tabs-left">
+						  <ul id="servTabs" class="nav nav-tabs">
+						  	<li class="active">
+						  	  <a href="#bildA" data-toggle="tab">Experience</a>
+						  	</li><li>
+						  	  <a href="#bildB" data-toggle="tab">Education</a>
+						  	</li><li>
+						  	  <a href="#bildC" data-toggle="tab">Community</a>
+						  	</li>
+						  </ul>
+						  <div class="tab-content">
+						    <div class="tab-pane active" id="bildA">
+							    <br>
+									<ul class="unstyled">
+										<li>13 years as City of Norton as Superintendent Of building and Zoning</li>
+										<li>17 years experience as laborer and self employed in construction</li>
+									</ul>
+						    </div>
+								<div class="tab-pane" id="bildB">
+									<br>
+						    	<ul class="unstyled">
+							    	<li>University of Rio Grande</li>
+										<li>Cloverleaf High School</li>
+									</ul>
+								</div>
+								<div class="tab-pane" id="bildC">
+									<br>
+						    	<ul class="unstyled">
+							    	<li>Little League Baseball Umpire</li>
+										<li>Sons of the American Legion, member</li>
+									</ul>
+								</div>
+						  </div>	
+						</div>
+					</div>
+				</div>
+				<hr>
+				
+				<div class="row">
+					<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
 						<img class="img-rounded img-responsive" src="img/staff/baldwin.jpg">
 					</div>
 					<div class="col-xs-12 col-sm-9 col-md-9 col-lg-9">
@@ -36,18 +80,117 @@
 						  </ul>
 						  <div class="tab-content">
 						    <div class="tab-pane active" id="fireA">
+							    <br>
 									<ul class="unstyled">
 										<li></li>
 									</ul>
 						    </div>
 								<div class="tab-pane" id="fireB">
+									<br>
 						    	<ul class="unstyled">
 										<li></li>
 									</ul>
 								</div>
 								<div class="tab-pane" id="fireC">
+									<br>
 						    	<ul class="unstyled">
 										<li></li>
+									</ul>
+								</div>
+						  </div>	
+						</div>
+					</div>
+				</div>
+				<hr>
+				
+				<div class="row">
+					<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
+						<img class="img-rounded img-responsive" src="img/staff/daugherty.jpg">
+					</div>
+					<div class="col-xs-12 col-sm-9 col-md-9 col-lg-9">
+						<h4>Elizabeth Daugherty <small>Director of Public Safety and HR</small></h4>
+						<div class="tabbable tabs-left">
+						  <ul id="servTabs" class="nav nav-tabs">
+						  	<li>
+						  	  <a href="#sahrA" data-toggle="tab">Experience</a>
+						  	</li><li class="active">
+						  	  <a href="#sahrB" data-toggle="tab">Education</a>
+						  	</li><li>
+						  	  <a href="#sahrC" data-toggle="tab">Community</a>
+						  	</li>
+						  </ul>
+						  <div class="tab-content">
+						    <div class="tab-pane" id="sahrA">
+							    <br>
+									<ul class="unstyled">
+										<li>1984-2014 Akron Police Department</li>
+										<li>2000-2014 Captain-Investigative Sub-division</li>
+										<li>1996-2000 Lieutenant-Internal Affairs Unit</li>
+										<li>1992-1996 Sergeant-Patrol</li>
+										<li>1984-1992 Patrol Officer</li>
+									</ul>
+						    </div>
+								<div class="tab-pane active" id="sahrB">
+									<br>
+						    	<ul class="unstyled">
+										<li>Police Executive Leadership College</li>
+										<li>Certified Law Enforcement Executive</li>
+										<li>F.B.I. National Academy, Class 218</li>
+										<li>Pennsylvania State University - Masters, Human Resources and Employment Relations (Labor Law concentration) (December 2015)</li>
+										<li>The University of Akron - Bachelor of Science, Organizational Supervision</li>
+										<li>The University of Akron - Associate of Applied Science, Paralegal Studies, A.A.S.</li>
+									</ul>
+								</div>
+								<div class="tab-pane" id="sahrC">
+									<br>
+						    	<ul class="unstyled">
+										<li>Society for Human Resource Management (SHRM) member</li>
+										<li>Leadership Akron Class 20</li>
+									</ul>
+								</div>
+						  </div>	
+						</div>
+					</div>
+				</div>
+				<hr>
+				
+				<div class="row">
+					<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
+						<img class="img-rounded img-responsive" src="img/staff/nophoto.png">
+					</div>
+					<div class="col-xs-12 col-sm-9 col-md-9 col-lg-9">
+						<h4>Shane McAvinew <small>Director of Parks and Recreation</small></h4>
+						<div class="tabbable tabs-left">
+						  <ul id="servTabs" class="nav nav-tabs">
+						  	<li class="active">
+						  	  <a href="#parkA" data-toggle="tab">Experience</a>
+						  	</li><li>
+						  	  <a href="#parkB" data-toggle="tab">Education</a>
+						  	</li><li>
+						  	  <a href="#parkC" data-toggle="tab">Community</a>
+						  	</li>
+						  </ul>
+						  <div class="tab-content active">
+						    <div class="tab-pane" id="parkA">
+							    <br>
+									<ul class="unstyled">
+										<li>2006 – 2009 Assistant Director of Parks and Recreation</li>
+										<li>1999 – 2006 Recreation Center Manager</li>
+										<li>1996 – 1999 Community Center Assistant Manager</li>
+										<li>1993 – 1996 Aquatic Facility Supervisor</li>
+									</ul>
+						    </div>
+								<div class="tab-pane" id="parkB">
+									<br>
+						    	<ul class="unstyled">
+										<li>The University of Akron - Bachelor of Science, Education, Mathematics</li>
+									</ul>
+								</div>
+								<div class="tab-pane" id="parkC">
+									<br>
+						    	<ul class="unstyled">
+										<li>Ohio Parks and Recreation Association Member</li>
+										<li>Ohio Department Of Natural Resources OBEC Instructor</li>
 									</ul>
 								</div>
 						  </div>	
@@ -74,6 +217,7 @@
 						  </ul>
 						  <div class="tab-content">
 						    <div class="tab-pane active" id="adminA">
+							    <br>
 									<ul class="unstyled">
 										<li>Executive Assistant - Formworks Systems - Akron, OH</li>
 										<li>Inside Sales - Waco Scaffolding &amp; Equipment - Cleveland, OH</li>
@@ -81,12 +225,14 @@
 									</ul>
 						    </div>
 								<div class="tab-pane" id="adminB">
+									<br>
 						    	<ul class="unstyled">
 										<li>Stark State College - currently attending</li>
 										<li>Wooster Business College</li>
 									</ul>
 								</div>
 								<div class="tab-pane" id="adminC">
+									<br>
 						    	<ul class="unstyled">
 										<li>Member Phi theta Kappa</li>
 									</ul>
@@ -105,16 +251,17 @@
 						<h4>Vincent Morber <small>Chief of Police</small></h4>
 						<div class="tabbable tabs-left">
 						  <ul id="servTabs" class="nav nav-tabs">
-						  	<li class="active">
+						  	<li>
 						  	  <a href="#policeA" data-toggle="tab">Experience</a>
-						  	</li><li>
+						  	</li><li class="active">
 						  	  <a href="#policeB" data-toggle="tab">Education</a>
 						  	</li><li>
 						  	  <a href="#policeC" data-toggle="tab">Community</a>
 						  	</li>
 						  </ul>
 						  <div class="tab-content">
-						    <div class="tab-pane active" id="policeA">
+						    <div class="tab-pane" id="policeA">
+							    <br>
 									<ul class="unstyled">
 										<li>Barberton Police Chief of Police, 2010-present</li>
 										<li>Barberton Police Lieutenant, 2007-2010</li>
@@ -122,7 +269,8 @@
 										<li>Barberton Police Officer, 1994-1999</li>
 									</ul>
 						    </div>
-								<div class="tab-pane" id="policeB">
+								<div class="tab-pane active" id="policeB">
+									<br>
 						    	<ul class="unstyled">
 										<li>F.B.I. National Academy</li>
 										<li>Police Executive Leadership College</li>
@@ -131,6 +279,7 @@
 									</ul>
 								</div>
 								<div class="tab-pane" id="policeC">
+									<br>
 						    	<ul class="unstyled">
 										<li>Magic City Kiwanis</li>
 										<li>Board Member Barberton Red Cross</li>
@@ -148,36 +297,80 @@
 				
 				<div class="row">
 					<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
+						<img class="img-rounded img-responsive" src="img/staff/stefan.jpg">
+					</div>
+					<div class="col-xs-12 col-sm-9 col-md-9 col-lg-9">
+						<h4>Joe Stefan <small>Director of Planning</small></h4>
+						<div class="tabbable tabs-left">
+						  <ul id="servTabs" class="nav nav-tabs">
+						  	<li class="active">
+						  	  <a href="#planA" data-toggle="tab">Experience</a>
+						  	</li><li>
+						  	  <a href="#planB" data-toggle="tab">Education</a>
+						  	</li><li>
+						  	  <a href="#planC" data-toggle="tab">Community</a>
+						  	</li>
+						  </ul>
+						  <div class="tab-content">
+						    <div class="tab-pane active" id="planA">
+							    <br>
+									<ul class="unstyled">
+										<li></li>
+									</ul>
+						    </div>
+								<div class="tab-pane" id="planB">
+									<br>
+						    	<ul class="unstyled">
+										<li></li>
+									</ul>
+								</div>
+								<div class="tab-pane" id="planC">
+									<br>
+						    	<ul class="unstyled">
+										<li></li>
+									</ul>
+								</div>
+						  </div>	
+						</div>
+					</div>
+				</div>
+				<hr>
+				
+				<div class="row">
+					<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
 						<img class="img-rounded img-responsive" src="img/staff/stender.jpg">
 					</div>
 					<div class="col-xs-12 col-sm-9 col-md-9 col-lg-9">
 						<h4>Jim Stender <small>Director of Utilities</small></h4>
 						<div class="tabbable tabs-left">
 						  <ul id="servTabs" class="nav nav-tabs">
-						  	<li class="active">
+						  	<li>
 						  	  <a href="#utilA" data-toggle="tab">Experience</a>
-						  	</li><li>
+						  	</li><li class="active">
 						  	  <a href="#utilB" data-toggle="tab">Education</a>
 						  	</li><li>
 						  	  <a href="#utilC" data-toggle="tab">Community</a>
 						  	</li>
 						  </ul>
 						  <div class="tab-content">
-						    <div class="tab-pane active" id="utilA">
+						    <div class="tab-pane" id="utilA">
+							    <br>
 									<ul class="unstyled">
 										<li>Project Director - Westinghouse - Pittsburgh, PA</li>
 										<li>Consulting/Engineering for Major Corporations</li>
 									</ul>
 						    </div>
-								<div class="tab-pane" id="utilB">
+								<div class="tab-pane active" id="utilB">
+									<br>
 						    	<ul class="unstyled">
-										<li>Case Western Reserve University - MBA Finance</li>
+										<li>Case Western Reserve University - MBA, Finance</li>
 										<li>Baldwin-Wallace College - Certificate in Project Management</li>
-										<li>University of Akron - BS in Chemical Engineering</li>
-										<li>Graduate of Barberton High School</li>
+										<li>University of Akron - Bachelor of Science, Chemical Engineering</li>
+										<li>Barberton High School</li>
 									</ul>
 								</div>
 								<div class="tab-pane" id="utilC">
+									<br>
 						    	<ul class="unstyled">
 										<li>Barberton Community Development Corporation, Board Member</li>
 										<li>American Institute of Chemical Engineers, Member and Past Chair</li>
@@ -207,11 +400,13 @@
 						  </ul>
 						  <div class="tab-content">
 						    <div class="tab-pane" id="techA">
+							    <br>
 									<ul class="unstyled">
-										<li>Schaeffler Group NA, Software Engineer</li>
+										<li>Schaeffler Group NA (LUK USA LLC), Software Engineer</li>
 									</ul>
 						    </div>
 								<div class="tab-pane active" id="techB">
+									<br>
 						    	<ul class="unstyled">
 										<li>The University of Akron - Master of Science, Computer Science (thesis in progress)</li>
 										<li>The University of Akron - Bachelor of Arts, History, Computer Science</li>
@@ -221,9 +416,51 @@
 									</ul>
 								</div>
 								<div class="tab-pane" id="techC">
+									<br>
 						    	<ul class="unstyled">
 										<li>IEEE Computer Society, Member</li>
 										<li>Norton Amateur Soccer Club, Technical Advisor, 2006-2010</li>
+									</ul>
+								</div>
+						  </div>	
+						</div>
+					</div>
+				</div>
+				<hr>
+				
+				<div class="row">
+					<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
+						<img class="img-rounded img-responsive" src="img/staff/nophoto.png">
+					</div>
+					<div class="col-xs-12 col-sm-9 col-md-9 col-lg-9">
+						<h4>Mike Vinay <small>Director of Public Services</small></h4>
+						<div class="tabbable tabs-left">
+						  <ul id="servTabs" class="nav nav-tabs">
+						  	<li>
+						  	  <a href="#servA" data-toggle="tab">Experience</a>
+						  	</li><li class="active">
+						  	  <a href="#servB" data-toggle="tab">Education</a>
+						  	</li><li>
+						  	  <a href="#servC" data-toggle="tab">Community</a>
+						  	</li>
+						  </ul>
+						  <div class="tab-content">
+						    <div class="tab-pane" id="servA">
+							    <br>
+									<ul class="unstyled">
+										<li></li>
+									</ul>
+						    </div>
+								<div class="tab-pane active" id="servB">
+									<br>
+						    	<ul class="unstyled">
+										<li>The University of Akron</li>
+									</ul>
+								</div>
+								<div class="tab-pane" id="servC">
+									<br>
+						    	<ul class="unstyled">
+										<li></li>
 									</ul>
 								</div>
 						  </div>	

@@ -1,0 +1,56 @@
+<!--#include virtual="/oc/lib/includes/head_a.html" -->
+	<title>NHMP - City of Barberton</title>
+	<meta name="description" content="The City of Barberton Information Technology Department">
+	<meta property="og:type" content="website"/>
+	<meta property="og:title" content="City of Barberton Technology"/>
+	<meta property="og:url" content="http://cityofbarberton.com/oc/"/>
+	<meta property="og:description" content="The City of Barberton Information Technology Department"/>
+	<meta property="og:image" content="http://cityofbarberton.com/oc/img/barberton_crest.png"/>
+	<meta property="twitter:card" content="summary"/>
+	<meta property="twitter:site" content="@BarbertonCity">
+	<meta property="twitter:title" content="City of Barberton Technology">
+	<meta property="twitter:url" content="http://cityofbarberton.com/oc/"/>
+	<meta property="twitter:description" content="The City of Barberton Information Technology Department"/>
+	<meta property="twitter:image" content="http://cityofbarberton.com/oc/img/barberton_crest.png"/>
+<!--#include virtual="/oc/lib/includes/head_b.html" -->
+	<div class="container contain-main">
+		<div class="row">
+			<div class="col-xs-12 col-sm-9 col-md-9 col-lg-9">
+				<div class="page-header"><h3>Multi-Hazard Mitigation Plan</h3></div>
+				<p>
+					City of Barberton has partnered with local governmental agencies/organizations to develop a Multi-Hazard Mitigation Plan.
+				</p><p>
+					The Multi-Hazard Mitigation Plan is required by 44 Code of Federal Regulations (CFR) Part 201.3 and the Robert T. Stafford Disaster Relief and Emergency Assistance Act. Local jurisdictions are required to develop a plan in order to be eligible for pre-disaster and post-disaster mitigation grant programs.
+				</p><p>
+					The Multi-Hazard Mitigation Plan increases public awareness of local hazards and helps the City communicate local needs to state and federal officials when funding becomes available, particularly following a disaster.
+				</p><p>
+					Residents of the Barberton area are invited to review the plan and provide feedback. Comments can be submitted through the following:
+					<ul>
+						<li><a href="https://www.surveymonkey.com/s/QK93RHC">Electronic Survey</a></li>
+						<li>Completing a feedback form at the Public Library - 602 W. Park Ave., Barberton, Ohio 44203 – The weeks of February 2 – 13.</li>
+						<li>Public Service Department &ndash; Michael Vinay, 330-848-6717 or mvinay@cityofbarberton.com</li>
+						<li>Floodplain & Stormwater Department &ndash; Caroline Knorr, 330-861-7298 or cknorr@cityofbarberton.com</li>
+						<li>Attend the public forum on Wednesday, February 11th, 2015 at 6:00 PM at Barberton YMCA – 500 W Hopocan Ave, Active Adult Center</li>
+						<li>The Plan will be available for comment between February 2, 2015 and February 13, 2015.</li>
+					</ul>
+				</p><p>
+					<a class="btn btn-primary" href="https://www.dropbox.com/s/wizk4209w44ba6w/AppendixB11_MHMP%20Flyer.docx?dl=0">Full Flier</a>
+				</p>
+			</div>
+			
+			<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
+				<div class="thumbnail">
+					<div class="caption">
+						<h4>More Resources</h4>
+						<p>
+							<a class="btn btn-block btn-primary" href="https://www.dropbox.com/s/36jrq0c17oodzt9/Barberton%20MHMP_DRAFT_January2015.pdf?dl=0">Draft Plan</a>
+						</p><p>
+							<a class="btn btn-block btn-primary" href="https://www.surveymonkey.com/s/QK93RH">Online Survey</a>
+						</p>
+							<a class="btn btn-block btn-primary" href="https://www.dropbox.com/s/w565r7vcc7o6nxi/AppendixB13_MHMP_Stakeholder%20Involvement_Survey.pdf?dl=0">Feedback Form</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+<!--#include virtual="/oc/lib/includes/foot.html" -->

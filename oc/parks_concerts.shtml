@@ -1,0 +1,354 @@
+<!--#include virtual="/oc/lib/includes/head_a.html" -->
+	<title>Parks Concerts - City of Barberton</title>
+	<meta name="description" content="The City of Barberton Concert Series">
+	<meta property="og:type" content="website"/>
+	<meta property="og:title" content="City of Barberton Concerts"/>
+	<meta property="og:url" content="http://cityofbarberton.com/oc/"/>
+	<meta property="og:description" content="The City of Barberton Concert Series"/>
+	<meta property="og:image" content="http://cityofbarberton.com/oc/img/barberton_crest.png"/>
+	<meta property="twitter:card" content="summary"/>
+	<meta property="twitter:site" content="@BarbertonCity">
+	<meta property="twitter:title" content="City of Barberton Concerts">
+	<meta property="twitter:url" content="http://cityofbarberton.com/oc/"/>
+	<meta property="twitter:description" content="The City of Barberton Concert Series"/>
+	<meta property="twitter:image" content="http://cityofbarberton.com/oc/img/barberton_crest.png"/>
+<!--#include virtual="/oc/lib/includes/head_b_concerts.html" -->
+	<div class="container contain-main">
+		
+		<div class="row">
+			<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+				<div class="page-header"><h3>Summer Concert Series</h3></div>
+				<p>The Barberton Parks Department presents the 2015 Summer Concert Series at <a href="park_lake_anna.shtml">Lake Anna Park</a>. The Concerts are held rain or shine. In the event of thunder, lightning, or heavy rains, please call the automated line at (330) 848-6784 for up to the date cancellation information.</p>
+				<p>Chairs are not permitted in the park until 6:00AM the day of the concert.</p>
+			</div>
+		</div>
+		<br>
+		
+		<!-- concert list -->	
+		<div class="row">	
+			<!-- band list -->
+			<div class="col-xs-12 col-sm-7 col-md-7 col-lg-7">
+				
+				<div class="row">
+					<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+						<img class="img-rounded img-responsive" src="img/parks/concerts/2015/ChardonPolkaBand_400x400.jpg">
+					</div>
+					<div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+						<h4>Friday, June 12 &ndash; 7:30 pm</h4>
+						<h3>Chardon Polka Band</h3>
+						<p>Polka</p>
+						<p><a class="btn btn-pride" href="parks_concerts_2015-06-12.shtml">Concert Details</a></p>
+					</div>
+				</div>
+				<hr>
+				
+				<div class="row">
+					<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+						<img class="img-rounded img-responsive" src="img/parks/concerts/2015/RudyAndTheProfessionals_400x400.png">
+					</div>
+					<div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+						<h4>Friday, June 19 &ndash; 7:30 pm</h4>
+						<h3>Rudy and the Professionals</h3>
+						<p>Variety</p>
+						<p><a class="btn btn-pride" href="parks_concerts_2015-06-19.shtml">Concert Details</a></p>
+					</div>
+				</div>
+				<hr>
+				
+				<div class="row">
+					<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+						<img class="img-rounded img-responsive" src="img/parks/concerts/2015/Aftermath_400x400.jpg">
+					</div>
+					<div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+						<h4>Friday, June 26 &ndash; 7:30 pm</h4>
+						<h3>Aftermath</h3>
+						<p>50's & 60's</p>
+						<p><a class="btn btn-pride" href="parks_concerts_2015-06-26.shtml">Concert Details</a></p>
+					</div>
+				</div>
+				<hr>
+				
+				<div class="row">
+					<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+						<img class="img-rounded img-responsive" src="img/parks/concerts/2015/ColdHarborSprings_400x400.png">
+					</div>
+					<div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+						<h4>Friday, July 3 &ndash; 7:30 pm</h4>
+						<h3>Cold Harbor Springs</h3>
+						<p>Billy Joel Tribute</p>
+						<p><a class="btn btn-pride" href="parks_concerts_2015-07-03.shtml">Concert Details</a></p>
+					</div>
+				</div>
+				<hr>
+				
+				<div class="row">
+					<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+						<img class="img-rounded img-responsive" src="img/parks/concerts/2015/TerryLeeGoffee_400x400.png">
+					</div>
+					<div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+						<h4>Friday, July 10 &ndash; 7:30 pm</h4>
+						<h3>Terry Lee Goffee</h3>
+						<p>Johnny Cash</p>
+						<p><a class="btn btn-pride" href="parks_concerts_2015-07-10.shtml">Concert Details</a></p>
+					</div>
+				</div>
+				<hr>
+				
+				<div class="row">
+					<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+						<img class="img-rounded img-responsive" src="img/parks/concerts/2015/MattSchaferPolkaBand_400x400.png">
+					</div>
+					<div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+						<h4>Wednesday, July 15 &ndash; 11:30 am</h4>
+						<h3>Matt Schafer Polka Band</h3>
+						<p>Polka</p>
+						<p><a class="btn btn-pride" href="parks_concerts_2015-07-15.shtml">Concert Details</a></p>
+					</div>
+				</div>
+				<hr>
+				
+				<div class="row">
+					<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+						<img class="img-rounded img-responsive" src="img/parks/concerts/2015/DesertHighway_400x400.jpg">
+					</div>
+					<div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+						<h4>Friday, July 17 &ndash; 7:30 pm</h4>
+						<h3>Desert Highway</h3>
+						<p>Eagles Tribute</p>
+						<p><a class="btn btn-pride" href="parks_concerts_2015-07-17.shtml">Concert Details</a></p>
+					</div>
+				</div>
+				<hr>
+				
+				<div class="row">
+					<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+						<img class="img-rounded img-responsive" src="img/parks/concerts/2015/MickAndRick_400x400.png">
+					</div>
+					<div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+						<h4>Wednesday, July 22 &ndash; 11:30 am</h4>
+						<h3>Mick and Rick</h3>
+						<p>50’s & 60’s</p>
+						<p><a class="btn btn-pride" href="parks_concerts_2015-07-22.shtml">Concert Details</a></p>
+					</div>
+				</div>
+				<hr>
+				
+				<div class="row">
+					<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+						<img class="img-rounded img-responsive" src="img/parks/concerts/2015/BennyGoodmanShow_400x400.png">
+					</div>
+					<div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+						<h4>Wednesday, July 22 &ndash; 7:00 pm</h4>
+						<h3>Benny Goodman Show</h3>
+						<p>King of Swing</p>
+						<p><a class="btn btn-pride" href="parks_concerts_2015-07-22.shtml">Concert Details</a></p>
+					</div>
+				</div>
+				<hr>
+				
+				<div class="row">
+					<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+						<img class="img-rounded img-responsive" src="img/parks/concerts/2015/BonJourney_400x400.jpg">
+					</div>
+					<div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+						<h4>Friday, July 24 &ndash; 7:30 pm</h4>
+						<h3>Bon Journey</h3>
+						<p>Bon Jovi/ Journey</p>
+						<p><a class="btn btn-pride" href="parks_concerts_2015-07-24.shtml">Concert Details</a></p>
+					</div>
+				</div>
+				<hr>
+				
+				<div class="row">
+					<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+						<img class="img-rounded img-responsive" src="img/parks/concerts/2015/EddieAndTheBolierMakers_400x400.png">
+					</div>
+					<div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+						<h4>Wednesday, July 29 &ndash; 11:30 am</h4>
+						<h3>Eddie and The Boiler Makers</h3>
+						<p>Big Band</p>
+						<p><a class="btn btn-pride" href="parks_concerts_2015-07-29.shtml">Concert Details</a></p>
+					</div>
+				</div>
+				<hr>
+				
+				<div class="row">
+					<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+						<img class="img-rounded img-responsive" src="img/parks/concerts/2015/Laflavour_400x400.jpg">
+					</div>
+					<div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+						<h4>Friday, July 31 &ndash; 7:30 pm</h4>
+						<h3>Laflavour</h3>
+						<p>Variety</p>
+						<p><a class="btn btn-pride" href="parks_concerts_2015-07-31.shtml">Concert Details</a></p>
+					</div>
+				</div>
+				<hr>
+				
+				<div class="row">
+					<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+						<img class="img-rounded img-responsive" src="img/parks/concerts/2015/BillWarden_400x400.png">
+					</div>
+					<div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+						<h4>Wednesday, August 5 &ndash; 11:30 am</h4>
+						<h3>Bill Warden</h3>
+						<p>Elvis Tribute</p>
+						<p><a class="btn btn-pride" href="parks_concerts_2015-08-05.shtml">Concert Details</a></p>
+					</div>
+				</div>
+				<hr>
+				
+				<div class="row">
+					<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+						<img class="img-rounded img-responsive" src="img/parks/concerts/2015/BigInJapan_400x400.jpg">
+					</div>
+					<div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+						<h4>Friday, August 7 &ndash; 7:30 pm</h4>
+						<h3>Big In Japan</h3>
+						<p>80’s</p>
+						<p><a class="btn btn-pride" href="parks_concerts_2015-08-07.shtml">Concert Details</a></p>
+					</div>
+				</div>
+				<hr>
+				
+				<div class="row">
+					<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+						<img class="img-rounded img-responsive" src="img/parks/concerts/2015/ChardonPolkaBand_400x400.jpg">
+					</div>
+					<div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+						<h4>Wednesday, August 12 &ndash; 11:30 am</h4>
+						<h3>Chardon Polka Band</h3>
+						<p>Polka</p>
+						<p><a class="btn btn-pride" href="parks_concerts_2015-08-12.shtml">Concert Details</a></p>
+					</div>
+				</div>
+				<hr>
+				
+				<div class="row">
+					<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+						<img class="img-rounded img-responsive" src="img/parks/concerts/2015/RubyShooz_400x400.jpg">
+					</div>
+					<div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+						<h4>Friday, August 14 &ndash; 7:30 pm</h4>
+						<h3>Ruby Shooz</h3>
+						<p>50’s & 60’s</p>
+						<p><a class="btn btn-pride" href="parks_concerts_2015-08-14.shtml">Concert Details</a></p>
+					</div>
+				</div>
+				<hr>
+				
+				<div class="row">
+					<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+						<img class="img-rounded img-responsive" src="img/parks/concerts/2015/MikeBunn_400x400.png">
+					</div>
+					<div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+						<h4>Wednesday, August 19 &ndash; 11:30 am</h4>
+						<h3>Mike Bunn</h3>
+						<p>Polka</p>
+						<p><a class="btn btn-pride" href="parks_concerts_2015-08-19.shtml">Concert Details</a></p>
+					</div>
+				</div>
+				<hr>
+				
+				<div class="row">
+					<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+						<img class="img-rounded img-responsive" src="img/parks/concerts/2015/BestRockBallads_400x400.jpg">
+					</div>
+					<div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+						<h4>Friday, August 21 &ndash; 7:30 pm</h4>
+						<h3>Best Rock Ballads</h3>
+						<p>Tribute to the 80’s</p>
+						<p><a class="btn btn-pride" href="parks_concerts_2015-08-21.shtml">Concert Details</a></p>
+					</div>
+				</div>
+				<hr>
+				
+				<div class="row">
+					<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+						<img class="img-rounded img-responsive" src="img/parks/concerts/2015/WaltElvisSanders_400x400.jpg">
+					</div>
+					<div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+						<h4>Friday, August 28 &ndash; 7:30 pm</h4>
+						<h3>Walt “Elvis” Sanders</h3>
+						<p>Tribute to Elvis</p>
+						<p><a class="btn btn-pride" href="parks_concerts_2015-08-28.shtml">Concert Details</a></p>
+					</div>
+				</div>
+				<hr>
+				
+				<div class="row">
+					<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+						<img class="img-rounded img-responsive" src="img/parks/concerts/2015/ThinkPink_400x400.png">
+					</div>
+					<div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+						<h4>Friday, September 4 &ndash; 7:30 pm</h4>
+						<h3>Think Pink</h3>
+						<p>Pink Floyd Tribute</p>
+						<p><a class="btn btn-pride" href="parks_concerts_2015-09-04.shtml">Concert Details</a></p>
+					</div>
+				</div>
+				
+				
+			</div><!-- / band list -->
+			
+			<!-- side sponsors -->
+			<div class="col-xs-12 col-sm-5 col-md-5 col-lg-5">
+				<h4>Platinum Sponsor:</h4>
+				<div class="marketing">
+					<a href="http://www.fredmartinsuperstore.com/"><img src="img/parks/sponsors/2014/FMSS.png"></a>
+				</div>
+				
+				<br>
+				<h4>Fireworks Sponsor:</h4>
+				<div class="marketing">
+					<img src="img/parks/sponsors/2014/Aarons 2.png">
+				</div>
+				
+				<br>
+				<h4>Major Sponsors:</h4>
+				<div class="marketing">
+					<img src="img/parks/sponsors/2013/Angies.png">
+					<img src="img/parks/sponsors/2014/BCF.png">
+					<img src="img/parks/sponsors/2013/BarbertonHerald.png">
+					<img src="img/parks/sponsors/2013/BarbertonNDS.png">
+					<img src="img/parks/sponsors/2013/GeneralRVcenter.png">
+					<img src="img/parks/sponsors/2014/ManorCare.png">
+					<img src="img/parks/sponsors/2014/Medbridge.png">
+				</div>
+				
+				<br>
+				<h4>Sponsors:</h4>
+				<div class="marketing">
+					<img src="img/parks/sponsors/2014/CC.png">
+					<img src="img/parks/sponsors/2013/CTconsultants.png">
+					<img src="img/parks/sponsors/2014/Casa.png">
+					<img src="img/parks/sponsors/2013/FirstEnergy.png">
+					<img src="img/parks/sponsors/2014/Hopocan.png">
+					<img src="img/parks/sponsors/2014/Jaycee.png">
+					<img src="img/parks/sponsors/2014/KenmoreConstructions.png">
+					<img src="img/parks/sponsors/2014/KiwanisofBarberton.png">
+					<img src="img/parks/sponsors/2014/Levey.png">
+					<img src="img/parks/sponsors/2014/MagicCityKiwanis.png">
+					<img src="img/parks/sponsors/2015/MagicCityMotorcars.png">
+					<img src="img/parks/sponsors/2013/PleasantPointeAssLiving.png">
+					<img src="img/parks/sponsors/2013/PleasantView.png">
+					<img src="img/parks/sponsors/2014/PPG.png">
+					<img src="img/parks/sponsors/2015/Roetzel.jpg">
+					<img src="img/parks/sponsors/2014/TestaBuilders.png">
+					<img src="img/parks/sponsors/2014/Whitehouse.png">
+					<img src="img/parks/sponsors/2014/Wright.png">
+					<img src="img/parks/sponsors/2013/afscme.png">
+				</div>
+			</div><!-- / side sponsors -->
+		</div><!-- / concert list -->
+		<br>
+		
+		<!-- bottom sponsors -->
+		<div class="row">
+			<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+				
+			</div>
+		</div><!-- / bottom sponsors -->
+		
+	</div>
+<!--#include virtual="/oc/lib/includes/foot.html" -->

@@ -12,58 +12,24 @@
 	<meta property="twitter:url" content="http://cityofbarberton.com/oc/"/>
 	<meta property="twitter:description" content="The City of Barberton Concert Series"/>
 	<meta property="twitter:image" content="http://cityofbarberton.com/oc/img/barberton_crest.png"/>
-<!--#include virtual="/oc/lib/includes/head_b.html" -->
+<!--#include virtual="/oc/lib/includes/head_b_concerts.html" -->
 	<div class="container contain-main">
+		
+		<!-- bottom sponsors -->
 		<div class="row">
-			<div class="col-xs-12 col-sm-7 col-md-7 col-lg-7">
-				<div class="page-header"><h3>Lake Anna Park Concert Series</h3></div>
-				<p>The Barberton Parks Department presents 2014 Summer Concert Series at <a href="park_lake_anna.shtml">Lake Anna Park</a>. The Concerts are held rain or shine. In the event of thunder, lightning, or heavy rains, please call the automated line at (330) 848-6784 for up to the date cancellation information.</p>
-				<p>Chairs are not permitted in the park until 6:00AM the day of the concert.</p>
-				
-				<h4>Concerts</h4>
-				<ul>
-					<li>13-Jun at 7:30 pm &ndash; For Keeps (70's, 80's, and 90's)</li>
-					<li>20-Jun at 7:30 pm &ndash; Greased Lightning (50's and 60's)</li>
-					<li>27-Jun at 7:30 pm &ndash; MaryLanes (Irish)</li>
-					
-					<li>9-Jul at <strong>11:30 am</strong>* and 7:30 pm &ndash; American Heritage</li>
-					
-					<li>11-Jul at 7:30 pm &ndash; Rick Alviti (Elvis)</li>
-					<li>16-Jul at <strong>11:30 am</strong>* &ndash; Mike Bunn (Folk)</li>
-					<li>18-Jul at 7:30 pm &ndash; Bon Journey NY (Bon Jovi / Journey)</li>
-					<li>23-Jul at <strong>11:30 am</strong>* &ndash; Swingin 78’s (Big Band)</li>
-					<li>23-Jul at 7:30 pm &ndash; Glenn Miller Orchestra (Big Band)</li>
-					<li>25-Jul at 7:30 pm &ndash; Terry Lee Goffee (Johnny Cash)</li>
-					<li>30-Jul at <strong>11:30 am</strong>* &ndash; Matt Schafer Polka Band (Polka)</li>
-					<li>1-Aug at 7:30 pm &ndash; Amanda Jones & The Family Band (Sugarland Tribute)</li>
-					<li>6-Aug at <strong>11:30 am</strong>* &ndash; JD Eicher (Contemporary)</li>
-					<li>8-Aug at 7:30 pm &ndash; <strike>Belairs &</strike> Elvis (50's and 60's)</li>
-					<li>13-Aug at <strong>11:30 am</strong>* &ndash; Chardon Polka Band (Polka)</li>
-					<li>13-Aug at 7:30 pm &ndash; Chardon Polka Band (Polka)</li>
-					<li>15-Aug at 7:30 pm &ndash; Beach Party Boys (Beach Boys)</li>
-					<li>20-Aug at <strong>11:30 am</strong>* &ndash; Mick and Rick (60's and 70's Rock and Soul)</li>
-					<li>22-Aug at 7:30 pm &ndash; Desert Highway (Eagles Tribute)</li>
-					<li>29-Aug at 7:30 pm &ndash; Ruby Shooz (50's and 60's)</li>
-					<li>30-Aug at 8:00 pm &ndash; Darkside of the Moon (Pink Floyd and Jimmy Buffet)</li>
-					<li>31-Aug at 5:00 pm &ndash; Evolution (Clapton Tribute)</li>
-					<li>31-Aug at 7:30 pm &ndash; Greased Lightning (50's and 60's)</li>
-					<li>31-Aug at 7:30 pm &ndash; Parrots of the Caribbean (Jimmy Buffet Tribute) + Fireworks</li>
-				</ul>
-				<p>* NDS Lunch Concerts</p>
-				
-			</div>
-			
-			<div class="col-xs-12 col-sm-5 col-md-5 col-lg-5">
+			<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 				<h4>Platinum Sponsor:</h4>
 				<div class="marketing">
 					<a href="http://www.fredmartinsuperstore.com/"><img src="img/parks/sponsors/2014/FMSS.png"></a>
 				</div>
 				<br>
+				
 				<h4>Fireworks Sponsor:</h4>
 				<div class="marketing">
 					<img src="img/parks/sponsors/2014/Aarons 2.png">
 				</div>
 				<br>
+				
 				<h4>Major Sponsors:</h4>
 				<div class="marketing">
 					<img src="img/parks/sponsors/2013/Angies.png">
@@ -74,11 +40,7 @@
 					<img src="img/parks/sponsors/2014/ManorCare.png">
 					<img src="img/parks/sponsors/2014/Medbridge.png">
 				</div>
-			</div>
-		</div>
-		
-		<div class="row">
-			<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+				
 				<h4>Sponsors:</h4>
 				<div class="marketing">
 					<img src="img/parks/sponsors/2014/CC.png">
@@ -91,9 +53,11 @@
 					<img src="img/parks/sponsors/2014/KiwanisofBarberton.png">
 					<img src="img/parks/sponsors/2014/Levey.png">
 					<img src="img/parks/sponsors/2014/MagicCityKiwanis.png">
+					<img src="img/parks/sponsors/2015/MagicCityMotorcars.png">
 					<img src="img/parks/sponsors/2013/PleasantPointeAssLiving.png">
 					<img src="img/parks/sponsors/2013/PleasantView.png">
 					<img src="img/parks/sponsors/2014/PPG.png">
+					<img src="img/parks/sponsors/2015/Roetzel.jpg">
 					<img src="img/parks/sponsors/2014/TestaBuilders.png">
 					<img src="img/parks/sponsors/2014/Whitehouse.png">
 					<img src="img/parks/sponsors/2014/Wright.png">
@@ -101,5 +65,6 @@
 				</div>
 			</div>
 		</div>
+		
 	</div>
 <!--#include virtual="/oc/lib/includes/foot.html" -->

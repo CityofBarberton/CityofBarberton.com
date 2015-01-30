@@ -1,0 +1,41 @@
+<!--#include virtual="/oc/lib/includes/head_a.html" -->
+	<title>Parks Concerts - City of Barberton</title>
+	<meta name="description" content="The City of Barberton Concert Series">
+	<meta property="og:type" content="website"/>
+	<meta property="og:title" content="City of Barberton Concerts"/>
+	<meta property="og:url" content="http://cityofbarberton.com/oc/"/>
+	<meta property="og:description" content="The City of Barberton Concert Series"/>
+	<meta property="og:image" content="http://cityofbarberton.com/oc/img/barberton_crest.png"/>
+	<meta property="twitter:card" content="summary"/>
+	<meta property="twitter:site" content="@BarbertonCity">
+	<meta property="twitter:title" content="City of Barberton Concerts">
+	<meta property="twitter:url" content="http://cityofbarberton.com/oc/"/>
+	<meta property="twitter:description" content="The City of Barberton Concert Series"/>
+	<meta property="twitter:image" content="http://cityofbarberton.com/oc/img/barberton_crest.png"/>
+<!--#include virtual="/oc/lib/includes/head_b_concerts.html" -->
+	<div class="container contain-main">
+		<div class="row">
+			<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+				<div class="page-header"><h3>Friday, June 12 &ndash; 7:30 pm</h3></div>
+			</div>
+		</div>
+		
+		<div class="row">
+			<div class="col-xs-12 col-sm-7 col-md-7 col-lg-7">
+				<h4>Chardon Polka Band <small>Polka</small></h4>
+<p>
+What happens when teenage accordion players aren't allowed in marching band? They start a polka band. That's the story of "The Chardon Polka Band", a group that started nine years ago. This off-the-wall teenage polka band quickly made a name for themselves playing for their peers and local nursing home residents. The group expanded quickly and started booked jobs at various venues and events across northeast Ohio. Today, the band continues and is more successful than ever.
+</p><p>
+The band’s range of style is as equally eccentric as its members. The Chardon Polka Band plays traditional polkas reminiscent of “The Lawrence Welk Show”, a style that has endeared them to traditional polka fans, but sometimes morphs into punk-rock renditions of the same songs, modified to bring in a younger audience. They throw in comedic renditions of oddball favorites, bizarre audience participation songs, and even a punk-rock polka cover of Twisted Sister’s “We’re Not Gonna Take It”!
+</p><p>
+<a href="http://www.chardonpolkaband.com/who-is-the-chardon-polka-band-and-where-did-they-come-from/">http://www.chardonpolkaband.com/who-is-the-chardon-polka-band-and-where-did-they-come-from/</a>
+</p>
+			</div>
+			
+			<div class="col-xs-12 col-sm-5 col-md-5 col-lg-5">
+				<img class="img-rounded img-responsive" src="img/parks/concerts/2015/ChardonPolkaBand_400x400.jpg">
+			</div>
+		</div>
+		
+	</div>
+<!--#include virtual="/oc/lib/includes/foot.html" -->

@@ -1,4 +1,10 @@
 {	
+	"Feedback Request": {
+		"desc": "Community feedback is being requested for the <a href='project_nhmp.shtml'>City of Barberton's Multi-Hazard Mitigation Plan</a><br><br>Get involved:<br>&ndash; Read the <a href='https://www.dropbox.com/s/36jrq0c17oodzt9/Barberton%20MHMP_DRAFT_January2015.pdf?dl=0'>draft plan</a> online or at the Barberton Public Library<br>&ndash; Complete the <a href='https://www.surveymonkey.com/s/QK93RHC'>online survey</a> or fill out the <a href='https://www.dropbox.com/s/w565r7vcc7o6nxi/AppendixB13_MHMP_Stakeholder%20Involvement_Survey.pdf?dl=0'>feedback form</a><br>&ndash; Attend the public meeting on 2/11 at the Active Adult Center",
+		"clss": "btn btn-info",
+		"beg": "2015-02-02",
+		"end": "2015-02-27"
+	},
 	"<i class='icon-warning'></i> Road Closures": {
 		"desc": "<strong>Austin Drive</strong> - Closed 7/11 - 8/11 from 5th St/SR619 to <strike>East</strike> West Heatherwood Drive (<a href='https://www.dropbox.com/s/l7qk2dq1h48b33u/FINAL%20AUSTIN%20_DETOUR%20SIGNS%20PLAN%20VIEW.pdf'>Map</a>)<br/><br/><strong>Wooster Road West</strong> - Open through 8/29 while utilities work and paving completed between Johnson Road and 37th St<br/><br/>Please follow the posted detours.",
 		"clss": "btn btn-warning",
@@ -9,33 +15,68 @@
 	"Change for Change": {
 		"desc": "This month's <a href='news.shtml?d=main&amp;y=2013&amp;n=change_for_change'>Change for Change</a> will be Friday, 12/19 4-7pm at Block 7 Bar & Grill; it benefits the Winebrenner Family",
 		"clss": "btn btn-pride",
-		"beg": "2014-12-19",
-		"end": "2014-12-12"
-	},
-
-	"<i class='icon-star'></i> City Closed 12/25-26": {
-		"desc": "City offices will be closed Thursday, December 25 and Friday, December 26 in observance of Christmas",
-		"clss": "btn btn-primary",
-		"beg": "2014-12-20",
-		"end": "2014-12-25"
-	},
-	"<i class='icon-star'></i> City Closed 1/1": {
-		"desc": "City offices will be closed Thursday, January 1 in observance of New Year's Day",
-		"clss": "btn btn-primary",
-		"beg": "2014-12-26",
-		"end": "2015-01-01"
+		"beg": "2014-01-19",
+		"end": "2014-01-12"
 	},
 	
-	"Leaves": {
-		"desc": "Beginning December 1st, crews will pick up leaves on a non-scheduled basis in each Ward targeting large piles of leaves over the next couple of weeks, weather permitting and barring equipment failures.  We will generally follow the same order as originally scheduled for each Ward (4,1,5,2,3 & 6).<br /><br />Mulch Makers will also take leaves, they must be de-bagged.",
+	"<i class='icon-star'></i> City Closed 1/19": {
+		"desc": "City offices will be closed January 19 in observance of Martin Luther King Jr. Day",
 		"clss": "btn btn-primary",
-		"beg": "2014-11-25",
-		"end": "2015-12-20"
+		"beg": "2015-01-15",
+		"end": "2015-01-19"
 	},
-	"9th St NE": {
-		"desc": "The City is planning a roadway reconstruction project along Ninth Street NE from Robinson Avenue to State Street.<br><br>The Mayor is holding a neighborhood meeting at the Charity Baptist Church, 770 E. Paige Avenue on December 18, 2014 at 6:00 p.m. to allow residents to ask questions, provide input and learn more about the project. Please plan to attend if you have any interest or concerns.<br><br>More details are available at the <a href='http://cityofbarberton.com/oc/project_9thStNE_reconstruction.shtml'>9th St NE Reconstruction Project</a> page.",
-		"clss": "btn btn-warning",
-		"beg": "2014-11-25",
-		"end": "2015-12-20"
+	"<i class='icon-star'></i> City Closed 2/16": {
+		"desc": "City offices will be closed February 16 in observance of Presidents Day",
+		"clss": "btn btn-primary",
+		"beg": "2015-02-12",
+		"end": "2015-02-16"
+	},
+	"<i class='icon-star'></i> City Closed 4/3": {
+		"desc": "City offices will be closed April 3 in observance of Good Friday",
+		"clss": "btn btn-primary",
+		"beg": "2015-03-30",
+		"end": "2015-04-03"
+	},
+	"<i class='icon-star'></i> City Closed 5/25": {
+		"desc": "City offices will be closed May 25 in observance of Memorial Day",
+		"clss": "btn btn-primary",
+		"beg": "2015-05-21",
+		"end": "2015-05-25"
+	},
+	"<i class='icon-star'></i> City Closed 7/3": {
+		"desc": "City offices will be closed July 3 in observance of Independence Day",
+		"clss": "btn btn-primary",
+		"beg": "2015-06-30",
+		"end": "2015-07-03"
+	},
+	"<i class='icon-star'></i> City Closed 9/7": {
+		"desc": "City offices will be closed September 7 in observance of Labor Day",
+		"clss": "btn btn-primary",
+		"beg": "2015-09-03",
+		"end": "2015-09-07"
+	},
+	"<i class='icon-star'></i> City Closed 11/11": {
+		"desc": "City offices will be closed November 11 in observance of Veterans Day",
+		"clss": "btn btn-primary",
+		"beg": "2015-11-07",
+		"end": "2015-11-11"
+	},
+	"<i class='icon-star'></i> City Closed 11/26 &amp; 11/27": {
+		"desc": "City offices will be closed November 26-27 in observance of Thanksgiving",
+		"clss": "btn btn-primary",
+		"beg": "2015-11-20",
+		"end": "2015-11-27"
+	},
+	"<i class='icon-star'></i> City Closed 12/24 &amp; 11/25": {
+		"desc": "City offices will be closed December 24-25 in observance of Christmas",
+		"clss": "btn btn-primary",
+		"beg": "2015-12-18",
+		"end": "2015-12-25"
+	},
+	"<i class='icon-star'></i> City Closed 1/1 &amp; 11/25": {
+		"desc": "City offices will be closed January 1 in observance of New Years Day",
+		"clss": "btn btn-primary",
+		"beg": "2015-12-26",
+		"end": "2016-01-01"
 	}
 }

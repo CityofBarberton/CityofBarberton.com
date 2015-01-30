@@ -1,0 +1,44 @@
+<!--#include virtual="/oc/lib/includes/head_a.html" -->
+	<title>Parks Concerts - City of Barberton</title>
+	<meta name="description" content="The City of Barberton Concert Series">
+	<meta property="og:type" content="website"/>
+	<meta property="og:title" content="City of Barberton Concerts"/>
+	<meta property="og:url" content="http://cityofbarberton.com/oc/"/>
+	<meta property="og:description" content="The City of Barberton Concert Series"/>
+	<meta property="og:image" content="http://cityofbarberton.com/oc/img/barberton_crest.png"/>
+	<meta property="twitter:card" content="summary"/>
+	<meta property="twitter:site" content="@BarbertonCity">
+	<meta property="twitter:title" content="City of Barberton Concerts">
+	<meta property="twitter:url" content="http://cityofbarberton.com/oc/"/>
+	<meta property="twitter:description" content="The City of Barberton Concert Series"/>
+	<meta property="twitter:image" content="http://cityofbarberton.com/oc/img/barberton_crest.png"/>
+<!--#include virtual="/oc/lib/includes/head_b_concerts.html" -->
+	<div class="container contain-main">
+		<div class="row">
+			<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+				<div class="page-header"><h3>Friday, June 19 &ndash; 7:30 pm</h3></div>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col-xs-12 col-sm-7 col-md-7 col-lg-7">
+				<h4>Rudy and the Professionals <small>Variety</small></h4>
+				<h5>A High Energy Caribbean Band</h5>
+<p>
+Take a trip to the Bahamas with this high energy entertainment band. And get ready to dance in the aisles at the Amp!
+</p><p>
+Rudy was headliner and house band at The Royal Oasis Casino in Freeport, Bahamas where he entertained guests in the Tonic Lounge, and the Palm Pavilion Showroom. He has opened up for the Platters, Earth Wind and Fire, Kool and the Gang, and Lee Greenwood. He also entertained guests at several native shows on the islands of Nassau and Freeport Bahamas for several years. Rudy's band played at the Barracuda Lounge at Our Lucaya resort on Lucayan Beach in Freeport Grand Bahamas. He has also performed at the Bob Marley Club in Universal Studios City Orlando, Florida and the Rock and Roll Hall of Fame.
+</p><p>
+Rudy currently is the lead singer/entertainer of Rudy and the Professionals and has performed at the Rock and Roll Hall of Fame, Mountaineer Casino, Presque Isle Casino and many local venues.
+</p><p>
+<a href="www.rudyandtheprofessionals.com">www.rudyandtheprofessionals.com</a>
+</p>
+			</div>
+			
+			<div class="col-xs-12 col-sm-5 col-md-5 col-lg-5">
+				<img class="img-rounded img-responsive" src="img/parks/concerts/2015/RudyAndTheProfessionals_400x400.png">
+			</div>
+		</div>
+		
+	</div>
+<!--#include virtual="/oc/lib/includes/foot.html" -->
