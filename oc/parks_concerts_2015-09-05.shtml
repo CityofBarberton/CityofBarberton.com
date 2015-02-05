@@ -1,0 +1,65 @@
+<!--#include virtual="/oc/lib/includes/head_a.html" -->
+	<title>Parks Concerts - City of Barberton</title>
+	<meta name="description" content="The City of Barberton Concert Series">
+	<meta property="og:type" content="website"/>
+	<meta property="og:title" content="City of Barberton Concerts"/>
+	<meta property="og:url" content="http://cityofbarberton.com/oc/"/>
+	<meta property="og:description" content="The City of Barberton Concert Series"/>
+	<meta property="og:image" content="http://cityofbarberton.com/oc/img/barberton_crest.png"/>
+	<meta property="twitter:card" content="summary"/>
+	<meta property="twitter:site" content="@BarbertonCity">
+	<meta property="twitter:title" content="City of Barberton Concerts">
+	<meta property="twitter:url" content="http://cityofbarberton.com/oc/"/>
+	<meta property="twitter:description" content="The City of Barberton Concert Series"/>
+	<meta property="twitter:image" content="http://cityofbarberton.com/oc/img/barberton_crest.png"/>
+<!--#include virtual="/oc/lib/includes/head_b_concerts.html" -->
+	<div class="container contain-main">
+		<div class="row">
+			<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+				<div class="page-header"><h3>Friday, September 4</h3></div>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col-xs-12 col-sm-7 col-md-7 col-lg-7">
+				<h4> 8:30 AM &ndash; Pop Tarts <small></small></h4>
+				<p>
+					Hey Boys and Girls!  Get ready to Twist, Jerk and Swim! Shine up your peace signs, slip on your go-go boots and head on back to the 60's for some groovy retro entertainment featuring.... The PopTarts! Meet Luscious Lemon Julie Matthews, Wild Blueberry La Farrell, Very Cherry Laurie Angie, and Sweet Apple Lisa Sommer. Toasty, warm and READY to serve!   You'll LOVE 'em! In retro 60's fashion, movement and perfect harmony, The PopTarts perform a decade of top hit favorites from the best of the 60’s girl groups and female pop singers. Musically.....SENSATIONAL  Visually....A BLAST (from the past)!!!
+				</p>
+				<h4>10:30 AM &ndash; Greased Lightning <small></small></h4>
+				<p>
+				</p>
+				<h4>12:30 PM &ndash; Liverpool Lads <small></small></h4>
+				<p>
+				</p>
+				<h4> 2:45 PM &ndash; Clapton Evolution <small></small></h4>
+				<p>
+					Evolution covers Eric Clapton’s musical career performing hit songs from The Yard Birds, Blues Breakers, Cream, Blind Faith, Derek & the Dominos and Clapton’s solo career for an incredible journey through time with the full Eric Clapton experience.
+				</p><p>
+					The band includes Chris Wintrip (vocals/lead guitar,  Kevin DiSimone (keyboardss/vocals), Klayton Krumm (guitar/vocals),  John Sferra (drums/percussion/vocals0 and  James 'Big Walk' Walker Jr. (bass/vocals).
+				</p>
+				<h4> 5:00 PM &ndash; Shagadelics <small></small></h4>
+				<p>
+				</p>
+				<h4> 6:45 PM &ndash; Nerdvana <small></small></h4>
+				<p>
+				</p>
+				<h4> 9-10 PM &ndash; Buck Naked Country Band <small></small></h4>
+				<p>
+				</p>
+				<h4>10:00 PM &ndash; Fireworks <small></small></h4>
+				<p>
+				</p>
+				<h4>10:20-11:00 PM &ndash; Buck Naked Country Band <small></small></h4>
+				<p>
+				</p>
+			</div>
+			
+			<div class="col-xs-12 col-sm-5 col-md-5 col-lg-5">
+				<img class="img-rounded img-responsive" src="img/parks/concerts/NoBandPhotoA_400x400.png">
+				<img class="img-rounded img-responsive" src="img/parks/concerts/NoBandPhotoB_400x400.png">
+			</div>
+		</div>
+		
+	</div>
+<!--#include virtual="/oc/lib/includes/foot.html" -->

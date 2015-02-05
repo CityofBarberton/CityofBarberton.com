@@ -287,6 +287,19 @@
 						<p><a class="btn btn-pride" href="parks_concerts_2015-09-04.shtml">Concert Details</a></p>
 					</div>
 				</div>
+				<hr>
+				
+				<div class="row">
+					<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+						<img class="img-rounded img-responsive" src="img/parks/concerts/NoBandPhotoB_400x400.png">
+					</div>
+					<div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+						<h4>Saturday, September 5</h4>
+						<h3>Labor Day Celebration</h3>
+						<p>Multiple Bands</p>
+						<p><a class="btn btn-pride" href="parks_concerts_2015-09-05.shtml">Concert Details</a></p>
+					</div>
+				</div>
 				
 				
 			</div><!-- / band list -->
