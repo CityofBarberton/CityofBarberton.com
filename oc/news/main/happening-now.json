@@ -13,22 +13,22 @@
 		"end": "2014-01-12"
 	},
 	
-	"Egg Hunt": {
-		"desc": "The 27th Annual Magic Egg Hunt is Saturday, April 4 at 11 in Tuscora Park<br><br><a href='https://www.dropbox.com/s/2gwrpvvt329lsd2/2015%20egg%20hunt%20flyer%20.pdf?dl=0'>More Details</a>",
-		"clss": "btn col-xs-12 col-sm-3 col-md-3 col-lg-3 btn-pride",
-		"beg": "2015-04-01",
-		"end": "2015-04-04"
-	},
 	"Job Fair": {
 		"desc": "The Mayor is hosting a Job and Resource Fair on April 11 from 10am to 1pm<br><br><a href='https://www.dropbox.com/s/0eldxr3ycdgh90s/Community%20Flyer%20Job%20Fair%202015a.pdf?dl=0'>More Details</a>",
 		"clss": "btn col-xs-12 col-sm-3 col-md-3 col-lg-3 btn-pride",
 		"beg": "2015-04-05",
 		"end": "2015-04-11"
 	},
+	"Cherry Blossom": {
+		"desc": "The 59th Annual Cherry Blossom Festival is May 15-17, with the parade at 10AM on Satuday the 16th.<br><br><a href='http://www.barbertoncherryblossom.com/'>www.barbertoncherryblossom.com</a>",
+		"clss": "btn col-xs-12 col-sm-3 col-md-3 col-lg-3 btn-pride",
+		"beg": "2015-04-14",
+		"end": "2015-05-17"
+	},
 	"Spring Clean-Up": {
 		"desc": "The City of Barberton’s Spring Clean-up is May 18 - May 20.<br><br><a href='news.shtml?d=main&y=2015&n=spring_clean-up'>More Details</a>",
 		"clss": "btn col-xs-12 col-sm-3 col-md-3 col-lg-3 btn-pride",
-		"beg": "2015-05-01",
+		"beg": "2015-05-18",
 		"end": "2015-05-20"
 	},
 	
