@@ -1,0 +1,62 @@
+<!--#include virtual="/oc/lib/includes/head_a.html" -->
+	<title>Courts - City of Barberton</title>
+	<meta name="description" content="Barberton Municipal Court">
+	<meta property="og:type" content="website"/>
+	<meta property="og:title" content="Barberton Muni Court"/>
+	<meta property="og:url" content="http://cityofbarberton.com/oc/"/>
+	<meta property="og:description" content="Barberton Municipal Court"/>
+	<meta property="og:image" content="http://cityofbarberton.com/oc/img/barberton_crest.png"/>
+	<meta property="twitter:card" content="summary"/>
+	<meta property="twitter:site" content="@BarbertonCity">
+	<meta property="twitter:title" content="Barberton Muni Court">
+	<meta property="twitter:url" content="http://cityofbarberton.com/oc/"/>
+	<meta property="twitter:description" content="Barberton Municipal Court"/>
+	<meta property="twitter:image" content="http://cityofbarberton.com/oc/img/barberton_crest.png"/>
+<!--#include virtual="/oc/lib/includes/head_b.html" -->
+	<div class="container contain-main">
+		<div class="row">
+			<div class="col-xs-12 col-sm-9 col-md-9 col-lg-9">
+				<div class="page-header"><h3>Marriage / Wedding Information</h3></div>
+				<p>
+					The Barberton Municipal Court encourages you to have your wedding ceremony performed at our courthouse located at 576 West Park Avenue in Barberton, Ohio. 
+				</p>
+				
+				<h4>Scheduling</h4>
+				<p>
+					You need to schedule the ceremony in advance by calling a Court Bailiff at 330-861-7217 or 330-861-7215 to choose a date and time for your wedding.
+				</p>
+				
+				<h4>Requirements</h4>
+				<p>
+					You must have a valid marriage license, photo identification and pay a court cost of $40.00 the day of the ceremony. Marriage licenses are issued through the Summit County Probate Court and you may call them at 330-643-2346 for their requirements or go to <a href="http://www.summitohioprobate.com/">www.summitohioprobate.com</a>.
+				</p>
+				
+				<h4>Ceremony</h4>
+				<p>
+					On the day of your wedding you should come to the courthouse (on the Second Floor of the Municipal Building) and check in with the Security Bailiff.  He will direct you to the Clerk of Courts Office Civil Division (Room 205) where you will pay the court cost. Be sure to bring your marriage license/certificate, valid photo identification for both parties and the court cost of $40.00, which may be cash, check or credit card. We do allow guests and photographs during the ceremony.
+				</p>
+			</div>
+			<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
+				<div class="thumbnail">
+					<div class="caption">
+						<address>
+							576 W Park Avenue<br>
+							Room 202<br>
+							Barberton, OH 44203<br>
+							(330) 753-2261<br>
+							Fax: (330) 848-6779
+						</address><p>
+							330-861-7217<br>
+							330-861-7215
+						</p><p>
+							Business Hours:<br>
+							Monday-Friday<br>
+							8:00 a.m. – 4:30 p.m.
+						</p>
+						<a class="btn btn-block btn-pride" href="mailto:courts@cityofbarberton.com"><i class="icon-envelope"></i> Email</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+<!--#include virtual="/oc/lib/includes/foot.html" -->

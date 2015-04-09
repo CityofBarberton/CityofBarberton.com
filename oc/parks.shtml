@@ -77,6 +77,17 @@
 			</div>
 		</div>
 		
+		<div class="row">
+				<hr>
+				<h4>Donate</h4>
+				<a class="btn btn-success" href="https://secure.qgiv.com/for/bcf/restriction/BarbertonCombinedYouthSportsPassThroughFund/">Barberton Combined<br>Youth Sports Fund</a>
+				<a class="btn btn-success" href="https://secure.qgiv.com/for/bcf/restriction/BarbertonParksDepartmentSeniorFocusFund/">Barberton Parks<br>Senior Focus Fund</a>
+				<a class="btn btn-success" href="https://secure.qgiv.com/for/bcf/restriction/BarbertonParksDepartmentYouthInActionFund/">Barberton Parks<br>Youth-In-Action Fund</a>
+				<a class="btn btn-success" href="https://secure.qgiv.com/for/bcf/restriction/BarbertonSummerConcertFund/">Barberton Summer<br>Concert Fund</a>
+				<a class="btn btn-success" href="https://secure.qgiv.com/for/bcf/restriction/FireworksfortheFuturePassThroughFund/">Fireworks for the<br>Future Fund</a>
+				<a class="btn btn-success" href="https://secure.qgiv.com/for/bcf/restriction/LakeAnnaPreservationandImprovementPassThroughFund/">Lake Anna Preservation<br>and Improvement Fund</a>
+		</div>
+		
 		<div class="row hidden-xs">
 			<hr>
 			<div class="fb-like-box" data-href="https://www.facebook.com/BarbertonParksandRecreation" data-width="724" data-show-faces="true" data-stream="true" data-show-border="false" data-header="false"></div>

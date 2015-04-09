@@ -28,7 +28,7 @@
 					datBeg.setHours(24,0,0,0);
 					datEnd.setHours(48,0,0,0);
 					if(datNow >= datBeg && datNow <= datEnd){
-						haps.push('<a href="#" class="col-xs-12 col-sm-2 col-md-2 col-lg-2 hnall ' + hapDet.clss + '" style="margin-right:9px;" data-toggle="popover" data-placement="bottom" data-content="' + hapDet.desc + '" data-original-title="' + hapNam + '">' + hapNam + '</a>');
+						haps.push('<a href="#" class="hnall ' + hapDet.clss + '" style="margin-right:9px;" data-toggle="popover" data-placement="bottom" data-content="' + hapDet.desc + '" data-original-title="' + hapNam + '">' + hapNam + '</a>');
 					}
 				});
 				if(haps.length > 1){

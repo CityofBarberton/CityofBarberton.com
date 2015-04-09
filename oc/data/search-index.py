@@ -98,6 +98,7 @@ def get_pagetext(file_name):
 				file_contents = re.sub(u'[–—]', '-', file_contents)
 				file_contents = re.sub(u'[é]', 'e', file_contents)
 				file_contents = re.sub(u'[×]', 'x', file_contents)
+				file_contents = re.sub(u'[…]', '', file_contents)
 				# remove markup
 				file_contents = re.sub('(_){2,}', '', file_contents)
 				file_contents = re.sub('\*+', '', file_contents)
