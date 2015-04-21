@@ -1,3 +1,5 @@
 User-agent: *
 Disallow: /data/
 Disallow: /news/
+Disallow: /oc/data/
+Disallow: /oc/news/

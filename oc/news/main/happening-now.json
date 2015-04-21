@@ -7,18 +7,12 @@
 	},
 	
 	"Change for Change": {
-		"desc": "This month's <a href='news.shtml?d=main&amp;y=2013&amp;n=change_for_change'>Change for Change</a> will be Friday, 12/19 4-7pm at Block 7 Bar & Grill; it benefits the Winebrenner Family",
+		"desc": "This month's <a href='news.shtml?d=main&amp;y=2013&amp;n=change_for_change'>Change for Change</a> will be Friday, April 24 4:30-7pm at Hodge's Cafe; it benefits Youth in Action",
 		"clss": "btn col-xs-12 col-sm-3 col-md-3 col-lg-3 btn-pride",
-		"beg": "2014-01-19",
-		"end": "2014-01-12"
+		"beg": "2015-04-22",
+		"end": "2015-04-24"
 	},
 	
-	"Job Fair": {
-		"desc": "The Mayor is hosting a Job and Resource Fair on April 11 from 10am to 1pm<br><br><a href='https://www.dropbox.com/s/0eldxr3ycdgh90s/Community%20Flyer%20Job%20Fair%202015a.pdf?dl=0'>More Details</a>",
-		"clss": "btn col-xs-12 col-sm-3 col-md-3 col-lg-3 btn-pride",
-		"beg": "2015-04-05",
-		"end": "2015-04-11"
-	},
 	"Cherry Blossom": {
 		"desc": "The 59th Annual Cherry Blossom Festival is May 15-17, with the parade at 10AM on Satuday the 16th.<br><br><a href='http://www.barbertoncherryblossom.com/'>www.barbertoncherryblossom.com</a>",
 		"clss": "btn col-xs-12 col-sm-3 col-md-3 col-lg-3 btn-pride",
@@ -32,12 +26,6 @@
 		"end": "2015-05-20"
 	},
 	
-	"<i class='icon-star'></i> City Closed 4/3": {
-		"desc": "City offices will be closed April 3 in observance of Good Friday",
-		"clss": "btn col-xs-12 col-sm-3 col-md-3 col-lg-3 btn-primary",
-		"beg": "2015-03-30",
-		"end": "2015-04-03"
-	},
 	"<i class='icon-star'></i> City Closed 5/25": {
 		"desc": "City offices will be closed May 25 in observance of Memorial Day",
 		"clss": "btn col-xs-12 col-sm-3 col-md-3 col-lg-3 btn-primary",
