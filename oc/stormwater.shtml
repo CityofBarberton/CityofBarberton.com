@@ -44,38 +44,38 @@
 				<div class="marketing">
 					<div class="row">
 						<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
-							<!--<img src="img/stormwater/stormwater_matters.jpg" class="img-rounded img-responsive">-->
+							<img src="img/stormwater/stormwater-01.jpg" class="img-rounded img-responsive">
 							<p><a class="btn btn-block btn-pride" href="stormwater_education.shtml">Education &amp;<br>Outreach</a></p>
 						</div>
 						
 						<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
-							<!--<img src="img/stormwater/stormwater_matters.jpg" class="img-rounded img-responsive">-->
+							<img src="img/stormwater/stormwater-02.jpg" class="img-rounded img-responsive">
 							<p>
 								<a class="btn btn-block btn-pride" href="stormwater_involvement.shtml">Get Involved with<br>Stormwater</a>
 							</p>
 						</div>
 						
 						<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
-							<!--<img src="img/stormwater/stormwater_matters.jpg" class="img-rounded img-responsive">-->
+							<img src="img/stormwater/stormwater-03.jpg" class="img-rounded img-responsive">
 							<p><a class="btn btn-block btn-pride" href="stormwater_illicit_discharge.shtml">Illicit Discharge<br>Detection &amp; Elimination</a></p>
 						</div>
 					</div>
 					
 					<div class="row">
 						<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
-							<!--<img src="img/stormwater/stormwater_matters.jpg" class="img-rounded img-responsive">-->
+							<img src="img/stormwater/stormwater-04.jpg" class="img-rounded img-responsive">
 							<p><a class="btn btn-block btn-pride" href="stormwater_construction.shtml">Construction</a></p>
 						</div>
 						
 						<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
-							<!--<img src="img/stormwater/stormwater_matters.jpg" class="img-rounded img-responsive">-->
+							<img src="img/stormwater/stormwater-05.jpg" class="img-rounded img-responsive">
 							<p>
 								<a class="btn btn-block btn-pride" href="stormwater_postconstruction.shtml">Post-Construction</a>
 							</p>
 						</div>
 						
 						<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
-							<!--<img src="img/stormwater/stormwater_matters.jpg" class="img-rounded img-responsive">-->
+							<img src="img/stormwater/stormwater-06.jpg" class="img-rounded img-responsive">
 							<p><a class="btn btn-block btn-pride" href="stormwater_housekeeping.shtml">Good Housekeeping</a></p>
 						</div>
 					</div>

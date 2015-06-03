@@ -7,31 +7,32 @@
 	},
 	
 	"Change for Change": {
-		"desc": "This month's <a href='news.shtml?d=main&amp;y=2013&amp;n=change_for_change'>Change for Change</a> will be Friday, April 24 4:30-7pm at Hodge's Cafe; it benefits Youth in Action",
+		"desc": "This month's <a href='news.shtml?d=main&amp;y=2013&amp;n=change_for_change'>Change for Change</a> will be Friday, June 26 4:30-7pm at Casa Del Ranchero; it benefits the Bidlingmyer Community Bike Ride",
 		"clss": "btn col-xs-12 col-sm-3 col-md-3 col-lg-3 btn-pride",
-		"beg": "2015-04-22",
-		"end": "2015-04-24"
+		"beg": "2015-06-19",
+		"end": "2015-06-26"
 	},
 	
-	"Cherry Blossom": {
-		"desc": "The 59th Annual Cherry Blossom Festival is May 15-17, with the parade at 10AM on Satuday the 16th.<br><br><a href='http://www.barbertoncherryblossom.com/'>www.barbertoncherryblossom.com</a>",
+	"Rabies Vaccination": {
+		"desc": "Summit County Public Health in cooperation with Pet Guards, Inc. is offering low-cost Rabies Vaccination Clinics for your dogs and cats.  Cost is $8 per animal.<br><br>Saturday, June 6, 2015<br>10:00AM – 2:00PM<br><br>Barberton Water Garage<br>175 Water Street Southwest<br>Barberton, Ohio 44203<br>(Entrance is at Summit County Trail Head Park on Snyder Avenue near the railroad tracks)",
 		"clss": "btn col-xs-12 col-sm-3 col-md-3 col-lg-3 btn-pride",
-		"beg": "2015-04-14",
-		"end": "2015-05-17"
+		"beg": "2015-05-29",
+		"end": "2015-06-06"
 	},
-	"Spring Clean-Up": {
-		"desc": "The City of Barberton’s Spring Clean-up is May 18 - May 20.<br><br><a href='news.shtml?d=main&y=2015&n=spring_clean-up'>More Details</a>",
+	"Yard Sales": {
+		"desc": "The 4th Annual City Wide Yard Sale will be June 11, 12, 13, & 14. Any residence in the City can participate, just place a balloon at the end of the street. A 'Yard Sale Permit' is NOT needed for these days only.<br><br>Sponsored by:<br>Craig Megyes, 4th Ward Councilman<br>Questions:<br>330-745-4577 or 330-753-4958",
 		"clss": "btn col-xs-12 col-sm-3 col-md-3 col-lg-3 btn-pride",
-		"beg": "2015-05-18",
-		"end": "2015-05-20"
+		"beg": "2015-06-07",
+		"end": "2015-06-14"
 	},
 	
-	"<i class='icon-star'></i> City Closed 5/25": {
-		"desc": "City offices will be closed May 25 in observance of Memorial Day",
-		"clss": "btn col-xs-12 col-sm-3 col-md-3 col-lg-3 btn-primary",
-		"beg": "2015-05-21",
-		"end": "2015-05-25"
+	"Bulk Drop-off": {
+		"desc": "Residents of the City of Barberton will have the opportunity to drop off bulk items and yard waste for FREE during the summer months.<br><br><a href='https://www.dropbox.com/s/y4lu9jiahnqgay4/FREE%20BULK%20ITEM%20SUMMER%20DROP.docx?dl=0'>More Details</a>",
+		"clss": "btn col-xs-12 col-sm-3 col-md-3 col-lg-3 btn-pride",
+		"beg": "2015-05-26",
+		"end": "2015-08-29"
 	},
+
 	"<i class='icon-star'></i> City Closed 7/3": {
 		"desc": "City offices will be closed July 3 in observance of Independence Day",
 		"clss": "btn col-xs-12 col-sm-3 col-md-3 col-lg-3 btn-primary",
