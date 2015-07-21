@@ -1,0 +1,62 @@
+<!--#include virtual="/oc/lib/includes/head_a.html" -->
+	<title>Mosquito Abatement - City of Barberton</title>
+	<meta name="description" content="The City of Barberton Human Resources Department">
+	<meta property="og:type" content="website"/>
+	<meta property="og:title" content="City of Barberton HR"/>
+	<meta property="og:url" content="http://cityofbarberton.com/oc/"/>
+	<meta property="og:description" content="The City of Barberton Human Resources Department"/>
+	<meta property="og:image" content="http://cityofbarberton.com/oc/img/barberton_crest.png"/>
+	<meta property="twitter:card" content="summary"/>
+	<meta property="twitter:site" content="@BarbertonCity">
+	<meta property="twitter:title" content="City of Barberton HR">
+	<meta property="twitter:url" content="http://cityofbarberton.com/oc/"/>
+	<meta property="twitter:description" content="The City of Barberton Human Resources Department"/>
+	<meta property="twitter:image" content="http://cityofbarberton.com/oc/img/barberton_crest.png"/>
+<!--#include virtual="/oc/lib/includes/head_b.html" -->
+	<div class="container contain-main">
+		<div class="row">
+			<div class="col-xs-12 col-sm-9 col-md-9 col-lg-9">
+				<div class="page-header"><h3>Mosquito Abatement</h3></div>
+				<h4>Spraying</h4>
+				<p>
+					Mosquito spraying will be conducted in accordance with all applicable laws, rules and proposed EPA regulations, specifically when:
+					<ul>
+						<li>Weather is absent of rain</li>
+						<li>Winds are less than 10 mph</li>
+						<li>Temperature is 55 degrees or above</li>
+					</ul>
+					We urge those with health concerns, along with those who maintain apiaries, should take the necessary precautions. Call our office at 330-848-2623 with any concerns.
+					IF SURVEILLANCE LIGHT TRAPS CONTAIN LESS THAN 20 MOSQUITOES, SPRAYING MAY BE CANCELLED FOR THAT WARD
+					SPRAYS ARE CONDUCTED THURSDAYS ON THE DATES BELOW UNLESS NOTED
+          If unable to spray on the scheduled date, makeup spray will be on the following Monday if weather permits
+				</p>
+				
+				<h4>Spraying Schedule (Barberton)</h4>
+				<p>
+					<ul>
+						<li>June 11: Ward 1 will be sprayed for mosquitos on 06.12 due to equipment issues. The remaining Wards will be sprayed on 06.11.</li>
+						<li>June 25</li>
+						<li>July 09</li>
+						<li>July 23</li>
+						<li>August 06</li>
+						<li>August 20</li>
+						<li>September 03</li>
+						<li>September 17</li>
+						<li>September 30 (Wednesday)</li>
+					</ul>
+			</div>
+			<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
+				<div class="thumbnail">
+					<div class="caption">
+						<h4>Mosquito Abatement District <br><small>M.A.D.</small></h4>
+						<address>
+							131 Snyder Avenue<br>
+							Barberton, OH 44203<br>
+							(330) 848-2623
+						</address>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+<!--#include virtual="/oc/lib/includes/foot.html" -->

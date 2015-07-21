@@ -3,6 +3,6 @@
 <!--#include virtual="/clerkofcourts/lib/includes/head_b.html" -->
 	<div class="container contain-iframe">
 		<br>
-		<iframe id="woiframe" style="height:640px;" src="http://clerk.cityofbarberton.com/Payments/psearch.php" frameborder="0"></iframe>
+		<iframe id="woiframe" style="height:640px;" src="http://clerk.cityofbarberton.com/paymentSearch.php" frameborder="0"></iframe>
 	</div>
 <!--#include virtual="/clerkofcourts/lib/includes/foot.html" -->
